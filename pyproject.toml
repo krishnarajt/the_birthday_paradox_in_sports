@@ -10,4 +10,7 @@ dependencies = [
     "kagglehub>=0.3.13",
     "matplotlib>=3.10.8",
     "pandas>=2.3.3",
+    "playwright>=1.57.0",
+    "selenium>=4.39.0",
+    "webdriver-manager>=4.0.2",
 ]
