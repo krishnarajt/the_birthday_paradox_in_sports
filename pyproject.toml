@@ -1,0 +1,13 @@
+[project]
+name = "the-birthday-paradox-in-sports"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "docling>=2.66.0",
+    "ipykernel>=7.1.0",
+    "kagglehub>=0.3.13",
+    "matplotlib>=3.10.8",
+    "pandas>=2.3.3",
+]
