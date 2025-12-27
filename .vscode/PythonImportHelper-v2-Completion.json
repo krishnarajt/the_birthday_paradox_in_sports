@@ -741,7 +741,7 @@
         "kind": 2,
         "importPath": "main",
         "description": "main",
-        "peekOfCode": "def cricsheet_parser():\n    INPUT_DIR = \"dataset/all_json\"\n    OUTPUT_FILE = \"cricsheet_flat_database.csv\"\n    parser = CricSheetJsonParser(INPUT_DIR, OUTPUT_FILE)\n    parser.run()\ndef birthday_paradox_analyzer_for_womens_football_23_wc():\n    analyzer = BirthdayParadoxAnalyzer(\"SquadLists-English_tables.csv\")\n    analyzer.run_analysis()\nif __name__ == \"__main__\":\n    # birthday_paradox_analyzer_for_womens_football_23_wc()",
+        "peekOfCode": "def cricsheet_parser():\n    INPUT_DIR = \"dataset/all_json\"\n    OUTPUT_FILE = \"cricsheet_flat_database.csv\"\n    parser = CricSheetJsonParser(INPUT_DIR, OUTPUT_FILE)\n    parser.run()\ndef birthday_paradox_analyzer_for_womens_football_23_wc():\n    analyzer = BirthdayParadoxAnalyzer(\"SquadLists-English_tables.csv\")\n    analyzer.run_analysis()\nif __name__ == \"__main__\":\n    birthday_paradox_analyzer_for_womens_football_23_wc()",
         "detail": "main",
         "documentation": {}
     },
@@ -750,7 +750,7 @@
         "kind": 2,
         "importPath": "main",
         "description": "main",
-        "peekOfCode": "def birthday_paradox_analyzer_for_womens_football_23_wc():\n    analyzer = BirthdayParadoxAnalyzer(\"SquadLists-English_tables.csv\")\n    analyzer.run_analysis()\nif __name__ == \"__main__\":\n    # birthday_paradox_analyzer_for_womens_football_23_wc()\n    # main()\n    profile_scraper()\n    # cricsheet_parser()",
+        "peekOfCode": "def birthday_paradox_analyzer_for_womens_football_23_wc():\n    analyzer = BirthdayParadoxAnalyzer(\"SquadLists-English_tables.csv\")\n    analyzer.run_analysis()\nif __name__ == \"__main__\":\n    birthday_paradox_analyzer_for_womens_football_23_wc()\n    # main()\n    # profile_scraper()\n    # cricsheet_parser()",
         "detail": "main",
         "documentation": {}
     }

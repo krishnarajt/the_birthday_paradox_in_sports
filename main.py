@@ -43,7 +43,7 @@ def birthday_paradox_analyzer_for_womens_football_23_wc():
 
 
 if __name__ == "__main__":
-    # birthday_paradox_analyzer_for_womens_football_23_wc()
+    birthday_paradox_analyzer_for_womens_football_23_wc()
     # main()
-    profile_scraper()
+    # profile_scraper()
     # cricsheet_parser()
