@@ -1,9 +1,9 @@
 """
-ESPN Cricinfo Profile Scraper with Advanced Anti-Detection
-Uses multiple techniques to bypass Akamai bot protection
+ESPN Cricinfo Complete Profile Scraper
+Extracts all available player information
 
 Installation:
-    pip install playwright-stealth playwright beautifulsoup4
+    pip install playwright beautifulsoup4
     playwright install firefox
 
 Usage:
@@ -14,17 +14,18 @@ Usage:
 from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeout
 from bs4 import BeautifulSoup
 from datetime import datetime
-from typing import Optional
+from typing import Optional, Dict, List
 import time
 import random
+import re
 
 
 class CricinfoProfileScraper:
     """
-    Scrapes player metadata from ESPN Cricinfo using advanced anti-detection
+    Complete Cricinfo player profile scraper
     """
 
-    def __init__(self, slug_or_id: str, timeout: int = 60000):
+    def __init__(self, slug_or_id: str, timeout: int = 30000):
         self.slug_or_id = self._normalize_slug(slug_or_id)
         self.timeout = timeout
 
@@ -44,242 +45,280 @@ class CricinfoProfileScraper:
         return f"https://www.espncricinfo.com/cricketers/player-{self.slug_or_id}"
 
     def _fetch_page(self) -> BeautifulSoup:
-        """
-        Fetch with maximum stealth - multiple strategies
-        """
+        """Fetch page with anti-detection"""
         with sync_playwright() as p:
-            # Strategy 1: Use Firefox (often less detected than Chrome)
-            print("Launching Firefox with stealth settings...")
+            print("Launching Firefox...")
             browser = p.firefox.launch(
-                headless=False,  # Non-headless is less detectable
+                headless=False,
                 firefox_user_prefs={
                     "dom.webdriver.enabled": False,
                     "useAutomationExtension": False,
-                    "general.platform.override": "Win32",
-                    "general.useragent.override": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0",
                 },
             )
 
             context = browser.new_context(
                 viewport={"width": 1920, "height": 1080},
                 user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                locale="en-US",
-                timezone_id="America/New_York",
-                permissions=["geolocation"],
-                geolocation={"latitude": 40.7128, "longitude": -74.0060},  # New York
-                extra_http_headers={
-                    "Accept-Language": "en-US,en;q=0.9",
-                    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-                    "Accept-Encoding": "gzip, deflate, br",
-                    "DNT": "1",
-                    "Connection": "keep-alive",
-                    "Upgrade-Insecure-Requests": "1",
-                },
             )
 
             page = context.new_page()
 
-            # Add random mouse movements and human-like behavior
             try:
                 url = self._build_url()
+
+                print(f"Visiting homepage first...")
+                try:
+                    page.goto("https://www.espncricinfo.com/", timeout=15000)
+                    page.wait_for_timeout(2000)
+                    print("✓ Homepage loaded")
+                except Exception as e:
+                    print(f"⚠ Homepage load issue (continuing anyway): {e}")
+
                 print(f"Navigating to: {url}")
-
-                # First, visit the homepage to get cookies
-                print("Visiting homepage first to establish session...")
-                page.goto("https://www.espncricinfo.com/", timeout=self.timeout)
-
-                # Simulate human behavior
-                page.wait_for_timeout(random.randint(2000, 4000))
-
-                # Scroll a bit
-                page.evaluate("window.scrollBy(0, 300)")
-                page.wait_for_timeout(random.randint(500, 1500))
-
-                # Now visit the actual player page
-                print(f"Now navigating to player page...")
-                page.goto(url, timeout=self.timeout, wait_until="networkidle")
-
-                # More human behavior
-                page.wait_for_timeout(random.randint(3000, 5000))
-                page.evaluate("window.scrollBy(0, 500)")
-                page.wait_for_timeout(1000)
+                try:
+                    # Use domcontentloaded instead of networkidle (faster)
+                    page.goto(url, timeout=self.timeout, wait_until="domcontentloaded")
+                    print("✓ Page DOM loaded, waiting for content...")
+                    page.wait_for_timeout(3000)
+                    print("✓ Content should be ready")
+                except PlaywrightTimeout:
+                    print(
+                        "⚠ Timeout but page may have loaded, trying to get content..."
+                    )
 
                 html = page.content()
 
-                # Check for access denied
-                if "Access Denied" in html or "access denied" in html.lower():
-                    print("\n❌ Still getting Access Denied!")
-                    print("The page is using Akamai bot protection.")
-                    print(
-                        "\nTrying alternative approach - keeping browser open longer..."
-                    )
-
-                    # Keep browser open and wait
-                    page.wait_for_timeout(10000)
-                    html = page.content()
-
-                soup = BeautifulSoup(html, "html.parser")
-
                 # Save for debugging
-                filename = f"cricinfo_debug_{self.slug_or_id}.html"
-                with open(filename, "w", encoding="utf-8") as f:
-                    f.write(soup.prettify())
-                print(f"✓ HTML saved to {filename}")
+                with open(f"debug_{self.slug_or_id}.html", "w", encoding="utf-8") as f:
+                    f.write(html)
+                print(f"✓ HTML saved to debug_{self.slug_or_id}.html")
 
-                return soup
+                return BeautifulSoup(html, "html.parser")
 
-            except PlaywrightTimeout:
-                raise RuntimeError(f"Timeout loading {url}")
             except Exception as e:
-                raise RuntimeError(f"Failed to fetch: {str(e)}")
+                print(f"\n❌ Error during fetch: {e}")
+                raise
             finally:
-                print("\nClosing browser in 3 seconds...")
-                time.sleep(3)
+                print("Closing browser...")
+                time.sleep(1)
                 browser.close()
+                print("✓ Browser closed")
 
-    @staticmethod
-    def _extract_labeled_value(soup: BeautifulSoup, label: str) -> Optional[str]:
-        """Extract value for a given label from Cricinfo's HTML structure"""
-        # Look for ds-text-tight-m class (the label)
+    def _extract_basic_info(self, soup: BeautifulSoup) -> Dict:
+        """Extract basic profile information"""
+        info = {}
+
+        # Find all label-value pairs
         for p in soup.find_all("p", class_="ds-text-tight-m"):
-            text = p.get_text(strip=True)
-            if text.upper() == label.upper():
-                parent = p.find_parent("div")
-                if parent:
-                    value_span = parent.find("span", class_="ds-text-title-s")
-                    if value_span:
-                        value_p = value_span.find("p")
-                        if value_p:
-                            return value_p.get_text(strip=True)
+            label = p.get_text(strip=True).upper()
+            parent = p.find_parent("div")
+            if parent:
+                value_span = parent.find("span", class_="ds-text-title-s")
+                if value_span:
+                    value_p = value_span.find("p")
+                    if value_p:
+                        value = value_p.get_text(strip=True)
+                        info[label] = value
+
+        return info
+
+    def _parse_date(self, date_str: str) -> Optional[datetime.date]:
+        """Parse date string to date object"""
+        if not date_str:
+            return None
+
+        # Try common formats
+        formats = [
+            "%B %d, %Y",  # December 10, 2007
+            "%B %d %Y",  # December 10 2007
+            "%d %B %Y",  # 10 December 2007
+            "%d/%m/%Y",  # 10/12/2007
+            "%Y-%m-%d",  # 2007-12-10
+        ]
+
+        for fmt in formats:
+            try:
+                return datetime.strptime(date_str.strip(), fmt).date()
+            except:
+                continue
+
         return None
 
-    def _parse_born_field(
-        self, born_raw: str
-    ) -> tuple[Optional[datetime], Optional[str]]:
-        """Parse the Born field for date and location"""
-        if not born_raw:
-            return None, None
+    def _extract_teams(self, soup: BeautifulSoup) -> List[Dict]:
+        """Extract team information"""
+        teams = []
 
-        dob = None
-        birthplace = None
+        # Find the TEAMS section
+        teams_section = None
+        for p in soup.find_all("p", class_="ds-text-tight-m"):
+            if p.get_text(strip=True).upper() == "TEAMS":
+                teams_section = p.find_parent("div")
+                break
 
-        try:
-            parts = [p.strip() for p in born_raw.split(",")]
+        if teams_section:
+            # Find all team links
+            for link in teams_section.find_all("a", href=True):
+                team_name_span = link.find("span", class_="ds-text-title-s")
+                if team_name_span:
+                    team_name = team_name_span.get_text(strip=True)
+                    team_url = link.get("href", "")
+                    teams.append(
+                        {
+                            "name": team_name,
+                            "url": (
+                                f"https://www.espncricinfo.com{team_url}"
+                                if team_url.startswith("/")
+                                else team_url
+                            ),
+                        }
+                    )
 
-            if len(parts) == 1:
-                # Just date: "December 10, 2007"
-                try:
-                    dob = datetime.strptime(parts[0], "%B %d, %Y").date()
-                except ValueError:
-                    birthplace = parts[0]
-            elif len(parts) >= 3:
-                # Date + location: "December 10, 2007, Lagos, Nigeria"
-                date_str = f"{parts[0]}, {parts[1]}"
-                try:
-                    dob = datetime.strptime(date_str, "%B %d, %Y").date()
-                    birthplace = ", ".join(parts[2:])
-                except ValueError:
-                    birthplace = born_raw
-            else:
-                birthplace = born_raw
-        except Exception:
-            birthplace = born_raw
+        return teams
 
-        return dob, birthplace
+    def _extract_career_stats(self, soup: BeautifulSoup) -> Dict:
+        """Extract career statistics tables"""
+        stats = {"batting": [], "bowling": []}
 
-    def get_profile(self) -> dict:
-        """Scrape and return player profile"""
+        # Find all stat tables
+        tables = soup.find_all("table", class_="ds-table")
+
+        for table in tables:
+            # Check if it's batting or bowling by looking at headers
+            headers = [th.get_text(strip=True) for th in table.find_all("th")]
+
+            is_batting = any(h in headers for h in ["Runs", "HS", "Ave", "SR", "BF"])
+            is_bowling = any(h in headers for h in ["Wkts", "BBI", "BBM", "Econ"])
+
+            # Extract rows
+            rows = []
+            for tr in table.find_all("tr")[1:]:  # Skip header
+                cells = [td.get_text(strip=True) for td in tr.find_all("td")]
+                if cells:
+                    row_dict = dict(zip(headers, cells))
+                    rows.append(row_dict)
+
+            if is_batting and rows:
+                stats["batting"] = rows
+            elif is_bowling and rows:
+                stats["bowling"] = rows
+
+        return stats
+
+    def _extract_debut_last(self, soup: BeautifulSoup) -> Dict:
+        """Extract debut and last match information"""
+        debut_last = {}
+
+        # Look for debut/last section
+        for header in soup.find_all(
+            ["h2", "p"], class_=lambda x: x and "debut" in str(x).lower()
+        ):
+            section = header.find_parent("div")
+            if section:
+                # Find debut and last match links
+                for link in section.find_all("a", href=True):
+                    text = link.get_text(strip=True)
+                    if "vs" in text.lower():
+                        if (
+                            "debut"
+                            in link.get_previous("span", class_="ds-text-tight-m")
+                            .get_text()
+                            .lower()
+                        ):
+                            debut_last["debut"] = text
+                        elif (
+                            "last"
+                            in link.get_previous("span", class_="ds-text-tight-m")
+                            .get_text()
+                            .lower()
+                        ):
+                            debut_last["last"] = text
+
+        return debut_last
+
+    def _extract_playing_role(self, soup: BeautifulSoup) -> Optional[str]:
+        """Try to infer playing role from stats"""
+        # Look in career stats section
+        stats = self._extract_career_stats(soup)
+
+        if stats["batting"] and stats["bowling"]:
+            return "Allrounder"
+        elif stats["batting"]:
+            return "Batter"
+        elif stats["bowling"]:
+            return "Bowler"
+
+        return None
+
+    def get_profile(self) -> Dict:
+        """Scrape complete player profile"""
         print("=" * 60)
-        print("Starting enhanced scrape with anti-detection...")
+        print("Starting complete profile scrape...")
         print("=" * 60)
 
         soup = self._fetch_page()
 
-        # Check if we actually got content
-        page_text = soup.get_text()
-        if "Access Denied" in page_text:
+        # Check for access denied
+        if "Access Denied" in soup.get_text():
             print("\n⚠️  WARNING: Still blocked by Akamai")
-            print("Possible solutions:")
-            print("1. Use a residential proxy service (Bright Data, Smartproxy)")
-            print("2. Use a VPN")
-            print("3. Try from a different IP address")
-            print("4. Contact ESPN Cricinfo for API access")
-            return {
-                "full_name": None,
-                "date_of_birth": None,
-                "birthplace": None,
-                "batting_style": None,
-                "bowling_style": None,
-                "playing_role": None,
-                "error": "Access Denied by Akamai protection",
-            }
+            return {"error": "Access Denied"}
 
-        print("✓ Successfully bypassed protection!")
+        print("✓ Successfully fetched page!")
 
-        born_raw = self._extract_labeled_value(soup, "Born")
-        dob, birthplace = self._parse_born_field(born_raw)
+        # Extract all information
+        basic_info = self._extract_basic_info(soup)
 
+        # Parse date of birth
+        dob = None
+        birthplace = None
+        if "BORN" in basic_info:
+            dob = self._parse_date(basic_info["BORN"])
+            # If date parsing failed, the whole string might be birthplace
+            if not dob:
+                birthplace = basic_info["BORN"]
+
+        # Build complete profile
         profile = {
-            "full_name": self._extract_labeled_value(soup, "Full Name"),
+            # Basic Information
+            "full_name": basic_info.get("FULL NAME"),
             "date_of_birth": dob,
             "birthplace": birthplace,
-            "batting_style": self._extract_labeled_value(soup, "Batting Style"),
-            "bowling_style": self._extract_labeled_value(soup, "Bowling Style"),
-            "playing_role": self._extract_labeled_value(soup, "Playing Role"),
+            "age": basic_info.get("AGE"),
+            "batting_style": basic_info.get("BATTING STYLE"),
+            "bowling_style": basic_info.get("BOWLING STYLE"),
+            "playing_role": basic_info.get("PLAYING ROLE")
+            or self._extract_playing_role(soup),
+            # Teams
+            "teams": self._extract_teams(soup),
+            # Career Stats
+            "career_stats": self._extract_career_stats(soup),
+            # Debut/Last matches
+            "debut_last": self._extract_debut_last(soup),
+            # Additional fields from schema.org data
+            "gender": None,
+            "nationality": None,
         }
+
+        # Try to extract from schema.org JSON-LD
+        for script in soup.find_all("script", type="application/ld+json"):
+            try:
+                import json
+
+                data = json.loads(script.string)
+                if data.get("@type") == "Person":
+                    profile["gender"] = data.get("gender")
+                    profile["nationality"] = data.get("nationality", {}).get("name")
+                    if not profile["date_of_birth"] and "birthDate" in data:
+                        profile["date_of_birth"] = self._parse_date(data["birthDate"])
+            except:
+                pass
 
         return profile
 
 
-# Test with proxy option
-class CricinfoScraperWithProxy(CricinfoProfileScraper):
-    """
-    Version that supports proxies - useful if you have access to one
-    """
-
-    def __init__(
-        self, slug_or_id: str, proxy: Optional[str] = None, timeout: int = 60000
-    ):
-        super().__init__(slug_or_id, timeout)
-        self.proxy = proxy  # Format: "http://username:password@proxy:port"
-
-    def _fetch_page(self) -> BeautifulSoup:
-        """Fetch with proxy support"""
-        with sync_playwright() as p:
-            browser = p.firefox.launch(
-                headless=False, proxy={"server": self.proxy} if self.proxy else None
-            )
-
-            # Rest same as parent class...
-            context = browser.new_context(
-                viewport={"width": 1920, "height": 1080},
-                user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0",
-            )
-
-            page = context.new_page()
-
-            try:
-                # Visit homepage first
-                page.goto("https://www.espncricinfo.com/", timeout=self.timeout)
-                page.wait_for_timeout(3000)
-
-                # Then player page
-                url = self._build_url()
-                page.goto(url, timeout=self.timeout)
-                page.wait_for_timeout(5000)
-
-                html = page.content()
-                return BeautifulSoup(html, "html.parser")
-            finally:
-                browser.close()
-
-
 if __name__ == "__main__":
     print("\n" + "=" * 60)
-    print("ESPN CRICINFO SCRAPER - ADVANCED MODE")
+    print("ESPN CRICINFO COMPLETE PROFILE SCRAPER")
     print("=" * 60)
-    print("\nNOTE: This will open a visible browser window.")
-    print("This is more likely to work than headless mode.\n")
 
     test_player = "1365288"  # Adeshola Adekunle
 
@@ -287,14 +326,47 @@ if __name__ == "__main__":
         scraper = CricinfoProfileScraper(test_player)
         profile = scraper.get_profile()
 
-        print("\n" + "=" * 60)
-        print("PROFILE DATA:")
-        print("=" * 60)
-        for key, value in profile.items():
-            print(f"  {key}: {value}")
+        if "error" in profile:
+            print(f"\n❌ Error: {profile['error']}")
+        else:
+            print("\n" + "=" * 60)
+            print("COMPLETE PROFILE:")
+            print("=" * 60)
+
+            # Basic Info
+            print("\n--- BASIC INFORMATION ---")
+            print(f"Full Name: {profile['full_name']}")
+            print(f"Date of Birth: {profile['date_of_birth']}")
+            print(f"Age: {profile['age']}")
+            print(f"Birthplace: {profile['birthplace']}")
+            print(f"Nationality: {profile['nationality']}")
+            print(f"Gender: {profile['gender']}")
+            print(f"Batting Style: {profile['batting_style']}")
+            print(f"Bowling Style: {profile['bowling_style']}")
+            print(f"Playing Role: {profile['playing_role']}")
+
+            # Teams
+            print("\n--- TEAMS ---")
+            for team in profile["teams"]:
+                print(f"  • {team['name']}")
+
+            # Career Stats
+            print("\n--- CAREER STATS (BATTING) ---")
+            for stat in profile["career_stats"]["batting"]:
+                print(f"  {stat}")
+
+            print("\n--- CAREER STATS (BOWLING) ---")
+            for stat in profile["career_stats"]["bowling"]:
+                print(f"  {stat}")
+
+            # Debut/Last
+            if profile["debut_last"]:
+                print("\n--- DEBUT & LAST MATCHES ---")
+                for key, value in profile["debut_last"].items():
+                    print(f"  {key}: {value}")
 
     except Exception as e:
         print(f"\n❌ Error: {e}")
-        print("\nIf still blocked, you'll need:")
-        print("  • A residential proxy service")
-        print("  • Or scrape from a different network/location")
+        import traceback
+
+        traceback.print_exc()
