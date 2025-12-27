@@ -163,6 +163,14 @@
         "documentation": {}
     },
     {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
         "label": "Optional",
         "importPath": "typing",
         "description": "typing",
@@ -180,6 +188,22 @@
     },
     {
         "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Set",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
         "importPath": "typing",
         "description": "typing",
         "isExtraImport": true,
@@ -240,6 +264,14 @@
         "documentation": {}
     },
     {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
         "label": "defaultdict",
         "importPath": "collections",
         "description": "collections",
@@ -264,11 +296,11 @@
         "documentation": {}
     },
     {
-        "label": "BirthdayParadoxAnalyzer",
-        "importPath": "BirthdayParadoxAnalyzer",
-        "description": "BirthdayParadoxAnalyzer",
+        "label": "CricinfoProfileScraper",
+        "importPath": "utils.CricInfoProfileScraper",
+        "description": "utils.CricInfoProfileScraper",
         "isExtraImport": true,
-        "detail": "BirthdayParadoxAnalyzer",
+        "detail": "utils.CricInfoProfileScraper",
         "documentation": {}
     },
     {
@@ -277,6 +309,14 @@
         "description": "utils.CricInfoProfileScraper",
         "isExtraImport": true,
         "detail": "utils.CricInfoProfileScraper",
+        "documentation": {}
+    },
+    {
+        "label": "BirthdayParadoxAnalyzer",
+        "importPath": "BirthdayParadoxAnalyzer",
+        "description": "BirthdayParadoxAnalyzer",
+        "isExtraImport": true,
+        "detail": "BirthdayParadoxAnalyzer",
         "documentation": {}
     },
     {
@@ -716,6 +756,15 @@
         "description": "BirthdayParadoxAnalyzer",
         "peekOfCode": "class BirthdayParadoxAnalyzer:\n    def __init__(self, file_path):\n        self.df = pd.read_csv(file_path)\n        self.squad_size = 23\n        self._preprocess()\n    def _preprocess(self):\n        # Convert DOB to datetime and extract Month-Day\n        self.df[\"DOB_dt\"] = pd.to_datetime(\n            self.df[\"DOB\"], dayfirst=True, errors=\"coerce\"\n        )",
         "detail": "BirthdayParadoxAnalyzer",
+        "documentation": {}
+    },
+    {
+        "label": "cricinfo_batch_scraper",
+        "kind": 2,
+        "importPath": "loop_scraper",
+        "description": "loop_scraper",
+        "peekOfCode": "def cricinfo_batch_scraper(\n    input_csv: str = \"people.csv\",\n    output_csv: str = \"people_updated.csv\",\n    checkpoint_file: str = \"scraper_checkpoint.txt\",\n    delay_between_requests: int = 5,\n):\n    \"\"\"\n    Scrape Cricinfo profiles for all players in CSV and update with results\n    Args:\n        input_csv: Path to input CSV with player data",
+        "detail": "loop_scraper",
         "documentation": {}
     },
     {
