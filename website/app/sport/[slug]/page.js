@@ -19,7 +19,7 @@ export default function SportPage({ params }) {
     delegation:
       { label: "Delegation", title: "National delegation of solo athletes — they didn't really form a team. Shared birthdays here are weaker evidence." },
     squad:
-      { label: "Squad", title: "Tournament squads, not season-long teams. Roster shifts match-by-match." },
+      { label: "Squad", title: "Tournament squads, not season-long teams. Player lists can shift match by match." },
   };
   const kindMeta = KIND_META[kind] || KIND_META.team;
   const kindBreakdown = sport.cohort_kind_breakdown || {};
@@ -48,12 +48,12 @@ export default function SportPage({ params }) {
           ) : null}
         </div>
         <p className="text-white/60 text-sm mt-2">
-          {fmtNum(sport.cohorts)} rosters · {fmtNum(sport.total_players)} roster entries ·
-          avg roster {sport.avg_roster_size?.toFixed(1)}
+          {fmtNum(sport.cohorts)} team lists · {fmtNum(sport.total_players)} player entries ·
+          avg team size {sport.avg_roster_size?.toFixed(1)}
         </p>
         <p className="text-white/70 text-sm mt-3 max-w-3xl">
           Read this sport as a comparison between raw coincidence and what
-          roster size alone predicts. Here, the real rate is{" "}
+          team size alone predicts. Here, the real rate is{" "}
           <span className={dev >= 0 ? "text-good" : "text-bad"}>
             {fmtDelta(dev)}
           </span>{" "}
@@ -63,34 +63,34 @@ export default function SportPage({ params }) {
 
       <section className="grid grid-cols-2 lg:grid-cols-4 gap-4">
         <KpiCard
-          label="Real rosters"
+          label="Real team lists"
           value={fmtPct(sport.observed_rate)}
-          sub="rosters with shared birthdays"
-          insight="This is the headline rate, but it should never be read without roster size."
+          sub="teams with shared birthdays"
+          insight="This is the headline rate, but it should never be read without team size."
         />
         <KpiCard
           label="Expected from size"
           value={fmtPct(sport.theoretical_rate)}
-          sub="from avg roster size"
-          insight="This is the fair baseline: what a same-size random roster would do."
+          sub="from avg team size"
+          insight="This is the fair baseline: what same-size random teams would do."
         />
         <KpiCard
           label="Gap from expected"
           value={<span className={dev >= 0 ? "text-good" : "text-bad"}>{fmtDelta(dev)}</span>}
           sub="real − expected"
-          insight={dev >= 0 ? "Positive means the sport has more birthday matches than size alone predicts." : "Negative means this sport is quieter than roster size alone predicts."}
+          insight={dev >= 0 ? "Positive means the sport has more birthday matches than size alone predicts." : "Negative means this sport is quieter than team size alone predicts."}
         />
         <KpiCard
-          label="Rosters"
+          label="Team lists"
           value={fmtNum(sport.cohorts)}
           sub="teams analysed"
-          insight={sport.cohorts >= 50 ? "Enough rosters for a useful sport-level read." : "Small sample: treat the rate as a lead, not a verdict."}
+          insight={sport.cohorts >= 50 ? "Enough team lists for a useful sport-level read." : "Small sample: treat the rate as a lead, not a verdict."}
         />
       </section>
 
       <InsightNote>
         The best question on a sport page is not "is the real rate high?"
-        but "is it high after accounting for roster size?" That is what the
+        but "is it high after accounting for team size?" That is what the
         gap card is answering.
       </InsightNote>
 
@@ -103,7 +103,7 @@ export default function SportPage({ params }) {
             <GenderComparisonChart
               data={sport.by_gender}
               title="Gender split inside this sport"
-              description="Real and expected rates for labelled rosters in this sport."
+              description="Real and expected rates for labelled team lists in this sport."
             />
           ) : null}
         </section>
@@ -112,14 +112,14 @@ export default function SportPage({ params }) {
       <section className="grid lg:grid-cols-2 gap-6">
         <div className="card">
           <h3 className="text-lg font-semibold mb-1">By country</h3>
-          <p className="text-xs text-white/50 mb-3">Top 40 countries by roster count.</p>
+          <p className="text-xs text-white/50 mb-3">Top 40 countries by team-list count.</p>
           <div className="max-h-[420px] overflow-y-auto">
             <table className="data">
               <thead>
                 <tr>
                   <th>Country</th>
-                  <th>Rosters</th>
-                  <th>Avg n</th>
+                  <th>Team lists</th>
+                  <th>Avg players</th>
                   <th>Real</th>
                 </tr>
               </thead>
@@ -143,7 +143,7 @@ export default function SportPage({ params }) {
             </table>
           </div>
           <InsightNote>
-            Countries with larger average rosters will naturally show more
+            Countries with larger average teams will naturally show more
             shared birthdays. The country list is most useful for finding which
             samples are driving this sport's overall rate.
           </InsightNote>
@@ -158,7 +158,7 @@ export default function SportPage({ params }) {
             <thead>
               <tr>
                 <th>Gender</th>
-                <th>Rosters</th>
+                <th>Team lists</th>
                 <th>Real</th>
                 <th>Expected</th>
                 <th>Gap</th>
@@ -189,7 +189,7 @@ export default function SportPage({ params }) {
             </tbody>
           </table>
 
-          <h3 className="text-lg font-semibold mt-8 mb-1">Sample rosters</h3>
+          <h3 className="text-lg font-semibold mt-8 mb-1">Sample team lists</h3>
           <p className="text-xs text-white/50 mb-3">
             Largest teams in the dataset.
           </p>
@@ -221,7 +221,7 @@ export default function SportPage({ params }) {
             </table>
           </div>
           <InsightNote>
-            The sample rosters show the mechanics: once the player count gets
+            The sample team lists show the mechanics: once the player count gets
             large, the expected chance climbs quickly, and each repeat is
             another player landing on a date already present.
           </InsightNote>

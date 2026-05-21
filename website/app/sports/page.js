@@ -14,7 +14,7 @@ export default function SportsIndexPage() {
         <InsightNote>
           Use the gap more than the raw real-world rate. Big-team sports will
           naturally have high shared-birthday rates; the interesting cases are
-          the ones that sit far above or below what roster size predicts.
+          the ones that sit far above or below what team size predicts.
         </InsightNote>
       </div>
 
@@ -40,7 +40,7 @@ function SportGrid({ sports }) {
           <Link key={s.slug} href={`/sport/${s.slug}/`} className="card hover:ring-accent/40 transition">
             <div className="flex items-baseline justify-between gap-2">
               <div className="font-semibold">{s.sport.replace("Olympic ", "")}</div>
-              <div className="text-xs text-white/40">{fmtNum(s.cohorts)} rosters</div>
+              <div className="text-xs text-white/40">{fmtNum(s.cohorts)} team lists</div>
             </div>
             <div className="mt-3 grid grid-cols-3 gap-2 text-sm">
               <div>
@@ -62,8 +62,8 @@ function SportGrid({ sports }) {
               {Math.abs(dev) < 0.01
                 ? "Tracks the birthday math very closely."
                 : dev > 0
-                  ? "More birthday matches than roster size alone predicts."
-                  : "Fewer birthday matches than roster size alone predicts."}
+                  ? "More birthday matches than team size alone predicts."
+                  : "Fewer birthday matches than team size alone predicts."}
             </div>
           </Link>
         );

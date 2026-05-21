@@ -32,7 +32,7 @@ export default function RootLayout({ children }) {
         </header>
         <main className="max-w-7xl mx-auto px-5 py-8">{children}</main>
         <footer className="max-w-7xl mx-auto px-5 py-10 text-xs text-white/40">
-          Data: MLB (Lahman), NFL (nflverse), NHL (current rosters), world
+          Data: MLB (Lahman), NFL (nflverse), NHL (current team lists), world
           football (footballcsv), Olympics (olympedia), Women's World Cup 2023,
           Paris 2024, NBA/WNBA/top European football leagues (ESPN), men's &
           women's cricket (Cricsheet + Wikidata DOBs).

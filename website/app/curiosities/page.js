@@ -63,7 +63,7 @@ export default function CuriositiesPage() {
           {fmtNum(cu.total_unique_players)} athlete birthdays in one place,
           you can ask much weirder questions. Which month produces the most
           athletes? Are sports really biased toward kids born in January?
-          Which rosters somehow dodge the math entirely?
+          Which team lists somehow dodge the math entirely?
         </p>
       </section>
 
@@ -290,10 +290,10 @@ export default function CuriositiesPage() {
       <section className="grid lg:grid-cols-2 gap-6">
         <div className="card">
           <h3 className="text-lg font-semibold mb-1">
-            Most birthday repeats in one roster
+            Most birthday repeats in one team list
           </h3>
           <p className="text-xs text-white/50 mb-4">
-            The single roster with the most extra players landing on an
+            The single team list with the most extra players landing on an
             already-used calendar birthday.
           </p>
           <div className="space-y-2">
@@ -315,8 +315,8 @@ export default function CuriositiesPage() {
             </div>
           </div>
           <InsightNote>
-            This is not one birthday shared by 22 pairs; it means 22 roster
-            spots landed on dates already occupied by someone else.
+            This is not one birthday shared by 22 pairs; it means 22 players
+            landed on dates already occupied by someone else.
           </InsightNote>
         </div>
 
@@ -356,17 +356,17 @@ export default function CuriositiesPage() {
 
       <section className="card">
         <h3 className="text-lg font-semibold mb-1">
-          Rosters that dodged the paradox
+          Team lists that dodged the paradox
         </h3>
         <p className="text-xs text-white/50 mb-3">
-          These large rosters had no shared birthdays at all, even though the
+          These large team lists had no shared birthdays at all, even though the
           theoretical chance of at least one match was already very high.
         </p>
         <table className="data">
           <thead>
             <tr>
               <th>Team</th>
-              <th>Roster</th>
+              <th>Players</th>
               <th>No-match odds</th>
               <th>Source</th>
             </tr>
@@ -390,7 +390,7 @@ export default function CuriositiesPage() {
           </tbody>
         </table>
         <InsightNote>
-          These are the anti-birthday-paradox rosters. Denver's 2002 NFL roster
+          These are the anti-birthday-paradox team lists. Denver's 2002 NFL team list
           had only a 0.83% chance of avoiding every shared birthday under the
           simple model, yet it did.
         </InsightNote>
@@ -402,7 +402,7 @@ export default function CuriositiesPage() {
             Four teammates, same calendar day
           </h3>
           <p className="text-xs text-white/50 mb-3">
-            Largest same-date pileups from the cleaner roster sources.
+            Largest same-date pileups from the cleaner team-list sources.
           </p>
           <div className="space-y-4">
             {cu.same_date_clusters.slice(0, 5).map((r) => (
@@ -426,7 +426,7 @@ export default function CuriositiesPage() {
             ))}
           </div>
           <InsightNote>
-            Four people on one calendar date is rare, but big football rosters
+            Four people on one calendar date is rare, but big football team lists
             make enough attempts that these pileups eventually appear.
           </InsightNote>
         </div>
@@ -463,7 +463,7 @@ export default function CuriositiesPage() {
           <InsightNote>
             Exact-date triples are stricter than the birthday paradox because
             the year must match too. These are tiny coincidences inside already
-            large roster histories.
+            large team-list histories.
           </InsightNote>
         </div>
       </section>
@@ -474,7 +474,7 @@ export default function CuriositiesPage() {
             Youngest sports (by avg current age)
           </h3>
           <p className="text-xs text-white/50 mb-3">
-            Average age of athletes still in our roster snapshots, as of
+            Average age of athletes still in our team-list snapshots, as of
             today. Min 50 athletes per sport.
           </p>
           <table className="data">
@@ -535,18 +535,18 @@ export default function CuriositiesPage() {
 
       <section className="card">
         <h3 className="text-lg font-semibold mb-1">
-          Where real rosters disagree with the math the most
+          Where real team lists disagree with the math the most
         </h3>
         <p className="text-xs text-white/50 mb-3">
           Sports with the largest gap between real shared-birthday rates and
-          the same-size random-roster baseline. Some gaps may be real selection
+          same-size random teams. Some gaps may be real selection
           effects; some may be data-quality artifacts.
         </p>
         <table className="data">
           <thead>
             <tr>
               <th>Sport</th>
-              <th>Rosters</th>
+              <th>Team lists</th>
               <th>Real</th>
               <th>Expected</th>
               <th>Gap</th>
@@ -568,7 +568,7 @@ export default function CuriositiesPage() {
         </table>
         <InsightNote>
           Positive gaps mean shared birthdays happen more often than the simple
-          random-roster model expects. That can reflect real selection
+          random-team model expects. That can reflect real selection
           effects, repeated age groups, or data quirks.
         </InsightNote>
       </section>

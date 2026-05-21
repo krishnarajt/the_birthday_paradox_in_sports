@@ -48,8 +48,8 @@ export default function DeviationExtremesChart({ sports, minCohorts = 50 }) {
         Where real teams beat the math
       </h3>
       <p className="text-xs text-white/50 mb-4">
-        Sports where real rosters have the biggest gap from what random
-        same-size rosters would predict. Minimum {minCohorts} team rosters to
+        Sports where real team lists have the biggest gap from what random
+        same-size teams would predict. Minimum {minCohorts} team lists to
         avoid tiny-sample noise.
       </p>
       <ResponsiveContainer width="100%" height={430}>
@@ -79,10 +79,10 @@ export default function DeviationExtremesChart({ sports, minCohorts = 50 }) {
               return (
                 <div className="rounded-xl bg-panel ring-1 ring-white/10 p-3 text-sm">
                   <div className="font-semibold">{p.sport}</div>
-                  <div>Real rosters: {fmtPct(p.observed_rate)}</div>
+                  <div>Real team lists: {fmtPct(p.observed_rate)}</div>
                   <div>Expected from size: {fmtPct(p.theoretical_rate)}</div>
                   <div>Gap: {fmtDelta(p.deviation)}</div>
-                  <div>Team rosters: {p.cohorts.toLocaleString()}</div>
+                  <div>Team lists: {p.cohorts.toLocaleString()}</div>
                 </div>
               );
             }}

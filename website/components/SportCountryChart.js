@@ -31,8 +31,8 @@ export default function SportCountryChart({ data, sport }) {
     <div className="card">
       <h3 className="text-lg font-semibold mb-1">Country comparison</h3>
       <p className="text-xs text-white/50 mb-4">
-        Countries with the most rosters for {sport}, charted by the share of
-        rosters with at least one shared birthday.
+        Countries with the most team lists for {sport}, charted by the share of
+        teams with at least one shared birthday.
       </p>
       <ResponsiveContainer width="100%" height={340}>
         <BarChart data={rows} margin={{ top: 10, right: 16, left: 0, bottom: 40 }}>
@@ -68,7 +68,7 @@ export default function SportCountryChart({ data, sport }) {
           This view is best for spotting sample-shape differences inside a
           sport. Among the highest-sample countries,{" "}
           <span className="font-semibold text-white">{high.country}</span>{" "}
-          has the highest observed rate, with an average roster of{" "}
+          has the highest observed rate, with an average team size of{" "}
           <span className="font-semibold text-white">
             {high.avg_roster_size?.toFixed(1)}
           </span>.

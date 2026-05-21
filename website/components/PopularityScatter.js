@@ -31,8 +31,8 @@ export default function PopularityScatter({ data }) {
     <div className="card">
       <h3 className="text-lg font-semibold mb-1">Popularity vs paradox rate</h3>
       <p className="text-xs text-white/50 mb-4">
-        Each point is a sport. X = roster entries in the dataset (a rough size
-        proxy, log scale). Y = share of team rosters with shared birthdays.
+        Each point is a sport. X = player entries in the dataset (a rough size
+        proxy, log scale). Y = share of team lists with shared birthdays.
       </p>
       <ResponsiveContainer width="100%" height={420}>
         <ScatterChart margin={{ top: 10, right: 20, bottom: 30, left: 0 }}>
@@ -45,12 +45,12 @@ export default function PopularityScatter({ data }) {
             domain={["auto", "auto"]}
             tick={{ fill: "#cdd6ff", fontSize: 11 }}
             tickFormatter={fmtNum}
-            label={{ value: "Player-rows (log)", position: "insideBottom", offset: -10, fill: "#cdd6ff" }}
+            label={{ value: "Player entries (log scale)", position: "insideBottom", offset: -10, fill: "#cdd6ff" }}
           />
           <YAxis
             type="number"
             dataKey="observed_rate"
-            name="Real rosters"
+            name="Real team lists"
             domain={[0, 1]}
             tick={{ fill: "#cdd6ff", fontSize: 11 }}
             tickFormatter={fmtPct}
@@ -76,10 +76,10 @@ export default function PopularityScatter({ data }) {
               return (
                 <div className="rounded-xl bg-panel ring-1 ring-white/10 p-3 text-sm">
                   <div className="font-semibold">{p.sport}</div>
-                  <div>Real rosters: {fmtPct(p.observed_rate)}</div>
+                  <div>Real team lists: {fmtPct(p.observed_rate)}</div>
                   <div>Expected from size: {fmtPct(p.theoretical_rate)}</div>
-                  <div>Roster entries: {fmtNum(p.players)}</div>
-                  <div>Team rosters: {fmtNum(p.cohorts)}</div>
+                  <div>Player entries: {fmtNum(p.players)}</div>
+                  <div>Team lists: {fmtNum(p.cohorts)}</div>
                 </div>
               );
             }}
@@ -91,9 +91,9 @@ export default function PopularityScatter({ data }) {
         <InsightNote label="Surprise">
           Popularity itself is not the magic ingredient.{" "}
           <span className="font-semibold text-white">{biggestSport.sport}</span>{" "}
-          has the most roster entries here, while{" "}
+          has the most player entries here, while{" "}
           <span className="font-semibold text-white">{highestRate.sport}</span>{" "}
-          has the highest shared-birthday rate because its rosters are much
+          has the highest shared-birthday rate because its teams are much
           larger.
         </InsightNote>
       ) : null}

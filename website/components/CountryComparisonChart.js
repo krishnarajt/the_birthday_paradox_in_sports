@@ -23,7 +23,7 @@ const fmtDelta = (v) => {
 export default function CountryComparisonChart({
   data,
   title = "Countries where teams share birthdays more than expected",
-  description = "Countries with enough rosters, sorted by the largest positive gap from the same-size random-roster baseline.",
+  description = "Countries with enough team lists, sorted by the largest positive gap from same-size random teams.",
   minCohorts = 50,
 }) {
   const rows = data
@@ -31,7 +31,7 @@ export default function CountryComparisonChart({
     .map((r) => ({
       country: r.country,
       cohorts: r.cohorts,
-      "Real rosters": r.observed_rate,
+      "Real team lists": r.observed_rate,
       "Expected from size": r.theoretical_rate,
       deviation: r.observed_rate - r.theoretical_rate,
       avg_roster_size: r.avg_roster_size,
@@ -44,7 +44,7 @@ export default function CountryComparisonChart({
     <div className="card">
       <h3 className="text-lg font-semibold mb-1">{title}</h3>
       <p className="text-xs text-white/50 mb-4">
-        {description} Minimum {minCohorts} team rosters.
+        {description} Minimum {minCohorts} team lists.
       </p>
       <ResponsiveContainer width="100%" height={380}>
         <BarChart data={rows} margin={{ top: 10, right: 16, left: 0, bottom: 40 }}>
@@ -69,22 +69,22 @@ export default function CountryComparisonChart({
               color: "#e7ecff",
             }}
             formatter={(value, name) =>
-              name === "Real rosters" || name === "Expected from size"
+              name === "Real team lists" || name === "Expected from size"
                 ? fmtPct(value)
                 : value
             }
             labelFormatter={(label) => `${label}`}
           />
           <Legend wrapperStyle={{ color: "#cdd6ff", fontSize: 12 }} />
-          <Bar dataKey="Real rosters" fill="#7aa2ff" radius={[5, 5, 0, 0]} />
+          <Bar dataKey="Real team lists" fill="#7aa2ff" radius={[5, 5, 0, 0]} />
           <Bar dataKey="Expected from size" fill="#f7b955" radius={[5, 5, 0, 0]} />
         </BarChart>
       </ResponsiveContainer>
       {leader ? (
         <InsightNote label="Careful">
-          Treat country rankings carefully: high rates often mean larger
-          rosters, not a country-specific birthday effect. The useful signal is
-          the gap from the roster-size baseline; here{" "}
+          Treat country rankings carefully: high rates often mean larger teams,
+          not a country-specific birthday effect. The useful signal is the gap
+          from the same-size-team baseline; here{" "}
           <span className="font-semibold text-white">{leader.country}</span>{" "}
           runs {fmtDelta(leader.deviation)} above expectation.
         </InsightNote>

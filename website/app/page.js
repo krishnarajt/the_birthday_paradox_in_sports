@@ -31,7 +31,7 @@ export default function HomePage() {
         <p className="text-white/70 mt-2 max-w-3xl">
           The math says: in a group of 23 people, there's a 50.73% chance two
           share a birthday. We checked against {fmtNum(kpis.total_cohorts)} real
-          team rosters across {kpis.total_sports} sports and {kpis.total_countries}{" "}
+          team lists across {kpis.total_sports} sports and {kpis.total_countries}{" "}
           countries.
         </p>
       </section>
@@ -39,22 +39,22 @@ export default function HomePage() {
       {/* KPI grid */}
       <section className="grid grid-cols-2 lg:grid-cols-5 gap-4">
         <KpiCard
-          label="Real roster match rate"
+          label="Real team match rate"
           value={fmtPct(kpis.observed_shared_rate)}
           sub={`vs expected ${fmtPct(kpis.theoretical_average_rate)} (${fmtDelta(kpis.deviation_obs_minus_theo)})`}
-          insight="The real rosters come in slightly above the clean model, which suggests birthdays are not perfectly random once selection systems and roster construction enter the picture."
+          insight="The real team lists come in slightly above the clean model, which suggests birthdays are not perfectly random once selection systems and team-building enter the picture."
         />
         <KpiCard
-          label="Team rosters analysed"
+          label="Team lists analysed"
           value={fmtNum(kpis.total_cohorts)}
-          sub={`avg roster size ${kpis.avg_roster_size?.toFixed(1)}`}
-          insight="This is enough sample size for the headline result, but sports with only a few rosters still need caution."
+          sub={`avg team size ${kpis.avg_roster_size?.toFixed(1)}`}
+          insight="This is enough sample size for the headline result, but sports with only a few team lists still need caution."
         />
         <KpiCard
-          label="Roster entries"
+          label="Player entries"
           value={fmtNum(kpis.total_players_roster_rows)}
           sub={`from ${kpis.data_sources} datasets`}
-          insight="Roster entries are not unique people; repeated seasons intentionally show what real rosters looked like over time."
+          insight="Player entries are not unique people; repeated seasons intentionally show what real team lists looked like over time."
         />
         <KpiCard
           label="Sports covered"
@@ -66,7 +66,7 @@ export default function HomePage() {
           label="Countries represented"
           value={fmtNum(kpis.total_countries)}
           sub="primarily via Olympics & football"
-          insight="Country patterns mostly reflect roster sizes and available datasets, not national biology."
+          insight="Country patterns mostly reflect team sizes and available datasets, not national biology."
         />
       </section>
 
@@ -88,8 +88,8 @@ export default function HomePage() {
             Sports closest to clean birthday math
           </h3>
           <p className="text-xs text-white/50 mb-3">
-            Sorted by gap from the same-size random-roster baseline. Smaller is
-            closer to the math. Minimum 20 team rosters per sport.
+            Sorted by gap from same-size random teams. Smaller is closer to the
+            math. Minimum 20 team lists per sport.
           </p>
           <div className="max-h-[420px] overflow-y-auto">
             <table className="data">
@@ -97,8 +97,8 @@ export default function HomePage() {
                 <tr>
                   <th>#</th>
                   <th>Sport</th>
-                  <th>Rosters</th>
-                  <th>Avg n</th>
+                  <th>Team lists</th>
+                  <th>Avg players</th>
                   <th>Real</th>
                   <th>Expected</th>
                   <th>Gap</th>

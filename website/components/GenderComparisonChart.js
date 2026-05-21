@@ -22,17 +22,17 @@ const genderLabel = (g) =>
 
 export default function GenderComparisonChart({
   data,
-  title = "Gender split: rate vs roster size",
-  description = "Real shared-birthday rates compared with the same-size random-roster baseline, where the source records gender.",
+  title = "Gender split: rate vs team size",
+  description = "Real shared-birthday rates compared with same-size random teams, where the source records gender.",
 }) {
   const rows = (Array.isArray(data) ? data : data?.overall || []).map((r) => ({
     gender: genderLabel(r.gender),
     cohorts: r.cohorts,
-    "Real rosters": r.observed_rate,
+    "Real team lists": r.observed_rate,
     "Expected from size": r.theoretical_rate,
     avg_roster_size: r.avg_roster_size,
   }));
-  const largestRoster = [...rows].sort(
+  const largestTeam = [...rows].sort(
     (a, b) => (b.avg_roster_size || 0) - (a.avg_roster_size || 0)
   )[0];
 
@@ -57,22 +57,22 @@ export default function GenderComparisonChart({
               color: "#e7ecff",
             }}
             formatter={(value, name, item) => {
-              if (name === "Real rosters" || name === "Expected from size") return fmtPct(value);
+              if (name === "Real team lists" || name === "Expected from size") return fmtPct(value);
               return item?.payload?.avg_roster_size ? fmtNum(item.payload.avg_roster_size) : value;
             }}
           />
           <Legend wrapperStyle={{ color: "#cdd6ff", fontSize: 12 }} />
-          <Bar dataKey="Real rosters" fill="#7aa2ff" radius={[6, 6, 0, 0]} />
+          <Bar dataKey="Real team lists" fill="#7aa2ff" radius={[6, 6, 0, 0]} />
           <Bar dataKey="Expected from size" fill="#f7b955" radius={[6, 6, 0, 0]} />
         </BarChart>
       </ResponsiveContainer>
-      {largestRoster ? (
+      {largestTeam ? (
         <InsightNote label="Why it matters">
-          The gender gap is mostly a roster-size story.{" "}
-          <span className="font-semibold text-white">{largestRoster.gender}</span>{" "}
-          have the larger average roster size here
-          {largestRoster.avg_roster_size
-            ? ` (${largestRoster.avg_roster_size.toFixed(1)} athletes), so their birthday-match rate naturally rises.`
+          The gender gap is mostly a team-size story.{" "}
+          <span className="font-semibold text-white">{largestTeam.gender}</span>{" "}
+          have the larger average team size here
+          {largestTeam.avg_roster_size
+            ? ` (${largestTeam.avg_roster_size.toFixed(1)} athletes), so their birthday-match rate naturally rises.`
             : ", so compare the real bars against the expected bars before reading too much into the raw rate."}
         </InsightNote>
       ) : null}

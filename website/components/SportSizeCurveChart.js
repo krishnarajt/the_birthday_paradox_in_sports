@@ -34,7 +34,7 @@ export default function SportSizeCurveChart({ curve }) {
   for (const { n, p } of theory) byN.set(n, { n, "Expected from math": p });
   for (const r of universal) {
     const row = byN.get(r.n) || { n: r.n };
-    row["All real rosters"] = r.observed_rate;
+    row["All real team lists"] = r.observed_rate;
     byN.set(r.n, row);
   }
   for (const sport of sportNames) {
@@ -49,11 +49,11 @@ export default function SportSizeCurveChart({ curve }) {
   return (
     <div className="card">
       <h3 className="text-lg font-semibold mb-1">
-        Probability vs roster size
+        Probability vs team size
       </h3>
       <p className="text-xs text-white/50 mb-4">
-        Expected curve (yellow) vs real rates at each roster size. Individual
-        sports are plotted only where at least 3 real rosters exist at that size.
+        Expected curve (yellow) vs real rates at each team size. Individual
+        sports are plotted only where at least 3 real team lists exist at that size.
       </p>
       <ResponsiveContainer width="100%" height={420}>
         <LineChart data={data} margin={{ top: 10, right: 16, bottom: 10, left: 0 }}>
@@ -61,7 +61,7 @@ export default function SportSizeCurveChart({ curve }) {
           <XAxis
             dataKey="n"
             tick={{ fill: "#cdd6ff", fontSize: 11 }}
-            label={{ value: "Players on roster", position: "insideBottom", offset: -5, fill: "#cdd6ff" }}
+            label={{ value: "Players on team list", position: "insideBottom", offset: -5, fill: "#cdd6ff" }}
           />
           <YAxis
             tick={{ fill: "#cdd6ff", fontSize: 11 }}
@@ -89,7 +89,7 @@ export default function SportSizeCurveChart({ curve }) {
           />
           <Line
             type="monotone"
-            dataKey="All real rosters"
+            dataKey="All real team lists"
             stroke="#ffffff"
             strokeWidth={2}
             dot={false}
@@ -109,11 +109,11 @@ export default function SportSizeCurveChart({ curve }) {
         </LineChart>
       </ResponsiveContainer>
       <InsightNote label="Why this matters">
-        This is the paradox in one curve: by roster size{" "}
+        This is the paradox in one curve: by team size{" "}
         <span className="font-semibold text-white">{halfPoint}</span>, the
         theoretical chance has already crossed 50%; by{" "}
         <span className="font-semibold text-white">{ninetyPoint}</span>, it is
-        over 90%. Most big rates on this site are roster-size effects first,
+        over 90%. Most big rates on this site are team-size effects first,
         sport effects second.
       </InsightNote>
     </div>
