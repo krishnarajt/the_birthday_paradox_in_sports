@@ -17,6 +17,38 @@
         "documentation": {}
     },
     {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
         "label": "os",
         "kind": 6,
         "isExtraImport": true,
@@ -131,6 +163,350 @@
         "documentation": {}
     },
     {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Boolean",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Float",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Index",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "get_engine",
+        "importPath": "analysis.models",
+        "description": "analysis.models",
+        "isExtraImport": true,
+        "detail": "analysis.models",
+        "documentation": {}
+    },
+    {
+        "label": "get_engine",
+        "importPath": "analysis.models",
+        "description": "analysis.models",
+        "isExtraImport": true,
+        "detail": "analysis.models",
+        "documentation": {}
+    },
+    {
+        "label": "init_db",
+        "importPath": "analysis.models",
+        "description": "analysis.models",
+        "isExtraImport": true,
+        "detail": "analysis.models",
+        "documentation": {}
+    },
+    {
+        "label": "get_engine",
+        "importPath": "analysis.models",
+        "description": "analysis.models",
+        "isExtraImport": true,
+        "detail": "analysis.models",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "theoretical_probability",
+        "importPath": "analysis.compute",
+        "description": "analysis.compute",
+        "isExtraImport": true,
+        "detail": "analysis.compute",
+        "documentation": {}
+    },
+    {
+        "label": "DeclarativeBase",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Mapped",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapped_column",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "csv",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "csv",
+        "description": "csv",
+        "detail": "csv",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "Counter",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "urllib.request",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "urllib.request",
+        "description": "urllib.request",
+        "detail": "urllib.request",
+        "documentation": {}
+    },
+    {
+        "label": "ast",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ast",
+        "description": "ast",
+        "detail": "ast",
+        "documentation": {}
+    },
+    {
         "label": "sync_playwright",
         "importPath": "playwright.sync_api",
         "description": "playwright.sync_api",
@@ -152,22 +528,6 @@
         "description": "bs4",
         "isExtraImport": true,
         "detail": "bs4",
-        "documentation": {}
-    },
-    {
-        "label": "datetime",
-        "importPath": "datetime",
-        "description": "datetime",
-        "isExtraImport": true,
-        "detail": "datetime",
-        "documentation": {}
-    },
-    {
-        "label": "datetime",
-        "importPath": "datetime",
-        "description": "datetime",
-        "isExtraImport": true,
-        "detail": "datetime",
         "documentation": {}
     },
     {
@@ -211,72 +571,12 @@
         "documentation": {}
     },
     {
-        "label": "time",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "time",
-        "description": "time",
-        "detail": "time",
-        "documentation": {}
-    },
-    {
         "label": "random",
         "kind": 6,
         "isExtraImport": true,
         "importPath": "random",
         "description": "random",
         "detail": "random",
-        "documentation": {}
-    },
-    {
-        "label": "re",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "re",
-        "description": "re",
-        "detail": "re",
-        "documentation": {}
-    },
-    {
-        "label": "json",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "json",
-        "description": "json",
-        "detail": "json",
-        "documentation": {}
-    },
-    {
-        "label": "pandas",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "pandas",
-        "description": "pandas",
-        "detail": "pandas",
-        "documentation": {}
-    },
-    {
-        "label": "Path",
-        "importPath": "pathlib",
-        "description": "pathlib",
-        "isExtraImport": true,
-        "detail": "pathlib",
-        "documentation": {}
-    },
-    {
-        "label": "Path",
-        "importPath": "pathlib",
-        "description": "pathlib",
-        "isExtraImport": true,
-        "detail": "pathlib",
-        "documentation": {}
-    },
-    {
-        "label": "defaultdict",
-        "importPath": "collections",
-        "description": "collections",
-        "isExtraImport": true,
-        "detail": "collections",
         "documentation": {}
     },
     {
@@ -720,6 +1020,771 @@
         "description": ".venv.Scripts.vba_extract",
         "peekOfCode": "vba_signature_filename = \"vbaProjectSignature.bin\"\n# Get the xlsm file name from the commandline.\nif len(sys.argv) > 1:\n    xlsm_file = sys.argv[1]\nelse:\n    print(\n        \"\\nUtility to extract a vbaProject.bin binary from an Excel 2007+ \"\n        \"xlsm macro file for insertion into an XlsxWriter file.\\n\"\n        \"If the macros are digitally signed, extracts also a vbaProjectSignature.bin \"\n        \"file.\\n\"",
         "detail": ".venv.Scripts.vba_extract",
+        "documentation": {}
+    },
+    {
+        "label": "theoretical_probability",
+        "kind": 2,
+        "importPath": "analysis.compute",
+        "description": "analysis.compute",
+        "peekOfCode": "def theoretical_probability(n: int) -> float:\n    if n < 2:\n        return 0.0\n    if n >= 365:\n        return 1.0\n    prob_unique = 1.0\n    for k in range(n):\n        prob_unique *= (365 - k) / 365.0\n    return 1.0 - prob_unique\ndef run(db_path: str = \"analysis_db.sqlite\") -> None:",
+        "detail": "analysis.compute",
+        "documentation": {}
+    },
+    {
+        "label": "run",
+        "kind": 2,
+        "importPath": "analysis.compute",
+        "description": "analysis.compute",
+        "peekOfCode": "def run(db_path: str = \"analysis_db.sqlite\") -> None:\n    engine = get_engine(db_path)\n    df = pd.read_sql(\n        text(\n            \"\"\"\n            SELECT group_id, source_dataset, sport, team, country, gender, season,\n                   cohort_kind, player_external_id, player_name, birth_md\n            FROM rosters\n            WHERE birth_md IS NOT NULL\n            \"\"\"",
+        "detail": "analysis.compute",
+        "documentation": {}
+    },
+    {
+        "label": "load_olympics",
+        "kind": 2,
+        "importPath": "analysis.etl",
+        "description": "analysis.etl",
+        "peekOfCode": "def load_olympics() -> pd.DataFrame:\n    src = EXTERNAL / \"olympics\" / \"olympics_roster_with_dob.csv\"\n    if not src.exists():\n        print(f\"  skip olympics: {src} missing\")\n        return pd.DataFrame()\n    df = pd.read_csv(src, low_memory=False)\n    raw_bios = pd.read_csv(\n        EXTERNAL / \"olympics\" / \"olympedia_bios.csv\",\n        usecols=[\"athlete_id\", \"Sex\"],\n        low_memory=False,",
+        "detail": "analysis.etl",
+        "documentation": {}
+    },
+    {
+        "label": "load_paris_2024",
+        "kind": 2,
+        "importPath": "analysis.etl",
+        "description": "analysis.etl",
+        "peekOfCode": "def load_paris_2024() -> pd.DataFrame:\n    rows = []\n    team_src = EXTERNAL / \"paris_2024_olympics\" / \"paris_2024_team_roster_birthdays.csv\"\n    if team_src.exists():\n        df = pd.read_csv(team_src, low_memory=False)\n        for r in df.itertuples(index=False):\n            gender = \"F\" if str(r.athlete_gender) == \"Female\" else (\"M\" if str(r.athlete_gender) == \"Male\" else None)\n            rows.append(\n                _row(\n                    source_dataset=\"paris2024\",",
+        "detail": "analysis.etl",
+        "documentation": {}
+    },
+    {
+        "label": "load_mlb",
+        "kind": 2,
+        "importPath": "analysis.etl",
+        "description": "analysis.etl",
+        "peekOfCode": "def load_mlb() -> pd.DataFrame:\n    src = EXTERNAL / \"lahman_sabr\" / \"lahman_team_player_birthdays.csv\"\n    if not src.exists():\n        print(f\"  skip mlb: {src} missing\")\n        return pd.DataFrame()\n    df = pd.read_csv(src, low_memory=False)\n    def _date(r):\n        y, m, d = r.birth_year, r.birth_month, r.birth_day\n        if pd.isna(y) or pd.isna(m) or pd.isna(d):\n            return None",
+        "detail": "analysis.etl",
+        "documentation": {}
+    },
+    {
+        "label": "load_nfl",
+        "kind": 2,
+        "importPath": "analysis.etl",
+        "description": "analysis.etl",
+        "peekOfCode": "def load_nfl() -> pd.DataFrame:\n    src = EXTERNAL / \"nflverse_rosters\" / \"nflverse_rosters_1920_2025.csv\"\n    if not src.exists():\n        print(f\"  skip nfl: {src} missing\")\n        return pd.DataFrame()\n    df = pd.read_csv(\n        src,\n        low_memory=False,\n        usecols=[\"season\", \"team\", \"full_name\", \"birth_date\", \"gsis_id\", \"status\"],\n    )",
+        "detail": "analysis.etl",
+        "documentation": {}
+    },
+    {
+        "label": "load_nhl",
+        "kind": 2,
+        "importPath": "analysis.etl",
+        "description": "analysis.etl",
+        "peekOfCode": "def load_nhl() -> pd.DataFrame:\n    src = EXTERNAL / \"nhl_api_rosters\" / \"nhl_current_rosters_2025_2026.csv\"\n    if not src.exists():\n        print(f\"  skip nhl: {src} missing\")\n        return pd.DataFrame()\n    df = pd.read_csv(src, low_memory=False)\n    df = df[df[\"birth_date\"].notna()]\n    rows = [\n        _row(\n            source_dataset=\"nhl\",",
+        "detail": "analysis.etl",
+        "documentation": {}
+    },
+    {
+        "label": "load_footballcsv",
+        "kind": 2,
+        "importPath": "analysis.etl",
+        "description": "analysis.etl",
+        "peekOfCode": "def load_footballcsv() -> pd.DataFrame:\n    src = EXTERNAL / \"footballcsv_cache_footballsquads\" / \"footballcsv_current_squads_flat.csv\"\n    if not src.exists():\n        print(f\"  skip footballcsv: {src} missing\")\n        return pd.DataFrame()\n    df = pd.read_csv(src, low_memory=False)\n    def _date(r):\n        try:\n            d = int(r.birth_day)\n            m = int(r.birth_month)",
+        "detail": "analysis.etl",
+        "documentation": {}
+    },
+    {
+        "label": "load_wwc2023",
+        "kind": 2,
+        "importPath": "analysis.etl",
+        "description": "analysis.etl",
+        "peekOfCode": "def load_wwc2023() -> pd.DataFrame:\n    src = EXTERNAL / \"fifa_wwc_2023\" / \"fifa_wwc_2023_squads.csv\"\n    if not src.exists():\n        print(f\"  skip wwc2023: {src} missing\")\n        return pd.DataFrame()\n    df = pd.read_csv(src, low_memory=False)\n    def _date(s):\n        if not isinstance(s, str):\n            return None\n        try:",
+        "detail": "analysis.etl",
+        "documentation": {}
+    },
+    {
+        "label": "load_espn_current",
+        "kind": 2,
+        "importPath": "analysis.etl",
+        "description": "analysis.etl",
+        "peekOfCode": "def load_espn_current() -> pd.DataFrame:\n    \"\"\"ESPN current rosters: NBA, WNBA, MLS, NWSL, top-5 European football\n    leagues. Each (league, team, season_year) is a proper team.\"\"\"\n    src = EXTERNAL / \"espn_current_rosters\" / \"espn_current_rosters.csv\"\n    if not src.exists():\n        print(f\"  skip espn: {src} missing\")\n        return pd.DataFrame()\n    df = pd.read_csv(src, low_memory=False)\n    df = df[df[\"birth_date\"].notna()]\n    df = df[~df[\"league\"].isin([\"MLB\", \"NFL\", \"NHL\"])]",
+        "detail": "analysis.etl",
+        "documentation": {}
+    },
+    {
+        "label": "load_cricket_women",
+        "kind": 2,
+        "importPath": "analysis.etl",
+        "description": "analysis.etl",
+        "peekOfCode": "def load_cricket_women() -> pd.DataFrame:\n    \"\"\"Women's cricket squads: cohort = (event_name, season, team_name).\n    Joins cricsheet women's player rosters with Wikidata DOBs (via\n    cricinfo player IDs).\n    \"\"\"\n    rosters_src = EXTERNAL / \"cricket_squads\" / \"cricsheet_female_player_rosters.csv\"\n    if not rosters_src.exists():\n        print(\"  skip cricket_women: rosters missing\")\n        return pd.DataFrame()\n    dobs = _load_cricket_dob_map()",
+        "detail": "analysis.etl",
+        "documentation": {}
+    },
+    {
+        "label": "load_cricket_men",
+        "kind": 2,
+        "importPath": "analysis.etl",
+        "description": "analysis.etl",
+        "peekOfCode": "def load_cricket_men() -> pd.DataFrame:\n    \"\"\"Men's cricket squads: melt cricsheet flat DB (team1_p1 .. team2_p11)\n    into long form and form per-(event, season, team) squads.\n    \"\"\"\n    src = ROOT / \"cricsheet_flat_database.csv\"\n    if not src.exists():\n        print(\"  skip cricket_men: flat db missing\")\n        return pd.DataFrame()\n    dobs = _load_cricket_dob_map()\n    if dobs.empty:",
+        "detail": "analysis.etl",
+        "documentation": {}
+    },
+    {
+        "label": "run",
+        "kind": 2,
+        "importPath": "analysis.etl",
+        "description": "analysis.etl",
+        "peekOfCode": "def run(db_path: str = \"analysis_db.sqlite\") -> None:\n    print(f\"Initializing database at {db_path} ...\")\n    init_db(db_path)\n    engine = get_engine(db_path)\n    loaders = [\n        (\"olympics\", load_olympics),\n        (\"paris2024\", load_paris_2024),\n        (\"mlb\", load_mlb),\n        (\"nfl\", load_nfl),\n        (\"nhl\", load_nhl),",
+        "detail": "analysis.etl",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT",
+        "kind": 5,
+        "importPath": "analysis.etl",
+        "description": "analysis.etl",
+        "peekOfCode": "ROOT = Path(__file__).resolve().parent.parent\nDATA = ROOT / \"dataset\"\nEXTERNAL = DATA / \"external\"\n# Olympic disciplines that are actually \"team play together\" events.\n# Everything else from Olympics is a national delegation.\nOLYMPIC_TEAM_KEYWORDS = (\n    \"Basketball\",\n    \"Football\",\n    \"Volleyball\",\n    \"Handball\",",
+        "detail": "analysis.etl",
+        "documentation": {}
+    },
+    {
+        "label": "DATA",
+        "kind": 5,
+        "importPath": "analysis.etl",
+        "description": "analysis.etl",
+        "peekOfCode": "DATA = ROOT / \"dataset\"\nEXTERNAL = DATA / \"external\"\n# Olympic disciplines that are actually \"team play together\" events.\n# Everything else from Olympics is a national delegation.\nOLYMPIC_TEAM_KEYWORDS = (\n    \"Basketball\",\n    \"Football\",\n    \"Volleyball\",\n    \"Handball\",\n    \"Ice Hockey\",",
+        "detail": "analysis.etl",
+        "documentation": {}
+    },
+    {
+        "label": "EXTERNAL",
+        "kind": 5,
+        "importPath": "analysis.etl",
+        "description": "analysis.etl",
+        "peekOfCode": "EXTERNAL = DATA / \"external\"\n# Olympic disciplines that are actually \"team play together\" events.\n# Everything else from Olympics is a national delegation.\nOLYMPIC_TEAM_KEYWORDS = (\n    \"Basketball\",\n    \"Football\",\n    \"Volleyball\",\n    \"Handball\",\n    \"Ice Hockey\",\n    \"Water Polo\",",
+        "detail": "analysis.etl",
+        "documentation": {}
+    },
+    {
+        "label": "OLYMPIC_TEAM_KEYWORDS",
+        "kind": 5,
+        "importPath": "analysis.etl",
+        "description": "analysis.etl",
+        "peekOfCode": "OLYMPIC_TEAM_KEYWORDS = (\n    \"Basketball\",\n    \"Football\",\n    \"Volleyball\",\n    \"Handball\",\n    \"Ice Hockey\",\n    \"Water Polo\",\n    \"Hockey\",  # field hockey\n    \"Rugby\",\n    \"Baseball\",",
+        "detail": "analysis.etl",
+        "documentation": {}
+    },
+    {
+        "label": "run",
+        "kind": 2,
+        "importPath": "analysis.export_web",
+        "description": "analysis.export_web",
+        "peekOfCode": "def run(db_path: str = \"analysis_db.sqlite\") -> None:\n    engine = get_engine(db_path)\n    stats = pd.read_sql(\"SELECT * FROM group_stats\", engine)\n    rosters_n = pd.read_sql(\"SELECT COUNT(*) AS n FROM rosters\", engine).iloc[0][\"n\"]\n    # ----- common filter: only cohorts with at least 5 players -----\n    s = stats[stats[\"roster_size\"] >= 5].copy()\n    s[\"observed\"] = s[\"has_shared_birthday\"].astype(int)\n    # =========================================================================\n    # KPIs (dashboard headline)\n    # =========================================================================",
+        "detail": "analysis.export_web",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT",
+        "kind": 5,
+        "importPath": "analysis.export_web",
+        "description": "analysis.export_web",
+        "peekOfCode": "ROOT = Path(__file__).resolve().parent.parent\nOUT = ROOT / \"website\" / \"public\" / \"data\"\ndef _slugify(name: str) -> str:\n    return re.sub(r\"[^a-z0-9]+\", \"-\", name.lower()).strip(\"-\")\ndef _safe(v):\n    \"\"\"Convert numpy/pandas scalars to JSON-friendly Python primitives.\"\"\"\n    if isinstance(v, float):\n        if math.isnan(v) or math.isinf(v):\n            return None\n        return round(v, 6)",
+        "detail": "analysis.export_web",
+        "documentation": {}
+    },
+    {
+        "label": "OUT",
+        "kind": 5,
+        "importPath": "analysis.export_web",
+        "description": "analysis.export_web",
+        "peekOfCode": "OUT = ROOT / \"website\" / \"public\" / \"data\"\ndef _slugify(name: str) -> str:\n    return re.sub(r\"[^a-z0-9]+\", \"-\", name.lower()).strip(\"-\")\ndef _safe(v):\n    \"\"\"Convert numpy/pandas scalars to JSON-friendly Python primitives.\"\"\"\n    if isinstance(v, float):\n        if math.isnan(v) or math.isinf(v):\n            return None\n        return round(v, 6)\n    if hasattr(v, \"item\"):",
+        "detail": "analysis.export_web",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 6,
+        "importPath": "analysis.models",
+        "description": "analysis.models",
+        "peekOfCode": "class Base(DeclarativeBase):\n    pass\nclass Roster(Base):\n    \"\"\"One row per (player, cohort) pair, across every sport/source.\"\"\"\n    __tablename__ = \"rosters\"\n    id: Mapped[int] = mapped_column(primary_key=True, autoincrement=True)\n    # Provenance\n    source_dataset: Mapped[str] = mapped_column(String(32), index=True)\n    sport: Mapped[str] = mapped_column(String(64), index=True)\n    # Cohort identifiers (which \"team\" the player belongs to in the analysis)",
+        "detail": "analysis.models",
+        "documentation": {}
+    },
+    {
+        "label": "Roster",
+        "kind": 6,
+        "importPath": "analysis.models",
+        "description": "analysis.models",
+        "peekOfCode": "class Roster(Base):\n    \"\"\"One row per (player, cohort) pair, across every sport/source.\"\"\"\n    __tablename__ = \"rosters\"\n    id: Mapped[int] = mapped_column(primary_key=True, autoincrement=True)\n    # Provenance\n    source_dataset: Mapped[str] = mapped_column(String(32), index=True)\n    sport: Mapped[str] = mapped_column(String(64), index=True)\n    # Cohort identifiers (which \"team\" the player belongs to in the analysis)\n    group_id: Mapped[str] = mapped_column(String(255), index=True)\n    team: Mapped[str] = mapped_column(String(255))",
+        "detail": "analysis.models",
+        "documentation": {}
+    },
+    {
+        "label": "GroupStat",
+        "kind": 6,
+        "importPath": "analysis.models",
+        "description": "analysis.models",
+        "peekOfCode": "class GroupStat(Base):\n    \"\"\"Pre-computed birthday-paradox metric for each cohort.\"\"\"\n    __tablename__ = \"group_stats\"\n    id: Mapped[int] = mapped_column(primary_key=True, autoincrement=True)\n    group_id: Mapped[str] = mapped_column(String(255), unique=True, index=True)\n    source_dataset: Mapped[str] = mapped_column(String(32), index=True)\n    sport: Mapped[str] = mapped_column(String(64), index=True)\n    team: Mapped[str] = mapped_column(String(255))\n    country: Mapped[str | None] = mapped_column(String(8), nullable=True, index=True)\n    gender: Mapped[str | None] = mapped_column(String(8), nullable=True, index=True)",
+        "detail": "analysis.models",
+        "documentation": {}
+    },
+    {
+        "label": "get_engine",
+        "kind": 2,
+        "importPath": "analysis.models",
+        "description": "analysis.models",
+        "peekOfCode": "def get_engine(db_path: str = \"analysis_db.sqlite\"):\n    return create_engine(f\"sqlite:///{db_path}\", future=True)\ndef get_session(db_path: str = \"analysis_db.sqlite\"):\n    engine = get_engine(db_path)\n    return sessionmaker(bind=engine, future=True)()\ndef init_db(db_path: str = \"analysis_db.sqlite\") -> None:\n    engine = get_engine(db_path)\n    Base.metadata.drop_all(engine)\n    Base.metadata.create_all(engine)",
+        "detail": "analysis.models",
+        "documentation": {}
+    },
+    {
+        "label": "get_session",
+        "kind": 2,
+        "importPath": "analysis.models",
+        "description": "analysis.models",
+        "peekOfCode": "def get_session(db_path: str = \"analysis_db.sqlite\"):\n    engine = get_engine(db_path)\n    return sessionmaker(bind=engine, future=True)()\ndef init_db(db_path: str = \"analysis_db.sqlite\") -> None:\n    engine = get_engine(db_path)\n    Base.metadata.drop_all(engine)\n    Base.metadata.create_all(engine)",
+        "detail": "analysis.models",
+        "documentation": {}
+    },
+    {
+        "label": "init_db",
+        "kind": 2,
+        "importPath": "analysis.models",
+        "description": "analysis.models",
+        "peekOfCode": "def init_db(db_path: str = \"analysis_db.sqlite\") -> None:\n    engine = get_engine(db_path)\n    Base.metadata.drop_all(engine)\n    Base.metadata.create_all(engine)",
+        "detail": "analysis.models",
+        "documentation": {}
+    },
+    {
+        "label": "theoretical_probability",
+        "kind": 2,
+        "importPath": "scripts.analyze_external_datasets",
+        "description": "scripts.analyze_external_datasets",
+        "peekOfCode": "def theoretical_probability(group_size):\n    if group_size > 365:\n        return 1.0\n    probability_no_match = 1.0\n    for i in range(group_size):\n        probability_no_match *= (365 - i) / 365\n    return 1 - probability_no_match\ndef month_day_from_iso(date_text):\n    if not date_text:\n        return \"\"",
+        "detail": "scripts.analyze_external_datasets",
+        "documentation": {}
+    },
+    {
+        "label": "month_day_from_iso",
+        "kind": 2,
+        "importPath": "scripts.analyze_external_datasets",
+        "description": "scripts.analyze_external_datasets",
+        "peekOfCode": "def month_day_from_iso(date_text):\n    if not date_text:\n        return \"\"\n    parts = date_text.split(\"-\")\n    if len(parts) != 3:\n        return \"\"\n    return f\"{parts[1]}-{parts[2]}\"\ndef summarize(label, path, group_key, birthday, min_size=15):\n    groups = defaultdict(list)\n    with path.open(encoding=\"utf-8\", newline=\"\") as csv_file:",
+        "detail": "scripts.analyze_external_datasets",
+        "documentation": {}
+    },
+    {
+        "label": "summarize",
+        "kind": 2,
+        "importPath": "scripts.analyze_external_datasets",
+        "description": "scripts.analyze_external_datasets",
+        "peekOfCode": "def summarize(label, path, group_key, birthday, min_size=15):\n    groups = defaultdict(list)\n    with path.open(encoding=\"utf-8\", newline=\"\") as csv_file:\n        for row in csv.DictReader(csv_file):\n            key = group_key(row)\n            birthday_md = birthday(row)\n            if key and birthday_md:\n                groups[key].append(birthday_md)\n    filtered_groups = {\n        key: birthdays for key, birthdays in groups.items() if len(birthdays) >= min_size",
+        "detail": "scripts.analyze_external_datasets",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "scripts.analyze_external_datasets",
+        "description": "scripts.analyze_external_datasets",
+        "peekOfCode": "def main():\n    summaries = [\n        summarize(\n            \"NFL nflverse rosters 1920-2025\",\n            EXTERNAL / \"nflverse_rosters\" / \"nflverse_rosters_1920_2025.csv\",\n            lambda row: (row.get(\"season\"), row.get(\"team\")),\n            lambda row: month_day_from_iso(row.get(\"birth_date\", \"\")),\n        ),\n        summarize(\n            \"Footballcsv squad cache\",",
+        "detail": "scripts.analyze_external_datasets",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT",
+        "kind": 5,
+        "importPath": "scripts.analyze_external_datasets",
+        "description": "scripts.analyze_external_datasets",
+        "peekOfCode": "ROOT = Path(__file__).resolve().parents[1]\nEXTERNAL = ROOT / \"dataset\" / \"external\"\ndef theoretical_probability(group_size):\n    if group_size > 365:\n        return 1.0\n    probability_no_match = 1.0\n    for i in range(group_size):\n        probability_no_match *= (365 - i) / 365\n    return 1 - probability_no_match\ndef month_day_from_iso(date_text):",
+        "detail": "scripts.analyze_external_datasets",
+        "documentation": {}
+    },
+    {
+        "label": "EXTERNAL",
+        "kind": 5,
+        "importPath": "scripts.analyze_external_datasets",
+        "description": "scripts.analyze_external_datasets",
+        "peekOfCode": "EXTERNAL = ROOT / \"dataset\" / \"external\"\ndef theoretical_probability(group_size):\n    if group_size > 365:\n        return 1.0\n    probability_no_match = 1.0\n    for i in range(group_size):\n        probability_no_match *= (365 - i) / 365\n    return 1 - probability_no_match\ndef month_day_from_iso(date_text):\n    if not date_text:",
+        "detail": "scripts.analyze_external_datasets",
+        "documentation": {}
+    },
+    {
+        "label": "theoretical_probability",
+        "kind": 2,
+        "importPath": "scripts.build_analysis_tables",
+        "description": "scripts.build_analysis_tables",
+        "peekOfCode": "def theoretical_probability(group_size):\n    if group_size > 365:\n        return 1.0\n    probability_no_match = 1.0\n    for i in range(group_size):\n        probability_no_match *= (365 - i) / 365\n    return 1 - probability_no_match\ndef month_day_from_iso(date_text):\n    parts = (date_text or \"\").split(\"-\")\n    if len(parts) != 3:",
+        "detail": "scripts.build_analysis_tables",
+        "documentation": {}
+    },
+    {
+        "label": "month_day_from_iso",
+        "kind": 2,
+        "importPath": "scripts.build_analysis_tables",
+        "description": "scripts.build_analysis_tables",
+        "peekOfCode": "def month_day_from_iso(date_text):\n    parts = (date_text or \"\").split(\"-\")\n    if len(parts) != 3:\n        return \"\"\n    return f\"{parts[1]}-{parts[2]}\"\ndef normalize_gender(value):\n    return {\n        \"M\": \"Male\",\n        \"W\": \"Female\",\n        \"X\": \"Mixed\",",
+        "detail": "scripts.build_analysis_tables",
+        "documentation": {}
+    },
+    {
+        "label": "normalize_gender",
+        "kind": 2,
+        "importPath": "scripts.build_analysis_tables",
+        "description": "scripts.build_analysis_tables",
+        "peekOfCode": "def normalize_gender(value):\n    return {\n        \"M\": \"Male\",\n        \"W\": \"Female\",\n        \"X\": \"Mixed\",\n        \"O\": \"Open\",\n    }.get(value, value or \"Unknown\")\ndef read_csv(path):\n    with path.open(encoding=\"utf-8-sig\", newline=\"\") as csv_file:\n        yield from csv.DictReader(csv_file)",
+        "detail": "scripts.build_analysis_tables",
+        "documentation": {}
+    },
+    {
+        "label": "read_csv",
+        "kind": 2,
+        "importPath": "scripts.build_analysis_tables",
+        "description": "scripts.build_analysis_tables",
+        "peekOfCode": "def read_csv(path):\n    with path.open(encoding=\"utf-8-sig\", newline=\"\") as csv_file:\n        yield from csv.DictReader(csv_file)\ndef player_row(**kwargs):\n    row = {field: \"\" for field in PLAYER_FIELDS}\n    row.update(kwargs)\n    return row\ndef iter_nflverse():\n    path = EXTERNAL / \"nflverse_rosters\" / \"nflverse_rosters_1920_2025.csv\"\n    for row in read_csv(path):",
+        "detail": "scripts.build_analysis_tables",
+        "documentation": {}
+    },
+    {
+        "label": "player_row",
+        "kind": 2,
+        "importPath": "scripts.build_analysis_tables",
+        "description": "scripts.build_analysis_tables",
+        "peekOfCode": "def player_row(**kwargs):\n    row = {field: \"\" for field in PLAYER_FIELDS}\n    row.update(kwargs)\n    return row\ndef iter_nflverse():\n    path = EXTERNAL / \"nflverse_rosters\" / \"nflverse_rosters_1920_2025.csv\"\n    for row in read_csv(path):\n        birth_date = row.get(\"birth_date\", \"\")\n        yield player_row(\n            dataset=\"nflverse_rosters_1920_2025\",",
+        "detail": "scripts.build_analysis_tables",
+        "documentation": {}
+    },
+    {
+        "label": "iter_nflverse",
+        "kind": 2,
+        "importPath": "scripts.build_analysis_tables",
+        "description": "scripts.build_analysis_tables",
+        "peekOfCode": "def iter_nflverse():\n    path = EXTERNAL / \"nflverse_rosters\" / \"nflverse_rosters_1920_2025.csv\"\n    for row in read_csv(path):\n        birth_date = row.get(\"birth_date\", \"\")\n        yield player_row(\n            dataset=\"nflverse_rosters_1920_2025\",\n            sport=\"American Football\",\n            league=\"NFL\",\n            season=row.get(\"season\", \"\"),\n            gender=\"Male\",",
+        "detail": "scripts.build_analysis_tables",
+        "documentation": {}
+    },
+    {
+        "label": "iter_footballcsv",
+        "kind": 2,
+        "importPath": "scripts.build_analysis_tables",
+        "description": "scripts.build_analysis_tables",
+        "peekOfCode": "def iter_footballcsv():\n    path = (\n        EXTERNAL\n        / \"footballcsv_cache_footballsquads\"\n        / \"footballcsv_current_squads_flat.csv\"\n    )\n    for row in read_csv(path):\n        yield player_row(\n            dataset=\"footballcsv_squad_cache\",\n            sport=\"Football\",",
+        "detail": "scripts.build_analysis_tables",
+        "documentation": {}
+    },
+    {
+        "label": "iter_lahman",
+        "kind": 2,
+        "importPath": "scripts.build_analysis_tables",
+        "description": "scripts.build_analysis_tables",
+        "peekOfCode": "def iter_lahman():\n    path = EXTERNAL / \"lahman_sabr\" / \"lahman_team_player_birthdays.csv\"\n    for row in read_csv(path):\n        birth_date = \"\"\n        if row.get(\"birth_year\") and row.get(\"birth_month\") and row.get(\"birth_day\"):\n            birth_date = (\n                f\"{row['birth_year']}-\"\n                f\"{int(row['birth_month']):02d}-\"\n                f\"{int(row['birth_day']):02d}\"\n            )",
+        "detail": "scripts.build_analysis_tables",
+        "documentation": {}
+    },
+    {
+        "label": "iter_nhl_api",
+        "kind": 2,
+        "importPath": "scripts.build_analysis_tables",
+        "description": "scripts.build_analysis_tables",
+        "peekOfCode": "def iter_nhl_api():\n    path = EXTERNAL / \"nhl_api_rosters\" / \"nhl_current_rosters_2025_2026.csv\"\n    for row in read_csv(path):\n        birth_date = row.get(\"birth_date\", \"\")\n        yield player_row(\n            dataset=\"nhl_api_current_rosters_2025_2026\",\n            sport=\"Ice Hockey\",\n            league=\"NHL\",\n            season=row.get(\"season_id\", \"\"),\n            gender=\"Male\",",
+        "detail": "scripts.build_analysis_tables",
+        "documentation": {}
+    },
+    {
+        "label": "iter_fifa_wwc",
+        "kind": 2,
+        "importPath": "scripts.build_analysis_tables",
+        "description": "scripts.build_analysis_tables",
+        "peekOfCode": "def iter_fifa_wwc():\n    path = EXTERNAL / \"fifa_wwc_2023\" / \"fifa_wwc_2023_squads.csv\"\n    for row in read_csv(path):\n        yield player_row(\n            dataset=\"fifa_wwc_2023_squads\",\n            sport=\"Football\",\n            league=\"FIFA Women's World Cup\",\n            competition=row.get(\"tournament\", \"\"),\n            season=\"2023\",\n            gender=\"Female\",",
+        "detail": "scripts.build_analysis_tables",
+        "documentation": {}
+    },
+    {
+        "label": "iter_paris_olympics",
+        "kind": 2,
+        "importPath": "scripts.build_analysis_tables",
+        "description": "scripts.build_analysis_tables",
+        "peekOfCode": "def iter_paris_olympics():\n    path = EXTERNAL / \"paris_2024_olympics\" / \"paris_2024_team_roster_birthdays.csv\"\n    for row in read_csv(path):\n        yield player_row(\n            dataset=\"paris_2024_olympic_team_events\",\n            sport=row.get(\"sport\", \"\"),\n            league=\"Olympics\",\n            competition=row.get(\"event\", \"\"),\n            season=\"2024\",\n            gender=normalize_gender(row.get(\"gender\", \"\")),",
+        "detail": "scripts.build_analysis_tables",
+        "documentation": {}
+    },
+    {
+        "label": "iter_espn",
+        "kind": 2,
+        "importPath": "scripts.build_analysis_tables",
+        "description": "scripts.build_analysis_tables",
+        "peekOfCode": "def iter_espn():\n    path = EXTERNAL / \"espn_current_rosters\" / \"espn_current_rosters.csv\"\n    for row in read_csv(path):\n        yield player_row(\n            dataset=\"espn_current_rosters\",\n            sport=row.get(\"sport\", \"\"),\n            league=row.get(\"league\", \"\"),\n            season=row.get(\"season_name\", \"\") or row.get(\"season_year\", \"\"),\n            gender=row.get(\"gender\", \"\"),\n            popularity_bucket=row.get(\"popularity_bucket\", \"\"),",
+        "detail": "scripts.build_analysis_tables",
+        "documentation": {}
+    },
+    {
+        "label": "group_key",
+        "kind": 2,
+        "importPath": "scripts.build_analysis_tables",
+        "description": "scripts.build_analysis_tables",
+        "peekOfCode": "def group_key(row):\n    return (\n        row[\"dataset\"],\n        row[\"sport\"],\n        row[\"league\"],\n        row[\"competition\"],\n        row[\"season\"],\n        row[\"gender\"],\n        row[\"popularity_bucket\"],\n        row[\"country\"],",
+        "detail": "scripts.build_analysis_tables",
+        "documentation": {}
+    },
+    {
+        "label": "group_record",
+        "kind": 2,
+        "importPath": "scripts.build_analysis_tables",
+        "description": "scripts.build_analysis_tables",
+        "peekOfCode": "def group_record(key, birthdays):\n    (\n        dataset,\n        sport,\n        league,\n        competition,\n        season,\n        gender,\n        popularity_bucket,\n        country,",
+        "detail": "scripts.build_analysis_tables",
+        "documentation": {}
+    },
+    {
+        "label": "write_summary",
+        "kind": 2,
+        "importPath": "scripts.build_analysis_tables",
+        "description": "scripts.build_analysis_tables",
+        "peekOfCode": "def write_summary(path, groups, dimensions, min_valid_birthdays=0):\n    summary = defaultdict(list)\n    for row in groups:\n        if int(row[\"valid_birthdays\"]) < min_valid_birthdays:\n            continue\n        key = tuple(row[dimension] for dimension in dimensions)\n        summary[key].append(row)\n    fields = list(dimensions) + [\n        \"group_count\",\n        \"player_count\",",
+        "detail": "scripts.build_analysis_tables",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "scripts.build_analysis_tables",
+        "description": "scripts.build_analysis_tables",
+        "peekOfCode": "def main():\n    OUT_DIR.mkdir(parents=True, exist_ok=True)\n    players_path = OUT_DIR / \"roster_players.csv\"\n    groups_path = OUT_DIR / \"roster_groups.csv\"\n    iterators = [\n        iter_nflverse,\n        iter_footballcsv,\n        iter_lahman,\n        iter_nhl_api,\n        iter_fifa_wwc,",
+        "detail": "scripts.build_analysis_tables",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT",
+        "kind": 5,
+        "importPath": "scripts.build_analysis_tables",
+        "description": "scripts.build_analysis_tables",
+        "peekOfCode": "ROOT = Path(__file__).resolve().parents[1]\nEXTERNAL = ROOT / \"dataset\" / \"external\"\nOUT_DIR = ROOT / \"dataset\" / \"analysis\"\nPLAYER_FIELDS = [\n    \"dataset\",\n    \"sport\",\n    \"league\",\n    \"competition\",\n    \"season\",\n    \"gender\",",
+        "detail": "scripts.build_analysis_tables",
+        "documentation": {}
+    },
+    {
+        "label": "EXTERNAL",
+        "kind": 5,
+        "importPath": "scripts.build_analysis_tables",
+        "description": "scripts.build_analysis_tables",
+        "peekOfCode": "EXTERNAL = ROOT / \"dataset\" / \"external\"\nOUT_DIR = ROOT / \"dataset\" / \"analysis\"\nPLAYER_FIELDS = [\n    \"dataset\",\n    \"sport\",\n    \"league\",\n    \"competition\",\n    \"season\",\n    \"gender\",\n    \"popularity_bucket\",",
+        "detail": "scripts.build_analysis_tables",
+        "documentation": {}
+    },
+    {
+        "label": "OUT_DIR",
+        "kind": 5,
+        "importPath": "scripts.build_analysis_tables",
+        "description": "scripts.build_analysis_tables",
+        "peekOfCode": "OUT_DIR = ROOT / \"dataset\" / \"analysis\"\nPLAYER_FIELDS = [\n    \"dataset\",\n    \"sport\",\n    \"league\",\n    \"competition\",\n    \"season\",\n    \"gender\",\n    \"popularity_bucket\",\n    \"country\",",
+        "detail": "scripts.build_analysis_tables",
+        "documentation": {}
+    },
+    {
+        "label": "PLAYER_FIELDS",
+        "kind": 5,
+        "importPath": "scripts.build_analysis_tables",
+        "description": "scripts.build_analysis_tables",
+        "peekOfCode": "PLAYER_FIELDS = [\n    \"dataset\",\n    \"sport\",\n    \"league\",\n    \"competition\",\n    \"season\",\n    \"gender\",\n    \"popularity_bucket\",\n    \"country\",\n    \"country_code\",",
+        "detail": "scripts.build_analysis_tables",
+        "documentation": {}
+    },
+    {
+        "label": "GROUP_FIELDS",
+        "kind": 5,
+        "importPath": "scripts.build_analysis_tables",
+        "description": "scripts.build_analysis_tables",
+        "peekOfCode": "GROUP_FIELDS = [\n    \"dataset\",\n    \"sport\",\n    \"league\",\n    \"competition\",\n    \"season\",\n    \"gender\",\n    \"popularity_bucket\",\n    \"country\",\n    \"country_code\",",
+        "detail": "scripts.build_analysis_tables",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_json",
+        "kind": 2,
+        "importPath": "scripts.download_espn_current_rosters",
+        "description": "scripts.download_espn_current_rosters",
+        "peekOfCode": "def fetch_json(url):\n    request = urllib.request.Request(\n        url,\n        headers={\"User-Agent\": \"birthday-paradox-sports-research/1.0\"},\n    )\n    with urllib.request.urlopen(request, timeout=30) as response:\n        return json.loads(response.read().decode(\"utf-8\"))\ndef get_teams(sport_path):\n    data = fetch_json(f\"{BASE_URL}/{sport_path}/teams\")\n    sports = data.get(\"sports\", [])",
+        "detail": "scripts.download_espn_current_rosters",
+        "documentation": {}
+    },
+    {
+        "label": "get_teams",
+        "kind": 2,
+        "importPath": "scripts.download_espn_current_rosters",
+        "description": "scripts.download_espn_current_rosters",
+        "peekOfCode": "def get_teams(sport_path):\n    data = fetch_json(f\"{BASE_URL}/{sport_path}/teams\")\n    sports = data.get(\"sports\", [])\n    leagues = sports[0].get(\"leagues\", []) if sports else []\n    teams = leagues[0].get(\"teams\", []) if leagues else []\n    return [item.get(\"team\", {}) for item in teams]\ndef iter_athletes(roster_data):\n    for item in roster_data.get(\"athletes\", []):\n        if \"items\" in item:\n            position_group = item.get(\"position\", \"\")",
+        "detail": "scripts.download_espn_current_rosters",
+        "documentation": {}
+    },
+    {
+        "label": "iter_athletes",
+        "kind": 2,
+        "importPath": "scripts.download_espn_current_rosters",
+        "description": "scripts.download_espn_current_rosters",
+        "peekOfCode": "def iter_athletes(roster_data):\n    for item in roster_data.get(\"athletes\", []):\n        if \"items\" in item:\n            position_group = item.get(\"position\", \"\")\n            for athlete in item.get(\"items\", []):\n                yield athlete, position_group\n        else:\n            yield item, \"\"\ndef date_from_espn(value):\n    return (value or \"\").split(\"T\", 1)[0]",
+        "detail": "scripts.download_espn_current_rosters",
+        "documentation": {}
+    },
+    {
+        "label": "date_from_espn",
+        "kind": 2,
+        "importPath": "scripts.download_espn_current_rosters",
+        "description": "scripts.download_espn_current_rosters",
+        "peekOfCode": "def date_from_espn(value):\n    return (value or \"\").split(\"T\", 1)[0]\ndef birthday_md(date_text):\n    parts = (date_text or \"\").split(\"-\")\n    if len(parts) != 3:\n        return \"\"\n    return f\"{parts[1]}-{parts[2]}\"\ndef main():\n    OUT_DIR.mkdir(parents=True, exist_ok=True)\n    rows = []",
+        "detail": "scripts.download_espn_current_rosters",
+        "documentation": {}
+    },
+    {
+        "label": "birthday_md",
+        "kind": 2,
+        "importPath": "scripts.download_espn_current_rosters",
+        "description": "scripts.download_espn_current_rosters",
+        "peekOfCode": "def birthday_md(date_text):\n    parts = (date_text or \"\").split(\"-\")\n    if len(parts) != 3:\n        return \"\"\n    return f\"{parts[1]}-{parts[2]}\"\ndef main():\n    OUT_DIR.mkdir(parents=True, exist_ok=True)\n    rows = []\n    errors = []\n    for league in LEAGUES:",
+        "detail": "scripts.download_espn_current_rosters",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "scripts.download_espn_current_rosters",
+        "description": "scripts.download_espn_current_rosters",
+        "peekOfCode": "def main():\n    OUT_DIR.mkdir(parents=True, exist_ok=True)\n    rows = []\n    errors = []\n    for league in LEAGUES:\n        print(f\"Fetching {league['league']} teams\")\n        try:\n            teams = get_teams(league[\"sport_path\"])\n        except Exception as exc:\n            errors.append({\"league\": league[\"league\"], \"stage\": \"teams\", \"error\": str(exc)})",
+        "detail": "scripts.download_espn_current_rosters",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT",
+        "kind": 5,
+        "importPath": "scripts.download_espn_current_rosters",
+        "description": "scripts.download_espn_current_rosters",
+        "peekOfCode": "ROOT = Path(__file__).resolve().parents[1]\nOUT_DIR = ROOT / \"dataset\" / \"external\" / \"espn_current_rosters\"\nOUT_PATH = OUT_DIR / \"espn_current_rosters.csv\"\nMETA_PATH = OUT_DIR / \"source_metadata.json\"\nBASE_URL = \"https://site.api.espn.com/apis/site/v2/sports\"\nLEAGUES = [\n    {\n        \"sport_path\": \"basketball/nba\",\n        \"sport\": \"Basketball\",\n        \"league\": \"NBA\",",
+        "detail": "scripts.download_espn_current_rosters",
+        "documentation": {}
+    },
+    {
+        "label": "OUT_DIR",
+        "kind": 5,
+        "importPath": "scripts.download_espn_current_rosters",
+        "description": "scripts.download_espn_current_rosters",
+        "peekOfCode": "OUT_DIR = ROOT / \"dataset\" / \"external\" / \"espn_current_rosters\"\nOUT_PATH = OUT_DIR / \"espn_current_rosters.csv\"\nMETA_PATH = OUT_DIR / \"source_metadata.json\"\nBASE_URL = \"https://site.api.espn.com/apis/site/v2/sports\"\nLEAGUES = [\n    {\n        \"sport_path\": \"basketball/nba\",\n        \"sport\": \"Basketball\",\n        \"league\": \"NBA\",\n        \"gender\": \"Male\",",
+        "detail": "scripts.download_espn_current_rosters",
+        "documentation": {}
+    },
+    {
+        "label": "OUT_PATH",
+        "kind": 5,
+        "importPath": "scripts.download_espn_current_rosters",
+        "description": "scripts.download_espn_current_rosters",
+        "peekOfCode": "OUT_PATH = OUT_DIR / \"espn_current_rosters.csv\"\nMETA_PATH = OUT_DIR / \"source_metadata.json\"\nBASE_URL = \"https://site.api.espn.com/apis/site/v2/sports\"\nLEAGUES = [\n    {\n        \"sport_path\": \"basketball/nba\",\n        \"sport\": \"Basketball\",\n        \"league\": \"NBA\",\n        \"gender\": \"Male\",\n        \"popularity_bucket\": \"global_major\",",
+        "detail": "scripts.download_espn_current_rosters",
+        "documentation": {}
+    },
+    {
+        "label": "META_PATH",
+        "kind": 5,
+        "importPath": "scripts.download_espn_current_rosters",
+        "description": "scripts.download_espn_current_rosters",
+        "peekOfCode": "META_PATH = OUT_DIR / \"source_metadata.json\"\nBASE_URL = \"https://site.api.espn.com/apis/site/v2/sports\"\nLEAGUES = [\n    {\n        \"sport_path\": \"basketball/nba\",\n        \"sport\": \"Basketball\",\n        \"league\": \"NBA\",\n        \"gender\": \"Male\",\n        \"popularity_bucket\": \"global_major\",\n    },",
+        "detail": "scripts.download_espn_current_rosters",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_URL",
+        "kind": 5,
+        "importPath": "scripts.download_espn_current_rosters",
+        "description": "scripts.download_espn_current_rosters",
+        "peekOfCode": "BASE_URL = \"https://site.api.espn.com/apis/site/v2/sports\"\nLEAGUES = [\n    {\n        \"sport_path\": \"basketball/nba\",\n        \"sport\": \"Basketball\",\n        \"league\": \"NBA\",\n        \"gender\": \"Male\",\n        \"popularity_bucket\": \"global_major\",\n    },\n    {",
+        "detail": "scripts.download_espn_current_rosters",
+        "documentation": {}
+    },
+    {
+        "label": "LEAGUES",
+        "kind": 5,
+        "importPath": "scripts.download_espn_current_rosters",
+        "description": "scripts.download_espn_current_rosters",
+        "peekOfCode": "LEAGUES = [\n    {\n        \"sport_path\": \"basketball/nba\",\n        \"sport\": \"Basketball\",\n        \"league\": \"NBA\",\n        \"gender\": \"Male\",\n        \"popularity_bucket\": \"global_major\",\n    },\n    {\n        \"sport_path\": \"basketball/wnba\",",
+        "detail": "scripts.download_espn_current_rosters",
+        "documentation": {}
+    },
+    {
+        "label": "birthday_md",
+        "kind": 2,
+        "importPath": "scripts.extract_fifa_wwc_2023_squads",
+        "description": "scripts.extract_fifa_wwc_2023_squads",
+        "peekOfCode": "def birthday_md(dob):\n    parts = dob.split(\"/\")\n    if len(parts) != 3:\n        return \"\"\n    return f\"{parts[1]}-{parts[0]}\"\ndef extract_text(pdf_path):\n    return subprocess.check_output(\n        [\"pdftotext\", \"-layout\", str(pdf_path), \"-\"],\n        text=True,\n        encoding=\"utf-8\",",
+        "detail": "scripts.extract_fifa_wwc_2023_squads",
+        "documentation": {}
+    },
+    {
+        "label": "extract_text",
+        "kind": 2,
+        "importPath": "scripts.extract_fifa_wwc_2023_squads",
+        "description": "scripts.extract_fifa_wwc_2023_squads",
+        "peekOfCode": "def extract_text(pdf_path):\n    return subprocess.check_output(\n        [\"pdftotext\", \"-layout\", str(pdf_path), \"-\"],\n        text=True,\n        encoding=\"utf-8\",\n    )\ndef get_team(lines):\n    for line in lines:\n        stripped = line.strip()\n        if stripped.startswith(\"#\") or PLAYER_ROW_RE.match(stripped):",
+        "detail": "scripts.extract_fifa_wwc_2023_squads",
+        "documentation": {}
+    },
+    {
+        "label": "get_team",
+        "kind": 2,
+        "importPath": "scripts.extract_fifa_wwc_2023_squads",
+        "description": "scripts.extract_fifa_wwc_2023_squads",
+        "peekOfCode": "def get_team(lines):\n    for line in lines:\n        stripped = line.strip()\n        if stripped.startswith(\"#\") or PLAYER_ROW_RE.match(stripped):\n            continue\n        match = TEAM_RE.match(stripped)\n        if match:\n            return match.group(\"team\"), match.group(\"code\")\n    return \"\", \"\"\ndef parse_page(page_text, page_number):",
+        "detail": "scripts.extract_fifa_wwc_2023_squads",
+        "documentation": {}
+    },
+    {
+        "label": "parse_page",
+        "kind": 2,
+        "importPath": "scripts.extract_fifa_wwc_2023_squads",
+        "description": "scripts.extract_fifa_wwc_2023_squads",
+        "peekOfCode": "def parse_page(page_text, page_number):\n    lines = page_text.splitlines()\n    team_name, team_code = get_team(lines)\n    rows = []\n    for line in lines:\n        if not PLAYER_ROW_RE.match(line):\n            continue\n        cells = re.split(r\"\\s{2,}\", line.strip())\n        if len(cells) < 9:\n            continue",
+        "detail": "scripts.extract_fifa_wwc_2023_squads",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "scripts.extract_fifa_wwc_2023_squads",
+        "description": "scripts.extract_fifa_wwc_2023_squads",
+        "peekOfCode": "def main():\n    OUT_DIR.mkdir(parents=True, exist_ok=True)\n    text = extract_text(PDF_PATH)\n    rows = []\n    for page_number, page_text in enumerate(text.split(\"\\f\"), start=1):\n        rows.extend(parse_page(page_text, page_number))\n    fields = [\n        \"tournament\",\n        \"sport\",\n        \"gender\",",
+        "detail": "scripts.extract_fifa_wwc_2023_squads",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT",
+        "kind": 5,
+        "importPath": "scripts.extract_fifa_wwc_2023_squads",
+        "description": "scripts.extract_fifa_wwc_2023_squads",
+        "peekOfCode": "ROOT = Path(__file__).resolve().parents[1]\nPDF_PATH = ROOT / \"dataset\" / \"SquadLists-English.pdf\"\nOUT_DIR = ROOT / \"dataset\" / \"external\" / \"fifa_wwc_2023\"\nOUT_PATH = OUT_DIR / \"fifa_wwc_2023_squads.csv\"\nPLAYER_ROW_RE = re.compile(r\"^\\s*\\d{1,2}\\s+(GK|DF|MF|FW)\\s+\")\nTEAM_RE = re.compile(r\"^\\s*(?P<team>.+?)\\s+\\((?P<code>[A-Z]{3})\\)\\s*$\")\ndef birthday_md(dob):\n    parts = dob.split(\"/\")\n    if len(parts) != 3:\n        return \"\"",
+        "detail": "scripts.extract_fifa_wwc_2023_squads",
+        "documentation": {}
+    },
+    {
+        "label": "PDF_PATH",
+        "kind": 5,
+        "importPath": "scripts.extract_fifa_wwc_2023_squads",
+        "description": "scripts.extract_fifa_wwc_2023_squads",
+        "peekOfCode": "PDF_PATH = ROOT / \"dataset\" / \"SquadLists-English.pdf\"\nOUT_DIR = ROOT / \"dataset\" / \"external\" / \"fifa_wwc_2023\"\nOUT_PATH = OUT_DIR / \"fifa_wwc_2023_squads.csv\"\nPLAYER_ROW_RE = re.compile(r\"^\\s*\\d{1,2}\\s+(GK|DF|MF|FW)\\s+\")\nTEAM_RE = re.compile(r\"^\\s*(?P<team>.+?)\\s+\\((?P<code>[A-Z]{3})\\)\\s*$\")\ndef birthday_md(dob):\n    parts = dob.split(\"/\")\n    if len(parts) != 3:\n        return \"\"\n    return f\"{parts[1]}-{parts[0]}\"",
+        "detail": "scripts.extract_fifa_wwc_2023_squads",
+        "documentation": {}
+    },
+    {
+        "label": "OUT_DIR",
+        "kind": 5,
+        "importPath": "scripts.extract_fifa_wwc_2023_squads",
+        "description": "scripts.extract_fifa_wwc_2023_squads",
+        "peekOfCode": "OUT_DIR = ROOT / \"dataset\" / \"external\" / \"fifa_wwc_2023\"\nOUT_PATH = OUT_DIR / \"fifa_wwc_2023_squads.csv\"\nPLAYER_ROW_RE = re.compile(r\"^\\s*\\d{1,2}\\s+(GK|DF|MF|FW)\\s+\")\nTEAM_RE = re.compile(r\"^\\s*(?P<team>.+?)\\s+\\((?P<code>[A-Z]{3})\\)\\s*$\")\ndef birthday_md(dob):\n    parts = dob.split(\"/\")\n    if len(parts) != 3:\n        return \"\"\n    return f\"{parts[1]}-{parts[0]}\"\ndef extract_text(pdf_path):",
+        "detail": "scripts.extract_fifa_wwc_2023_squads",
+        "documentation": {}
+    },
+    {
+        "label": "OUT_PATH",
+        "kind": 5,
+        "importPath": "scripts.extract_fifa_wwc_2023_squads",
+        "description": "scripts.extract_fifa_wwc_2023_squads",
+        "peekOfCode": "OUT_PATH = OUT_DIR / \"fifa_wwc_2023_squads.csv\"\nPLAYER_ROW_RE = re.compile(r\"^\\s*\\d{1,2}\\s+(GK|DF|MF|FW)\\s+\")\nTEAM_RE = re.compile(r\"^\\s*(?P<team>.+?)\\s+\\((?P<code>[A-Z]{3})\\)\\s*$\")\ndef birthday_md(dob):\n    parts = dob.split(\"/\")\n    if len(parts) != 3:\n        return \"\"\n    return f\"{parts[1]}-{parts[0]}\"\ndef extract_text(pdf_path):\n    return subprocess.check_output(",
+        "detail": "scripts.extract_fifa_wwc_2023_squads",
+        "documentation": {}
+    },
+    {
+        "label": "PLAYER_ROW_RE",
+        "kind": 5,
+        "importPath": "scripts.extract_fifa_wwc_2023_squads",
+        "description": "scripts.extract_fifa_wwc_2023_squads",
+        "peekOfCode": "PLAYER_ROW_RE = re.compile(r\"^\\s*\\d{1,2}\\s+(GK|DF|MF|FW)\\s+\")\nTEAM_RE = re.compile(r\"^\\s*(?P<team>.+?)\\s+\\((?P<code>[A-Z]{3})\\)\\s*$\")\ndef birthday_md(dob):\n    parts = dob.split(\"/\")\n    if len(parts) != 3:\n        return \"\"\n    return f\"{parts[1]}-{parts[0]}\"\ndef extract_text(pdf_path):\n    return subprocess.check_output(\n        [\"pdftotext\", \"-layout\", str(pdf_path), \"-\"],",
+        "detail": "scripts.extract_fifa_wwc_2023_squads",
+        "documentation": {}
+    },
+    {
+        "label": "TEAM_RE",
+        "kind": 5,
+        "importPath": "scripts.extract_fifa_wwc_2023_squads",
+        "description": "scripts.extract_fifa_wwc_2023_squads",
+        "peekOfCode": "TEAM_RE = re.compile(r\"^\\s*(?P<team>.+?)\\s+\\((?P<code>[A-Z]{3})\\)\\s*$\")\ndef birthday_md(dob):\n    parts = dob.split(\"/\")\n    if len(parts) != 3:\n        return \"\"\n    return f\"{parts[1]}-{parts[0]}\"\ndef extract_text(pdf_path):\n    return subprocess.check_output(\n        [\"pdftotext\", \"-layout\", str(pdf_path), \"-\"],\n        text=True,",
+        "detail": "scripts.extract_fifa_wwc_2023_squads",
+        "documentation": {}
+    },
+    {
+        "label": "parse_list",
+        "kind": 2,
+        "importPath": "scripts.prepare_paris_2024_team_rosters",
+        "description": "scripts.prepare_paris_2024_team_rosters",
+        "peekOfCode": "def parse_list(value):\n    if not value:\n        return []\n    try:\n        parsed = ast.literal_eval(value)\n    except (SyntaxError, ValueError):\n        return []\n    return parsed if isinstance(parsed, list) else []\ndef birthday_md(date_text):\n    parts = (date_text or \"\").split(\"-\")",
+        "detail": "scripts.prepare_paris_2024_team_rosters",
+        "documentation": {}
+    },
+    {
+        "label": "birthday_md",
+        "kind": 2,
+        "importPath": "scripts.prepare_paris_2024_team_rosters",
+        "description": "scripts.prepare_paris_2024_team_rosters",
+        "peekOfCode": "def birthday_md(date_text):\n    parts = (date_text or \"\").split(\"-\")\n    if len(parts) != 3:\n        return \"\"\n    return f\"{parts[1]}-{parts[2]}\"\ndef load_athletes():\n    athletes = {}\n    with ATHLETES_PATH.open(encoding=\"utf-8-sig\", newline=\"\") as csv_file:\n        for row in csv.DictReader(csv_file):\n            athletes[str(row[\"code\"])] = row",
+        "detail": "scripts.prepare_paris_2024_team_rosters",
+        "documentation": {}
+    },
+    {
+        "label": "load_athletes",
+        "kind": 2,
+        "importPath": "scripts.prepare_paris_2024_team_rosters",
+        "description": "scripts.prepare_paris_2024_team_rosters",
+        "peekOfCode": "def load_athletes():\n    athletes = {}\n    with ATHLETES_PATH.open(encoding=\"utf-8-sig\", newline=\"\") as csv_file:\n        for row in csv.DictReader(csv_file):\n            athletes[str(row[\"code\"])] = row\n    return athletes\ndef main():\n    athletes = load_athletes()\n    rows = []\n    with TEAMS_PATH.open(encoding=\"utf-8-sig\", newline=\"\") as csv_file:",
+        "detail": "scripts.prepare_paris_2024_team_rosters",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "scripts.prepare_paris_2024_team_rosters",
+        "description": "scripts.prepare_paris_2024_team_rosters",
+        "peekOfCode": "def main():\n    athletes = load_athletes()\n    rows = []\n    with TEAMS_PATH.open(encoding=\"utf-8-sig\", newline=\"\") as csv_file:\n        for team in csv.DictReader(csv_file):\n            for athlete_code in parse_list(team.get(\"athletes_codes\", \"\")):\n                athlete = athletes.get(str(athlete_code), {})\n                birth_date = athlete.get(\"birth_date\", \"\")\n                rows.append(\n                    {",
+        "detail": "scripts.prepare_paris_2024_team_rosters",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT",
+        "kind": 5,
+        "importPath": "scripts.prepare_paris_2024_team_rosters",
+        "description": "scripts.prepare_paris_2024_team_rosters",
+        "peekOfCode": "ROOT = Path(__file__).resolve().parents[1]\nPARIS_DIR = ROOT / \"dataset\" / \"external\" / \"paris_2024_olympics\"\nATHLETES_PATH = PARIS_DIR / \"athletes.csv\"\nTEAMS_PATH = PARIS_DIR / \"teams.csv\"\nOUT_PATH = PARIS_DIR / \"paris_2024_team_roster_birthdays.csv\"\ndef parse_list(value):\n    if not value:\n        return []\n    try:\n        parsed = ast.literal_eval(value)",
+        "detail": "scripts.prepare_paris_2024_team_rosters",
+        "documentation": {}
+    },
+    {
+        "label": "PARIS_DIR",
+        "kind": 5,
+        "importPath": "scripts.prepare_paris_2024_team_rosters",
+        "description": "scripts.prepare_paris_2024_team_rosters",
+        "peekOfCode": "PARIS_DIR = ROOT / \"dataset\" / \"external\" / \"paris_2024_olympics\"\nATHLETES_PATH = PARIS_DIR / \"athletes.csv\"\nTEAMS_PATH = PARIS_DIR / \"teams.csv\"\nOUT_PATH = PARIS_DIR / \"paris_2024_team_roster_birthdays.csv\"\ndef parse_list(value):\n    if not value:\n        return []\n    try:\n        parsed = ast.literal_eval(value)\n    except (SyntaxError, ValueError):",
+        "detail": "scripts.prepare_paris_2024_team_rosters",
+        "documentation": {}
+    },
+    {
+        "label": "ATHLETES_PATH",
+        "kind": 5,
+        "importPath": "scripts.prepare_paris_2024_team_rosters",
+        "description": "scripts.prepare_paris_2024_team_rosters",
+        "peekOfCode": "ATHLETES_PATH = PARIS_DIR / \"athletes.csv\"\nTEAMS_PATH = PARIS_DIR / \"teams.csv\"\nOUT_PATH = PARIS_DIR / \"paris_2024_team_roster_birthdays.csv\"\ndef parse_list(value):\n    if not value:\n        return []\n    try:\n        parsed = ast.literal_eval(value)\n    except (SyntaxError, ValueError):\n        return []",
+        "detail": "scripts.prepare_paris_2024_team_rosters",
+        "documentation": {}
+    },
+    {
+        "label": "TEAMS_PATH",
+        "kind": 5,
+        "importPath": "scripts.prepare_paris_2024_team_rosters",
+        "description": "scripts.prepare_paris_2024_team_rosters",
+        "peekOfCode": "TEAMS_PATH = PARIS_DIR / \"teams.csv\"\nOUT_PATH = PARIS_DIR / \"paris_2024_team_roster_birthdays.csv\"\ndef parse_list(value):\n    if not value:\n        return []\n    try:\n        parsed = ast.literal_eval(value)\n    except (SyntaxError, ValueError):\n        return []\n    return parsed if isinstance(parsed, list) else []",
+        "detail": "scripts.prepare_paris_2024_team_rosters",
+        "documentation": {}
+    },
+    {
+        "label": "OUT_PATH",
+        "kind": 5,
+        "importPath": "scripts.prepare_paris_2024_team_rosters",
+        "description": "scripts.prepare_paris_2024_team_rosters",
+        "peekOfCode": "OUT_PATH = PARIS_DIR / \"paris_2024_team_roster_birthdays.csv\"\ndef parse_list(value):\n    if not value:\n        return []\n    try:\n        parsed = ast.literal_eval(value)\n    except (SyntaxError, ValueError):\n        return []\n    return parsed if isinstance(parsed, list) else []\ndef birthday_md(date_text):",
+        "detail": "scripts.prepare_paris_2024_team_rosters",
         "documentation": {}
     },
     {
