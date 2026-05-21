@@ -230,7 +230,9 @@ cricsheet_flat_database.csv
 cricinfo_debug_*.html
 SquadLists-English_tables.csv
 
-# Node / Next.js (website/)
+# Node / Next.js
+node_modules/
+.next/
 website/node_modules/
 website/.next/
 website/out/
