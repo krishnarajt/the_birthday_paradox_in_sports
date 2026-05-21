@@ -1,0 +1,374 @@
+{
+  "sport": "Olympic Volleyball (Volleyball)",
+  "slug": "olympic-volleyball-volleyball",
+  "cohorts": 226,
+  "total_players": 3690,
+  "avg_roster_size": 16.327434,
+  "observed_rate": 0.362832,
+  "theoretical_rate": 0.30196,
+  "deviation": 0.060872,
+  "cohort_kind": "team",
+  "cohort_kind_breakdown": {
+    "team": 226
+  },
+  "by_country": [
+    {
+      "country": "BRA",
+      "cohorts": 15,
+      "observed_rate": 0.533333,
+      "avg_roster_size": 20.6
+    },
+    {
+      "country": "KOR",
+      "cohorts": 13,
+      "observed_rate": 0.461538,
+      "avg_roster_size": 17.692308
+    },
+    {
+      "country": "JPN",
+      "cohorts": 13,
+      "observed_rate": 0.307692,
+      "avg_roster_size": 19.846154
+    },
+    {
+      "country": "ITA",
+      "cohorts": 12,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 17.916667
+    },
+    {
+      "country": "USA",
+      "cohorts": 12,
+      "observed_rate": 0.666667,
+      "avg_roster_size": 23.75
+    },
+    {
+      "country": "POL",
+      "cohorts": 11,
+      "observed_rate": 0.363636,
+      "avg_roster_size": 13.636364
+    },
+    {
+      "country": "CHN",
+      "cohorts": 10,
+      "observed_rate": 0.4,
+      "avg_roster_size": 13.9
+    },
+    {
+      "country": "CUB",
+      "cohorts": 9,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 19.777778
+    },
+    {
+      "country": "BUL",
+      "cohorts": 8,
+      "observed_rate": 0.625,
+      "avg_roster_size": 13.25
+    },
+    {
+      "country": "ARG",
+      "cohorts": 8,
+      "observed_rate": 0.75,
+      "avg_roster_size": 14.875
+    },
+    {
+      "country": "NED",
+      "cohorts": 7,
+      "observed_rate": 0.285714,
+      "avg_roster_size": 15.285714
+    },
+    {
+      "country": "TUN",
+      "cohorts": 7,
+      "observed_rate": 0.142857,
+      "avg_roster_size": 11.714286
+    },
+    {
+      "country": "PER",
+      "cohorts": 7,
+      "observed_rate": 0.428571,
+      "avg_roster_size": 11.285714
+    },
+    {
+      "country": "CAN",
+      "cohorts": 6,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 16.0
+    },
+    {
+      "country": "RUS",
+      "cohorts": 6,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 23.666667
+    },
+    {
+      "country": "URS",
+      "cohorts": 6,
+      "observed_rate": 0.5,
+      "avg_roster_size": 23.166667
+    },
+    {
+      "country": "FRA",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 11.8
+    },
+    {
+      "country": "EGY",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 12.0
+    },
+    {
+      "country": "GDR",
+      "cohorts": 5,
+      "observed_rate": 0.2,
+      "avg_roster_size": 12.0
+    },
+    {
+      "country": "TCH",
+      "cohorts": 5,
+      "observed_rate": 0.2,
+      "avg_roster_size": 16.6
+    },
+    {
+      "country": "GER",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 12.0
+    },
+    {
+      "country": "HUN",
+      "cohorts": 4,
+      "observed_rate": 0.25,
+      "avg_roster_size": 11.25
+    },
+    {
+      "country": "SRB",
+      "cohorts": 4,
+      "observed_rate": 0.25,
+      "avg_roster_size": 16.0
+    },
+    {
+      "country": "ALG",
+      "cohorts": 3,
+      "observed_rate": 1.0,
+      "avg_roster_size": 10.666667
+    },
+    {
+      "country": "ROU",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 18.0
+    },
+    {
+      "country": "SCG",
+      "cohorts": 3,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 11.666667
+    },
+    {
+      "country": "AUS",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 16.0
+    },
+    {
+      "country": "KEN",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 11.666667
+    },
+    {
+      "country": "DOM",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 12.0
+    },
+    {
+      "country": "ESP",
+      "cohorts": 2,
+      "observed_rate": 0.5,
+      "avg_roster_size": 18.0
+    },
+    {
+      "country": "VEN",
+      "cohorts": 2,
+      "observed_rate": 0.5,
+      "avg_roster_size": 17.0
+    },
+    {
+      "country": "TUR",
+      "cohorts": 2,
+      "observed_rate": 0.5,
+      "avg_roster_size": 12.0
+    },
+    {
+      "country": "IRI",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 12.0
+    },
+    {
+      "country": "FRG",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 17.0
+    },
+    {
+      "country": "MEX",
+      "cohorts": 2,
+      "observed_rate": 0.5,
+      "avg_roster_size": 18.0
+    },
+    {
+      "country": "BEL",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 12.0
+    },
+    {
+      "country": "EUN",
+      "cohorts": 1,
+      "observed_rate": 1.0,
+      "avg_roster_size": 22.0
+    },
+    {
+      "country": "CMR",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 10.0
+    },
+    {
+      "country": "CRO",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 11.0
+    },
+    {
+      "country": "GBR",
+      "cohorts": 1,
+      "observed_rate": 1.0,
+      "avg_roster_size": 24.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 131,
+      "observed_rate": 0.458015,
+      "theoretical_rate": 0.361709,
+      "avg_roster_size": 18.259542
+    },
+    {
+      "gender": "M",
+      "cohorts": 95,
+      "observed_rate": 0.231579,
+      "theoretical_rate": 0.21957,
+      "avg_roster_size": 13.663158
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "CAN Volleyball (Volleyball) (1976 Summer)",
+      "season": "1976 Summer",
+      "country": "CAN",
+      "gender": "F",
+      "roster_size": 24,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.538344
+    },
+    {
+      "team": "BRA Volleyball (Volleyball) (1980 Summer)",
+      "season": "1980 Summer",
+      "country": "BRA",
+      "gender": "F",
+      "roster_size": 24,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.538344
+    },
+    {
+      "team": "BRA Volleyball (Volleyball) (1992 Summer)",
+      "season": "1992 Summer",
+      "country": "BRA",
+      "gender": "F",
+      "roster_size": 24,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.538344
+    },
+    {
+      "team": "BRA Volleyball (Volleyball) (1996 Summer)",
+      "season": "1996 Summer",
+      "country": "BRA",
+      "gender": "F",
+      "roster_size": 24,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.538344
+    },
+    {
+      "team": "BRA Volleyball (Volleyball) (2000 Summer)",
+      "season": "2000 Summer",
+      "country": "BRA",
+      "gender": "F",
+      "roster_size": 24,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.538344
+    },
+    {
+      "team": "BRA Volleyball (Volleyball) (2004 Summer)",
+      "season": "2004 Summer",
+      "country": "BRA",
+      "gender": "F",
+      "roster_size": 24,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.538344
+    },
+    {
+      "team": "BRA Volleyball (Volleyball) (2008 Summer)",
+      "season": "2008 Summer",
+      "country": "BRA",
+      "gender": "F",
+      "roster_size": 24,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.538344
+    },
+    {
+      "team": "CUB Volleyball (Volleyball) (2000 Summer)",
+      "season": "2000 Summer",
+      "country": "CUB",
+      "gender": "F",
+      "roster_size": 24,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.538344
+    },
+    {
+      "team": "ESP Volleyball (Volleyball) (1992 Summer)",
+      "season": "1992 Summer",
+      "country": "ESP",
+      "gender": "F",
+      "roster_size": 24,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.538344
+    },
+    {
+      "team": "ITA Volleyball (Volleyball) (2008 Summer)",
+      "season": "2008 Summer",
+      "country": "ITA",
+      "gender": "M",
+      "roster_size": 24,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.538344
+    }
+  ]
+}

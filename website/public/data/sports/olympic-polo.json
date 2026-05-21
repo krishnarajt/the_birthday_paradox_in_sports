@@ -1,0 +1,137 @@
+{
+  "sport": "Olympic Polo",
+  "slug": "olympic-polo",
+  "cohorts": 8,
+  "total_players": 54,
+  "avg_roster_size": 6.75,
+  "observed_rate": 0.125,
+  "theoretical_rate": 0.058361,
+  "deviation": 0.066639,
+  "cohort_kind": "team",
+  "cohort_kind_breakdown": {
+    "team": 8
+  },
+  "by_country": [
+    {
+      "country": "ESP",
+      "cohorts": 2,
+      "observed_rate": 0.5,
+      "avg_roster_size": 5.5
+    },
+    {
+      "country": "GBR",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 10.5
+    },
+    {
+      "country": "FRA",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "ARG",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "HUN",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "M",
+      "cohorts": 8,
+      "observed_rate": 0.125,
+      "theoretical_rate": 0.058361,
+      "avg_roster_size": 6.75
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "ESP Polo (1920 Summer)",
+      "season": "1920 Summer",
+      "country": "ESP",
+      "gender": "M",
+      "roster_size": 5,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.027136
+    },
+    {
+      "team": "GBR Polo (1908 Summer)",
+      "season": "1908 Summer",
+      "country": "GBR",
+      "gender": "M",
+      "roster_size": 12,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.167025
+    },
+    {
+      "team": "GBR Polo (1900 Summer)",
+      "season": "1900 Summer",
+      "country": "GBR",
+      "gender": "M",
+      "roster_size": 9,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.094624
+    },
+    {
+      "team": "FRA Polo (1900 Summer)",
+      "season": "1900 Summer",
+      "country": "FRA",
+      "gender": "M",
+      "roster_size": 7,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.056236
+    },
+    {
+      "team": "ESP Polo (1924 Summer)",
+      "season": "1924 Summer",
+      "country": "ESP",
+      "gender": "M",
+      "roster_size": 6,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.040462
+    },
+    {
+      "team": "ARG Polo (1924 Summer)",
+      "season": "1924 Summer",
+      "country": "ARG",
+      "gender": "M",
+      "roster_size": 5,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.027136
+    },
+    {
+      "team": "FRA Polo (1924 Summer)",
+      "season": "1924 Summer",
+      "country": "FRA",
+      "gender": "M",
+      "roster_size": 5,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.027136
+    },
+    {
+      "team": "HUN Polo (1936 Summer)",
+      "season": "1936 Summer",
+      "country": "HUN",
+      "gender": "M",
+      "roster_size": 5,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.027136
+    }
+  ]
+}

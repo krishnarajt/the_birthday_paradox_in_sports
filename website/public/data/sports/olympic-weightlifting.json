@@ -1,0 +1,374 @@
+{
+  "sport": "Olympic Weightlifting",
+  "slug": "olympic-weightlifting",
+  "cohorts": 331,
+  "total_players": 2368,
+  "avg_roster_size": 7.154079,
+  "observed_rate": 0.057402,
+  "theoretical_rate": 0.062964,
+  "deviation": -0.005562,
+  "cohort_kind": "delegation",
+  "cohort_kind_breakdown": {
+    "delegation": 331
+  },
+  "by_country": [
+    {
+      "country": "USA",
+      "cohorts": 19,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.052632
+    },
+    {
+      "country": "GBR",
+      "cohorts": 16,
+      "observed_rate": 0.0625,
+      "avg_roster_size": 7.3125
+    },
+    {
+      "country": "JPN",
+      "cohorts": 15,
+      "observed_rate": 0.133333,
+      "avg_roster_size": 7.4
+    },
+    {
+      "country": "KOR",
+      "cohorts": 14,
+      "observed_rate": 0.071429,
+      "avg_roster_size": 7.785714
+    },
+    {
+      "country": "POL",
+      "cohorts": 14,
+      "observed_rate": 0.071429,
+      "avg_roster_size": 7.857143
+    },
+    {
+      "country": "FRA",
+      "cohorts": 13,
+      "observed_rate": 0.076923,
+      "avg_roster_size": 7.153846
+    },
+    {
+      "country": "HUN",
+      "cohorts": 11,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.0
+    },
+    {
+      "country": "GER",
+      "cohorts": 11,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.909091
+    },
+    {
+      "country": "CHN",
+      "cohorts": 11,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.272727
+    },
+    {
+      "country": "BUL",
+      "cohorts": 11,
+      "observed_rate": 0.090909,
+      "avg_roster_size": 8.090909
+    },
+    {
+      "country": "IRI",
+      "cohorts": 10,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.9
+    },
+    {
+      "country": "EGY",
+      "cohorts": 9,
+      "observed_rate": 0.111111,
+      "avg_roster_size": 6.444444
+    },
+    {
+      "country": "URS",
+      "cohorts": 9,
+      "observed_rate": 0.222222,
+      "avg_roster_size": 7.777778
+    },
+    {
+      "country": "CUB",
+      "cohorts": 8,
+      "observed_rate": 0.125,
+      "avg_roster_size": 6.625
+    },
+    {
+      "country": "ROU",
+      "cohorts": 7,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.857143
+    },
+    {
+      "country": "AUT",
+      "cohorts": 7,
+      "observed_rate": 0.285714,
+      "avg_roster_size": 7.714286
+    },
+    {
+      "country": "SWE",
+      "cohorts": 7,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.714286
+    },
+    {
+      "country": "TUR",
+      "cohorts": 7,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "TPE",
+      "cohorts": 6,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "GRE",
+      "cohorts": 6,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.833333
+    },
+    {
+      "country": "COL",
+      "cohorts": 6,
+      "observed_rate": 0.166667,
+      "avg_roster_size": 7.666667
+    },
+    {
+      "country": "INA",
+      "cohorts": 6,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.666667
+    },
+    {
+      "country": "ITA",
+      "cohorts": 6,
+      "observed_rate": 0.166667,
+      "avg_roster_size": 7.166667
+    },
+    {
+      "country": "UKR",
+      "cohorts": 6,
+      "observed_rate": 0.166667,
+      "avg_roster_size": 8.166667
+    },
+    {
+      "country": "FIN",
+      "cohorts": 6,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.333333
+    },
+    {
+      "country": "AUS",
+      "cohorts": 6,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.5
+    },
+    {
+      "country": "BLR",
+      "cohorts": 6,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.0
+    },
+    {
+      "country": "RUS",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.0
+    },
+    {
+      "country": "THA",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.6
+    },
+    {
+      "country": "TCH",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.6
+    },
+    {
+      "country": "KAZ",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.4
+    },
+    {
+      "country": "FRG",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.2
+    },
+    {
+      "country": "CAN",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.4
+    },
+    {
+      "country": "PRK",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.4
+    },
+    {
+      "country": "ARM",
+      "cohorts": 4,
+      "observed_rate": 0.25,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "AZE",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "GDR",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.0
+    },
+    {
+      "country": "UZB",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.333333
+    },
+    {
+      "country": "BEL",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "MDA",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 35,
+      "observed_rate": 0.057143,
+      "theoretical_rate": 0.054009,
+      "avg_roster_size": 6.657143
+    },
+    {
+      "gender": "M",
+      "cohorts": 296,
+      "observed_rate": 0.057432,
+      "theoretical_rate": 0.064023,
+      "avg_roster_size": 7.212838
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "FRA Weightlifting (1924 Summer)",
+      "season": "1924 Summer",
+      "country": "FRA",
+      "gender": "M",
+      "roster_size": 14,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.223103
+    },
+    {
+      "team": "AUT Weightlifting (1924 Summer)",
+      "season": "1924 Summer",
+      "country": "AUT",
+      "gender": "M",
+      "roster_size": 12,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.167025
+    },
+    {
+      "team": "ITA Weightlifting (1924 Summer)",
+      "season": "1924 Summer",
+      "country": "ITA",
+      "gender": "M",
+      "roster_size": 12,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.167025
+    },
+    {
+      "team": "ARM Weightlifting (1996 Summer)",
+      "season": "1996 Summer",
+      "country": "ARM",
+      "gender": "M",
+      "roster_size": 10,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.116948
+    },
+    {
+      "team": "JPN Weightlifting (1988 Summer)",
+      "season": "1988 Summer",
+      "country": "JPN",
+      "gender": "M",
+      "roster_size": 10,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.116948
+    },
+    {
+      "team": "KOR Weightlifting (1988 Summer)",
+      "season": "1988 Summer",
+      "country": "KOR",
+      "gender": "M",
+      "roster_size": 10,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.116948
+    },
+    {
+      "team": "NED Weightlifting (1928 Summer)",
+      "season": "1928 Summer",
+      "country": "NED",
+      "gender": "M",
+      "roster_size": 10,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.116948
+    },
+    {
+      "team": "URS Weightlifting (1980 Summer)",
+      "season": "1980 Summer",
+      "country": "URS",
+      "gender": "M",
+      "roster_size": 10,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.116948
+    },
+    {
+      "team": "BUL Weightlifting (1976 Summer)",
+      "season": "1976 Summer",
+      "country": "BUL",
+      "gender": "M",
+      "roster_size": 9,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.094624
+    },
+    {
+      "team": "JPN Weightlifting (1984 Summer)",
+      "season": "1984 Summer",
+      "country": "JPN",
+      "gender": "M",
+      "roster_size": 9,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.094624
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "sport": "Olympic Tug-Of-War",
+  "slug": "olympic-tug-of-war",
+  "cohorts": 8,
+  "total_players": 79,
+  "avg_roster_size": 9.875,
+  "observed_rate": 0.0,
+  "theoretical_rate": 0.12332,
+  "deviation": -0.12332,
+  "cohort_kind": "delegation",
+  "cohort_kind_breakdown": {
+    "delegation": 8
+  },
+  "by_country": [
+    {
+      "country": "GBR",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 12.0
+    },
+    {
+      "country": "SWE",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.0
+    },
+    {
+      "country": "USA",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.5
+    },
+    {
+      "country": "NED",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "M",
+      "cohorts": 8,
+      "observed_rate": 0.0,
+      "theoretical_rate": 0.12332,
+      "avg_roster_size": 9.875
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "GBR Tug-Of-War (1908 Summer)",
+      "season": "1908 Summer",
+      "country": "GBR",
+      "gender": "M",
+      "roster_size": 19,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.379119
+    },
+    {
+      "team": "USA Tug-Of-War (1904 Summer)",
+      "season": "1904 Summer",
+      "country": "USA",
+      "gender": "M",
+      "roster_size": 11,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.141141
+    },
+    {
+      "team": "GBR Tug-Of-War (1920 Summer)",
+      "season": "1920 Summer",
+      "country": "GBR",
+      "gender": "M",
+      "roster_size": 9,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.094624
+    },
+    {
+      "team": "GBR Tug-Of-War (1912 Summer)",
+      "season": "1912 Summer",
+      "country": "GBR",
+      "gender": "M",
+      "roster_size": 8,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.074335
+    },
+    {
+      "team": "NED Tug-Of-War (1920 Summer)",
+      "season": "1920 Summer",
+      "country": "NED",
+      "gender": "M",
+      "roster_size": 8,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.074335
+    },
+    {
+      "team": "SWE Tug-Of-War (1908 Summer)",
+      "season": "1908 Summer",
+      "country": "SWE",
+      "gender": "M",
+      "roster_size": 8,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.074335
+    },
+    {
+      "team": "SWE Tug-Of-War (1912 Summer)",
+      "season": "1912 Summer",
+      "country": "SWE",
+      "gender": "M",
+      "roster_size": 8,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.074335
+    },
+    {
+      "team": "USA Tug-Of-War (1920 Summer)",
+      "season": "1920 Summer",
+      "country": "USA",
+      "gender": "M",
+      "roster_size": 8,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.074335
+    }
+  ]
+}

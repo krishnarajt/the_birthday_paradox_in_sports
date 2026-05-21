@@ -1,0 +1,12 @@
+{
+  "total_cohorts": 38228,
+  "total_players_roster_rows": 971027,
+  "total_sports": 93,
+  "total_countries": 289,
+  "cohorts_with_shared_birthday": 18147,
+  "observed_shared_rate": 0.474704,
+  "theoretical_average_rate": 0.447641,
+  "deviation_obs_minus_theo": 0.027063,
+  "avg_roster_size": 22.899524,
+  "data_sources": 10
+}

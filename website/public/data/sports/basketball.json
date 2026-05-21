@@ -1,0 +1,200 @@
+{
+  "sport": "Basketball",
+  "slug": "basketball",
+  "cohorts": 45,
+  "total_players": 745,
+  "avg_roster_size": 16.555556,
+  "observed_rate": 0.466667,
+  "theoretical_rate": 0.302335,
+  "deviation": 0.164331,
+  "cohort_kind": "team",
+  "cohort_kind_breakdown": {
+    "team": 45
+  },
+  "by_country": [
+    {
+      "country": "USA",
+      "cohorts": 26,
+      "observed_rate": 0.423077,
+      "avg_roster_size": 16.653846
+    },
+    {
+      "country": "Australi",
+      "cohorts": 4,
+      "observed_rate": 0.25,
+      "avg_roster_size": 14.75
+    },
+    {
+      "country": "Canada",
+      "cohorts": 3,
+      "observed_rate": 0.666667,
+      "avg_roster_size": 16.333333
+    },
+    {
+      "country": "Belgium",
+      "cohorts": 1,
+      "observed_rate": 1.0,
+      "avg_roster_size": 14.0
+    },
+    {
+      "country": "Bahamas",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 17.0
+    },
+    {
+      "country": "France",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 18.0
+    },
+    {
+      "country": "Cameroon",
+      "cohorts": 1,
+      "observed_rate": 1.0,
+      "avg_roster_size": 14.0
+    },
+    {
+      "country": "Israel",
+      "cohorts": 1,
+      "observed_rate": 1.0,
+      "avg_roster_size": 18.0
+    },
+    {
+      "country": "New Zeal",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 17.0
+    },
+    {
+      "country": "Nigeria",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 19.0
+    },
+    {
+      "country": "Spain",
+      "cohorts": 1,
+      "observed_rate": 1.0,
+      "avg_roster_size": 21.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 15,
+      "observed_rate": 0.466667,
+      "theoretical_rate": 0.223632,
+      "avg_roster_size": 14.0
+    },
+    {
+      "gender": "M",
+      "cohorts": 30,
+      "observed_rate": 0.466667,
+      "theoretical_rate": 0.341687,
+      "avg_roster_size": 17.833333
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "Memphis Grizzlies (NBA)",
+      "season": "2025-26",
+      "country": "Spain",
+      "gender": "M",
+      "roster_size": 21,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.443688
+    },
+    {
+      "team": "Brooklyn Nets (NBA)",
+      "season": "2025-26",
+      "country": "USA",
+      "gender": "M",
+      "roster_size": 19,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.379119
+    },
+    {
+      "team": "Charlotte Hornets (NBA)",
+      "season": "2025-26",
+      "country": "USA",
+      "gender": "M",
+      "roster_size": 18,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.346911
+    },
+    {
+      "team": "Chicago Bulls (NBA)",
+      "season": "2025-26",
+      "country": null,
+      "gender": "M",
+      "roster_size": 18,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.346911
+    },
+    {
+      "team": "Denver Nuggets (NBA)",
+      "season": "2025-26",
+      "country": "USA",
+      "gender": "M",
+      "roster_size": 18,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.346911
+    },
+    {
+      "team": "New Orleans Pelicans (NBA)",
+      "season": "2025-26",
+      "country": "USA",
+      "gender": "M",
+      "roster_size": 18,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.346911
+    },
+    {
+      "team": "New York Knicks (NBA)",
+      "season": "2025-26",
+      "country": "USA",
+      "gender": "M",
+      "roster_size": 18,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.346911
+    },
+    {
+      "team": "Oklahoma City Thunder (NBA)",
+      "season": "2025-26",
+      "country": "USA",
+      "gender": "M",
+      "roster_size": 18,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.346911
+    },
+    {
+      "team": "Portland Trail Blazers (NBA)",
+      "season": "2025-26",
+      "country": "Israel",
+      "gender": "M",
+      "roster_size": 18,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.346911
+    },
+    {
+      "team": "Washington Wizards (NBA)",
+      "season": "2025-26",
+      "country": "USA",
+      "gender": "M",
+      "roster_size": 18,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.346911
+    }
+  ]
+}

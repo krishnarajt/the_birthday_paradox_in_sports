@@ -1,0 +1,266 @@
+{
+  "sport": "Olympic Canoe Slalom (Canoeing)",
+  "slug": "olympic-canoe-slalom-canoeing",
+  "cohorts": 76,
+  "total_players": 551,
+  "avg_roster_size": 7.25,
+  "observed_rate": 0.092105,
+  "theoretical_rate": 0.070576,
+  "deviation": 0.021529,
+  "cohort_kind": "delegation",
+  "cohort_kind_breakdown": {
+    "delegation": 76
+  },
+  "by_country": [
+    {
+      "country": "POL",
+      "cohorts": 8,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.375
+    },
+    {
+      "country": "FRA",
+      "cohorts": 8,
+      "observed_rate": 0.125,
+      "avg_roster_size": 7.875
+    },
+    {
+      "country": "GER",
+      "cohorts": 7,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.142857
+    },
+    {
+      "country": "USA",
+      "cohorts": 7,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.285714
+    },
+    {
+      "country": "CZE",
+      "cohorts": 6,
+      "observed_rate": 0.166667,
+      "avg_roster_size": 7.166667
+    },
+    {
+      "country": "GBR",
+      "cohorts": 6,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.166667
+    },
+    {
+      "country": "SVK",
+      "cohorts": 5,
+      "observed_rate": 0.6,
+      "avg_roster_size": 6.6
+    },
+    {
+      "country": "AUS",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.5
+    },
+    {
+      "country": "SLO",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.25
+    },
+    {
+      "country": "CAN",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.333333
+    },
+    {
+      "country": "ESP",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.666667
+    },
+    {
+      "country": "TCH",
+      "cohorts": 2,
+      "observed_rate": 0.5,
+      "avg_roster_size": 14.0
+    },
+    {
+      "country": "CHN",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "JPN",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "ITA",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "AUT",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "BRA",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "FRG",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 14.0
+    },
+    {
+      "country": "GDR",
+      "cohorts": 1,
+      "observed_rate": 1.0,
+      "avg_roster_size": 15.0
+    },
+    {
+      "country": "RUS",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "SUI",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "YUG",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 43,
+      "observed_rate": 0.139535,
+      "theoretical_rate": 0.096407,
+      "avg_roster_size": 8.488372
+    },
+    {
+      "gender": "M",
+      "cohorts": 33,
+      "observed_rate": 0.030303,
+      "theoretical_rate": 0.036917,
+      "avg_roster_size": 5.636364
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "GDR Canoe Slalom (Canoeing) (1972 Summer)",
+      "season": "1972 Summer",
+      "country": "GDR",
+      "gender": "F",
+      "roster_size": 15,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.252901
+    },
+    {
+      "team": "TCH Canoe Slalom (Canoeing) (1992 Summer)",
+      "season": "1992 Summer",
+      "country": "TCH",
+      "gender": "F",
+      "roster_size": 14,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.223103
+    },
+    {
+      "team": "CZE Canoe Slalom (Canoeing) (1996 Summer)",
+      "season": "1996 Summer",
+      "country": "CZE",
+      "gender": "F",
+      "roster_size": 11,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.141141
+    },
+    {
+      "team": "FRA Canoe Slalom (Canoeing) (1972 Summer)",
+      "season": "1972 Summer",
+      "country": "FRA",
+      "gender": "M",
+      "roster_size": 8,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.074335
+    },
+    {
+      "team": "SVK Canoe Slalom (Canoeing) (2000 Summer)",
+      "season": "2000 Summer",
+      "country": "SVK",
+      "gender": "F",
+      "roster_size": 7,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.056236
+    },
+    {
+      "team": "SVK Canoe Slalom (Canoeing) (2004 Summer)",
+      "season": "2004 Summer",
+      "country": "SVK",
+      "gender": "F",
+      "roster_size": 6,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.040462
+    },
+    {
+      "team": "SVK Canoe Slalom (Canoeing) (2008 Summer)",
+      "season": "2008 Summer",
+      "country": "SVK",
+      "gender": "F",
+      "roster_size": 5,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.027136
+    },
+    {
+      "team": "FRA Canoe Slalom (Canoeing) (1992 Summer)",
+      "season": "1992 Summer",
+      "country": "FRA",
+      "gender": "F",
+      "roster_size": 15,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.252901
+    },
+    {
+      "team": "USA Canoe Slalom (Canoeing) (1992 Summer)",
+      "season": "1992 Summer",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 15,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.252901
+    },
+    {
+      "team": "FRG Canoe Slalom (Canoeing) (1972 Summer)",
+      "season": "1972 Summer",
+      "country": "FRG",
+      "gender": "F",
+      "roster_size": 14,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.223103
+    }
+  ]
+}

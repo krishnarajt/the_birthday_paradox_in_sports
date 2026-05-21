@@ -1,0 +1,260 @@
+{
+  "sport": "Olympic Short Track Speed Skating (Skating)",
+  "slug": "olympic-short-track-speed-skating-skating",
+  "cohorts": 100,
+  "total_players": 774,
+  "avg_roster_size": 7.74,
+  "observed_rate": 0.08,
+  "theoretical_rate": 0.073503,
+  "deviation": 0.006497,
+  "cohort_kind": "delegation",
+  "cohort_kind_breakdown": {
+    "delegation": 100
+  },
+  "by_country": [
+    {
+      "country": "JPN",
+      "cohorts": 10,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.2
+    },
+    {
+      "country": "ITA",
+      "cohorts": 10,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.0
+    },
+    {
+      "country": "KOR",
+      "cohorts": 9,
+      "observed_rate": 0.222222,
+      "avg_roster_size": 9.0
+    },
+    {
+      "country": "CAN",
+      "cohorts": 9,
+      "observed_rate": 0.222222,
+      "avg_roster_size": 9.666667
+    },
+    {
+      "country": "CHN",
+      "cohorts": 9,
+      "observed_rate": 0.111111,
+      "avg_roster_size": 8.555556
+    },
+    {
+      "country": "USA",
+      "cohorts": 8,
+      "observed_rate": 0.125,
+      "avg_roster_size": 8.5
+    },
+    {
+      "country": "NED",
+      "cohorts": 7,
+      "observed_rate": 0.142857,
+      "avg_roster_size": 6.714286
+    },
+    {
+      "country": "GBR",
+      "cohorts": 6,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.333333
+    },
+    {
+      "country": "AUS",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "HUN",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.4
+    },
+    {
+      "country": "FRA",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.25
+    },
+    {
+      "country": "GER",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.75
+    },
+    {
+      "country": "KAZ",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.333333
+    },
+    {
+      "country": "RUS",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.666667
+    },
+    {
+      "country": "ROC",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.0
+    },
+    {
+      "country": "BEL",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "BUL",
+      "cohorts": 1,
+      "observed_rate": 1.0,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "EUN",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "NOR",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "POL",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "PRK",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 71,
+      "observed_rate": 0.084507,
+      "theoretical_rate": 0.073783,
+      "avg_roster_size": 7.760563
+    },
+    {
+      "gender": "M",
+      "cohorts": 29,
+      "observed_rate": 0.068966,
+      "theoretical_rate": 0.072819,
+      "avg_roster_size": 7.689655
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "KOR Short Track Speed Skating (Skating) (2006 Winter)",
+      "season": "2006 Winter",
+      "country": "KOR",
+      "gender": "F",
+      "roster_size": 10,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.116948
+    },
+    {
+      "team": "USA Short Track Speed Skating (Skating) (2010 Winter)",
+      "season": "2010 Winter",
+      "country": "USA",
+      "gender": "M",
+      "roster_size": 10,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.116948
+    },
+    {
+      "team": "KOR Short Track Speed Skating (Skating) (2022 Winter)",
+      "season": "2022 Winter",
+      "country": "KOR",
+      "gender": "M",
+      "roster_size": 10,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.116948
+    },
+    {
+      "team": "CHN Short Track Speed Skating (Skating) (2018 Winter)",
+      "season": "2018 Winter",
+      "country": "CHN",
+      "gender": "F",
+      "roster_size": 10,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.116948
+    },
+    {
+      "team": "CAN Short Track Speed Skating (Skating) (1994 Winter)",
+      "season": "1994 Winter",
+      "country": "CAN",
+      "gender": "F",
+      "roster_size": 9,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.094624
+    },
+    {
+      "team": "CAN Short Track Speed Skating (Skating) (1992 Winter)",
+      "season": "1992 Winter",
+      "country": "CAN",
+      "gender": "F",
+      "roster_size": 9,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.094624
+    },
+    {
+      "team": "BUL Short Track Speed Skating (Skating) (2002 Winter)",
+      "season": "2002 Winter",
+      "country": "BUL",
+      "gender": "F",
+      "roster_size": 7,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.056236
+    },
+    {
+      "team": "NED Short Track Speed Skating (Skating) (1998 Winter)",
+      "season": "1998 Winter",
+      "country": "NED",
+      "gender": "F",
+      "roster_size": 5,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.027136
+    },
+    {
+      "team": "USA Short Track Speed Skating (Skating) (1998 Winter)",
+      "season": "1998 Winter",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 11,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.141141
+    },
+    {
+      "team": "JPN Short Track Speed Skating (Skating) (1998 Winter)",
+      "season": "1998 Winter",
+      "country": "JPN",
+      "gender": "F",
+      "roster_size": 11,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.141141
+    }
+  ]
+}

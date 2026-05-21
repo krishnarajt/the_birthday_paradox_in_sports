@@ -1,0 +1,147 @@
+{
+  "sport": "Olympic Rugby (Rugby)",
+  "slug": "olympic-rugby-rugby",
+  "cohorts": 9,
+  "total_players": 121,
+  "avg_roster_size": 13.444444,
+  "observed_rate": 0.222222,
+  "theoretical_rate": 0.217894,
+  "deviation": 0.004328,
+  "cohort_kind": "team",
+  "cohort_kind_breakdown": {
+    "team": 9
+  },
+  "by_country": [
+    {
+      "country": "FRA",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 15.333333
+    },
+    {
+      "country": "USA",
+      "cohorts": 2,
+      "observed_rate": 0.5,
+      "avg_roster_size": 16.5
+    },
+    {
+      "country": "GBR",
+      "cohorts": 2,
+      "observed_rate": 0.5,
+      "avg_roster_size": 10.0
+    },
+    {
+      "country": "ANZ",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 15.0
+    },
+    {
+      "country": "GER",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "M",
+      "cohorts": 9,
+      "observed_rate": 0.222222,
+      "theoretical_rate": 0.217894,
+      "avg_roster_size": 13.444444
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "USA Rugby (Rugby) (1920 Summer)",
+      "season": "1920 Summer",
+      "country": "USA",
+      "gender": "M",
+      "roster_size": 14,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.223103
+    },
+    {
+      "team": "GBR Rugby (Rugby) (1908 Summer)",
+      "season": "1908 Summer",
+      "country": "GBR",
+      "gender": "M",
+      "roster_size": 13,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.19441
+    },
+    {
+      "team": "FRA Rugby (Rugby) (1924 Summer)",
+      "season": "1924 Summer",
+      "country": "FRA",
+      "gender": "M",
+      "roster_size": 19,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.379119
+    },
+    {
+      "team": "USA Rugby (Rugby) (1924 Summer)",
+      "season": "1924 Summer",
+      "country": "USA",
+      "gender": "M",
+      "roster_size": 19,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.379119
+    },
+    {
+      "team": "ANZ Rugby (Rugby) (1908 Summer)",
+      "season": "1908 Summer",
+      "country": "ANZ",
+      "gender": "M",
+      "roster_size": 15,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.252901
+    },
+    {
+      "team": "FRA Rugby (Rugby) (1900 Summer)",
+      "season": "1900 Summer",
+      "country": "FRA",
+      "gender": "M",
+      "roster_size": 15,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.252901
+    },
+    {
+      "team": "FRA Rugby (Rugby) (1920 Summer)",
+      "season": "1920 Summer",
+      "country": "FRA",
+      "gender": "M",
+      "roster_size": 12,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.167025
+    },
+    {
+      "team": "GBR Rugby (Rugby) (1900 Summer)",
+      "season": "1900 Summer",
+      "country": "GBR",
+      "gender": "M",
+      "roster_size": 7,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.056236
+    },
+    {
+      "team": "GER Rugby (Rugby) (1900 Summer)",
+      "season": "1900 Summer",
+      "country": "GER",
+      "gender": "M",
+      "roster_size": 7,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.056236
+    }
+  ]
+}

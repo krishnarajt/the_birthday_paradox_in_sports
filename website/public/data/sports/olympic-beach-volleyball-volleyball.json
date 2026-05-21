@@ -1,0 +1,230 @@
+{
+  "sport": "Olympic Beach Volleyball (Volleyball)",
+  "slug": "olympic-beach-volleyball-volleyball",
+  "cohorts": 47,
+  "total_players": 327,
+  "avg_roster_size": 6.957447,
+  "observed_rate": 0.042553,
+  "theoretical_rate": 0.057283,
+  "deviation": -0.01473,
+  "cohort_kind": "delegation",
+  "cohort_kind_breakdown": {
+    "delegation": 47
+  },
+  "by_country": [
+    {
+      "country": "BRA",
+      "cohorts": 7,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.428571
+    },
+    {
+      "country": "USA",
+      "cohorts": 7,
+      "observed_rate": 0.142857,
+      "avg_roster_size": 8.571429
+    },
+    {
+      "country": "GER",
+      "cohorts": 6,
+      "observed_rate": 0.166667,
+      "avg_roster_size": 7.333333
+    },
+    {
+      "country": "NED",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.25
+    },
+    {
+      "country": "SUI",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "ITA",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "AUS",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.666667
+    },
+    {
+      "country": "CAN",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "RUS",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "NOR",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.5
+    },
+    {
+      "country": "CZE",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "AUT",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "GRE",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "CHN",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "JPN",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "POL",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 26,
+      "observed_rate": 0.038462,
+      "theoretical_rate": 0.061142,
+      "avg_roster_size": 7.153846
+    },
+    {
+      "gender": "M",
+      "cohorts": 21,
+      "observed_rate": 0.047619,
+      "theoretical_rate": 0.052505,
+      "avg_roster_size": 6.714286
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "GER Beach Volleyball (Volleyball) (2004 Summer)",
+      "season": "2004 Summer",
+      "country": "GER",
+      "gender": "F",
+      "roster_size": 8,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.074335
+    },
+    {
+      "team": "USA Beach Volleyball (Volleyball) (2020 Summer)",
+      "season": "2020 Summer",
+      "country": "USA",
+      "gender": "M",
+      "roster_size": 8,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.074335
+    },
+    {
+      "team": "USA Beach Volleyball (Volleyball) (1996 Summer)",
+      "season": "1996 Summer",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 12,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.167025
+    },
+    {
+      "team": "AUS Beach Volleyball (Volleyball) (2000 Summer)",
+      "season": "2000 Summer",
+      "country": "AUS",
+      "gender": "F",
+      "roster_size": 9,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.094624
+    },
+    {
+      "team": "AUS Beach Volleyball (Volleyball) (2004 Summer)",
+      "season": "2004 Summer",
+      "country": "AUS",
+      "gender": "F",
+      "roster_size": 8,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.074335
+    },
+    {
+      "team": "BRA Beach Volleyball (Volleyball) (1996 Summer)",
+      "season": "1996 Summer",
+      "country": "BRA",
+      "gender": "F",
+      "roster_size": 8,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.074335
+    },
+    {
+      "team": "BRA Beach Volleyball (Volleyball) (2008 Summer)",
+      "season": "2008 Summer",
+      "country": "BRA",
+      "gender": "M",
+      "roster_size": 8,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.074335
+    },
+    {
+      "team": "BRA Beach Volleyball (Volleyball) (2012 Summer)",
+      "season": "2012 Summer",
+      "country": "BRA",
+      "gender": "M",
+      "roster_size": 8,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.074335
+    },
+    {
+      "team": "GER Beach Volleyball (Volleyball) (2000 Summer)",
+      "season": "2000 Summer",
+      "country": "GER",
+      "gender": "F",
+      "roster_size": 8,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.074335
+    },
+    {
+      "team": "USA Beach Volleyball (Volleyball) (2000 Summer)",
+      "season": "2000 Summer",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 8,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.074335
+    }
+  ]
+}

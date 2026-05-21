@@ -1,0 +1,253 @@
+{
+  "sport": "Olympic Rhythmic Gymnastics (Gymnastics)",
+  "slug": "olympic-rhythmic-gymnastics-gymnastics",
+  "cohorts": 79,
+  "total_players": 543,
+  "avg_roster_size": 6.873418,
+  "observed_rate": 0.113924,
+  "theoretical_rate": 0.055042,
+  "deviation": 0.058882,
+  "cohort_kind": "delegation",
+  "cohort_kind_breakdown": {
+    "delegation": 79
+  },
+  "by_country": [
+    {
+      "country": "BLR",
+      "cohorts": 7,
+      "observed_rate": 0.142857,
+      "avg_roster_size": 7.714286
+    },
+    {
+      "country": "BUL",
+      "cohorts": 7,
+      "observed_rate": 0.285714,
+      "avg_roster_size": 7.285714
+    },
+    {
+      "country": "ITA",
+      "cohorts": 7,
+      "observed_rate": 0.285714,
+      "avg_roster_size": 6.857143
+    },
+    {
+      "country": "ESP",
+      "cohorts": 6,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.166667
+    },
+    {
+      "country": "RUS",
+      "cohorts": 6,
+      "observed_rate": 0.166667,
+      "avg_roster_size": 7.833333
+    },
+    {
+      "country": "JPN",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.2
+    },
+    {
+      "country": "UKR",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.2
+    },
+    {
+      "country": "GRE",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.8
+    },
+    {
+      "country": "CHN",
+      "cohorts": 5,
+      "observed_rate": 0.2,
+      "avg_roster_size": 6.4
+    },
+    {
+      "country": "ISR",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.5
+    },
+    {
+      "country": "GER",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.25
+    },
+    {
+      "country": "BRA",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "USA",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.666667
+    },
+    {
+      "country": "FRA",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "AZE",
+      "cohorts": 2,
+      "observed_rate": 0.5,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "UZB",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.5
+    },
+    {
+      "country": "AUS",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "GBR",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "CAN",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "ROC",
+      "cohorts": 1,
+      "observed_rate": 1.0,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "POL",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 79,
+      "observed_rate": 0.113924,
+      "theoretical_rate": 0.055042,
+      "avg_roster_size": 6.873418
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "ITA Rhythmic Gymnastics (Gymnastics) (1996 Summer)",
+      "season": "1996 Summer",
+      "country": "ITA",
+      "gender": "F",
+      "roster_size": 8,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.074335
+    },
+    {
+      "team": "BUL Rhythmic Gymnastics (Gymnastics) (2004 Summer)",
+      "season": "2004 Summer",
+      "country": "BUL",
+      "gender": "F",
+      "roster_size": 8,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.074335
+    },
+    {
+      "team": "RUS Rhythmic Gymnastics (Gymnastics) (2004 Summer)",
+      "season": "2004 Summer",
+      "country": "RUS",
+      "gender": "F",
+      "roster_size": 8,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.074335
+    },
+    {
+      "team": "BUL Rhythmic Gymnastics (Gymnastics) (2008 Summer)",
+      "season": "2008 Summer",
+      "country": "BUL",
+      "gender": "F",
+      "roster_size": 8,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.074335
+    },
+    {
+      "team": "BLR Rhythmic Gymnastics (Gymnastics) (2012 Summer)",
+      "season": "2012 Summer",
+      "country": "BLR",
+      "gender": "F",
+      "roster_size": 8,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.074335
+    },
+    {
+      "team": "CHN Rhythmic Gymnastics (Gymnastics) (1996 Summer)",
+      "season": "1996 Summer",
+      "country": "CHN",
+      "gender": "F",
+      "roster_size": 7,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.056236
+    },
+    {
+      "team": "ITA Rhythmic Gymnastics (Gymnastics) (2000 Summer)",
+      "season": "2000 Summer",
+      "country": "ITA",
+      "gender": "F",
+      "roster_size": 7,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.056236
+    },
+    {
+      "team": "ROC Rhythmic Gymnastics (Gymnastics) (2020 Summer)",
+      "season": "2020 Summer",
+      "country": "ROC",
+      "gender": "F",
+      "roster_size": 7,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.056236
+    },
+    {
+      "team": "AZE Rhythmic Gymnastics (Gymnastics) (2020 Summer)",
+      "season": "2020 Summer",
+      "country": "AZE",
+      "gender": "F",
+      "roster_size": 5,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.027136
+    },
+    {
+      "team": "BLR Rhythmic Gymnastics (Gymnastics) (1996 Summer)",
+      "season": "1996 Summer",
+      "country": "BLR",
+      "gender": "F",
+      "roster_size": 8,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.074335
+    }
+  ]
+}

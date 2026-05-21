@@ -1,0 +1,374 @@
+{
+  "sport": "Olympic Artistic Gymnastics (Gymnastics)",
+  "slug": "olympic-artistic-gymnastics-gymnastics",
+  "cohorts": 392,
+  "total_players": 4436,
+  "avg_roster_size": 11.316327,
+  "observed_rate": 0.173469,
+  "theoretical_rate": 0.157916,
+  "deviation": 0.015553,
+  "cohort_kind": "delegation",
+  "cohort_kind_breakdown": {
+    "delegation": 392
+  },
+  "by_country": [
+    {
+      "country": "FRA",
+      "cohorts": 26,
+      "observed_rate": 0.269231,
+      "avg_roster_size": 13.230769
+    },
+    {
+      "country": "ITA",
+      "cohorts": 24,
+      "observed_rate": 0.166667,
+      "avg_roster_size": 12.041667
+    },
+    {
+      "country": "USA",
+      "cohorts": 23,
+      "observed_rate": 0.26087,
+      "avg_roster_size": 15.695652
+    },
+    {
+      "country": "GBR",
+      "cohorts": 21,
+      "observed_rate": 0.142857,
+      "avg_roster_size": 12.428571
+    },
+    {
+      "country": "JPN",
+      "cohorts": 19,
+      "observed_rate": 0.0,
+      "avg_roster_size": 10.210526
+    },
+    {
+      "country": "GER",
+      "cohorts": 18,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 10.388889
+    },
+    {
+      "country": "HUN",
+      "cohorts": 16,
+      "observed_rate": 0.1875,
+      "avg_roster_size": 12.5625
+    },
+    {
+      "country": "ROU",
+      "cohorts": 16,
+      "observed_rate": 0.125,
+      "avg_roster_size": 10.8125
+    },
+    {
+      "country": "TCH",
+      "cohorts": 15,
+      "observed_rate": 0.133333,
+      "avg_roster_size": 11.6
+    },
+    {
+      "country": "SUI",
+      "cohorts": 14,
+      "observed_rate": 0.071429,
+      "avg_roster_size": 7.285714
+    },
+    {
+      "country": "BUL",
+      "cohorts": 13,
+      "observed_rate": 0.153846,
+      "avg_roster_size": 10.230769
+    },
+    {
+      "country": "CAN",
+      "cohorts": 12,
+      "observed_rate": 0.083333,
+      "avg_roster_size": 8.916667
+    },
+    {
+      "country": "FIN",
+      "cohorts": 12,
+      "observed_rate": 0.166667,
+      "avg_roster_size": 11.25
+    },
+    {
+      "country": "ESP",
+      "cohorts": 12,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.666667
+    },
+    {
+      "country": "KOR",
+      "cohorts": 11,
+      "observed_rate": 0.090909,
+      "avg_roster_size": 7.272727
+    },
+    {
+      "country": "CHN",
+      "cohorts": 10,
+      "observed_rate": 0.2,
+      "avg_roster_size": 11.3
+    },
+    {
+      "country": "NED",
+      "cohorts": 9,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 9.888889
+    },
+    {
+      "country": "URS",
+      "cohorts": 9,
+      "observed_rate": 0.555556,
+      "avg_roster_size": 12.444444
+    },
+    {
+      "country": "POL",
+      "cohorts": 9,
+      "observed_rate": 0.111111,
+      "avg_roster_size": 10.333333
+    },
+    {
+      "country": "SWE",
+      "cohorts": 9,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 15.666667
+    },
+    {
+      "country": "YUG",
+      "cohorts": 9,
+      "observed_rate": 0.111111,
+      "avg_roster_size": 10.222222
+    },
+    {
+      "country": "AUS",
+      "cohorts": 8,
+      "observed_rate": 0.25,
+      "avg_roster_size": 7.625
+    },
+    {
+      "country": "LUX",
+      "cohorts": 7,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.142857
+    },
+    {
+      "country": "UKR",
+      "cohorts": 7,
+      "observed_rate": 0.142857,
+      "avg_roster_size": 9.0
+    },
+    {
+      "country": "NOR",
+      "cohorts": 6,
+      "observed_rate": 0.166667,
+      "avg_roster_size": 20.666667
+    },
+    {
+      "country": "RUS",
+      "cohorts": 6,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 11.666667
+    },
+    {
+      "country": "BRA",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.8
+    },
+    {
+      "country": "DEN",
+      "cohorts": 5,
+      "observed_rate": 0.6,
+      "avg_roster_size": 25.6
+    },
+    {
+      "country": "CUB",
+      "cohorts": 5,
+      "observed_rate": 0.4,
+      "avg_roster_size": 7.4
+    },
+    {
+      "country": "FRG",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 11.2
+    },
+    {
+      "country": "GDR",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 12.0
+    },
+    {
+      "country": "AUT",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 12.75
+    },
+    {
+      "country": "BEL",
+      "cohorts": 4,
+      "observed_rate": 0.25,
+      "avg_roster_size": 11.5
+    },
+    {
+      "country": "PRK",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.75
+    },
+    {
+      "country": "BLR",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 11.0
+    },
+    {
+      "country": "TPE",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "MEX",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.5
+    },
+    {
+      "country": "EGY",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "EUN",
+      "cohorts": 1,
+      "observed_rate": 1.0,
+      "avg_roster_size": 12.0
+    },
+    {
+      "country": "GRE",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 248,
+      "observed_rate": 0.153226,
+      "theoretical_rate": 0.143759,
+      "avg_roster_size": 10.778226
+    },
+    {
+      "gender": "M",
+      "cohorts": 144,
+      "observed_rate": 0.208333,
+      "theoretical_rate": 0.182298,
+      "avg_roster_size": 12.243056
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "USA Artistic Gymnastics (Gymnastics) (1904 Summer)",
+      "season": "1904 Summer",
+      "country": "USA",
+      "gender": "M",
+      "roster_size": 89,
+      "duplicate_pairs": 8,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.999992
+    },
+    {
+      "team": "FRA Artistic Gymnastics (Gymnastics) (1900 Summer)",
+      "season": "1900 Summer",
+      "country": "FRA",
+      "gender": "M",
+      "roster_size": 52,
+      "duplicate_pairs": 3,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.978005
+    },
+    {
+      "team": "DEN Artistic Gymnastics (Gymnastics) (1912 Summer)",
+      "season": "1912 Summer",
+      "country": "DEN",
+      "gender": "M",
+      "roster_size": 48,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.960598
+    },
+    {
+      "team": "DEN Artistic Gymnastics (Gymnastics) (1920 Summer)",
+      "season": "1920 Summer",
+      "country": "DEN",
+      "gender": "M",
+      "roster_size": 44,
+      "duplicate_pairs": 3,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.932885
+    },
+    {
+      "team": "GBR Artistic Gymnastics (Gymnastics) (1908 Summer)",
+      "season": "1908 Summer",
+      "country": "GBR",
+      "gender": "M",
+      "roster_size": 44,
+      "duplicate_pairs": 4,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.932885
+    },
+    {
+      "team": "SWE Artistic Gymnastics (Gymnastics) (1908 Summer)",
+      "season": "1908 Summer",
+      "country": "SWE",
+      "gender": "M",
+      "roster_size": 37,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.848734
+    },
+    {
+      "team": "FRA Artistic Gymnastics (Gymnastics) (1908 Summer)",
+      "season": "1908 Summer",
+      "country": "FRA",
+      "gender": "M",
+      "roster_size": 36,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.832182
+    },
+    {
+      "team": "ITA Artistic Gymnastics (Gymnastics) (1908 Summer)",
+      "season": "1908 Summer",
+      "country": "ITA",
+      "gender": "M",
+      "roster_size": 30,
+      "duplicate_pairs": 3,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.706316
+    },
+    {
+      "team": "FIN Artistic Gymnastics (Gymnastics) (1908 Summer)",
+      "season": "1908 Summer",
+      "country": "FIN",
+      "gender": "M",
+      "roster_size": 29,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.680969
+    },
+    {
+      "team": "BEL Artistic Gymnastics (Gymnastics) (1920 Summer)",
+      "season": "1920 Summer",
+      "country": "BEL",
+      "gender": "M",
+      "roster_size": 27,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.626859
+    }
+  ]
+}

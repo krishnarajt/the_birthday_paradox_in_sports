@@ -1,0 +1,194 @@
+{
+  "sport": "Olympic Cycling Track",
+  "slug": "olympic-cycling-track",
+  "cohorts": 17,
+  "total_players": 89,
+  "avg_roster_size": 5.235294,
+  "observed_rate": 0.0,
+  "theoretical_rate": 0.030271,
+  "deviation": -0.030271,
+  "cohort_kind": "team",
+  "cohort_kind_breakdown": {
+    "team": 17
+  },
+  "by_country": [
+    {
+      "country": "AUS",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "CAN",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "FRA",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "GBR",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "JPN",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "ITA",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.5
+    },
+    {
+      "country": "NZL",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "DEN",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "IRL",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "USA",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 9,
+      "observed_rate": 0.0,
+      "theoretical_rate": 0.030097,
+      "avg_roster_size": 5.222222
+    },
+    {
+      "gender": "M",
+      "cohorts": 8,
+      "observed_rate": 0.0,
+      "theoretical_rate": 0.030467,
+      "avg_roster_size": 5.25
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "Denmark - Men's Team Pursuit",
+      "season": "2024 Summer",
+      "country": "DEN",
+      "gender": "M",
+      "roster_size": 6,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.040462
+    },
+    {
+      "team": "Great Britain - Men's Team Pursuit",
+      "season": "2024 Summer",
+      "country": "GBR",
+      "gender": "M",
+      "roster_size": 6,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.040462
+    },
+    {
+      "team": "Great Britain - Women's Team Pursuit",
+      "season": "2024 Summer",
+      "country": "GBR",
+      "gender": "F",
+      "roster_size": 6,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.040462
+    },
+    {
+      "team": "Italy - Women's Team Pursuit",
+      "season": "2024 Summer",
+      "country": "ITA",
+      "gender": "F",
+      "roster_size": 6,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.040462
+    },
+    {
+      "team": "Australia - Men's Team Pursuit",
+      "season": "2024 Summer",
+      "country": "AUS",
+      "gender": "M",
+      "roster_size": 5,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.027136
+    },
+    {
+      "team": "Canada - Men's Team Pursuit",
+      "season": "2024 Summer",
+      "country": "CAN",
+      "gender": "M",
+      "roster_size": 5,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.027136
+    },
+    {
+      "team": "France - Men's Team Pursuit",
+      "season": "2024 Summer",
+      "country": "FRA",
+      "gender": "M",
+      "roster_size": 5,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.027136
+    },
+    {
+      "team": "Italy - Men's Team Pursuit",
+      "season": "2024 Summer",
+      "country": "ITA",
+      "gender": "M",
+      "roster_size": 5,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.027136
+    },
+    {
+      "team": "Japan - Men's Team Pursuit",
+      "season": "2024 Summer",
+      "country": "JPN",
+      "gender": "M",
+      "roster_size": 5,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.027136
+    },
+    {
+      "team": "New Zealand - Men's Team Pursuit",
+      "season": "2024 Summer",
+      "country": "NZL",
+      "gender": "M",
+      "roster_size": 5,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.027136
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "sport": "Olympic Basketball (Basketball)",
+  "slug": "olympic-basketball-basketball",
+  "cohorts": 334,
+  "total_players": 4681,
+  "avg_roster_size": 14.01497,
+  "observed_rate": 0.236527,
+  "theoretical_rate": 0.232144,
+  "deviation": 0.004383,
+  "cohort_kind": "team",
+  "cohort_kind_breakdown": {
+    "team": 334
+  },
+  "by_country": [
+    {
+      "country": "USA",
+      "cohorts": 19,
+      "observed_rate": 0.368421,
+      "avg_roster_size": 19.157895
+    },
+    {
+      "country": "BRA",
+      "cohorts": 18,
+      "observed_rate": 0.166667,
+      "avg_roster_size": 14.0
+    },
+    {
+      "country": "ITA",
+      "cohorts": 15,
+      "observed_rate": 0.2,
+      "avg_roster_size": 13.066667
+    },
+    {
+      "country": "AUS",
+      "cohorts": 15,
+      "observed_rate": 0.4,
+      "avg_roster_size": 19.0
+    },
+    {
+      "country": "ESP",
+      "cohorts": 13,
+      "observed_rate": 0.153846,
+      "avg_roster_size": 16.461538
+    },
+    {
+      "country": "CAN",
+      "cohorts": 13,
+      "observed_rate": 0.384615,
+      "avg_roster_size": 14.461538
+    },
+    {
+      "country": "CHN",
+      "cohorts": 11,
+      "observed_rate": 0.818182,
+      "avg_roster_size": 20.545455
+    },
+    {
+      "country": "FRA",
+      "cohorts": 10,
+      "observed_rate": 0.4,
+      "avg_roster_size": 16.9
+    },
+    {
+      "country": "PUR",
+      "cohorts": 10,
+      "observed_rate": 0.1,
+      "avg_roster_size": 12.0
+    },
+    {
+      "country": "JPN",
+      "cohorts": 10,
+      "observed_rate": 0.2,
+      "avg_roster_size": 13.8
+    },
+    {
+      "country": "CUB",
+      "cohorts": 9,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 13.333333
+    },
+    {
+      "country": "TCH",
+      "cohorts": 9,
+      "observed_rate": 0.444444,
+      "avg_roster_size": 13.555556
+    },
+    {
+      "country": "KOR",
+      "cohorts": 9,
+      "observed_rate": 0.111111,
+      "avg_roster_size": 14.222222
+    },
+    {
+      "country": "URS",
+      "cohorts": 9,
+      "observed_rate": 0.111111,
+      "avg_roster_size": 16.0
+    },
+    {
+      "country": "YUG",
+      "cohorts": 8,
+      "observed_rate": 0.125,
+      "avg_roster_size": 16.5
+    },
+    {
+      "country": "ARG",
+      "cohorts": 8,
+      "observed_rate": 0.25,
+      "avg_roster_size": 12.25
+    },
+    {
+      "country": "LTU",
+      "cohorts": 7,
+      "observed_rate": 0.142857,
+      "avg_roster_size": 11.571429
+    },
+    {
+      "country": "MEX",
+      "cohorts": 7,
+      "observed_rate": 0.0,
+      "avg_roster_size": 12.0
+    },
+    {
+      "country": "EGY",
+      "cohorts": 7,
+      "observed_rate": 0.0,
+      "avg_roster_size": 10.714286
+    },
+    {
+      "country": "BUL",
+      "cohorts": 7,
+      "observed_rate": 0.428571,
+      "avg_roster_size": 11.428571
+    },
+    {
+      "country": "PHI",
+      "cohorts": 7,
+      "observed_rate": 0.0,
+      "avg_roster_size": 10.428571
+    },
+    {
+      "country": "URU",
+      "cohorts": 7,
+      "observed_rate": 0.285714,
+      "avg_roster_size": 11.285714
+    },
+    {
+      "country": "POL",
+      "cohorts": 7,
+      "observed_rate": 0.0,
+      "avg_roster_size": 11.428571
+    },
+    {
+      "country": "ANG",
+      "cohorts": 6,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 12.0
+    },
+    {
+      "country": "SEN",
+      "cohorts": 5,
+      "observed_rate": 0.2,
+      "avg_roster_size": 11.6
+    },
+    {
+      "country": "CRO",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 11.6
+    },
+    {
+      "country": "HUN",
+      "cohorts": 5,
+      "observed_rate": 0.2,
+      "avg_roster_size": 12.2
+    },
+    {
+      "country": "RUS",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 18.4
+    },
+    {
+      "country": "CHI",
+      "cohorts": 4,
+      "observed_rate": 0.5,
+      "avg_roster_size": 10.75
+    },
+    {
+      "country": "GRE",
+      "cohorts": 4,
+      "observed_rate": 0.5,
+      "avg_roster_size": 13.25
+    },
+    {
+      "country": "GER",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 11.5
+    },
+    {
+      "country": "BEL",
+      "cohorts": 4,
+      "observed_rate": 0.25,
+      "avg_roster_size": 11.5
+    },
+    {
+      "country": "CZE",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 12.0
+    },
+    {
+      "country": "TUR",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 10.5
+    },
+    {
+      "country": "NGR",
+      "cohorts": 4,
+      "observed_rate": 0.25,
+      "avg_roster_size": 14.75
+    },
+    {
+      "country": "SCG",
+      "cohorts": 3,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 12.0
+    },
+    {
+      "country": "PER",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.0
+    },
+    {
+      "country": "NZL",
+      "cohorts": 3,
+      "observed_rate": 0.666667,
+      "avg_roster_size": 20.0
+    },
+    {
+      "country": "SUI",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.666667
+    },
+    {
+      "country": "SRB",
+      "cohorts": 2,
+      "observed_rate": 0.5,
+      "avg_roster_size": 18.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 93,
+      "observed_rate": 0.290323,
+      "theoretical_rate": 0.326793,
+      "avg_roster_size": 17.150538
+    },
+    {
+      "gender": "M",
+      "cohorts": 241,
+      "observed_rate": 0.215768,
+      "theoretical_rate": 0.19562,
+      "avg_roster_size": 12.804979
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "TCH Basketball (Basketball) (1976 Summer)",
+      "season": "1976 Summer",
+      "country": "TCH",
+      "gender": "M",
+      "roster_size": 24,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.538344
+    },
+    {
+      "team": "URS Basketball (Basketball) (1988 Summer)",
+      "season": "1988 Summer",
+      "country": "URS",
+      "gender": "M",
+      "roster_size": 24,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.538344
+    },
+    {
+      "team": "KOR Basketball (Basketball) (1988 Summer)",
+      "season": "1988 Summer",
+      "country": "KOR",
+      "gender": "M",
+      "roster_size": 24,
+      "duplicate_pairs": 3,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.538344
+    },
+    {
+      "team": "CAN Basketball (Basketball) (1976 Summer)",
+      "season": "1976 Summer",
+      "country": "CAN",
+      "gender": "M",
+      "roster_size": 24,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.538344
+    },
+    {
+      "team": "JPN Basketball (Basketball) (1976 Summer)",
+      "season": "1976 Summer",
+      "country": "JPN",
+      "gender": "F",
+      "roster_size": 24,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.538344
+    },
+    {
+      "team": "USA Basketball (Basketball) (1996 Summer)",
+      "season": "1996 Summer",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 24,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.538344
+    },
+    {
+      "team": "ITA Basketball (Basketball) (1980 Summer)",
+      "season": "1980 Summer",
+      "country": "ITA",
+      "gender": "F",
+      "roster_size": 24,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.538344
+    },
+    {
+      "team": "USA Basketball (Basketball) (1984 Summer)",
+      "season": "1984 Summer",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 24,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.538344
+    },
+    {
+      "team": "CAN Basketball (Basketball) (2000 Summer)",
+      "season": "2000 Summer",
+      "country": "CAN",
+      "gender": "F",
+      "roster_size": 24,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.538344
+    },
+    {
+      "team": "USA Basketball (Basketball) (1976 Summer)",
+      "season": "1976 Summer",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 24,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.538344
+    }
+  ]
+}

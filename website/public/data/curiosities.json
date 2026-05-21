@@ -1,0 +1,884 @@
+{
+  "total_unique_players": 298568,
+  "leap_day_players": 209,
+  "leap_day": {
+    "count": 209,
+    "expected_count": 204.358658,
+    "relative_to_expected": 1.022712
+  },
+  "calendar_skew": {
+    "jan_feb": {
+      "label": "Jan-Feb",
+      "months": [
+        1,
+        2
+      ],
+      "count": 54706,
+      "share": 0.183228,
+      "expected_share": 0.161644,
+      "deviation": 0.021584,
+      "relative_to_expected": 1.133529
+    },
+    "q1": {
+      "label": "Q1",
+      "months": [
+        1,
+        2,
+        3
+      ],
+      "count": 82414,
+      "share": 0.276031,
+      "expected_share": 0.246575,
+      "deviation": 0.029456,
+      "relative_to_expected": 1.119459
+    },
+    "q4": {
+      "label": "Q4",
+      "months": [
+        10,
+        11,
+        12
+      ],
+      "count": 68271,
+      "share": 0.228661,
+      "expected_share": 0.252055,
+      "deviation": -0.023393,
+      "relative_to_expected": 0.90719
+    },
+    "most_overrepresented_month": {
+      "month": 2,
+      "month_name": "Feb",
+      "count": 26176,
+      "share": 0.087672,
+      "expected_share": 0.076712,
+      "deviation": 0.010959,
+      "relative_to_expected": 1.142865
+    },
+    "most_underrepresented_month": {
+      "month": 12,
+      "month_name": "Dec",
+      "count": 22256,
+      "share": 0.074542,
+      "expected_share": 0.084932,
+      "deviation": -0.010389,
+      "relative_to_expected": 0.877678
+    },
+    "expected_per_rankable_date": 819.659341,
+    "excluded_rankable_dates": [
+      "01-01",
+      "02-29"
+    ],
+    "overrepresented_dates": [
+      {
+        "date": "01-02",
+        "count": 1056,
+        "expected_count": 819.659341,
+        "deviation_count": 236.340659,
+        "relative_to_expected": 1.28834
+      },
+      {
+        "date": "01-05",
+        "count": 1036,
+        "expected_count": 819.659341,
+        "deviation_count": 216.340659,
+        "relative_to_expected": 1.26394
+      },
+      {
+        "date": "02-14",
+        "count": 1034,
+        "expected_count": 819.659341,
+        "deviation_count": 214.340659,
+        "relative_to_expected": 1.2615
+      },
+      {
+        "date": "01-04",
+        "count": 1023,
+        "expected_count": 819.659341,
+        "deviation_count": 203.340659,
+        "relative_to_expected": 1.248079
+      },
+      {
+        "date": "02-02",
+        "count": 1023,
+        "expected_count": 819.659341,
+        "deviation_count": 203.340659,
+        "relative_to_expected": 1.248079
+      },
+      {
+        "date": "01-18",
+        "count": 1010,
+        "expected_count": 819.659341,
+        "deviation_count": 190.340659,
+        "relative_to_expected": 1.232219
+      },
+      {
+        "date": "01-03",
+        "count": 1009,
+        "expected_count": 819.659341,
+        "deviation_count": 189.340659,
+        "relative_to_expected": 1.230999
+      },
+      {
+        "date": "01-15",
+        "count": 997,
+        "expected_count": 819.659341,
+        "deviation_count": 177.340659,
+        "relative_to_expected": 1.216359
+      }
+    ],
+    "underrepresented_dates": [
+      {
+        "date": "12-26",
+        "count": 587,
+        "expected_count": 819.659341,
+        "deviation_count": -232.659341,
+        "relative_to_expected": 0.716151
+      },
+      {
+        "date": "12-24",
+        "count": 647,
+        "expected_count": 819.659341,
+        "deviation_count": -172.659341,
+        "relative_to_expected": 0.789352
+      },
+      {
+        "date": "12-06",
+        "count": 651,
+        "expected_count": 819.659341,
+        "deviation_count": -168.659341,
+        "relative_to_expected": 0.794232
+      },
+      {
+        "date": "10-29",
+        "count": 656,
+        "expected_count": 819.659341,
+        "deviation_count": -163.659341,
+        "relative_to_expected": 0.800332
+      },
+      {
+        "date": "12-04",
+        "count": 657,
+        "expected_count": 819.659341,
+        "deviation_count": -162.659341,
+        "relative_to_expected": 0.801553
+      },
+      {
+        "date": "10-21",
+        "count": 668,
+        "expected_count": 819.659341,
+        "deviation_count": -151.659341,
+        "relative_to_expected": 0.814973
+      },
+      {
+        "date": "10-31",
+        "count": 674,
+        "expected_count": 819.659341,
+        "deviation_count": -145.659341,
+        "relative_to_expected": 0.822293
+      },
+      {
+        "date": "07-29",
+        "count": 679,
+        "expected_count": 819.659341,
+        "deviation_count": -140.659341,
+        "relative_to_expected": 0.828393
+      }
+    ]
+  },
+  "most_populous_dates": [
+    {
+      "date": "01-02",
+      "count": 1056
+    },
+    {
+      "date": "01-05",
+      "count": 1036
+    },
+    {
+      "date": "02-14",
+      "count": 1034
+    },
+    {
+      "date": "01-04",
+      "count": 1023
+    },
+    {
+      "date": "02-02",
+      "count": 1023
+    },
+    {
+      "date": "01-18",
+      "count": 1010
+    },
+    {
+      "date": "01-03",
+      "count": 1009
+    },
+    {
+      "date": "02-10",
+      "count": 997
+    },
+    {
+      "date": "01-15",
+      "count": 997
+    },
+    {
+      "date": "02-01",
+      "count": 992
+    }
+  ],
+  "biggest_birthday_cluster": {
+    "sport": "Olympic Athletics",
+    "team": "USA Athletics (2016 Summer)",
+    "season": "2016 Summer",
+    "country": "USA",
+    "roster_size": 128,
+    "duplicate_pairs": 22,
+    "source": "olympics"
+  },
+  "youngest_sports": [
+    {
+      "sport": "Olympic 3-on-3 Ice Hockey (Ice Hockey)",
+      "players": 195,
+      "avg_age": 21.764103
+    },
+    {
+      "sport": "Olympic Rhythmic Gymnastics",
+      "players": 70,
+      "avg_age": 22.042857
+    },
+    {
+      "sport": "Olympic Skateboarding",
+      "players": 88,
+      "avg_age": 23.772727
+    },
+    {
+      "sport": "Olympic Artistic Swimming",
+      "players": 106,
+      "avg_age": 25.179245
+    },
+    {
+      "sport": "Olympic Artistic Gymnastics",
+      "players": 119,
+      "avg_age": 25.537815
+    },
+    {
+      "sport": "Olympic Swimming",
+      "players": 394,
+      "avg_age": 25.705584
+    },
+    {
+      "sport": "Olympic Football",
+      "players": 550,
+      "avg_age": 26.403636
+    },
+    {
+      "sport": "Olympic Diving",
+      "players": 64,
+      "avg_age": 26.484375
+    }
+  ],
+  "oldest_sports": [
+    {
+      "sport": "Olympic Equestrian Eventing (Equestrian)",
+      "players": 663,
+      "avg_age": 66.031674
+    },
+    {
+      "sport": "Olympic Equestrian Jumping (Equestrian)",
+      "players": 637,
+      "avg_age": 65.629513
+    },
+    {
+      "sport": "Olympic Equestrian Dressage (Equestrian)",
+      "players": 378,
+      "avg_age": 63.791005
+    },
+    {
+      "sport": "Olympic Cycling Road (Cycling)",
+      "players": 2753,
+      "avg_age": 63.754086
+    },
+    {
+      "sport": "Olympic Shooting",
+      "players": 3464,
+      "avg_age": 63.730081
+    },
+    {
+      "sport": "Olympic Basketball (Basketball)",
+      "players": 3039,
+      "avg_age": 61.946693
+    },
+    {
+      "sport": "Olympic Fencing",
+      "players": 2761,
+      "avg_age": 61.712785
+    },
+    {
+      "sport": "Olympic Cycling Track (Cycling)",
+      "players": 1840,
+      "avg_age": 61.521739
+    }
+  ],
+  "biggest_anomalies": [
+    {
+      "sport": "Olympic Artistic Swimming (Aquatics)",
+      "cohorts": 58,
+      "observed_rate": 0.241379,
+      "theoretical_rate": 0.086024,
+      "deviation": 0.155355
+    },
+    {
+      "sport": "Olympic Badminton",
+      "cohorts": 110,
+      "observed_rate": 0.2,
+      "theoretical_rate": 0.105409,
+      "deviation": 0.094591
+    },
+    {
+      "sport": "Olympic Hockey",
+      "cohorts": 309,
+      "observed_rate": 0.488673,
+      "theoretical_rate": 0.399376,
+      "deviation": 0.089297
+    },
+    {
+      "sport": "Olympic Handball",
+      "cohorts": 242,
+      "observed_rate": 0.421488,
+      "theoretical_rate": 0.345456,
+      "deviation": 0.076031
+    },
+    {
+      "sport": "Olympic Football (Football)",
+      "cohorts": 429,
+      "observed_rate": 0.368298,
+      "theoretical_rate": 0.30531,
+      "deviation": 0.062989
+    },
+    {
+      "sport": "Olympic Volleyball (Volleyball)",
+      "cohorts": 226,
+      "observed_rate": 0.362832,
+      "theoretical_rate": 0.30196,
+      "deviation": 0.060872
+    }
+  ],
+  "relative_age_extremes": {
+    "min_players": 500,
+    "q1_heavy_sports": [
+      {
+        "sport": "Football (Soccer)",
+        "players": 88356,
+        "q1": 0.311422,
+        "q4": 0.196263,
+        "expected_q1": 0.246575,
+        "expected_q4": 0.252055,
+        "q1_deviation": 0.064847,
+        "q4_deviation": -0.055792,
+        "q1_q4_gap": 0.115159
+      },
+      {
+        "sport": "Ice Hockey",
+        "players": 873,
+        "q1": 0.308133,
+        "q4": 0.199313,
+        "expected_q1": 0.246575,
+        "expected_q4": 0.252055,
+        "q1_deviation": 0.061558,
+        "q4_deviation": -0.052742,
+        "q1_q4_gap": 0.10882
+      },
+      {
+        "sport": "Olympic Ice Hockey (Ice Hockey)",
+        "players": 4665,
+        "q1": 0.29732,
+        "q4": 0.210289,
+        "expected_q1": 0.246575,
+        "expected_q4": 0.252055,
+        "q1_deviation": 0.050745,
+        "q4_deviation": -0.041765,
+        "q1_q4_gap": 0.087031
+      },
+      {
+        "sport": "Olympic Volleyball (Volleyball)",
+        "players": 2641,
+        "q1": 0.293828,
+        "q4": 0.217721,
+        "expected_q1": 0.246575,
+        "expected_q4": 0.252055,
+        "q1_deviation": 0.047253,
+        "q4_deviation": -0.034334,
+        "q1_q4_gap": 0.076108
+      },
+      {
+        "sport": "Olympic Artistic Swimming (Aquatics)",
+        "players": 617,
+        "q1": 0.285251,
+        "q4": 0.215559,
+        "expected_q1": 0.246575,
+        "expected_q4": 0.252055,
+        "q1_deviation": 0.038676,
+        "q4_deviation": -0.036496,
+        "q1_q4_gap": 0.069692
+      },
+      {
+        "sport": "Olympic Alpine Skiing (Skiing)",
+        "players": 3092,
+        "q1": 0.282342,
+        "q4": 0.248383,
+        "expected_q1": 0.246575,
+        "expected_q4": 0.252055,
+        "q1_deviation": 0.035766,
+        "q4_deviation": -0.003672,
+        "q1_q4_gap": 0.033959
+      },
+      {
+        "sport": "Olympic Football",
+        "players": 550,
+        "q1": 0.281818,
+        "q4": 0.196364,
+        "expected_q1": 0.246575,
+        "expected_q4": 0.252055,
+        "q1_deviation": 0.035243,
+        "q4_deviation": -0.055691,
+        "q1_q4_gap": 0.085455
+      },
+      {
+        "sport": "Olympic Cross Country Skiing (Skiing)",
+        "players": 2787,
+        "q1": 0.281665,
+        "q4": 0.230714,
+        "expected_q1": 0.246575,
+        "expected_q4": 0.252055,
+        "q1_deviation": 0.03509,
+        "q4_deviation": -0.021341,
+        "q1_q4_gap": 0.050951
+      }
+    ],
+    "late_year_sports": [
+      {
+        "sport": "Cricket",
+        "players": 6645,
+        "q1": 0.223326,
+        "q4": 0.309857,
+        "expected_q1": 0.246575,
+        "expected_q4": 0.252055,
+        "q1_deviation": -0.02325,
+        "q4_deviation": 0.057802,
+        "q1_q4_gap": -0.086531
+      },
+      {
+        "sport": "Olympic Short Track Speed Skating (Skating)",
+        "players": 613,
+        "q1": 0.199021,
+        "q4": 0.278956,
+        "expected_q1": 0.246575,
+        "expected_q4": 0.252055,
+        "q1_deviation": -0.047554,
+        "q4_deviation": 0.026901,
+        "q1_q4_gap": -0.079935
+      },
+      {
+        "sport": "Olympic Artistic Gymnastics (Gymnastics)",
+        "players": 3914,
+        "q1": 0.260603,
+        "q4": 0.264946,
+        "expected_q1": 0.246575,
+        "expected_q4": 0.252055,
+        "q1_deviation": 0.014028,
+        "q4_deviation": 0.012892,
+        "q1_q4_gap": -0.004343
+      },
+      {
+        "sport": "Baseball",
+        "players": 22437,
+        "q1": 0.243259,
+        "q4": 0.259616,
+        "expected_q1": 0.246575,
+        "expected_q4": 0.252055,
+        "q1_deviation": -0.003316,
+        "q4_deviation": 0.007561,
+        "q1_q4_gap": -0.016357
+      },
+      {
+        "sport": "Olympic Rhythmic Gymnastics (Gymnastics)",
+        "players": 642,
+        "q1": 0.249221,
+        "q4": 0.258567,
+        "expected_q1": 0.246575,
+        "expected_q4": 0.252055,
+        "q1_deviation": 0.002646,
+        "q4_deviation": 0.006512,
+        "q1_q4_gap": -0.009346
+      },
+      {
+        "sport": "Olympic Rugby Sevens (Rugby)",
+        "players": 521,
+        "q1": 0.24952,
+        "q4": 0.255278,
+        "expected_q1": 0.246575,
+        "expected_q4": 0.252055,
+        "q1_deviation": 0.002945,
+        "q4_deviation": 0.003224,
+        "q1_q4_gap": -0.005758
+      },
+      {
+        "sport": "American Football",
+        "players": 30300,
+        "q1": 0.258647,
+        "q4": 0.253201,
+        "expected_q1": 0.246575,
+        "expected_q4": 0.252055,
+        "q1_deviation": 0.012072,
+        "q4_deviation": 0.001147,
+        "q1_q4_gap": 0.005446
+      },
+      {
+        "sport": "Olympic Equestrian Jumping (Equestrian)",
+        "players": 943,
+        "q1": 0.246023,
+        "q4": 0.252386,
+        "expected_q1": 0.246575,
+        "expected_q4": 0.252055,
+        "q1_deviation": -0.000552,
+        "q4_deviation": 0.000331,
+        "q1_q4_gap": -0.006363
+      }
+    ]
+  },
+  "clean_sheets": [
+    {
+      "sport": "American Football",
+      "team": "DEN",
+      "season": "2002",
+      "country": "USA",
+      "roster_size": 58,
+      "theoretical_probability": 0.991665,
+      "no_shared_probability": 0.008335,
+      "source": "nfl"
+    },
+    {
+      "sport": "Olympic Rowing",
+      "team": "URS Rowing (1976 Summer)",
+      "season": "1976 Summer",
+      "country": "URS",
+      "roster_size": 55,
+      "theoretical_probability": 0.986262,
+      "no_shared_probability": 0.013738,
+      "source": "olympics"
+    },
+    {
+      "sport": "Football (Soccer)",
+      "team": "Southampton - English Premier League 2022/2023",
+      "season": "2022-2023",
+      "country": "ENG",
+      "roster_size": 54,
+      "theoretical_probability": 0.983877,
+      "no_shared_probability": 0.016123,
+      "source": "footballcsv"
+    },
+    {
+      "sport": "American Football",
+      "team": "KC",
+      "season": "1986",
+      "country": "USA",
+      "roster_size": 53,
+      "theoretical_probability": 0.981138,
+      "no_shared_probability": 0.018862,
+      "source": "nfl"
+    },
+    {
+      "sport": "Football (Soccer)",
+      "team": "Dynamo Kiev - Ukrainian Premier League 2009/10",
+      "season": "2009-2010",
+      "country": "UKRAINE",
+      "roster_size": 53,
+      "theoretical_probability": 0.981138,
+      "no_shared_probability": 0.018862,
+      "source": "footballcsv"
+    },
+    {
+      "sport": "Olympic Rowing",
+      "team": "USA Rowing (1988 Summer)",
+      "season": "1988 Summer",
+      "country": "USA",
+      "roster_size": 52,
+      "theoretical_probability": 0.978005,
+      "no_shared_probability": 0.021995,
+      "source": "olympics"
+    },
+    {
+      "sport": "Olympic Wrestling",
+      "team": "GBR Wrestling (1908 Summer)",
+      "season": "1908 Summer",
+      "country": "GBR",
+      "roster_size": 51,
+      "theoretical_probability": 0.974432,
+      "no_shared_probability": 0.025568,
+      "source": "olympics"
+    },
+    {
+      "sport": "Baseball",
+      "team": "Toronto Blue Jays",
+      "season": "2022",
+      "country": "USA",
+      "roster_size": 51,
+      "theoretical_probability": 0.974432,
+      "no_shared_probability": 0.025568,
+      "source": "mlb"
+    }
+  ],
+  "same_date_clusters": [
+    {
+      "date": "05-17",
+      "same_date_players": 4,
+      "players": [
+        "Scott Case",
+        "Rick Donnelly",
+        "Art Price",
+        "Wayne Radloff"
+      ],
+      "sport": "American Football",
+      "team": "ATL",
+      "season": "1987",
+      "country": "USA",
+      "roster_size": 111,
+      "source": "nfl"
+    },
+    {
+      "date": "04-26",
+      "same_date_players": 4,
+      "players": [
+        "Tim Jordan",
+        "Julius Adams",
+        "Steve Nelson",
+        "Mosi Tatupu"
+      ],
+      "sport": "American Football",
+      "team": "NE",
+      "season": "1987",
+      "country": "USA",
+      "roster_size": 102,
+      "source": "nfl"
+    },
+    {
+      "date": "01-22",
+      "same_date_players": 4,
+      "players": [
+        "Vince Newsome",
+        "Chris Matau",
+        "Chris Pacheco",
+        "Charles White"
+      ],
+      "sport": "American Football",
+      "team": "RAM",
+      "season": "1987",
+      "country": "USA",
+      "roster_size": 96,
+      "source": "nfl"
+    },
+    {
+      "date": "01-30",
+      "same_date_players": 4,
+      "players": [
+        "Tyquan Lewis",
+        "Malik Turner",
+        "Arlington Hambright",
+        "Trey Sermon"
+      ],
+      "sport": "American Football",
+      "team": "IND",
+      "season": "2023",
+      "country": "USA",
+      "roster_size": 96,
+      "source": "nfl"
+    },
+    {
+      "date": "01-08",
+      "same_date_players": 4,
+      "players": [
+        "Ja'Sir Taylor",
+        "Jermaine Johnson II",
+        "Ochaun Mathis",
+        "Qwan'tez Stiggers"
+      ],
+      "sport": "American Football",
+      "team": "NYJ",
+      "season": "2025",
+      "country": "USA",
+      "roster_size": 96,
+      "source": "nfl"
+    },
+    {
+      "date": "09-19",
+      "same_date_players": 4,
+      "players": [
+        "Henry Mondeaux",
+        "D.J. Davidson",
+        "Evan Neal",
+        "Joshua Ezeudu"
+      ],
+      "sport": "American Football",
+      "team": "NYG",
+      "season": "2022",
+      "country": "USA",
+      "roster_size": 94,
+      "source": "nfl"
+    },
+    {
+      "date": "09-16",
+      "same_date_players": 4,
+      "players": [
+        "Samaje Perine",
+        "Mack Hollins",
+        "Avery Moss",
+        "Evan Brown"
+      ],
+      "sport": "American Football",
+      "team": "MIA",
+      "season": "2019",
+      "country": "USA",
+      "roster_size": 93,
+      "source": "nfl"
+    },
+    {
+      "date": "03-09",
+      "same_date_players": 4,
+      "players": [
+        "Avery Williamson",
+        "James Burgess",
+        "Ben Braden",
+        "Marcus Maye"
+      ],
+      "sport": "American Football",
+      "team": "NYJ",
+      "season": "2019",
+      "country": "USA",
+      "roster_size": 90,
+      "source": "nfl"
+    }
+  ],
+  "exact_birthdate_clusters": [
+    {
+      "birth_date": "1965-04-04",
+      "same_birthdate_players": 3,
+      "players": [
+        "Dave Hollis",
+        "Tony Burse",
+        "Chad Stark"
+      ],
+      "sport": "American Football",
+      "team": "SEA",
+      "season": "1987",
+      "country": "USA",
+      "roster_size": 112,
+      "source": "nfl"
+    },
+    {
+      "birth_date": "1962-05-17",
+      "same_birthdate_players": 3,
+      "players": [
+        "Scott Case",
+        "Rick Donnelly",
+        "Art Price"
+      ],
+      "sport": "American Football",
+      "team": "ATL",
+      "season": "1987",
+      "country": "USA",
+      "roster_size": 111,
+      "source": "nfl"
+    },
+    {
+      "birth_date": "1959-01-08",
+      "same_birthdate_players": 3,
+      "players": [
+        "Mark Herrmann",
+        "Anthony Steels",
+        "Mike Humiston"
+      ],
+      "sport": "American Football",
+      "team": "SD",
+      "season": "1987",
+      "country": "USA",
+      "roster_size": 98,
+      "source": "nfl"
+    },
+    {
+      "birth_date": "1999-01-08",
+      "same_birthdate_players": 3,
+      "players": [
+        "Ja'Sir Taylor",
+        "Jermaine Johnson II",
+        "Ochaun Mathis"
+      ],
+      "sport": "American Football",
+      "team": "NYJ",
+      "season": "2025",
+      "country": "USA",
+      "roster_size": 96,
+      "source": "nfl"
+    },
+    {
+      "birth_date": "1994-11-02",
+      "same_birthdate_players": 3,
+      "players": [
+        "Hassan Ridgeway",
+        "Jordan Howard",
+        "Corey Clement"
+      ],
+      "sport": "American Football",
+      "team": "PHI",
+      "season": "2020",
+      "country": "USA",
+      "roster_size": 89,
+      "source": "nfl"
+    },
+    {
+      "birth_date": "1995-10-21",
+      "same_birthdate_players": 3,
+      "players": [
+        "David Sharpe",
+        "Marquel Lee",
+        "Brandon Parker"
+      ],
+      "sport": "American Football",
+      "team": "OAK",
+      "season": "2018",
+      "country": "USA",
+      "roster_size": 86,
+      "source": "nfl"
+    },
+    {
+      "birth_date": "1994-11-02",
+      "same_birthdate_players": 3,
+      "players": [
+        "Hassan Ridgeway",
+        "Jordan Howard",
+        "Corey Clement"
+      ],
+      "sport": "American Football",
+      "team": "PHI",
+      "season": "2019",
+      "country": "USA",
+      "roster_size": 85,
+      "source": "nfl"
+    },
+    {
+      "birth_date": "1995-10-21",
+      "same_birthdate_players": 3,
+      "players": [
+        "David Sharpe",
+        "Marquel Lee",
+        "Brandon Parker"
+      ],
+      "sport": "American Football",
+      "team": "OAK",
+      "season": "2019",
+      "country": "USA",
+      "roster_size": 84,
+      "source": "nfl"
+    }
+  ]
+}

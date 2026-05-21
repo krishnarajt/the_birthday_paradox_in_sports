@@ -1,0 +1,176 @@
+{
+  "sport": "Olympic Cycling Mountain Bike (Cycling)",
+  "slug": "olympic-cycling-mountain-bike-cycling",
+  "cohorts": 13,
+  "total_players": 66,
+  "avg_roster_size": 5.076923,
+  "observed_rate": 0.0,
+  "theoretical_rate": 0.028161,
+  "deviation": -0.028161,
+  "cohort_kind": "delegation",
+  "cohort_kind_breakdown": {
+    "delegation": 13
+  },
+  "by_country": [
+    {
+      "country": "SUI",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.2
+    },
+    {
+      "country": "GER",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "CAN",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "FRA",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "AUS",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "POL",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "USA",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 7,
+      "observed_rate": 0.0,
+      "theoretical_rate": 0.027136,
+      "avg_roster_size": 5.0
+    },
+    {
+      "gender": "M",
+      "cohorts": 6,
+      "observed_rate": 0.0,
+      "theoretical_rate": 0.029357,
+      "avg_roster_size": 5.166667
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "SUI Cycling Mountain Bike (Cycling) (2020 Summer)",
+      "season": "2020 Summer",
+      "country": "SUI",
+      "gender": "M",
+      "roster_size": 6,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.040462
+    },
+    {
+      "team": "USA Cycling Mountain Bike (Cycling) (2000 Summer)",
+      "season": "2000 Summer",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 5,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.027136
+    },
+    {
+      "team": "AUS Cycling Mountain Bike (Cycling) (2000 Summer)",
+      "season": "2000 Summer",
+      "country": "AUS",
+      "gender": "F",
+      "roster_size": 5,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.027136
+    },
+    {
+      "team": "FRA Cycling Mountain Bike (Cycling) (2000 Summer)",
+      "season": "2000 Summer",
+      "country": "FRA",
+      "gender": "F",
+      "roster_size": 5,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.027136
+    },
+    {
+      "team": "CAN Cycling Mountain Bike (Cycling) (2000 Summer)",
+      "season": "2000 Summer",
+      "country": "CAN",
+      "gender": "F",
+      "roster_size": 5,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.027136
+    },
+    {
+      "team": "CAN Cycling Mountain Bike (Cycling) (2004 Summer)",
+      "season": "2004 Summer",
+      "country": "CAN",
+      "gender": "F",
+      "roster_size": 5,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.027136
+    },
+    {
+      "team": "SUI Cycling Mountain Bike (Cycling) (2000 Summer)",
+      "season": "2000 Summer",
+      "country": "SUI",
+      "gender": "M",
+      "roster_size": 5,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.027136
+    },
+    {
+      "team": "SUI Cycling Mountain Bike (Cycling) (2004 Summer)",
+      "season": "2004 Summer",
+      "country": "SUI",
+      "gender": "M",
+      "roster_size": 5,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.027136
+    },
+    {
+      "team": "POL Cycling Mountain Bike (Cycling) (2004 Summer)",
+      "season": "2004 Summer",
+      "country": "POL",
+      "gender": "M",
+      "roster_size": 5,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.027136
+    },
+    {
+      "team": "GER Cycling Mountain Bike (Cycling) (2004 Summer)",
+      "season": "2004 Summer",
+      "country": "GER",
+      "gender": "M",
+      "roster_size": 5,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.027136
+    }
+  ]
+}

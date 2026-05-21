@@ -1,0 +1,375 @@
+{
+  "sport": "Olympic Judo",
+  "slug": "olympic-judo",
+  "cohorts": 335,
+  "total_players": 2807,
+  "avg_roster_size": 8.379104,
+  "observed_rate": 0.110448,
+  "theoretical_rate": 0.090669,
+  "deviation": 0.019778,
+  "cohort_kind": "delegation",
+  "cohort_kind_breakdown": {
+    "delegation": 316,
+    "team": 19
+  },
+  "by_country": [
+    {
+      "country": "FRA",
+      "cohorts": 14,
+      "observed_rate": 0.142857,
+      "avg_roster_size": 11.142857
+    },
+    {
+      "country": "CAN",
+      "cohorts": 13,
+      "observed_rate": 0.076923,
+      "avg_roster_size": 7.076923
+    },
+    {
+      "country": "GBR",
+      "cohorts": 13,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.769231
+    },
+    {
+      "country": "JPN",
+      "cohorts": 13,
+      "observed_rate": 0.230769,
+      "avg_roster_size": 11.769231
+    },
+    {
+      "country": "MGL",
+      "cohorts": 12,
+      "observed_rate": 0.166667,
+      "avg_roster_size": 8.5
+    },
+    {
+      "country": "BRA",
+      "cohorts": 12,
+      "observed_rate": 0.166667,
+      "avg_roster_size": 11.25
+    },
+    {
+      "country": "HUN",
+      "cohorts": 12,
+      "observed_rate": 0.083333,
+      "avg_roster_size": 7.166667
+    },
+    {
+      "country": "ITA",
+      "cohorts": 11,
+      "observed_rate": 0.090909,
+      "avg_roster_size": 8.272727
+    },
+    {
+      "country": "KOR",
+      "cohorts": 11,
+      "observed_rate": 0.272727,
+      "avg_roster_size": 12.272727
+    },
+    {
+      "country": "USA",
+      "cohorts": 11,
+      "observed_rate": 0.090909,
+      "avg_roster_size": 9.272727
+    },
+    {
+      "country": "ESP",
+      "cohorts": 10,
+      "observed_rate": 0.2,
+      "avg_roster_size": 8.1
+    },
+    {
+      "country": "POL",
+      "cohorts": 10,
+      "observed_rate": 0.2,
+      "avg_roster_size": 7.2
+    },
+    {
+      "country": "NED",
+      "cohorts": 10,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.2
+    },
+    {
+      "country": "CHN",
+      "cohorts": 10,
+      "observed_rate": 0.2,
+      "avg_roster_size": 8.9
+    },
+    {
+      "country": "CUB",
+      "cohorts": 9,
+      "observed_rate": 0.0,
+      "avg_roster_size": 10.444444
+    },
+    {
+      "country": "GER",
+      "cohorts": 9,
+      "observed_rate": 0.222222,
+      "avg_roster_size": 11.888889
+    },
+    {
+      "country": "GEO",
+      "cohorts": 8,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.125
+    },
+    {
+      "country": "KAZ",
+      "cohorts": 8,
+      "observed_rate": 0.125,
+      "avg_roster_size": 7.875
+    },
+    {
+      "country": "UZB",
+      "cohorts": 8,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.0
+    },
+    {
+      "country": "AUT",
+      "cohorts": 7,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.428571
+    },
+    {
+      "country": "POR",
+      "cohorts": 6,
+      "observed_rate": 0.166667,
+      "avg_roster_size": 6.166667
+    },
+    {
+      "country": "RUS",
+      "cohorts": 6,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 11.833333
+    },
+    {
+      "country": "AUS",
+      "cohorts": 6,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 10.666667
+    },
+    {
+      "country": "UKR",
+      "cohorts": 6,
+      "observed_rate": 0.166667,
+      "avg_roster_size": 8.0
+    },
+    {
+      "country": "ALG",
+      "cohorts": 6,
+      "observed_rate": 0.166667,
+      "avg_roster_size": 7.333333
+    },
+    {
+      "country": "SEN",
+      "cohorts": 5,
+      "observed_rate": 0.2,
+      "avg_roster_size": 5.6
+    },
+    {
+      "country": "ROU",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.4
+    },
+    {
+      "country": "ISR",
+      "cohorts": 5,
+      "observed_rate": 0.2,
+      "avg_roster_size": 8.2
+    },
+    {
+      "country": "ARG",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.8
+    },
+    {
+      "country": "BEL",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "AZE",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "SLO",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.5
+    },
+    {
+      "country": "URS",
+      "cohorts": 4,
+      "observed_rate": 0.25,
+      "avg_roster_size": 6.75
+    },
+    {
+      "country": "TPE",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "TUR",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "FRG",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "VEN",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.0
+    },
+    {
+      "country": "EGY",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.666667
+    },
+    {
+      "country": "TUN",
+      "cohorts": 3,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "BUL",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 184,
+      "observed_rate": 0.130435,
+      "theoretical_rate": 0.111252,
+      "avg_roster_size": 9.36413
+    },
+    {
+      "gender": "M",
+      "cohorts": 151,
+      "observed_rate": 0.086093,
+      "theoretical_rate": 0.065589,
+      "avg_roster_size": 7.178808
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "USA Judo (1996 Summer)",
+      "season": "1996 Summer",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 14,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.223103
+    },
+    {
+      "team": "FRA Judo (1996 Summer)",
+      "season": "1996 Summer",
+      "country": "FRA",
+      "gender": "F",
+      "roster_size": 14,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.223103
+    },
+    {
+      "team": "KOR Judo (1992 Summer)",
+      "season": "1992 Summer",
+      "country": "KOR",
+      "gender": "F",
+      "roster_size": 14,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.223103
+    },
+    {
+      "team": "FRA Judo (2000 Summer)",
+      "season": "2000 Summer",
+      "country": "FRA",
+      "gender": "F",
+      "roster_size": 14,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.223103
+    },
+    {
+      "team": "AUS Judo (2000 Summer)",
+      "season": "2000 Summer",
+      "country": "AUS",
+      "gender": "F",
+      "roster_size": 14,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.223103
+    },
+    {
+      "team": "GRE Judo (2004 Summer)",
+      "season": "2004 Summer",
+      "country": "GRE",
+      "gender": "F",
+      "roster_size": 14,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.223103
+    },
+    {
+      "team": "JPN Judo (2016 Summer)",
+      "season": "2016 Summer",
+      "country": "JPN",
+      "gender": "F",
+      "roster_size": 14,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.223103
+    },
+    {
+      "team": "KOR Judo (2020 Summer)",
+      "season": "2020 Summer",
+      "country": "KOR",
+      "gender": "M",
+      "roster_size": 14,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.223103
+    },
+    {
+      "team": "RUS Judo (1996 Summer)",
+      "season": "1996 Summer",
+      "country": "RUS",
+      "gender": "F",
+      "roster_size": 13,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.19441
+    },
+    {
+      "team": "KOR Judo (2004 Summer)",
+      "season": "2004 Summer",
+      "country": "KOR",
+      "gender": "M",
+      "roster_size": 13,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.19441
+    }
+  ]
+}

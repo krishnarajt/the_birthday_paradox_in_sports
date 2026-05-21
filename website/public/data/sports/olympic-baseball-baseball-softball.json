@@ -1,0 +1,235 @@
+{
+  "sport": "Olympic Baseball (Baseball/Softball)",
+  "slug": "olympic-baseball-baseball-softball",
+  "cohorts": 49,
+  "total_players": 1057,
+  "avg_roster_size": 21.571429,
+  "observed_rate": 0.408163,
+  "theoretical_rate": 0.46533,
+  "deviation": -0.057166,
+  "cohort_kind": "team",
+  "cohort_kind_breakdown": {
+    "team": 49
+  },
+  "by_country": [
+    {
+      "country": "JPN",
+      "cohorts": 6,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 22.666667
+    },
+    {
+      "country": "CUB",
+      "cohorts": 5,
+      "observed_rate": 0.6,
+      "avg_roster_size": 22.4
+    },
+    {
+      "country": "USA",
+      "cohorts": 5,
+      "observed_rate": 0.6,
+      "avg_roster_size": 22.4
+    },
+    {
+      "country": "NED",
+      "cohorts": 5,
+      "observed_rate": 0.4,
+      "avg_roster_size": 19.6
+    },
+    {
+      "country": "ITA",
+      "cohorts": 5,
+      "observed_rate": 0.2,
+      "avg_roster_size": 18.6
+    },
+    {
+      "country": "KOR",
+      "cohorts": 4,
+      "observed_rate": 0.5,
+      "avg_roster_size": 23.0
+    },
+    {
+      "country": "TPE",
+      "cohorts": 3,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 22.333333
+    },
+    {
+      "country": "AUS",
+      "cohorts": 3,
+      "observed_rate": 0.666667,
+      "avg_roster_size": 22.666667
+    },
+    {
+      "country": "CAN",
+      "cohorts": 2,
+      "observed_rate": 0.5,
+      "avg_roster_size": 24.0
+    },
+    {
+      "country": "DOM",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 21.5
+    },
+    {
+      "country": "PUR",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 14.5
+    },
+    {
+      "country": "ISR",
+      "cohorts": 1,
+      "observed_rate": 1.0,
+      "avg_roster_size": 24.0
+    },
+    {
+      "country": "CHN",
+      "cohorts": 1,
+      "observed_rate": 1.0,
+      "avg_roster_size": 24.0
+    },
+    {
+      "country": "ESP",
+      "cohorts": 1,
+      "observed_rate": 1.0,
+      "avg_roster_size": 20.0
+    },
+    {
+      "country": "GRE",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 23.0
+    },
+    {
+      "country": "MEX",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 24.0
+    },
+    {
+      "country": "NCA",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 20.0
+    },
+    {
+      "country": "RSA",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 24.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "M",
+      "cohorts": 49,
+      "observed_rate": 0.408163,
+      "theoretical_rate": 0.46533,
+      "avg_roster_size": 21.571429
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "AUS Baseball (Baseball/Softball) (2000 Summer)",
+      "season": "2000 Summer",
+      "country": "AUS",
+      "gender": "M",
+      "roster_size": 24,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.538344
+    },
+    {
+      "team": "CUB Baseball (Baseball/Softball) (2000 Summer)",
+      "season": "2000 Summer",
+      "country": "CUB",
+      "gender": "M",
+      "roster_size": 24,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.538344
+    },
+    {
+      "team": "ITA Baseball (Baseball/Softball) (2000 Summer)",
+      "season": "2000 Summer",
+      "country": "ITA",
+      "gender": "M",
+      "roster_size": 24,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.538344
+    },
+    {
+      "team": "JPN Baseball (Baseball/Softball) (2004 Summer)",
+      "season": "2004 Summer",
+      "country": "JPN",
+      "gender": "M",
+      "roster_size": 24,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.538344
+    },
+    {
+      "team": "JPN Baseball (Baseball/Softball) (2000 Summer)",
+      "season": "2000 Summer",
+      "country": "JPN",
+      "gender": "M",
+      "roster_size": 24,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.538344
+    },
+    {
+      "team": "KOR Baseball (Baseball/Softball) (2008 Summer)",
+      "season": "2008 Summer",
+      "country": "KOR",
+      "gender": "M",
+      "roster_size": 24,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.538344
+    },
+    {
+      "team": "NED Baseball (Baseball/Softball) (2000 Summer)",
+      "season": "2000 Summer",
+      "country": "NED",
+      "gender": "M",
+      "roster_size": 24,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.538344
+    },
+    {
+      "team": "NED Baseball (Baseball/Softball) (2004 Summer)",
+      "season": "2004 Summer",
+      "country": "NED",
+      "gender": "M",
+      "roster_size": 24,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.538344
+    },
+    {
+      "team": "CAN Baseball (Baseball/Softball) (2008 Summer)",
+      "season": "2008 Summer",
+      "country": "CAN",
+      "gender": "M",
+      "roster_size": 24,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.538344
+    },
+    {
+      "team": "CHN Baseball (Baseball/Softball) (2008 Summer)",
+      "season": "2008 Summer",
+      "country": "CHN",
+      "gender": "M",
+      "roster_size": 24,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.538344
+    }
+  ]
+}

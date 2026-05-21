@@ -1,0 +1,134 @@
+{
+  "sport": "Olympic Taekwondo",
+  "slug": "olympic-taekwondo",
+  "cohorts": 7,
+  "total_players": 41,
+  "avg_roster_size": 5.857143,
+  "observed_rate": 0.0,
+  "theoretical_rate": 0.03959,
+  "deviation": -0.03959,
+  "cohort_kind": "delegation",
+  "cohort_kind_breakdown": {
+    "delegation": 7
+  },
+  "by_country": [
+    {
+      "country": "CHN",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "KOR",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.5
+    },
+    {
+      "country": "AUS",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.0
+    },
+    {
+      "country": "GBR",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "UZB",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "theoretical_rate": 0.047311,
+      "avg_roster_size": 6.333333
+    },
+    {
+      "gender": "M",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "theoretical_rate": 0.033799,
+      "avg_roster_size": 5.5
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "AUS Taekwondo (2000 Summer)",
+      "season": "2000 Summer",
+      "country": "AUS",
+      "gender": "F",
+      "roster_size": 8,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.074335
+    },
+    {
+      "team": "CHN Taekwondo (2020 Summer)",
+      "season": "2020 Summer",
+      "country": "CHN",
+      "gender": "F",
+      "roster_size": 6,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.040462
+    },
+    {
+      "team": "KOR Taekwondo (2020 Summer)",
+      "season": "2020 Summer",
+      "country": "KOR",
+      "gender": "M",
+      "roster_size": 6,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.040462
+    },
+    {
+      "team": "CHN Taekwondo (2024 Summer)",
+      "season": "2024 Summer",
+      "country": "CHN",
+      "gender": "M",
+      "roster_size": 6,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.040462
+    },
+    {
+      "team": "KOR Taekwondo (2016 Summer)",
+      "season": "2016 Summer",
+      "country": "KOR",
+      "gender": "M",
+      "roster_size": 5,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.027136
+    },
+    {
+      "team": "GBR Taekwondo (2020 Summer)",
+      "season": "2020 Summer",
+      "country": "GBR",
+      "gender": "F",
+      "roster_size": 5,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.027136
+    },
+    {
+      "team": "UZB Taekwondo (2024 Summer)",
+      "season": "2024 Summer",
+      "country": "UZB",
+      "gender": "M",
+      "roster_size": 5,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.027136
+    }
+  ]
+}

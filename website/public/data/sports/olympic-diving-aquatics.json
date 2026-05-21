@@ -1,0 +1,320 @@
+{
+  "sport": "Olympic Diving (Aquatics)",
+  "slug": "olympic-diving-aquatics",
+  "cohorts": 174,
+  "total_players": 1384,
+  "avg_roster_size": 7.954023,
+  "observed_rate": 0.057471,
+  "theoretical_rate": 0.079849,
+  "deviation": -0.022377,
+  "cohort_kind": "delegation",
+  "cohort_kind_breakdown": {
+    "delegation": 174
+  },
+  "by_country": [
+    {
+      "country": "USA",
+      "cohorts": 23,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.608696
+    },
+    {
+      "country": "GBR",
+      "cohorts": 21,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.761905
+    },
+    {
+      "country": "MEX",
+      "cohorts": 15,
+      "observed_rate": 0.066667,
+      "avg_roster_size": 6.8
+    },
+    {
+      "country": "GER",
+      "cohorts": 13,
+      "observed_rate": 0.076923,
+      "avg_roster_size": 7.769231
+    },
+    {
+      "country": "CAN",
+      "cohorts": 12,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.75
+    },
+    {
+      "country": "CHN",
+      "cohorts": 10,
+      "observed_rate": 0.4,
+      "avg_roster_size": 9.3
+    },
+    {
+      "country": "AUS",
+      "cohorts": 10,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.5
+    },
+    {
+      "country": "URS",
+      "cohorts": 9,
+      "observed_rate": 0.111111,
+      "avg_roster_size": 9.0
+    },
+    {
+      "country": "UKR",
+      "cohorts": 7,
+      "observed_rate": 0.285714,
+      "avg_roster_size": 7.428571
+    },
+    {
+      "country": "ITA",
+      "cohorts": 6,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.666667
+    },
+    {
+      "country": "RUS",
+      "cohorts": 6,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.0
+    },
+    {
+      "country": "SWE",
+      "cohorts": 5,
+      "observed_rate": 0.2,
+      "avg_roster_size": 14.8
+    },
+    {
+      "country": "GDR",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.25
+    },
+    {
+      "country": "FRA",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "FRG",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.333333
+    },
+    {
+      "country": "JPN",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.333333
+    },
+    {
+      "country": "MAS",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.333333
+    },
+    {
+      "country": "CUB",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.666667
+    },
+    {
+      "country": "KAZ",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.5
+    },
+    {
+      "country": "ESP",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "FIN",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "GRE",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.5
+    },
+    {
+      "country": "DEN",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "EUN",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "BLR",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "BRA",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.0
+    },
+    {
+      "country": "KOR",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "NED",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "ROC",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "POL",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "PRK",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 144,
+      "observed_rate": 0.055556,
+      "theoretical_rate": 0.077431,
+      "avg_roster_size": 7.833333
+    },
+    {
+      "gender": "M",
+      "cohorts": 30,
+      "observed_rate": 0.066667,
+      "theoretical_rate": 0.091452,
+      "avg_roster_size": 8.533333
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "SWE Diving (Aquatics) (1912 Summer)",
+      "season": "1912 Summer",
+      "country": "SWE",
+      "gender": "F",
+      "roster_size": 34,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.795317
+    },
+    {
+      "team": "CHN Diving (Aquatics) (2016 Summer)",
+      "season": "2016 Summer",
+      "country": "CHN",
+      "gender": "F",
+      "roster_size": 13,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.19441
+    },
+    {
+      "team": "MEX Diving (Aquatics) (2020 Summer)",
+      "season": "2020 Summer",
+      "country": "MEX",
+      "gender": "M",
+      "roster_size": 13,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.19441
+    },
+    {
+      "team": "CHN Diving (Aquatics) (2012 Summer)",
+      "season": "2012 Summer",
+      "country": "CHN",
+      "gender": "F",
+      "roster_size": 11,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.141141
+    },
+    {
+      "team": "CHN Diving (Aquatics) (2020 Summer)",
+      "season": "2020 Summer",
+      "country": "CHN",
+      "gender": "M",
+      "roster_size": 10,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.116948
+    },
+    {
+      "team": "URS Diving (Aquatics) (1972 Summer)",
+      "season": "1972 Summer",
+      "country": "URS",
+      "gender": "F",
+      "roster_size": 9,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.094624
+    },
+    {
+      "team": "GER Diving (Aquatics) (2008 Summer)",
+      "season": "2008 Summer",
+      "country": "GER",
+      "gender": "F",
+      "roster_size": 9,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.094624
+    },
+    {
+      "team": "UKR Diving (Aquatics) (2008 Summer)",
+      "season": "2008 Summer",
+      "country": "UKR",
+      "gender": "F",
+      "roster_size": 9,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.094624
+    },
+    {
+      "team": "CHN Diving (Aquatics) (1992 Summer)",
+      "season": "1992 Summer",
+      "country": "CHN",
+      "gender": "F",
+      "roster_size": 8,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.074335
+    },
+    {
+      "team": "UKR Diving (Aquatics) (2020 Summer)",
+      "season": "2020 Summer",
+      "country": "UKR",
+      "gender": "F",
+      "roster_size": 5,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.027136
+    }
+  ]
+}

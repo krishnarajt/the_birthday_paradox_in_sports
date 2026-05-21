@@ -1,0 +1,242 @@
+{
+  "sport": "Olympic Rugby Sevens (Rugby)",
+  "slug": "olympic-rugby-sevens-rugby",
+  "cohorts": 30,
+  "total_players": 596,
+  "avg_roster_size": 19.866667,
+  "observed_rate": 0.433333,
+  "theoretical_rate": 0.410446,
+  "deviation": 0.022887,
+  "cohort_kind": "team",
+  "cohort_kind_breakdown": {
+    "team": 30
+  },
+  "by_country": [
+    {
+      "country": "ARG",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 11.0
+    },
+    {
+      "country": "AUS",
+      "cohorts": 2,
+      "observed_rate": 0.5,
+      "avg_roster_size": 25.0
+    },
+    {
+      "country": "BRA",
+      "cohorts": 2,
+      "observed_rate": 1.0,
+      "avg_roster_size": 19.0
+    },
+    {
+      "country": "CAN",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 18.0
+    },
+    {
+      "country": "FRA",
+      "cohorts": 2,
+      "observed_rate": 0.5,
+      "avg_roster_size": 19.0
+    },
+    {
+      "country": "FIJ",
+      "cohorts": 2,
+      "observed_rate": 0.5,
+      "avg_roster_size": 26.0
+    },
+    {
+      "country": "GBR",
+      "cohorts": 2,
+      "observed_rate": 0.5,
+      "avg_roster_size": 25.0
+    },
+    {
+      "country": "RSA",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 12.5
+    },
+    {
+      "country": "KEN",
+      "cohorts": 2,
+      "observed_rate": 0.5,
+      "avg_roster_size": 24.5
+    },
+    {
+      "country": "JPN",
+      "cohorts": 2,
+      "observed_rate": 1.0,
+      "avg_roster_size": 25.0
+    },
+    {
+      "country": "USA",
+      "cohorts": 2,
+      "observed_rate": 0.5,
+      "avg_roster_size": 25.5
+    },
+    {
+      "country": "NZL",
+      "cohorts": 2,
+      "observed_rate": 1.0,
+      "avg_roster_size": 25.0
+    },
+    {
+      "country": "CHN",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.0
+    },
+    {
+      "country": "COL",
+      "cohorts": 1,
+      "observed_rate": 1.0,
+      "avg_roster_size": 12.0
+    },
+    {
+      "country": "ESP",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 25.0
+    },
+    {
+      "country": "IRL",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 13.0
+    },
+    {
+      "country": "KOR",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 13.0
+    },
+    {
+      "country": "ROC",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 13.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 24,
+      "observed_rate": 0.541667,
+      "theoretical_rate": 0.469754,
+      "avg_roster_size": 21.791667
+    },
+    {
+      "gender": "M",
+      "cohorts": 6,
+      "observed_rate": 0.0,
+      "theoretical_rate": 0.173215,
+      "avg_roster_size": 12.166667
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "FIJ Rugby Sevens (Rugby) (2016 Summer)",
+      "season": "2016 Summer",
+      "country": "FIJ",
+      "gender": "F",
+      "roster_size": 26,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.598241
+    },
+    {
+      "team": "GBR Rugby Sevens (Rugby) (2020 Summer)",
+      "season": "2020 Summer",
+      "country": "GBR",
+      "gender": "F",
+      "roster_size": 26,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.598241
+    },
+    {
+      "team": "AUS Rugby Sevens (Rugby) (2016 Summer)",
+      "season": "2016 Summer",
+      "country": "AUS",
+      "gender": "F",
+      "roster_size": 25,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.5687
+    },
+    {
+      "team": "BRA Rugby Sevens (Rugby) (2016 Summer)",
+      "season": "2016 Summer",
+      "country": "BRA",
+      "gender": "F",
+      "roster_size": 25,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.5687
+    },
+    {
+      "team": "FRA Rugby Sevens (Rugby) (2016 Summer)",
+      "season": "2016 Summer",
+      "country": "FRA",
+      "gender": "F",
+      "roster_size": 25,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.5687
+    },
+    {
+      "team": "JPN Rugby Sevens (Rugby) (2016 Summer)",
+      "season": "2016 Summer",
+      "country": "JPN",
+      "gender": "F",
+      "roster_size": 25,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.5687
+    },
+    {
+      "team": "JPN Rugby Sevens (Rugby) (2020 Summer)",
+      "season": "2020 Summer",
+      "country": "JPN",
+      "gender": "F",
+      "roster_size": 25,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.5687
+    },
+    {
+      "team": "NZL Rugby Sevens (Rugby) (2016 Summer)",
+      "season": "2016 Summer",
+      "country": "NZL",
+      "gender": "F",
+      "roster_size": 25,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.5687
+    },
+    {
+      "team": "NZL Rugby Sevens (Rugby) (2020 Summer)",
+      "season": "2020 Summer",
+      "country": "NZL",
+      "gender": "F",
+      "roster_size": 25,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.5687
+    },
+    {
+      "team": "USA Rugby Sevens (Rugby) (2016 Summer)",
+      "season": "2016 Summer",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 25,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.5687
+    }
+  ]
+}

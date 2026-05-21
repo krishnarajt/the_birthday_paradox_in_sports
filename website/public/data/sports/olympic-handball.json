@@ -1,0 +1,374 @@
+{
+  "sport": "Olympic Handball",
+  "slug": "olympic-handball",
+  "cohorts": 242,
+  "total_players": 4359,
+  "avg_roster_size": 18.012397,
+  "observed_rate": 0.421488,
+  "theoretical_rate": 0.345456,
+  "deviation": 0.076031,
+  "cohort_kind": "team",
+  "cohort_kind_breakdown": {
+    "team": 242
+  },
+  "by_country": [
+    {
+      "country": "ESP",
+      "cohorts": 14,
+      "observed_rate": 0.571429,
+      "avg_roster_size": 19.0
+    },
+    {
+      "country": "HUN",
+      "cohorts": 14,
+      "observed_rate": 0.285714,
+      "avg_roster_size": 18.071429
+    },
+    {
+      "country": "DEN",
+      "cohorts": 13,
+      "observed_rate": 0.307692,
+      "avg_roster_size": 16.0
+    },
+    {
+      "country": "SWE",
+      "cohorts": 12,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 19.0
+    },
+    {
+      "country": "NOR",
+      "cohorts": 11,
+      "observed_rate": 0.454545,
+      "avg_roster_size": 15.727273
+    },
+    {
+      "country": "KOR",
+      "cohorts": 11,
+      "observed_rate": 0.454545,
+      "avg_roster_size": 23.272727
+    },
+    {
+      "country": "FRA",
+      "cohorts": 10,
+      "observed_rate": 0.5,
+      "avg_roster_size": 24.5
+    },
+    {
+      "country": "GER",
+      "cohorts": 10,
+      "observed_rate": 0.6,
+      "avg_roster_size": 20.3
+    },
+    {
+      "country": "BRA",
+      "cohorts": 9,
+      "observed_rate": 0.444444,
+      "avg_roster_size": 20.777778
+    },
+    {
+      "country": "ROU",
+      "cohorts": 9,
+      "observed_rate": 0.222222,
+      "avg_roster_size": 16.111111
+    },
+    {
+      "country": "EGY",
+      "cohorts": 8,
+      "observed_rate": 0.625,
+      "avg_roster_size": 14.5
+    },
+    {
+      "country": "ANG",
+      "cohorts": 8,
+      "observed_rate": 0.5,
+      "avg_roster_size": 13.875
+    },
+    {
+      "country": "ISL",
+      "cohorts": 7,
+      "observed_rate": 0.714286,
+      "avg_roster_size": 14.571429
+    },
+    {
+      "country": "USA",
+      "cohorts": 7,
+      "observed_rate": 0.714286,
+      "avg_roster_size": 20.571429
+    },
+    {
+      "country": "CRO",
+      "cohorts": 6,
+      "observed_rate": 0.5,
+      "avg_roster_size": 17.166667
+    },
+    {
+      "country": "JPN",
+      "cohorts": 6,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 18.5
+    },
+    {
+      "country": "RUS",
+      "cohorts": 6,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 16.833333
+    },
+    {
+      "country": "YUG",
+      "cohorts": 5,
+      "observed_rate": 0.6,
+      "avg_roster_size": 23.0
+    },
+    {
+      "country": "CHN",
+      "cohorts": 5,
+      "observed_rate": 0.2,
+      "avg_roster_size": 16.4
+    },
+    {
+      "country": "TUN",
+      "cohorts": 5,
+      "observed_rate": 0.2,
+      "avg_roster_size": 14.6
+    },
+    {
+      "country": "TCH",
+      "cohorts": 5,
+      "observed_rate": 0.6,
+      "avg_roster_size": 17.8
+    },
+    {
+      "country": "POL",
+      "cohorts": 5,
+      "observed_rate": 0.6,
+      "avg_roster_size": 14.4
+    },
+    {
+      "country": "SLO",
+      "cohorts": 5,
+      "observed_rate": 0.4,
+      "avg_roster_size": 15.4
+    },
+    {
+      "country": "URS",
+      "cohorts": 4,
+      "observed_rate": 0.75,
+      "avg_roster_size": 24.75
+    },
+    {
+      "country": "ARG",
+      "cohorts": 4,
+      "observed_rate": 0.25,
+      "avg_roster_size": 18.75
+    },
+    {
+      "country": "ALG",
+      "cohorts": 4,
+      "observed_rate": 0.25,
+      "avg_roster_size": 13.5
+    },
+    {
+      "country": "SUI",
+      "cohorts": 4,
+      "observed_rate": 0.25,
+      "avg_roster_size": 14.75
+    },
+    {
+      "country": "AUT",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 16.5
+    },
+    {
+      "country": "GDR",
+      "cohorts": 4,
+      "observed_rate": 0.25,
+      "avg_roster_size": 17.75
+    },
+    {
+      "country": "FRG",
+      "cohorts": 3,
+      "observed_rate": 0.666667,
+      "avg_roster_size": 19.666667
+    },
+    {
+      "country": "NED",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 14.333333
+    },
+    {
+      "country": "MNE",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 14.666667
+    },
+    {
+      "country": "CUB",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 13.5
+    },
+    {
+      "country": "EUN",
+      "cohorts": 1,
+      "observed_rate": 1.0,
+      "avg_roster_size": 28.0
+    },
+    {
+      "country": "CIV",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 13.0
+    },
+    {
+      "country": "BRN",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 16.0
+    },
+    {
+      "country": "CAN",
+      "cohorts": 1,
+      "observed_rate": 1.0,
+      "avg_roster_size": 28.0
+    },
+    {
+      "country": "AUS",
+      "cohorts": 1,
+      "observed_rate": 1.0,
+      "avg_roster_size": 29.0
+    },
+    {
+      "country": "GBR",
+      "cohorts": 1,
+      "observed_rate": 1.0,
+      "avg_roster_size": 28.0
+    },
+    {
+      "country": "KAZ",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 14.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 107,
+      "observed_rate": 0.504673,
+      "theoretical_rate": 0.408011,
+      "avg_roster_size": 20.056075
+    },
+    {
+      "gender": "M",
+      "cohorts": 135,
+      "observed_rate": 0.355556,
+      "theoretical_rate": 0.295876,
+      "avg_roster_size": 16.392593
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "GER Handball (1992 Summer)",
+      "season": "1992 Summer",
+      "country": "GER",
+      "gender": "F",
+      "roster_size": 32,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.753348
+    },
+    {
+      "team": "USA Handball (1996 Summer)",
+      "season": "1996 Summer",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 32,
+      "duplicate_pairs": 4,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.753348
+    },
+    {
+      "team": "FRA Handball (2016 Summer)",
+      "season": "2016 Summer",
+      "country": "FRA",
+      "gender": "M",
+      "roster_size": 31,
+      "duplicate_pairs": 3,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.730455
+    },
+    {
+      "team": "FRA Handball (2020 Summer)",
+      "season": "2020 Summer",
+      "country": "FRA",
+      "gender": "M",
+      "roster_size": 31,
+      "duplicate_pairs": 3,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.730455
+    },
+    {
+      "team": "JPN Handball (2020 Summer)",
+      "season": "2020 Summer",
+      "country": "JPN",
+      "gender": "F",
+      "roster_size": 31,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.730455
+    },
+    {
+      "team": "ESP Handball (1992 Summer)",
+      "season": "1992 Summer",
+      "country": "ESP",
+      "gender": "F",
+      "roster_size": 30,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.706316
+    },
+    {
+      "team": "ESP Handball (2004 Summer)",
+      "season": "2004 Summer",
+      "country": "ESP",
+      "gender": "F",
+      "roster_size": 30,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.706316
+    },
+    {
+      "team": "GER Handball (1996 Summer)",
+      "season": "1996 Summer",
+      "country": "GER",
+      "gender": "F",
+      "roster_size": 30,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.706316
+    },
+    {
+      "team": "YUG Handball (1988 Summer)",
+      "season": "1988 Summer",
+      "country": "YUG",
+      "gender": "F",
+      "roster_size": 30,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.706316
+    },
+    {
+      "team": "BRA Handball (2004 Summer)",
+      "season": "2004 Summer",
+      "country": "BRA",
+      "gender": "M",
+      "roster_size": 30,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.706316
+    }
+  ]
+}

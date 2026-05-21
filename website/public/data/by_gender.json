@@ -1,0 +1,18 @@
+{
+  "overall": [
+    {
+      "gender": "F",
+      "cohorts": 7338,
+      "observed_rate": 0.249523,
+      "theoretical_rate": 0.207953,
+      "avg_roster_size": 13.397247
+    },
+    {
+      "gender": "M",
+      "cohorts": 30890,
+      "observed_rate": 0.528197,
+      "theoretical_rate": 0.50458,
+      "avg_roster_size": 25.156815
+    }
+  ]
+}

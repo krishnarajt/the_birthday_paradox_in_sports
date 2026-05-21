@@ -1,0 +1,206 @@
+{
+  "sport": "Olympic Swimming",
+  "slug": "olympic-swimming",
+  "cohorts": 40,
+  "total_players": 238,
+  "avg_roster_size": 5.95,
+  "observed_rate": 0.075,
+  "theoretical_rate": 0.040885,
+  "deviation": 0.034115,
+  "cohort_kind": "team",
+  "cohort_kind_breakdown": {
+    "team": 40
+  },
+  "by_country": [
+    {
+      "country": "AUS",
+      "cohorts": 7,
+      "observed_rate": 0.142857,
+      "avg_roster_size": 6.285714
+    },
+    {
+      "country": "USA",
+      "cohorts": 7,
+      "observed_rate": 0.142857,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "CHN",
+      "cohorts": 6,
+      "observed_rate": 0.166667,
+      "avg_roster_size": 5.666667
+    },
+    {
+      "country": "CAN",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "GBR",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.2
+    },
+    {
+      "country": "FRA",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.5
+    },
+    {
+      "country": "ISR",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "GER",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "ITA",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "KOR",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "NED",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "SWE",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 19,
+      "observed_rate": 0.052632,
+      "theoretical_rate": 0.045174,
+      "avg_roster_size": 6.210526
+    },
+    {
+      "gender": "M",
+      "cohorts": 21,
+      "observed_rate": 0.095238,
+      "theoretical_rate": 0.037004,
+      "avg_roster_size": 5.714286
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "Australia - Women's 4 x 100m Medley Relay",
+      "season": "2024 Summer",
+      "country": "AUS",
+      "gender": "F",
+      "roster_size": 8,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.074335
+    },
+    {
+      "team": "United States of America - Men's 4 x 200m Freestyle Relay",
+      "season": "2024 Summer",
+      "country": "USA",
+      "gender": "M",
+      "roster_size": 7,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.056236
+    },
+    {
+      "team": "People's Republic of China - Men's 4 x 100m Medley Relay",
+      "season": "2024 Summer",
+      "country": "CHN",
+      "gender": "M",
+      "roster_size": 5,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.027136
+    },
+    {
+      "team": "United States of America - Women's 4 x 100m Medley Relay",
+      "season": "2024 Summer",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 8,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.074335
+    },
+    {
+      "team": "Australia - Mixed 4 x 100m Medley Relay",
+      "season": "2024 Summer",
+      "country": "AUS",
+      "gender": "F",
+      "roster_size": 8,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.074335
+    },
+    {
+      "team": "United States of America - Mixed 4 x 100m Medley Relay",
+      "season": "2024 Summer",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 8,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.074335
+    },
+    {
+      "team": "United States of America - Men's 4 x 100m Medley Relay",
+      "season": "2024 Summer",
+      "country": "USA",
+      "gender": "M",
+      "roster_size": 7,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.056236
+    },
+    {
+      "team": "Canada - Women's 4 x 100m Medley Relay",
+      "season": "2024 Summer",
+      "country": "CAN",
+      "gender": "F",
+      "roster_size": 7,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.056236
+    },
+    {
+      "team": "People's Republic of China - Women's 4 x 100m Medley Relay",
+      "season": "2024 Summer",
+      "country": "CHN",
+      "gender": "F",
+      "roster_size": 7,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.056236
+    },
+    {
+      "team": "United States of America - Women's 4 x 200m Freestyle Relay",
+      "season": "2024 Summer",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 7,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.056236
+    }
+  ]
+}

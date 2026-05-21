@@ -1,0 +1,326 @@
+{
+  "sport": "Olympic Figure Skating (Skating)",
+  "slug": "olympic-figure-skating-skating",
+  "cohorts": 194,
+  "total_players": 1764,
+  "avg_roster_size": 9.092784,
+  "observed_rate": 0.154639,
+  "theoretical_rate": 0.108092,
+  "deviation": 0.046547,
+  "cohort_kind": "delegation",
+  "cohort_kind_breakdown": {
+    "delegation": 194
+  },
+  "by_country": [
+    {
+      "country": "USA",
+      "cohorts": 24,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 12.375
+    },
+    {
+      "country": "CAN",
+      "cohorts": 23,
+      "observed_rate": 0.304348,
+      "avg_roster_size": 10.608696
+    },
+    {
+      "country": "GBR",
+      "cohorts": 19,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.842105
+    },
+    {
+      "country": "FRA",
+      "cohorts": 14,
+      "observed_rate": 0.285714,
+      "avg_roster_size": 7.714286
+    },
+    {
+      "country": "GER",
+      "cohorts": 13,
+      "observed_rate": 0.076923,
+      "avg_roster_size": 7.769231
+    },
+    {
+      "country": "JPN",
+      "cohorts": 10,
+      "observed_rate": 0.1,
+      "avg_roster_size": 7.1
+    },
+    {
+      "country": "ITA",
+      "cohorts": 10,
+      "observed_rate": 0.2,
+      "avg_roster_size": 8.1
+    },
+    {
+      "country": "CHN",
+      "cohorts": 8,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.625
+    },
+    {
+      "country": "AUT",
+      "cohorts": 8,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.5
+    },
+    {
+      "country": "RUS",
+      "cohorts": 7,
+      "observed_rate": 0.285714,
+      "avg_roster_size": 15.285714
+    },
+    {
+      "country": "UKR",
+      "cohorts": 7,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.571429
+    },
+    {
+      "country": "TCH",
+      "cohorts": 6,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.833333
+    },
+    {
+      "country": "GDR",
+      "cohorts": 6,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.5
+    },
+    {
+      "country": "URS",
+      "cohorts": 6,
+      "observed_rate": 0.5,
+      "avg_roster_size": 14.5
+    },
+    {
+      "country": "HUN",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.8
+    },
+    {
+      "country": "FRG",
+      "cohorts": 5,
+      "observed_rate": 0.2,
+      "avg_roster_size": 8.0
+    },
+    {
+      "country": "CZE",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "SUI",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.666667
+    },
+    {
+      "country": "GEO",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.5
+    },
+    {
+      "country": "ROC",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 16.0
+    },
+    {
+      "country": "BLR",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "BEL",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "AUS",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "BUL",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "EUN",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 17.0
+    },
+    {
+      "country": "EST",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "POL",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "KAZ",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "ISR",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "NOR",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "KOR",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "PRK",
+      "cohorts": 1,
+      "observed_rate": 1.0,
+      "avg_roster_size": 6.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 161,
+      "observed_rate": 0.149068,
+      "theoretical_rate": 0.105883,
+      "avg_roster_size": 9.006211
+    },
+    {
+      "gender": "M",
+      "cohorts": 33,
+      "observed_rate": 0.181818,
+      "theoretical_rate": 0.118871,
+      "avg_roster_size": 9.515152
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "URS Figure Skating (Skating) (1988 Winter)",
+      "season": "1988 Winter",
+      "country": "URS",
+      "gender": "F",
+      "roster_size": 17,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.315008
+    },
+    {
+      "team": "URS Figure Skating (Skating) (1984 Winter)",
+      "season": "1984 Winter",
+      "country": "URS",
+      "gender": "F",
+      "roster_size": 17,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.315008
+    },
+    {
+      "team": "CAN Figure Skating (Skating) (1988 Winter)",
+      "season": "1988 Winter",
+      "country": "CAN",
+      "gender": "F",
+      "roster_size": 17,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.315008
+    },
+    {
+      "team": "USA Figure Skating (Skating) (1992 Winter)",
+      "season": "1992 Winter",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 16,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.283604
+    },
+    {
+      "team": "USA Figure Skating (Skating) (1988 Winter)",
+      "season": "1988 Winter",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 16,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.283604
+    },
+    {
+      "team": "RUS Figure Skating (Skating) (2010 Winter)",
+      "season": "2010 Winter",
+      "country": "RUS",
+      "gender": "M",
+      "roster_size": 16,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.283604
+    },
+    {
+      "team": "USA Figure Skating (Skating) (1980 Winter)",
+      "season": "1980 Winter",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 15,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.252901
+    },
+    {
+      "team": "RUS Figure Skating (Skating) (1994 Winter)",
+      "season": "1994 Winter",
+      "country": "RUS",
+      "gender": "F",
+      "roster_size": 15,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.252901
+    },
+    {
+      "team": "USA Figure Skating (Skating) (1932 Winter)",
+      "season": "1932 Winter",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 14,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.223103
+    },
+    {
+      "team": "FRA Figure Skating (Skating) (1998 Winter)",
+      "season": "1998 Winter",
+      "country": "FRA",
+      "gender": "F",
+      "roster_size": 14,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.223103
+    }
+  ]
+}

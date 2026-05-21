@@ -1,0 +1,374 @@
+{
+  "sport": "Olympic Swimming (Aquatics)",
+  "slug": "olympic-swimming-aquatics",
+  "cohorts": 682,
+  "total_players": 9984,
+  "avg_roster_size": 14.639296,
+  "observed_rate": 0.258065,
+  "theoretical_rate": 0.259379,
+  "deviation": -0.001314,
+  "cohort_kind": "delegation",
+  "cohort_kind_breakdown": {
+    "delegation": 682
+  },
+  "by_country": [
+    {
+      "country": "FRA",
+      "cohorts": 27,
+      "observed_rate": 0.148148,
+      "avg_roster_size": 17.037037
+    },
+    {
+      "country": "GBR",
+      "cohorts": 27,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 26.62963
+    },
+    {
+      "country": "USA",
+      "cohorts": 26,
+      "observed_rate": 0.730769,
+      "avg_roster_size": 35.653846
+    },
+    {
+      "country": "HUN",
+      "cohorts": 25,
+      "observed_rate": 0.48,
+      "avg_roster_size": 15.92
+    },
+    {
+      "country": "SWE",
+      "cohorts": 25,
+      "observed_rate": 0.28,
+      "avg_roster_size": 14.4
+    },
+    {
+      "country": "AUS",
+      "cohorts": 24,
+      "observed_rate": 0.541667,
+      "avg_roster_size": 24.208333
+    },
+    {
+      "country": "NED",
+      "cohorts": 22,
+      "observed_rate": 0.272727,
+      "avg_roster_size": 14.909091
+    },
+    {
+      "country": "JPN",
+      "cohorts": 21,
+      "observed_rate": 0.428571,
+      "avg_roster_size": 22.190476
+    },
+    {
+      "country": "CAN",
+      "cohorts": 21,
+      "observed_rate": 0.285714,
+      "avg_roster_size": 21.47619
+    },
+    {
+      "country": "ITA",
+      "cohorts": 20,
+      "observed_rate": 0.5,
+      "avg_roster_size": 19.6
+    },
+    {
+      "country": "BRA",
+      "cohorts": 18,
+      "observed_rate": 0.277778,
+      "avg_roster_size": 13.944444
+    },
+    {
+      "country": "ESP",
+      "cohorts": 18,
+      "observed_rate": 0.111111,
+      "avg_roster_size": 13.388889
+    },
+    {
+      "country": "BEL",
+      "cohorts": 17,
+      "observed_rate": 0.058824,
+      "avg_roster_size": 7.705882
+    },
+    {
+      "country": "GER",
+      "cohorts": 16,
+      "observed_rate": 0.5,
+      "avg_roster_size": 23.9375
+    },
+    {
+      "country": "DEN",
+      "cohorts": 15,
+      "observed_rate": 0.066667,
+      "avg_roster_size": 9.4
+    },
+    {
+      "country": "MEX",
+      "cohorts": 14,
+      "observed_rate": 0.142857,
+      "avg_roster_size": 10.857143
+    },
+    {
+      "country": "AUT",
+      "cohorts": 13,
+      "observed_rate": 0.307692,
+      "avg_roster_size": 7.692308
+    },
+    {
+      "country": "POL",
+      "cohorts": 13,
+      "observed_rate": 0.076923,
+      "avg_roster_size": 10.230769
+    },
+    {
+      "country": "NZL",
+      "cohorts": 13,
+      "observed_rate": 0.153846,
+      "avg_roster_size": 9.615385
+    },
+    {
+      "country": "SUI",
+      "cohorts": 12,
+      "observed_rate": 0.083333,
+      "avg_roster_size": 8.583333
+    },
+    {
+      "country": "ARG",
+      "cohorts": 12,
+      "observed_rate": 0.166667,
+      "avg_roster_size": 8.333333
+    },
+    {
+      "country": "FIN",
+      "cohorts": 12,
+      "observed_rate": 0.166667,
+      "avg_roster_size": 7.75
+    },
+    {
+      "country": "RSA",
+      "cohorts": 11,
+      "observed_rate": 0.090909,
+      "avg_roster_size": 11.0
+    },
+    {
+      "country": "POR",
+      "cohorts": 10,
+      "observed_rate": 0.2,
+      "avg_roster_size": 8.0
+    },
+    {
+      "country": "CHN",
+      "cohorts": 10,
+      "observed_rate": 0.7,
+      "avg_roster_size": 26.9
+    },
+    {
+      "country": "URS",
+      "cohorts": 9,
+      "observed_rate": 0.666667,
+      "avg_roster_size": 23.777778
+    },
+    {
+      "country": "PHI",
+      "cohorts": 8,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.875
+    },
+    {
+      "country": "ROU",
+      "cohorts": 8,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.0
+    },
+    {
+      "country": "KOR",
+      "cohorts": 8,
+      "observed_rate": 0.125,
+      "avg_roster_size": 15.125
+    },
+    {
+      "country": "GRE",
+      "cohorts": 8,
+      "observed_rate": 0.375,
+      "avg_roster_size": 13.375
+    },
+    {
+      "country": "UKR",
+      "cohorts": 7,
+      "observed_rate": 0.142857,
+      "avg_roster_size": 15.714286
+    },
+    {
+      "country": "HKG",
+      "cohorts": 7,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.0
+    },
+    {
+      "country": "SGP",
+      "cohorts": 7,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.428571
+    },
+    {
+      "country": "SLO",
+      "cohorts": 7,
+      "observed_rate": 0.142857,
+      "avg_roster_size": 7.857143
+    },
+    {
+      "country": "RUS",
+      "cohorts": 7,
+      "observed_rate": 0.571429,
+      "avg_roster_size": 27.428571
+    },
+    {
+      "country": "BLR",
+      "cohorts": 7,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.0
+    },
+    {
+      "country": "CZE",
+      "cohorts": 7,
+      "observed_rate": 0.285714,
+      "avg_roster_size": 8.142857
+    },
+    {
+      "country": "ISR",
+      "cohorts": 6,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.333333
+    },
+    {
+      "country": "VEN",
+      "cohorts": 6,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.5
+    },
+    {
+      "country": "ISL",
+      "cohorts": 6,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.5
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 493,
+      "observed_rate": 0.294118,
+      "theoretical_rate": 0.282768,
+      "avg_roster_size": 15.56998
+    },
+    {
+      "gender": "M",
+      "cohorts": 189,
+      "observed_rate": 0.164021,
+      "theoretical_rate": 0.198371,
+      "avg_roster_size": 12.21164
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "USA Swimming (Aquatics) (1968 Summer)",
+      "season": "1968 Summer",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 52,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.978005
+    },
+    {
+      "team": "USA Swimming (Aquatics) (1972 Summer)",
+      "season": "1972 Summer",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 51,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.974432
+    },
+    {
+      "team": "USA Swimming (Aquatics) (1976 Summer)",
+      "season": "1976 Summer",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 51,
+      "duplicate_pairs": 4,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.974432
+    },
+    {
+      "team": "USA Swimming (Aquatics) (2000 Summer)",
+      "season": "2000 Summer",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 48,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.960598
+    },
+    {
+      "team": "USA Swimming (Aquatics) (1964 Summer)",
+      "season": "1964 Summer",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 48,
+      "duplicate_pairs": 3,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.960598
+    },
+    {
+      "team": "USA Swimming (Aquatics) (2020 Summer)",
+      "season": "2020 Summer",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 48,
+      "duplicate_pairs": 3,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.960598
+    },
+    {
+      "team": "USA Swimming (Aquatics) (2012 Summer)",
+      "season": "2012 Summer",
+      "country": "USA",
+      "gender": "M",
+      "roster_size": 47,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.954774
+    },
+    {
+      "team": "USA Swimming (Aquatics) (2016 Summer)",
+      "season": "2016 Summer",
+      "country": "USA",
+      "gender": "M",
+      "roster_size": 45,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.940976
+    },
+    {
+      "team": "FRG Swimming (Aquatics) (1972 Summer)",
+      "season": "1972 Summer",
+      "country": "FRG",
+      "gender": "F",
+      "roster_size": 44,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.932885
+    },
+    {
+      "team": "USA Swimming (Aquatics) (1988 Summer)",
+      "season": "1988 Summer",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 44,
+      "duplicate_pairs": 3,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.932885
+    }
+  ]
+}

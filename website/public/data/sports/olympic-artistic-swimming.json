@@ -1,0 +1,187 @@
+{
+  "sport": "Olympic Artistic Swimming",
+  "slug": "olympic-artistic-swimming",
+  "cohorts": 10,
+  "total_players": 90,
+  "avg_roster_size": 9.0,
+  "observed_rate": 0.2,
+  "theoretical_rate": 0.094624,
+  "deviation": 0.105376,
+  "cohort_kind": "team",
+  "cohort_kind_breakdown": {
+    "team": 10
+  },
+  "by_country": [
+    {
+      "country": "AUS",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.0
+    },
+    {
+      "country": "CAN",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.0
+    },
+    {
+      "country": "CHN",
+      "cohorts": 1,
+      "observed_rate": 1.0,
+      "avg_roster_size": 9.0
+    },
+    {
+      "country": "EGY",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.0
+    },
+    {
+      "country": "ESP",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.0
+    },
+    {
+      "country": "FRA",
+      "cohorts": 1,
+      "observed_rate": 1.0,
+      "avg_roster_size": 9.0
+    },
+    {
+      "country": "ITA",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.0
+    },
+    {
+      "country": "JPN",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.0
+    },
+    {
+      "country": "MEX",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.0
+    },
+    {
+      "country": "USA",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 10,
+      "observed_rate": 0.2,
+      "theoretical_rate": 0.094624,
+      "avg_roster_size": 9.0
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "People's Republic of China - Team",
+      "season": "2024 Summer",
+      "country": "CHN",
+      "gender": "F",
+      "roster_size": 9,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.094624
+    },
+    {
+      "team": "France - Team",
+      "season": "2024 Summer",
+      "country": "FRA",
+      "gender": "F",
+      "roster_size": 9,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.094624
+    },
+    {
+      "team": "Australia - Team",
+      "season": "2024 Summer",
+      "country": "AUS",
+      "gender": "F",
+      "roster_size": 9,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.094624
+    },
+    {
+      "team": "Canada - Team",
+      "season": "2024 Summer",
+      "country": "CAN",
+      "gender": "F",
+      "roster_size": 9,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.094624
+    },
+    {
+      "team": "Egypt - Team",
+      "season": "2024 Summer",
+      "country": "EGY",
+      "gender": "F",
+      "roster_size": 9,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.094624
+    },
+    {
+      "team": "Spain - Team",
+      "season": "2024 Summer",
+      "country": "ESP",
+      "gender": "F",
+      "roster_size": 9,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.094624
+    },
+    {
+      "team": "Italy - Team",
+      "season": "2024 Summer",
+      "country": "ITA",
+      "gender": "F",
+      "roster_size": 9,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.094624
+    },
+    {
+      "team": "Japan - Team",
+      "season": "2024 Summer",
+      "country": "JPN",
+      "gender": "F",
+      "roster_size": 9,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.094624
+    },
+    {
+      "team": "Mexico - Team",
+      "season": "2024 Summer",
+      "country": "MEX",
+      "gender": "F",
+      "roster_size": 9,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.094624
+    },
+    {
+      "team": "United States of America - Team",
+      "season": "2024 Summer",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 9,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.094624
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "sport": "Olympic Canoe Sprint (Canoeing)",
+  "slug": "olympic-canoe-sprint-canoeing",
+  "cohorts": 338,
+  "total_players": 3283,
+  "avg_roster_size": 9.713018,
+  "observed_rate": 0.147929,
+  "theoretical_rate": 0.12287,
+  "deviation": 0.025059,
+  "cohort_kind": "delegation",
+  "cohort_kind_breakdown": {
+    "delegation": 338
+  },
+  "by_country": [
+    {
+      "country": "CAN",
+      "cohorts": 18,
+      "observed_rate": 0.111111,
+      "avg_roster_size": 10.5
+    },
+    {
+      "country": "FRA",
+      "cohorts": 18,
+      "observed_rate": 0.277778,
+      "avg_roster_size": 9.444444
+    },
+    {
+      "country": "HUN",
+      "cohorts": 17,
+      "observed_rate": 0.235294,
+      "avg_roster_size": 13.176471
+    },
+    {
+      "country": "AUS",
+      "cohorts": 17,
+      "observed_rate": 0.117647,
+      "avg_roster_size": 10.235294
+    },
+    {
+      "country": "POL",
+      "cohorts": 15,
+      "observed_rate": 0.266667,
+      "avg_roster_size": 11.866667
+    },
+    {
+      "country": "GBR",
+      "cohorts": 15,
+      "observed_rate": 0.2,
+      "avg_roster_size": 9.4
+    },
+    {
+      "country": "USA",
+      "cohorts": 15,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 11.533333
+    },
+    {
+      "country": "SWE",
+      "cohorts": 15,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.266667
+    },
+    {
+      "country": "ROU",
+      "cohorts": 15,
+      "observed_rate": 0.0,
+      "avg_roster_size": 10.8
+    },
+    {
+      "country": "GER",
+      "cohorts": 13,
+      "observed_rate": 0.230769,
+      "avg_roster_size": 13.076923
+    },
+    {
+      "country": "ESP",
+      "cohorts": 13,
+      "observed_rate": 0.076923,
+      "avg_roster_size": 9.461538
+    },
+    {
+      "country": "ITA",
+      "cohorts": 11,
+      "observed_rate": 0.181818,
+      "avg_roster_size": 8.636364
+    },
+    {
+      "country": "TCH",
+      "cohorts": 10,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.4
+    },
+    {
+      "country": "BUL",
+      "cohorts": 9,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.333333
+    },
+    {
+      "country": "DEN",
+      "cohorts": 9,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.111111
+    },
+    {
+      "country": "AUT",
+      "cohorts": 8,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.25
+    },
+    {
+      "country": "URS",
+      "cohorts": 8,
+      "observed_rate": 0.5,
+      "avg_roster_size": 12.875
+    },
+    {
+      "country": "NOR",
+      "cohorts": 8,
+      "observed_rate": 0.25,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "JPN",
+      "cohorts": 7,
+      "observed_rate": 0.142857,
+      "avg_roster_size": 6.857143
+    },
+    {
+      "country": "SVK",
+      "cohorts": 7,
+      "observed_rate": 0.285714,
+      "avg_roster_size": 8.0
+    },
+    {
+      "country": "UKR",
+      "cohorts": 6,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.833333
+    },
+    {
+      "country": "FIN",
+      "cohorts": 6,
+      "observed_rate": 0.166667,
+      "avg_roster_size": 6.333333
+    },
+    {
+      "country": "RUS",
+      "cohorts": 6,
+      "observed_rate": 0.0,
+      "avg_roster_size": 11.333333
+    },
+    {
+      "country": "NZL",
+      "cohorts": 6,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.333333
+    },
+    {
+      "country": "CHN",
+      "cohorts": 6,
+      "observed_rate": 0.5,
+      "avg_roster_size": 11.833333
+    },
+    {
+      "country": "GDR",
+      "cohorts": 5,
+      "observed_rate": 0.2,
+      "avg_roster_size": 12.4
+    },
+    {
+      "country": "FRG",
+      "cohorts": 5,
+      "observed_rate": 0.2,
+      "avg_roster_size": 13.6
+    },
+    {
+      "country": "BEL",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.2
+    },
+    {
+      "country": "BLR",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.2
+    },
+    {
+      "country": "CUB",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.25
+    },
+    {
+      "country": "CZE",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.5
+    },
+    {
+      "country": "POR",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.75
+    },
+    {
+      "country": "KAZ",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.0
+    },
+    {
+      "country": "NED",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "MEX",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.333333
+    },
+    {
+      "country": "ARG",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.5
+    },
+    {
+      "country": "SRB",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 11.0
+    },
+    {
+      "country": "UZB",
+      "cohorts": 2,
+      "observed_rate": 1.0,
+      "avg_roster_size": 12.0
+    },
+    {
+      "country": "HKG",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.5
+    },
+    {
+      "country": "KOR",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 10.5
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 206,
+      "observed_rate": 0.174757,
+      "theoretical_rate": 0.145358,
+      "avg_roster_size": 10.728155
+    },
+    {
+      "gender": "M",
+      "cohorts": 132,
+      "observed_rate": 0.106061,
+      "theoretical_rate": 0.087775,
+      "avg_roster_size": 8.128788
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "HUN Canoe Sprint (Canoeing) (1996 Summer)",
+      "season": "1996 Summer",
+      "country": "HUN",
+      "gender": "F",
+      "roster_size": 19,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.379119
+    },
+    {
+      "team": "CHN Canoe Sprint (Canoeing) (2008 Summer)",
+      "season": "2008 Summer",
+      "country": "CHN",
+      "gender": "F",
+      "roster_size": 18,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.346911
+    },
+    {
+      "team": "URS Canoe Sprint (Canoeing) (1988 Summer)",
+      "season": "1988 Summer",
+      "country": "URS",
+      "gender": "M",
+      "roster_size": 17,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.315008
+    },
+    {
+      "team": "GBR Canoe Sprint (Canoeing) (1988 Summer)",
+      "season": "1988 Summer",
+      "country": "GBR",
+      "gender": "F",
+      "roster_size": 17,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.315008
+    },
+    {
+      "team": "GER Canoe Sprint (Canoeing) (2004 Summer)",
+      "season": "2004 Summer",
+      "country": "GER",
+      "gender": "F",
+      "roster_size": 17,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.315008
+    },
+    {
+      "team": "GER Canoe Sprint (Canoeing) (2008 Summer)",
+      "season": "2008 Summer",
+      "country": "GER",
+      "gender": "M",
+      "roster_size": 17,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.315008
+    },
+    {
+      "team": "UZB Canoe Sprint (Canoeing) (1996 Summer)",
+      "season": "1996 Summer",
+      "country": "UZB",
+      "gender": "F",
+      "roster_size": 17,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.315008
+    },
+    {
+      "team": "FRA Canoe Sprint (Canoeing) (1992 Summer)",
+      "season": "1992 Summer",
+      "country": "FRA",
+      "gender": "F",
+      "roster_size": 16,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.283604
+    },
+    {
+      "team": "FRA Canoe Sprint (Canoeing) (1988 Summer)",
+      "season": "1988 Summer",
+      "country": "FRA",
+      "gender": "F",
+      "roster_size": 16,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.283604
+    },
+    {
+      "team": "HUN Canoe Sprint (Canoeing) (2004 Summer)",
+      "season": "2004 Summer",
+      "country": "HUN",
+      "gender": "M",
+      "roster_size": 16,
+      "duplicate_pairs": 3,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.283604
+    }
+  ]
+}

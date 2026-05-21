@@ -1,0 +1,1255 @@
+[
+  {
+    "country": "QATAR",
+    "cohorts": 16,
+    "observed_rate": 0.9375,
+    "theoretical_rate": 0.095352,
+    "avg_roster_size": 8.6875
+  },
+  {
+    "country": "CHINA",
+    "cohorts": 224,
+    "observed_rate": 0.875,
+    "theoretical_rate": 0.760801,
+    "avg_roster_size": 32.678571
+  },
+  {
+    "country": "BRAZIL",
+    "cohorts": 340,
+    "observed_rate": 0.861765,
+    "theoretical_rate": 0.819578,
+    "avg_roster_size": 35.838235
+  },
+  {
+    "country": "CROATIA",
+    "cohorts": 20,
+    "observed_rate": 0.8,
+    "theoretical_rate": 0.69473,
+    "avg_roster_size": 29.75
+  },
+  {
+    "country": "ITALY",
+    "cohorts": 675,
+    "observed_rate": 0.777778,
+    "theoretical_rate": 0.760615,
+    "avg_roster_size": 33.01037
+  },
+  {
+    "country": "ENG",
+    "cohorts": 1890,
+    "observed_rate": 0.769312,
+    "theoretical_rate": 0.730553,
+    "avg_roster_size": 32.53545
+  },
+  {
+    "country": "SWITZ",
+    "cohorts": 162,
+    "observed_rate": 0.765432,
+    "theoretical_rate": 0.66314,
+    "avg_roster_size": 28.54321
+  },
+  {
+    "country": "HOLLAND",
+    "cohorts": 54,
+    "observed_rate": 0.759259,
+    "theoretical_rate": 0.752679,
+    "avg_roster_size": 33.37037
+  },
+  {
+    "country": "USA",
+    "cohorts": 7169,
+    "observed_rate": 0.757149,
+    "theoretical_rate": 0.743052,
+    "avg_roster_size": 39.40717
+  },
+  {
+    "country": "SPAIN",
+    "cohorts": 672,
+    "observed_rate": 0.748512,
+    "theoretical_rate": 0.723637,
+    "avg_roster_size": 31.261905
+  },
+  {
+    "country": "SCOTS",
+    "cohorts": 292,
+    "observed_rate": 0.743151,
+    "theoretical_rate": 0.735428,
+    "avg_roster_size": 32.438356
+  },
+  {
+    "country": "CHILE",
+    "cohorts": 178,
+    "observed_rate": 0.741573,
+    "theoretical_rate": 0.695153,
+    "avg_roster_size": 29.747191
+  },
+  {
+    "country": "JAPAN",
+    "cohorts": 313,
+    "observed_rate": 0.738019,
+    "theoretical_rate": 0.729403,
+    "avg_roster_size": 31.412141
+  },
+  {
+    "country": "RUSSIA",
+    "cohorts": 256,
+    "observed_rate": 0.730469,
+    "theoretical_rate": 0.670374,
+    "avg_roster_size": 30.410156
+  },
+  {
+    "country": "COLOMBIA",
+    "cohorts": 100,
+    "observed_rate": 0.73,
+    "theoretical_rate": 0.669247,
+    "avg_roster_size": 28.64
+  },
+  {
+    "country": "HUNGARY",
+    "cohorts": 220,
+    "observed_rate": 0.709091,
+    "theoretical_rate": 0.680141,
+    "avg_roster_size": 29.313636
+  },
+  {
+    "country": "UKRAINE",
+    "cohorts": 234,
+    "observed_rate": 0.692308,
+    "theoretical_rate": 0.665951,
+    "avg_roster_size": 29.619658
+  },
+  {
+    "country": "AUSTRIA",
+    "cohorts": 172,
+    "observed_rate": 0.674419,
+    "theoretical_rate": 0.659183,
+    "avg_roster_size": 28.337209
+  },
+  {
+    "country": "BELGIUM",
+    "cohorts": 264,
+    "observed_rate": 0.674242,
+    "theoretical_rate": 0.658854,
+    "avg_roster_size": 28.344697
+  },
+  {
+    "country": "FRANCE",
+    "cohorts": 636,
+    "observed_rate": 0.669811,
+    "theoretical_rate": 0.631336,
+    "avg_roster_size": 27.319182
+  },
+  {
+    "country": "GREECE",
+    "cohorts": 249,
+    "observed_rate": 0.666667,
+    "theoretical_rate": 0.691638,
+    "avg_roster_size": 29.698795
+  },
+  {
+    "country": "TURKEY",
+    "cohorts": 296,
+    "observed_rate": 0.665541,
+    "theoretical_rate": 0.642587,
+    "avg_roster_size": 27.743243
+  },
+  {
+    "country": "NETHERL",
+    "cohorts": 234,
+    "observed_rate": 0.662393,
+    "theoretical_rate": 0.667268,
+    "avg_roster_size": 28.816239
+  },
+  {
+    "country": "POLAND",
+    "cohorts": 262,
+    "observed_rate": 0.660305,
+    "theoretical_rate": 0.662899,
+    "avg_roster_size": 28.534351
+  },
+  {
+    "country": "MEXICO",
+    "cohorts": 577,
+    "observed_rate": 0.655113,
+    "theoretical_rate": 0.619929,
+    "avg_roster_size": 26.953206
+  },
+  {
+    "country": "SWEDEN",
+    "cohorts": 272,
+    "observed_rate": 0.639706,
+    "theoretical_rate": 0.575081,
+    "avg_roster_size": 25.3125
+  },
+  {
+    "country": "AUSTRALIA",
+    "cohorts": 167,
+    "observed_rate": 0.634731,
+    "theoretical_rate": 0.62469,
+    "avg_roster_size": 27.071856
+  },
+  {
+    "country": "PORTUGAL",
+    "cohorts": 276,
+    "observed_rate": 0.634058,
+    "theoretical_rate": 0.660199,
+    "avg_roster_size": 28.442029
+  },
+  {
+    "country": "ARG",
+    "cohorts": 742,
+    "observed_rate": 0.633423,
+    "theoretical_rate": 0.595427,
+    "avg_roster_size": 26.721024
+  },
+  {
+    "country": "DENMARK",
+    "cohorts": 222,
+    "observed_rate": 0.630631,
+    "theoretical_rate": 0.549602,
+    "avg_roster_size": 24.445946
+  },
+  {
+    "country": "CZECH",
+    "cohorts": 226,
+    "observed_rate": 0.619469,
+    "theoretical_rate": 0.597198,
+    "avg_roster_size": 26.079646
+  },
+  {
+    "country": "NORWAY",
+    "cohorts": 276,
+    "observed_rate": 0.615942,
+    "theoretical_rate": 0.590617,
+    "avg_roster_size": 25.894928
+  },
+  {
+    "country": "URUGUAY",
+    "cohorts": 110,
+    "observed_rate": 0.572727,
+    "theoretical_rate": 0.640655,
+    "avg_roster_size": 27.636364
+  },
+  {
+    "country": "NATIONAL",
+    "cohorts": 453,
+    "observed_rate": 0.529801,
+    "theoretical_rate": 0.531897,
+    "avg_roster_size": 23.8234
+  },
+  {
+    "country": "GER",
+    "cohorts": 1063,
+    "observed_rate": 0.527752,
+    "theoretical_rate": 0.47902,
+    "avg_roster_size": 22.735654
+  },
+  {
+    "country": "JAM",
+    "cohorts": 27,
+    "observed_rate": 0.518519,
+    "theoretical_rate": 0.415677,
+    "avg_roster_size": 21.444444
+  },
+  {
+    "country": "KEN",
+    "cohorts": 33,
+    "observed_rate": 0.454545,
+    "theoretical_rate": 0.410782,
+    "avg_roster_size": 20.757576
+  },
+  {
+    "country": "ETH",
+    "cohorts": 19,
+    "observed_rate": 0.421053,
+    "theoretical_rate": 0.306366,
+    "avg_roster_size": 15.842105
+  },
+  {
+    "country": "IRELAND",
+    "cohorts": 330,
+    "observed_rate": 0.409091,
+    "theoretical_rate": 0.396171,
+    "avg_roster_size": 19.487879
+  },
+  {
+    "country": "WEST IND",
+    "cohorts": 262,
+    "observed_rate": 0.370229,
+    "theoretical_rate": 0.238459,
+    "avg_roster_size": 14.389313
+  },
+  {
+    "country": "URS",
+    "cohorts": 214,
+    "observed_rate": 0.364486,
+    "theoretical_rate": 0.268499,
+    "avg_roster_size": 16.785047
+  },
+  {
+    "country": "NEPAL",
+    "cohorts": 83,
+    "observed_rate": 0.361446,
+    "theoretical_rate": 0.14289,
+    "avg_roster_size": 10.759036
+  },
+  {
+    "country": "MAR",
+    "cohorts": 31,
+    "observed_rate": 0.354839,
+    "theoretical_rate": 0.196539,
+    "avg_roster_size": 12.225806
+  },
+  {
+    "country": "PAK",
+    "cohorts": 26,
+    "observed_rate": 0.346154,
+    "theoretical_rate": 0.186943,
+    "avg_roster_size": 12.230769
+  },
+  {
+    "country": "EUN",
+    "cohorts": 32,
+    "observed_rate": 0.34375,
+    "theoretical_rate": 0.296986,
+    "avg_roster_size": 18.0
+  },
+  {
+    "country": "BOTSWANA",
+    "cohorts": 12,
+    "observed_rate": 0.333333,
+    "theoretical_rate": 0.093708,
+    "avg_roster_size": 8.583333
+  },
+  {
+    "country": "URU",
+    "cohorts": 27,
+    "observed_rate": 0.333333,
+    "theoretical_rate": 0.102309,
+    "avg_roster_size": 8.740741
+  },
+  {
+    "country": "SVK",
+    "cohorts": 66,
+    "observed_rate": 0.318182,
+    "theoretical_rate": 0.144506,
+    "avg_roster_size": 10.136364
+  },
+  {
+    "country": "ANG",
+    "cohorts": 19,
+    "observed_rate": 0.315789,
+    "theoretical_rate": 0.157147,
+    "avg_roster_size": 11.263158
+  },
+  {
+    "country": "CHI",
+    "cohorts": 38,
+    "observed_rate": 0.315789,
+    "theoretical_rate": 0.097839,
+    "avg_roster_size": 8.5
+  },
+  {
+    "country": "CANADA",
+    "cohorts": 55,
+    "observed_rate": 0.309091,
+    "theoretical_rate": 0.136245,
+    "avg_roster_size": 10.690909
+  },
+  {
+    "country": "GHANA",
+    "cohorts": 13,
+    "observed_rate": 0.307692,
+    "theoretical_rate": 0.106975,
+    "avg_roster_size": 9.384615
+  },
+  {
+    "country": "INDIA",
+    "cohorts": 311,
+    "observed_rate": 0.305466,
+    "theoretical_rate": 0.23681,
+    "avg_roster_size": 14.334405
+  },
+  {
+    "country": "CHN",
+    "cohorts": 309,
+    "observed_rate": 0.304207,
+    "theoretical_rate": 0.211664,
+    "avg_roster_size": 13.174757
+  },
+  {
+    "country": "UGANDA",
+    "cohorts": 50,
+    "observed_rate": 0.3,
+    "theoretical_rate": 0.088467,
+    "avg_roster_size": 8.54
+  },
+  {
+    "country": "SOUTH AF",
+    "cohorts": 283,
+    "observed_rate": 0.29682,
+    "theoretical_rate": 0.232993,
+    "avg_roster_size": 14.212014
+  },
+  {
+    "country": "GUERNSEY",
+    "cohorts": 17,
+    "observed_rate": 0.294118,
+    "theoretical_rate": 0.110557,
+    "avg_roster_size": 9.411765
+  },
+  {
+    "country": "BAH",
+    "cohorts": 18,
+    "observed_rate": 0.277778,
+    "theoretical_rate": 0.20422,
+    "avg_roster_size": 12.722222
+  },
+  {
+    "country": "HONG KON",
+    "cohorts": 54,
+    "observed_rate": 0.277778,
+    "theoretical_rate": 0.145724,
+    "avg_roster_size": 11.074074
+  },
+  {
+    "country": "LAT",
+    "cohorts": 55,
+    "observed_rate": 0.272727,
+    "theoretical_rate": 0.129804,
+    "avg_roster_size": 9.636364
+  },
+  {
+    "country": "BRA",
+    "cohorts": 218,
+    "observed_rate": 0.270642,
+    "theoretical_rate": 0.220585,
+    "avg_roster_size": 13.357798
+  },
+  {
+    "country": "BUL",
+    "cohorts": 164,
+    "observed_rate": 0.268293,
+    "theoretical_rate": 0.14069,
+    "avg_roster_size": 10.29878
+  },
+  {
+    "country": "SRI LANK",
+    "cohorts": 300,
+    "observed_rate": 0.263333,
+    "theoretical_rate": 0.23032,
+    "avg_roster_size": 14.136667
+  },
+  {
+    "country": "NAMIBIA",
+    "cohorts": 74,
+    "observed_rate": 0.256757,
+    "theoretical_rate": 0.138198,
+    "avg_roster_size": 10.689189
+  },
+  {
+    "country": "SWE",
+    "cohorts": 395,
+    "observed_rate": 0.248101,
+    "theoretical_rate": 0.198733,
+    "avg_roster_size": 12.855696
+  },
+  {
+    "country": "FRA",
+    "cohorts": 582,
+    "observed_rate": 0.247423,
+    "theoretical_rate": 0.208111,
+    "avg_roster_size": 13.295533
+  },
+  {
+    "country": "IND",
+    "cohorts": 77,
+    "observed_rate": 0.246753,
+    "theoretical_rate": 0.173329,
+    "avg_roster_size": 11.376623
+  },
+  {
+    "country": "GBR",
+    "cohorts": 523,
+    "observed_rate": 0.246654,
+    "theoretical_rate": 0.237575,
+    "avg_roster_size": 15.256214
+  },
+  {
+    "country": "AUS",
+    "cohorts": 388,
+    "observed_rate": 0.244845,
+    "theoretical_rate": 0.242076,
+    "avg_roster_size": 14.353093
+  },
+  {
+    "country": "FRG",
+    "cohorts": 139,
+    "observed_rate": 0.244604,
+    "theoretical_rate": 0.23946,
+    "avg_roster_size": 14.820144
+  },
+  {
+    "country": "HUN",
+    "cohorts": 306,
+    "observed_rate": 0.24183,
+    "theoretical_rate": 0.199321,
+    "avg_roster_size": 12.444444
+  },
+  {
+    "country": "NEW ZEAL",
+    "cohorts": 281,
+    "observed_rate": 0.238434,
+    "theoretical_rate": 0.2175,
+    "avg_roster_size": 13.715302
+  },
+  {
+    "country": "INA",
+    "cohorts": 21,
+    "observed_rate": 0.238095,
+    "theoretical_rate": 0.105409,
+    "avg_roster_size": 8.666667
+  },
+  {
+    "country": "FIN",
+    "cohorts": 244,
+    "observed_rate": 0.237705,
+    "theoretical_rate": 0.19813,
+    "avg_roster_size": 12.491803
+  },
+  {
+    "country": "GDR",
+    "cohorts": 114,
+    "observed_rate": 0.236842,
+    "theoretical_rate": 0.214917,
+    "avg_roster_size": 14.307018
+  },
+  {
+    "country": "ESP",
+    "cohorts": 296,
+    "observed_rate": 0.236486,
+    "theoretical_rate": 0.202029,
+    "avg_roster_size": 12.837838
+  },
+  {
+    "country": "CAN",
+    "cohorts": 528,
+    "observed_rate": 0.234848,
+    "theoretical_rate": 0.220446,
+    "avg_roster_size": 13.479167
+  },
+  {
+    "country": "GRE",
+    "cohorts": 116,
+    "observed_rate": 0.232759,
+    "theoretical_rate": 0.175773,
+    "avg_roster_size": 11.689655
+  },
+  {
+    "country": "NGR",
+    "cohorts": 56,
+    "observed_rate": 0.232143,
+    "theoretical_rate": 0.218674,
+    "avg_roster_size": 12.928571
+  },
+  {
+    "country": "NED",
+    "cohorts": 308,
+    "observed_rate": 0.230519,
+    "theoretical_rate": 0.197727,
+    "avg_roster_size": 12.396104
+  },
+  {
+    "country": "KOR",
+    "cohorts": 262,
+    "observed_rate": 0.225191,
+    "theoretical_rate": 0.187555,
+    "avg_roster_size": 11.969466
+  },
+  {
+    "country": "ISL",
+    "cohorts": 27,
+    "observed_rate": 0.222222,
+    "theoretical_rate": 0.106766,
+    "avg_roster_size": 9.037037
+  },
+  {
+    "country": "GHA",
+    "cohorts": 27,
+    "observed_rate": 0.222222,
+    "theoretical_rate": 0.146822,
+    "avg_roster_size": 10.592593
+  },
+  {
+    "country": "RUS",
+    "cohorts": 225,
+    "observed_rate": 0.222222,
+    "theoretical_rate": 0.234612,
+    "avg_roster_size": 15.186667
+  },
+  {
+    "country": "ROC",
+    "cohorts": 45,
+    "observed_rate": 0.222222,
+    "theoretical_rate": 0.219584,
+    "avg_roster_size": 13.644444
+  },
+  {
+    "country": "SRB",
+    "cohorts": 36,
+    "observed_rate": 0.222222,
+    "theoretical_rate": 0.153755,
+    "avg_roster_size": 10.888889
+  },
+  {
+    "country": "BANGLADE",
+    "cohorts": 239,
+    "observed_rate": 0.221757,
+    "theoretical_rate": 0.205174,
+    "avg_roster_size": 13.200837
+  },
+  {
+    "country": "NETHERLA",
+    "cohorts": 101,
+    "observed_rate": 0.217822,
+    "theoretical_rate": 0.153916,
+    "avg_roster_size": 11.376238
+  },
+  {
+    "country": "NZL",
+    "cohorts": 136,
+    "observed_rate": 0.213235,
+    "theoretical_rate": 0.209951,
+    "avg_roster_size": 12.757353
+  },
+  {
+    "country": "ITA",
+    "cohorts": 556,
+    "observed_rate": 0.21223,
+    "theoretical_rate": 0.200183,
+    "avg_roster_size": 12.607914
+  },
+  {
+    "country": "TUR",
+    "cohorts": 82,
+    "observed_rate": 0.207317,
+    "theoretical_rate": 0.105412,
+    "avg_roster_size": 8.853659
+  },
+  {
+    "country": "KENYA",
+    "cohorts": 63,
+    "observed_rate": 0.206349,
+    "theoretical_rate": 0.150428,
+    "avg_roster_size": 11.206349
+  },
+  {
+    "country": "CUB",
+    "cohorts": 136,
+    "observed_rate": 0.205882,
+    "theoretical_rate": 0.199762,
+    "avg_roster_size": 12.617647
+  },
+  {
+    "country": "POL",
+    "cohorts": 337,
+    "observed_rate": 0.204748,
+    "theoretical_rate": 0.16624,
+    "avg_roster_size": 11.462908
+  },
+  {
+    "country": "ZAM",
+    "cohorts": 10,
+    "observed_rate": 0.2,
+    "theoretical_rate": 0.202485,
+    "avg_roster_size": 12.2
+  },
+  {
+    "country": "UZB",
+    "cohorts": 45,
+    "observed_rate": 0.2,
+    "theoretical_rate": 0.111711,
+    "avg_roster_size": 9.2
+  },
+  {
+    "country": "TUN",
+    "cohorts": 35,
+    "observed_rate": 0.2,
+    "theoretical_rate": 0.129692,
+    "avg_roster_size": 9.914286
+  },
+  {
+    "country": "MEX",
+    "cohorts": 141,
+    "observed_rate": 0.198582,
+    "theoretical_rate": 0.147085,
+    "avg_roster_size": 10.35461
+  },
+  {
+    "country": "JPN",
+    "cohorts": 462,
+    "observed_rate": 0.194805,
+    "theoretical_rate": 0.190791,
+    "avg_roster_size": 12.205628
+  },
+  {
+    "country": "LTU",
+    "cohorts": 31,
+    "observed_rate": 0.193548,
+    "theoretical_rate": 0.13569,
+    "avg_roster_size": 10.290323
+  },
+  {
+    "country": "SCG",
+    "cohorts": 21,
+    "observed_rate": 0.190476,
+    "theoretical_rate": 0.150727,
+    "avg_roster_size": 10.857143
+  },
+  {
+    "country": "ISV",
+    "cohorts": 16,
+    "observed_rate": 0.1875,
+    "theoretical_rate": 0.055972,
+    "avg_roster_size": 6.875
+  },
+  {
+    "country": "CZE",
+    "cohorts": 113,
+    "observed_rate": 0.185841,
+    "theoretical_rate": 0.15401,
+    "avg_roster_size": 10.646018
+  },
+  {
+    "country": "RSA",
+    "cohorts": 92,
+    "observed_rate": 0.184783,
+    "theoretical_rate": 0.19524,
+    "avg_roster_size": 12.032609
+  },
+  {
+    "country": "COL",
+    "cohorts": 65,
+    "observed_rate": 0.184615,
+    "theoretical_rate": 0.127972,
+    "avg_roster_size": 9.323077
+  },
+  {
+    "country": "CIV",
+    "cohorts": 11,
+    "observed_rate": 0.181818,
+    "theoretical_rate": 0.11252,
+    "avg_roster_size": 8.909091
+  },
+  {
+    "country": "TCH",
+    "cohorts": 195,
+    "observed_rate": 0.179487,
+    "theoretical_rate": 0.164957,
+    "avg_roster_size": 11.061538
+  },
+  {
+    "country": "AUSTRALI",
+    "cohorts": 301,
+    "observed_rate": 0.179402,
+    "theoretical_rate": 0.218388,
+    "avg_roster_size": 13.704319
+  },
+  {
+    "country": "IRL",
+    "cohorts": 84,
+    "observed_rate": 0.178571,
+    "theoretical_rate": 0.119543,
+    "avg_roster_size": 9.238095
+  },
+  {
+    "country": "TTO",
+    "cohorts": 17,
+    "observed_rate": 0.176471,
+    "theoretical_rate": 0.178515,
+    "avg_roster_size": 11.529412
+  },
+  {
+    "country": "SEN",
+    "cohorts": 23,
+    "observed_rate": 0.173913,
+    "theoretical_rate": 0.111478,
+    "avg_roster_size": 9.391304
+  },
+  {
+    "country": "PAKISTAN",
+    "cohorts": 303,
+    "observed_rate": 0.171617,
+    "theoretical_rate": 0.216873,
+    "avg_roster_size": 13.673267
+  },
+  {
+    "country": "MALAYSIA",
+    "cohorts": 70,
+    "observed_rate": 0.171429,
+    "theoretical_rate": 0.101089,
+    "avg_roster_size": 9.014286
+  },
+  {
+    "country": "PER",
+    "cohorts": 30,
+    "observed_rate": 0.166667,
+    "theoretical_rate": 0.10171,
+    "avg_roster_size": 8.866667
+  },
+  {
+    "country": "KSA",
+    "cohorts": 12,
+    "observed_rate": 0.166667,
+    "theoretical_rate": 0.144154,
+    "avg_roster_size": 10.666667
+  },
+  {
+    "country": "AZE",
+    "cohorts": 24,
+    "observed_rate": 0.166667,
+    "theoretical_rate": 0.079133,
+    "avg_roster_size": 7.75
+  },
+  {
+    "country": "MAS",
+    "cohorts": 30,
+    "observed_rate": 0.166667,
+    "theoretical_rate": 0.128127,
+    "avg_roster_size": 9.833333
+  },
+  {
+    "country": "CMR",
+    "cohorts": 18,
+    "observed_rate": 0.166667,
+    "theoretical_rate": 0.109329,
+    "avg_roster_size": 8.888889
+  },
+  {
+    "country": "TPE",
+    "cohorts": 61,
+    "observed_rate": 0.163934,
+    "theoretical_rate": 0.087189,
+    "avg_roster_size": 7.885246
+  },
+  {
+    "country": "PRK",
+    "cohorts": 37,
+    "observed_rate": 0.162162,
+    "theoretical_rate": 0.075159,
+    "avg_roster_size": 7.594595
+  },
+  {
+    "country": "THA",
+    "cohorts": 50,
+    "observed_rate": 0.16,
+    "theoretical_rate": 0.084202,
+    "avg_roster_size": 7.92
+  },
+  {
+    "country": "POR",
+    "cohorts": 76,
+    "observed_rate": 0.157895,
+    "theoretical_rate": 0.146656,
+    "avg_roster_size": 10.197368
+  },
+  {
+    "country": "UKR",
+    "cohorts": 147,
+    "observed_rate": 0.156463,
+    "theoretical_rate": 0.150399,
+    "avg_roster_size": 11.367347
+  },
+  {
+    "country": "KUW",
+    "cohorts": 13,
+    "observed_rate": 0.153846,
+    "theoretical_rate": 0.126539,
+    "avg_roster_size": 9.615385
+  },
+  {
+    "country": "SUI",
+    "cohorts": 314,
+    "observed_rate": 0.152866,
+    "theoretical_rate": 0.149378,
+    "avg_roster_size": 10.649682
+  },
+  {
+    "country": "MGL",
+    "cohorts": 34,
+    "observed_rate": 0.147059,
+    "theoretical_rate": 0.082498,
+    "avg_roster_size": 8.117647
+  },
+  {
+    "country": "AUT",
+    "cohorts": 289,
+    "observed_rate": 0.145329,
+    "theoretical_rate": 0.114618,
+    "avg_roster_size": 9.211073
+  },
+  {
+    "country": "GERMANY",
+    "cohorts": 28,
+    "observed_rate": 0.142857,
+    "theoretical_rate": 0.074185,
+    "avg_roster_size": 7.75
+  },
+  {
+    "country": "ALG",
+    "cohorts": 43,
+    "observed_rate": 0.139535,
+    "theoretical_rate": 0.118247,
+    "avg_roster_size": 9.418605
+  },
+  {
+    "country": "NOR",
+    "cohorts": 294,
+    "observed_rate": 0.139456,
+    "theoretical_rate": 0.136382,
+    "avg_roster_size": 10.112245
+  },
+  {
+    "country": "YUG",
+    "cohorts": 123,
+    "observed_rate": 0.138211,
+    "theoretical_rate": 0.161206,
+    "avg_roster_size": 11.065041
+  },
+  {
+    "country": "IRI",
+    "cohorts": 51,
+    "observed_rate": 0.137255,
+    "theoretical_rate": 0.115623,
+    "avg_roster_size": 9.352941
+  },
+  {
+    "country": "CRO",
+    "cohorts": 51,
+    "observed_rate": 0.137255,
+    "theoretical_rate": 0.144195,
+    "avg_roster_size": 10.647059
+  },
+  {
+    "country": "BLR",
+    "cohorts": 95,
+    "observed_rate": 0.136842,
+    "theoretical_rate": 0.15925,
+    "avg_roster_size": 11.073684
+  },
+  {
+    "country": "EGY",
+    "cohorts": 110,
+    "observed_rate": 0.136364,
+    "theoretical_rate": 0.109411,
+    "avg_roster_size": 9.063636
+  },
+  {
+    "country": "KAZ",
+    "cohorts": 91,
+    "observed_rate": 0.131868,
+    "theoretical_rate": 0.138587,
+    "avg_roster_size": 10.131868
+  },
+  {
+    "country": "KGZ",
+    "cohorts": 16,
+    "observed_rate": 0.125,
+    "theoretical_rate": 0.077732,
+    "avg_roster_size": 7.625
+  },
+  {
+    "country": "ISR",
+    "cohorts": 40,
+    "observed_rate": 0.125,
+    "theoretical_rate": 0.090087,
+    "avg_roster_size": 8.075
+  },
+  {
+    "country": "DEN",
+    "cohorts": 209,
+    "observed_rate": 0.124402,
+    "theoretical_rate": 0.140669,
+    "avg_roster_size": 10.397129
+  },
+  {
+    "country": "ROU",
+    "cohorts": 214,
+    "observed_rate": 0.121495,
+    "theoretical_rate": 0.157633,
+    "avg_roster_size": 10.808411
+  },
+  {
+    "country": "UNITED S",
+    "cohorts": 52,
+    "observed_rate": 0.115385,
+    "theoretical_rate": 0.14366,
+    "avg_roster_size": 10.769231
+  },
+  {
+    "country": "SLO",
+    "cohorts": 80,
+    "observed_rate": 0.1125,
+    "theoretical_rate": 0.106986,
+    "avg_roster_size": 8.825
+  },
+  {
+    "country": "NIGERIA",
+    "cohorts": 18,
+    "observed_rate": 0.111111,
+    "theoretical_rate": 0.102518,
+    "avg_roster_size": 9.222222
+  },
+  {
+    "country": "BEL",
+    "cohorts": 197,
+    "observed_rate": 0.106599,
+    "theoretical_rate": 0.141983,
+    "avg_roster_size": 10.263959
+  },
+  {
+    "country": "BER",
+    "cohorts": 10,
+    "observed_rate": 0.1,
+    "theoretical_rate": 0.049119,
+    "avg_roster_size": 6.4
+  },
+  {
+    "country": "ENGLAND",
+    "cohorts": 296,
+    "observed_rate": 0.097973,
+    "theoretical_rate": 0.220497,
+    "avg_roster_size": 13.77027
+  },
+  {
+    "country": "PAPUA NE",
+    "cohorts": 62,
+    "observed_rate": 0.096774,
+    "theoretical_rate": 0.127408,
+    "avg_roster_size": 10.241935
+  },
+  {
+    "country": "VEN",
+    "cohorts": 53,
+    "observed_rate": 0.09434,
+    "theoretical_rate": 0.086997,
+    "avg_roster_size": 8.150943
+  },
+  {
+    "country": "PUR",
+    "cohorts": 65,
+    "observed_rate": 0.092308,
+    "theoretical_rate": 0.092355,
+    "avg_roster_size": 8.4
+  },
+  {
+    "country": "FIJ",
+    "cohorts": 11,
+    "observed_rate": 0.090909,
+    "theoretical_rate": 0.198104,
+    "avg_roster_size": 12.090909
+  },
+  {
+    "country": "TAN",
+    "cohorts": 11,
+    "observed_rate": 0.090909,
+    "theoretical_rate": 0.094571,
+    "avg_roster_size": 8.454545
+  },
+  {
+    "country": "DOM",
+    "cohorts": 23,
+    "observed_rate": 0.086957,
+    "theoretical_rate": 0.120185,
+    "avg_roster_size": 9.26087
+  },
+  {
+    "country": "ZIM",
+    "cohorts": 12,
+    "observed_rate": 0.083333,
+    "theoretical_rate": 0.106828,
+    "avg_roster_size": 8.916667
+  },
+  {
+    "country": "QAT",
+    "cohorts": 12,
+    "observed_rate": 0.083333,
+    "theoretical_rate": 0.137447,
+    "avg_roster_size": 10.5
+  },
+  {
+    "country": "UNITED A",
+    "cohorts": 98,
+    "observed_rate": 0.081633,
+    "theoretical_rate": 0.128613,
+    "avg_roster_size": 10.132653
+  },
+  {
+    "country": "ARM",
+    "cohorts": 14,
+    "observed_rate": 0.071429,
+    "theoretical_rate": 0.056625,
+    "avg_roster_size": 6.857143
+  },
+  {
+    "country": "SCOTLAND",
+    "cohorts": 99,
+    "observed_rate": 0.070707,
+    "theoretical_rate": 0.156612,
+    "avg_roster_size": 11.515152
+  },
+  {
+    "country": "LUX",
+    "cohorts": 29,
+    "observed_rate": 0.068966,
+    "theoretical_rate": 0.083791,
+    "avg_roster_size": 7.931034
+  },
+  {
+    "country": "MDA",
+    "cohorts": 15,
+    "observed_rate": 0.066667,
+    "theoretical_rate": 0.082404,
+    "avg_roster_size": 8.0
+  },
+  {
+    "country": "EST",
+    "cohorts": 49,
+    "observed_rate": 0.061224,
+    "theoretical_rate": 0.081267,
+    "avg_roster_size": 7.918367
+  },
+  {
+    "country": "PHI",
+    "cohorts": 33,
+    "observed_rate": 0.060606,
+    "theoretical_rate": 0.079554,
+    "avg_roster_size": 7.69697
+  },
+  {
+    "country": "GUA",
+    "cohorts": 17,
+    "observed_rate": 0.058824,
+    "theoretical_rate": 0.100177,
+    "avg_roster_size": 8.411765
+  },
+  {
+    "country": "UGA",
+    "cohorts": 20,
+    "observed_rate": 0.05,
+    "theoretical_rate": 0.111513,
+    "avg_roster_size": 9.2
+  },
+  {
+    "country": "GEO",
+    "cohorts": 20,
+    "observed_rate": 0.05,
+    "theoretical_rate": 0.078728,
+    "avg_roster_size": 7.9
+  },
+  {
+    "country": "ZIMBABWE",
+    "cohorts": 173,
+    "observed_rate": 0.046243,
+    "theoretical_rate": 0.195398,
+    "avg_roster_size": 12.855491
+  },
+  {
+    "country": "HKG",
+    "cohorts": 33,
+    "observed_rate": 0.030303,
+    "theoretical_rate": 0.05601,
+    "avg_roster_size": 6.69697
+  },
+  {
+    "country": "OMAN",
+    "cohorts": 49,
+    "observed_rate": 0.020408,
+    "theoretical_rate": 0.154638,
+    "avg_roster_size": 11.408163
+  },
+  {
+    "country": "CYP",
+    "cohorts": 11,
+    "observed_rate": 0.0,
+    "theoretical_rate": 0.048739,
+    "avg_roster_size": 6.363636
+  },
+  {
+    "country": "TANZANIA",
+    "cohorts": 12,
+    "observed_rate": 0.0,
+    "theoretical_rate": 0.083961,
+    "avg_roster_size": 8.166667
+  },
+  {
+    "country": "SGP",
+    "cohorts": 16,
+    "observed_rate": 0.0,
+    "theoretical_rate": 0.05914,
+    "avg_roster_size": 6.625
+  },
+  {
+    "country": "SINGAPOR",
+    "cohorts": 25,
+    "observed_rate": 0.0,
+    "theoretical_rate": 0.0942,
+    "avg_roster_size": 8.88
+  },
+  {
+    "country": "CAYMAN I",
+    "cohorts": 10,
+    "observed_rate": 0.0,
+    "theoretical_rate": 0.060723,
+    "avg_roster_size": 7.0
+  },
+  {
+    "country": "BOT",
+    "cohorts": 11,
+    "observed_rate": 0.0,
+    "theoretical_rate": 0.057324,
+    "avg_roster_size": 6.909091
+  },
+  {
+    "country": "VANUATU",
+    "cohorts": 16,
+    "observed_rate": 0.0,
+    "theoretical_rate": 0.12475,
+    "avg_roster_size": 10.125
+  },
+  {
+    "country": "BERMUDA",
+    "cohorts": 25,
+    "observed_rate": 0.0,
+    "theoretical_rate": 0.120917,
+    "avg_roster_size": 9.92
+  },
+  {
+    "country": "THAILAND",
+    "cohorts": 34,
+    "observed_rate": 0.0,
+    "theoretical_rate": 0.09617,
+    "avg_roster_size": 9.0
+  },
+  {
+    "country": "LIE",
+    "cohorts": 12,
+    "observed_rate": 0.0,
+    "theoretical_rate": 0.045985,
+    "avg_roster_size": 6.25
+  },
+  {
+    "country": "KUWAIT",
+    "cohorts": 19,
+    "observed_rate": 0.0,
+    "theoretical_rate": 0.055838,
+    "avg_roster_size": 6.789474
+  },
+  {
+    "country": "JERSEY",
+    "cohorts": 24,
+    "observed_rate": 0.0,
+    "theoretical_rate": 0.128136,
+    "avg_roster_size": 10.291667
+  }
+]

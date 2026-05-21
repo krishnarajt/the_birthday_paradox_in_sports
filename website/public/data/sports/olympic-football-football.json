@@ -1,0 +1,374 @@
+{
+  "sport": "Olympic Football (Football)",
+  "slug": "olympic-football-football",
+  "cohorts": 429,
+  "total_players": 7160,
+  "avg_roster_size": 16.689977,
+  "observed_rate": 0.368298,
+  "theoretical_rate": 0.30531,
+  "deviation": 0.062989,
+  "cohort_kind": "team",
+  "cohort_kind_breakdown": {
+    "team": 429
+  },
+  "by_country": [
+    {
+      "country": "USA",
+      "cohorts": 18,
+      "observed_rate": 0.444444,
+      "avg_roster_size": 18.222222
+    },
+    {
+      "country": "SWE",
+      "cohorts": 16,
+      "observed_rate": 0.5,
+      "avg_roster_size": 17.0625
+    },
+    {
+      "country": "FRA",
+      "cohorts": 15,
+      "observed_rate": 0.466667,
+      "avg_roster_size": 15.0
+    },
+    {
+      "country": "ITA",
+      "cohorts": 15,
+      "observed_rate": 0.2,
+      "avg_roster_size": 16.266667
+    },
+    {
+      "country": "BRA",
+      "cohorts": 15,
+      "observed_rate": 0.533333,
+      "avg_roster_size": 23.8
+    },
+    {
+      "country": "MEX",
+      "cohorts": 12,
+      "observed_rate": 0.25,
+      "avg_roster_size": 16.916667
+    },
+    {
+      "country": "GER",
+      "cohorts": 12,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 18.5
+    },
+    {
+      "country": "ESP",
+      "cohorts": 11,
+      "observed_rate": 0.454545,
+      "avg_roster_size": 17.090909
+    },
+    {
+      "country": "GBR",
+      "cohorts": 11,
+      "observed_rate": 0.363636,
+      "avg_roster_size": 16.272727
+    },
+    {
+      "country": "JPN",
+      "cohorts": 11,
+      "observed_rate": 0.636364,
+      "avg_roster_size": 25.0
+    },
+    {
+      "country": "KOR",
+      "cohorts": 11,
+      "observed_rate": 0.636364,
+      "avg_roster_size": 16.272727
+    },
+    {
+      "country": "YUG",
+      "cohorts": 11,
+      "observed_rate": 0.272727,
+      "avg_roster_size": 14.909091
+    },
+    {
+      "country": "DEN",
+      "cohorts": 10,
+      "observed_rate": 0.3,
+      "avg_roster_size": 14.5
+    },
+    {
+      "country": "EGY",
+      "cohorts": 9,
+      "observed_rate": 0.111111,
+      "avg_roster_size": 13.777778
+    },
+    {
+      "country": "HUN",
+      "cohorts": 9,
+      "observed_rate": 0.222222,
+      "avg_roster_size": 15.0
+    },
+    {
+      "country": "NED",
+      "cohorts": 9,
+      "observed_rate": 0.444444,
+      "avg_roster_size": 15.333333
+    },
+    {
+      "country": "ARG",
+      "cohorts": 9,
+      "observed_rate": 0.555556,
+      "avg_roster_size": 18.222222
+    },
+    {
+      "country": "AUS",
+      "cohorts": 9,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 22.888889
+    },
+    {
+      "country": "NOR",
+      "cohorts": 8,
+      "observed_rate": 0.25,
+      "avg_roster_size": 14.75
+    },
+    {
+      "country": "NGR",
+      "cohorts": 8,
+      "observed_rate": 0.375,
+      "avg_roster_size": 20.875
+    },
+    {
+      "country": "CHN",
+      "cohorts": 8,
+      "observed_rate": 0.25,
+      "avg_roster_size": 17.5
+    },
+    {
+      "country": "POL",
+      "cohorts": 7,
+      "observed_rate": 0.142857,
+      "avg_roster_size": 15.0
+    },
+    {
+      "country": "CAN",
+      "cohorts": 7,
+      "observed_rate": 0.285714,
+      "avg_roster_size": 17.0
+    },
+    {
+      "country": "MAR",
+      "cohorts": 6,
+      "observed_rate": 0.5,
+      "avg_roster_size": 14.0
+    },
+    {
+      "country": "URS",
+      "cohorts": 6,
+      "observed_rate": 0.833333,
+      "avg_roster_size": 17.0
+    },
+    {
+      "country": "GHA",
+      "cohorts": 6,
+      "observed_rate": 0.5,
+      "avg_roster_size": 15.666667
+    },
+    {
+      "country": "COL",
+      "cohorts": 6,
+      "observed_rate": 0.666667,
+      "avg_roster_size": 19.5
+    },
+    {
+      "country": "LUX",
+      "cohorts": 6,
+      "observed_rate": 0.166667,
+      "avg_roster_size": 12.0
+    },
+    {
+      "country": "BEL",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 14.0
+    },
+    {
+      "country": "TCH",
+      "cohorts": 5,
+      "observed_rate": 0.2,
+      "avg_roster_size": 16.4
+    },
+    {
+      "country": "BUL",
+      "cohorts": 5,
+      "observed_rate": 0.2,
+      "avg_roster_size": 14.0
+    },
+    {
+      "country": "CHI",
+      "cohorts": 5,
+      "observed_rate": 0.6,
+      "avg_roster_size": 14.8
+    },
+    {
+      "country": "TUR",
+      "cohorts": 5,
+      "observed_rate": 0.2,
+      "avg_roster_size": 7.4
+    },
+    {
+      "country": "IRQ",
+      "cohorts": 5,
+      "observed_rate": 0.8,
+      "avg_roster_size": 16.0
+    },
+    {
+      "country": "HON",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 18.0
+    },
+    {
+      "country": "TUN",
+      "cohorts": 4,
+      "observed_rate": 0.5,
+      "avg_roster_size": 16.0
+    },
+    {
+      "country": "CMR",
+      "cohorts": 4,
+      "observed_rate": 0.25,
+      "avg_roster_size": 16.25
+    },
+    {
+      "country": "FIN",
+      "cohorts": 4,
+      "observed_rate": 0.75,
+      "avg_roster_size": 12.75
+    },
+    {
+      "country": "IND",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.75
+    },
+    {
+      "country": "POR",
+      "cohorts": 4,
+      "observed_rate": 0.5,
+      "avg_roster_size": 16.25
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 69,
+      "observed_rate": 0.565217,
+      "theoretical_rate": 0.52032,
+      "avg_roster_size": 24.362319
+    },
+    {
+      "gender": "M",
+      "cohorts": 360,
+      "observed_rate": 0.330556,
+      "theoretical_rate": 0.2641,
+      "avg_roster_size": 15.219444
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "BRA Football (Football) (2020 Summer)",
+      "season": "2020 Summer",
+      "country": "BRA",
+      "gender": "F",
+      "roster_size": 44,
+      "duplicate_pairs": 4,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.932885
+    },
+    {
+      "team": "AUS Football (Football) (2020 Summer)",
+      "season": "2020 Summer",
+      "country": "AUS",
+      "gender": "F",
+      "roster_size": 41,
+      "duplicate_pairs": 4,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.903152
+    },
+    {
+      "team": "NZL Football (Football) (2020 Summer)",
+      "season": "2020 Summer",
+      "country": "NZL",
+      "gender": "F",
+      "roster_size": 40,
+      "duplicate_pairs": 3,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.891232
+    },
+    {
+      "team": "JPN Football (Football) (2004 Summer)",
+      "season": "2004 Summer",
+      "country": "JPN",
+      "gender": "F",
+      "roster_size": 37,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.848734
+    },
+    {
+      "team": "BRA Football (Football) (2016 Summer)",
+      "season": "2016 Summer",
+      "country": "BRA",
+      "gender": "F",
+      "roster_size": 36,
+      "duplicate_pairs": 3,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.832182
+    },
+    {
+      "team": "NZL Football (Football) (2012 Summer)",
+      "season": "2012 Summer",
+      "country": "NZL",
+      "gender": "F",
+      "roster_size": 36,
+      "duplicate_pairs": 4,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.832182
+    },
+    {
+      "team": "BRA Football (Football) (2000 Summer)",
+      "season": "2000 Summer",
+      "country": "BRA",
+      "gender": "F",
+      "roster_size": 35,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.814383
+    },
+    {
+      "team": "BRA Football (Football) (2008 Summer)",
+      "season": "2008 Summer",
+      "country": "BRA",
+      "gender": "F",
+      "roster_size": 35,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.814383
+    },
+    {
+      "team": "JPN Football (Football) (2008 Summer)",
+      "season": "2008 Summer",
+      "country": "JPN",
+      "gender": "F",
+      "roster_size": 35,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.814383
+    },
+    {
+      "team": "CHN Football (Football) (2008 Summer)",
+      "season": "2008 Summer",
+      "country": "CHN",
+      "gender": "F",
+      "roster_size": 35,
+      "duplicate_pairs": 3,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.814383
+    }
+  ]
+}

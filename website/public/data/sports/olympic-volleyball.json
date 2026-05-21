@@ -1,0 +1,236 @@
+{
+  "sport": "Olympic Volleyball",
+  "slug": "olympic-volleyball",
+  "cohorts": 24,
+  "total_players": 310,
+  "avg_roster_size": 12.916667,
+  "observed_rate": 0.208333,
+  "theoretical_rate": 0.192128,
+  "deviation": 0.016205,
+  "cohort_kind": "team",
+  "cohort_kind_breakdown": {
+    "team": 24
+  },
+  "by_country": [
+    {
+      "country": "BRA",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 13.0
+    },
+    {
+      "country": "SRB",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 13.0
+    },
+    {
+      "country": "FRA",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 12.5
+    },
+    {
+      "country": "ITA",
+      "cohorts": 2,
+      "observed_rate": 0.5,
+      "avg_roster_size": 13.0
+    },
+    {
+      "country": "JPN",
+      "cohorts": 2,
+      "observed_rate": 1.0,
+      "avg_roster_size": 13.0
+    },
+    {
+      "country": "POL",
+      "cohorts": 2,
+      "observed_rate": 0.5,
+      "avg_roster_size": 13.0
+    },
+    {
+      "country": "USA",
+      "cohorts": 2,
+      "observed_rate": 0.5,
+      "avg_roster_size": 13.0
+    },
+    {
+      "country": "ARG",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 13.0
+    },
+    {
+      "country": "CAN",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 13.0
+    },
+    {
+      "country": "GER",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 13.0
+    },
+    {
+      "country": "EGY",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 13.0
+    },
+    {
+      "country": "CHN",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 13.0
+    },
+    {
+      "country": "DOM",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 12.0
+    },
+    {
+      "country": "NED",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 13.0
+    },
+    {
+      "country": "KEN",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 13.0
+    },
+    {
+      "country": "SLO",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 13.0
+    },
+    {
+      "country": "TUR",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 13.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 12,
+      "observed_rate": 0.25,
+      "theoretical_rate": 0.189846,
+      "avg_roster_size": 12.833333
+    },
+    {
+      "gender": "M",
+      "cohorts": 12,
+      "observed_rate": 0.166667,
+      "theoretical_rate": 0.19441,
+      "avg_roster_size": 13.0
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "Japan - Men",
+      "season": "2024 Summer",
+      "country": "JPN",
+      "gender": "M",
+      "roster_size": 13,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.19441
+    },
+    {
+      "team": "Poland - Men",
+      "season": "2024 Summer",
+      "country": "POL",
+      "gender": "M",
+      "roster_size": 13,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.19441
+    },
+    {
+      "team": "Italy - Women",
+      "season": "2024 Summer",
+      "country": "ITA",
+      "gender": "F",
+      "roster_size": 13,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.19441
+    },
+    {
+      "team": "Japan - Women",
+      "season": "2024 Summer",
+      "country": "JPN",
+      "gender": "F",
+      "roster_size": 13,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.19441
+    },
+    {
+      "team": "United States of America - Women",
+      "season": "2024 Summer",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 13,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.19441
+    },
+    {
+      "team": "Argentina - Men",
+      "season": "2024 Summer",
+      "country": "ARG",
+      "gender": "M",
+      "roster_size": 13,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.19441
+    },
+    {
+      "team": "Brazil - Men",
+      "season": "2024 Summer",
+      "country": "BRA",
+      "gender": "M",
+      "roster_size": 13,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.19441
+    },
+    {
+      "team": "Canada - Men",
+      "season": "2024 Summer",
+      "country": "CAN",
+      "gender": "M",
+      "roster_size": 13,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.19441
+    },
+    {
+      "team": "Egypt - Men",
+      "season": "2024 Summer",
+      "country": "EGY",
+      "gender": "M",
+      "roster_size": 13,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.19441
+    },
+    {
+      "team": "France - Men",
+      "season": "2024 Summer",
+      "country": "FRA",
+      "gender": "M",
+      "roster_size": 13,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.19441
+    }
+  ]
+}

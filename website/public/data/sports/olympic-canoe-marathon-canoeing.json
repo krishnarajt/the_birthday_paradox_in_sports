@@ -1,0 +1,193 @@
+{
+  "sport": "Olympic Canoe Marathon (Canoeing)",
+  "slug": "olympic-canoe-marathon-canoeing",
+  "cohorts": 15,
+  "total_players": 88,
+  "avg_roster_size": 5.866667,
+  "observed_rate": 0.0,
+  "theoretical_rate": 0.03933,
+  "deviation": -0.03933,
+  "cohort_kind": "delegation",
+  "cohort_kind_breakdown": {
+    "delegation": 15
+  },
+  "by_country": [
+    {
+      "country": "TCH",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "HUN",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.5
+    },
+    {
+      "country": "USA",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.5
+    },
+    {
+      "country": "FRA",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "CAN",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "BEL",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "GER",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.0
+    },
+    {
+      "country": "SUI",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "NED",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "SWE",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "URS",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "M",
+      "cohorts": 15,
+      "observed_rate": 0.0,
+      "theoretical_rate": 0.03933,
+      "avg_roster_size": 5.866667
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "GER Canoe Marathon (Canoeing) (1936 Summer)",
+      "season": "1936 Summer",
+      "country": "GER",
+      "gender": "M",
+      "roster_size": 8,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.074335
+    },
+    {
+      "team": "TCH Canoe Marathon (Canoeing) (1936 Summer)",
+      "season": "1936 Summer",
+      "country": "TCH",
+      "gender": "M",
+      "roster_size": 7,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.056236
+    },
+    {
+      "team": "BEL Canoe Marathon (Canoeing) (1936 Summer)",
+      "season": "1936 Summer",
+      "country": "BEL",
+      "gender": "M",
+      "roster_size": 6,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.040462
+    },
+    {
+      "team": "FRA Canoe Marathon (Canoeing) (1952 Summer)",
+      "season": "1952 Summer",
+      "country": "FRA",
+      "gender": "M",
+      "roster_size": 6,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.040462
+    },
+    {
+      "team": "HUN Canoe Marathon (Canoeing) (1956 Summer)",
+      "season": "1956 Summer",
+      "country": "HUN",
+      "gender": "M",
+      "roster_size": 6,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.040462
+    },
+    {
+      "team": "NED Canoe Marathon (Canoeing) (1936 Summer)",
+      "season": "1936 Summer",
+      "country": "NED",
+      "gender": "M",
+      "roster_size": 6,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.040462
+    },
+    {
+      "team": "SUI Canoe Marathon (Canoeing) (1936 Summer)",
+      "season": "1936 Summer",
+      "country": "SUI",
+      "gender": "M",
+      "roster_size": 6,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.040462
+    },
+    {
+      "team": "SWE Canoe Marathon (Canoeing) (1936 Summer)",
+      "season": "1936 Summer",
+      "country": "SWE",
+      "gender": "M",
+      "roster_size": 6,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.040462
+    },
+    {
+      "team": "TCH Canoe Marathon (Canoeing) (1952 Summer)",
+      "season": "1952 Summer",
+      "country": "TCH",
+      "gender": "M",
+      "roster_size": 6,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.040462
+    },
+    {
+      "team": "USA Canoe Marathon (Canoeing) (1956 Summer)",
+      "season": "1956 Summer",
+      "country": "USA",
+      "gender": "M",
+      "roster_size": 6,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.040462
+    }
+  ]
+}

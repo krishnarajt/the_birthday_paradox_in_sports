@@ -1,0 +1,374 @@
+{
+  "sport": "Olympic Water Polo (Aquatics)",
+  "slug": "olympic-water-polo-aquatics",
+  "cohorts": 322,
+  "total_players": 3919,
+  "avg_roster_size": 12.170807,
+  "observed_rate": 0.226708,
+  "theoretical_rate": 0.183703,
+  "deviation": 0.043005,
+  "cohort_kind": "team",
+  "cohort_kind_breakdown": {
+    "team": 322
+  },
+  "by_country": [
+    {
+      "country": "USA",
+      "cohorts": 23,
+      "observed_rate": 0.217391,
+      "avg_roster_size": 14.043478
+    },
+    {
+      "country": "HUN",
+      "cohorts": 22,
+      "observed_rate": 0.090909,
+      "avg_roster_size": 14.681818
+    },
+    {
+      "country": "ITA",
+      "cohorts": 21,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 13.333333
+    },
+    {
+      "country": "ESP",
+      "cohorts": 18,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 13.277778
+    },
+    {
+      "country": "NED",
+      "cohorts": 18,
+      "observed_rate": 0.166667,
+      "avg_roster_size": 11.333333
+    },
+    {
+      "country": "AUS",
+      "cohorts": 17,
+      "observed_rate": 0.235294,
+      "avg_roster_size": 16.352941
+    },
+    {
+      "country": "GRE",
+      "cohorts": 13,
+      "observed_rate": 0.307692,
+      "avg_roster_size": 14.153846
+    },
+    {
+      "country": "YUG",
+      "cohorts": 12,
+      "observed_rate": 0.25,
+      "avg_roster_size": 10.666667
+    },
+    {
+      "country": "GER",
+      "cohorts": 11,
+      "observed_rate": 0.090909,
+      "avg_roster_size": 11.0
+    },
+    {
+      "country": "GBR",
+      "cohorts": 10,
+      "observed_rate": 0.2,
+      "avg_roster_size": 9.5
+    },
+    {
+      "country": "BEL",
+      "cohorts": 10,
+      "observed_rate": 0.1,
+      "avg_roster_size": 8.3
+    },
+    {
+      "country": "FRA",
+      "cohorts": 10,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.3
+    },
+    {
+      "country": "JPN",
+      "cohorts": 9,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 11.111111
+    },
+    {
+      "country": "URS",
+      "cohorts": 9,
+      "observed_rate": 0.111111,
+      "avg_roster_size": 10.666667
+    },
+    {
+      "country": "ROU",
+      "cohorts": 9,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 10.555556
+    },
+    {
+      "country": "BRA",
+      "cohorts": 7,
+      "observed_rate": 0.428571,
+      "avg_roster_size": 12.142857
+    },
+    {
+      "country": "CRO",
+      "cohorts": 7,
+      "observed_rate": 0.285714,
+      "avg_roster_size": 12.428571
+    },
+    {
+      "country": "CAN",
+      "cohorts": 7,
+      "observed_rate": 0.142857,
+      "avg_roster_size": 12.428571
+    },
+    {
+      "country": "CHN",
+      "cohorts": 6,
+      "observed_rate": 0.666667,
+      "avg_roster_size": 14.666667
+    },
+    {
+      "country": "RUS",
+      "cohorts": 6,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 17.333333
+    },
+    {
+      "country": "SWE",
+      "cohorts": 6,
+      "observed_rate": 0.166667,
+      "avg_roster_size": 9.166667
+    },
+    {
+      "country": "FRG",
+      "cohorts": 5,
+      "observed_rate": 0.2,
+      "avg_roster_size": 11.6
+    },
+    {
+      "country": "TCH",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.2
+    },
+    {
+      "country": "CUB",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 11.4
+    },
+    {
+      "country": "MEX",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 10.0
+    },
+    {
+      "country": "MNE",
+      "cohorts": 4,
+      "observed_rate": 0.75,
+      "avg_roster_size": 13.0
+    },
+    {
+      "country": "EGY",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 10.0
+    },
+    {
+      "country": "SRB",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 13.0
+    },
+    {
+      "country": "KAZ",
+      "cohorts": 4,
+      "observed_rate": 0.25,
+      "avg_roster_size": 19.0
+    },
+    {
+      "country": "AUT",
+      "cohorts": 3,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 9.333333
+    },
+    {
+      "country": "SCG",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 13.0
+    },
+    {
+      "country": "RSA",
+      "cohorts": 3,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 14.666667
+    },
+    {
+      "country": "ARG",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.0
+    },
+    {
+      "country": "IRL",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "SUI",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "BUL",
+      "cohorts": 2,
+      "observed_rate": 1.0,
+      "avg_roster_size": 11.0
+    },
+    {
+      "country": "MLT",
+      "cohorts": 2,
+      "observed_rate": 0.5,
+      "avg_roster_size": 8.5
+    },
+    {
+      "country": "URU",
+      "cohorts": 2,
+      "observed_rate": 0.5,
+      "avg_roster_size": 8.5
+    },
+    {
+      "country": "CHI",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "EUN",
+      "cohorts": 1,
+      "observed_rate": 1.0,
+      "avg_roster_size": 13.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 18,
+      "observed_rate": 0.5,
+      "theoretical_rate": 0.297433,
+      "avg_roster_size": 16.277778
+    },
+    {
+      "gender": "M",
+      "cohorts": 304,
+      "observed_rate": 0.210526,
+      "theoretical_rate": 0.176969,
+      "avg_roster_size": 11.927632
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "ITA Water Polo (Aquatics) (2004 Summer)",
+      "season": "2004 Summer",
+      "country": "ITA",
+      "gender": "M",
+      "roster_size": 26,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.598241
+    },
+    {
+      "team": "USA Water Polo (Aquatics) (2000 Summer)",
+      "season": "2000 Summer",
+      "country": "USA",
+      "gender": "M",
+      "roster_size": 26,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.598241
+    },
+    {
+      "team": "GRE Water Polo (Aquatics) (2008 Summer)",
+      "season": "2008 Summer",
+      "country": "GRE",
+      "gender": "M",
+      "roster_size": 26,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.598241
+    },
+    {
+      "team": "HUN Water Polo (Aquatics) (2012 Summer)",
+      "season": "2012 Summer",
+      "country": "HUN",
+      "gender": "M",
+      "roster_size": 26,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.598241
+    },
+    {
+      "team": "AUS Water Polo (Aquatics) (2004 Summer)",
+      "season": "2004 Summer",
+      "country": "AUS",
+      "gender": "M",
+      "roster_size": 26,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.598241
+    },
+    {
+      "team": "ESP Water Polo (Aquatics) (2016 Summer)",
+      "season": "2016 Summer",
+      "country": "ESP",
+      "gender": "M",
+      "roster_size": 26,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.598241
+    },
+    {
+      "team": "AUS Water Polo (Aquatics) (2020 Summer)",
+      "season": "2020 Summer",
+      "country": "AUS",
+      "gender": "F",
+      "roster_size": 26,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.598241
+    },
+    {
+      "team": "BRA Water Polo (Aquatics) (2016 Summer)",
+      "season": "2016 Summer",
+      "country": "BRA",
+      "gender": "M",
+      "roster_size": 26,
+      "duplicate_pairs": 3,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.598241
+    },
+    {
+      "team": "ESP Water Polo (Aquatics) (2020 Summer)",
+      "season": "2020 Summer",
+      "country": "ESP",
+      "gender": "M",
+      "roster_size": 26,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.598241
+    },
+    {
+      "team": "HUN Water Polo (Aquatics) (2020 Summer)",
+      "season": "2020 Summer",
+      "country": "HUN",
+      "gender": "M",
+      "roster_size": 26,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.598241
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "sport": "Olympic Fencing",
+  "slug": "olympic-fencing",
+  "cohorts": 458,
+  "total_players": 5598,
+  "avg_roster_size": 12.222707,
+  "observed_rate": 0.233624,
+  "theoretical_rate": 0.189853,
+  "deviation": 0.043772,
+  "cohort_kind": "delegation",
+  "cohort_kind_breakdown": {
+    "delegation": 458
+  },
+  "by_country": [
+    {
+      "country": "FRA",
+      "cohorts": 26,
+      "observed_rate": 0.538462,
+      "avg_roster_size": 22.846154
+    },
+    {
+      "country": "ITA",
+      "cohorts": 26,
+      "observed_rate": 0.461538,
+      "avg_roster_size": 17.307692
+    },
+    {
+      "country": "USA",
+      "cohorts": 25,
+      "observed_rate": 0.56,
+      "avg_roster_size": 17.28
+    },
+    {
+      "country": "HUN",
+      "cohorts": 24,
+      "observed_rate": 0.458333,
+      "avg_roster_size": 15.458333
+    },
+    {
+      "country": "POL",
+      "cohorts": 21,
+      "observed_rate": 0.238095,
+      "avg_roster_size": 12.380952
+    },
+    {
+      "country": "GBR",
+      "cohorts": 19,
+      "observed_rate": 0.105263,
+      "avg_roster_size": 17.105263
+    },
+    {
+      "country": "SWE",
+      "cohorts": 18,
+      "observed_rate": 0.222222,
+      "avg_roster_size": 8.444444
+    },
+    {
+      "country": "SUI",
+      "cohorts": 16,
+      "observed_rate": 0.4375,
+      "avg_roster_size": 8.3125
+    },
+    {
+      "country": "ROU",
+      "cohorts": 16,
+      "observed_rate": 0.0625,
+      "avg_roster_size": 10.9375
+    },
+    {
+      "country": "AUT",
+      "cohorts": 15,
+      "observed_rate": 0.2,
+      "avg_roster_size": 7.8
+    },
+    {
+      "country": "GER",
+      "cohorts": 14,
+      "observed_rate": 0.357143,
+      "avg_roster_size": 13.714286
+    },
+    {
+      "country": "CAN",
+      "cohorts": 14,
+      "observed_rate": 0.071429,
+      "avg_roster_size": 9.214286
+    },
+    {
+      "country": "JPN",
+      "cohorts": 13,
+      "observed_rate": 0.076923,
+      "avg_roster_size": 8.461538
+    },
+    {
+      "country": "ARG",
+      "cohorts": 13,
+      "observed_rate": 0.153846,
+      "avg_roster_size": 9.0
+    },
+    {
+      "country": "KOR",
+      "cohorts": 11,
+      "observed_rate": 0.181818,
+      "avg_roster_size": 12.545455
+    },
+    {
+      "country": "BEL",
+      "cohorts": 11,
+      "observed_rate": 0.090909,
+      "avg_roster_size": 15.454545
+    },
+    {
+      "country": "EGY",
+      "cohorts": 11,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.636364
+    },
+    {
+      "country": "DEN",
+      "cohorts": 10,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.4
+    },
+    {
+      "country": "CHN",
+      "cohorts": 10,
+      "observed_rate": 0.3,
+      "avg_roster_size": 15.1
+    },
+    {
+      "country": "NED",
+      "cohorts": 9,
+      "observed_rate": 0.222222,
+      "avg_roster_size": 11.777778
+    },
+    {
+      "country": "URS",
+      "cohorts": 9,
+      "observed_rate": 0.444444,
+      "avg_roster_size": 18.888889
+    },
+    {
+      "country": "CUB",
+      "cohorts": 8,
+      "observed_rate": 0.0,
+      "avg_roster_size": 10.375
+    },
+    {
+      "country": "NOR",
+      "cohorts": 8,
+      "observed_rate": 0.125,
+      "avg_roster_size": 5.375
+    },
+    {
+      "country": "RUS",
+      "cohorts": 7,
+      "observed_rate": 0.0,
+      "avg_roster_size": 15.714286
+    },
+    {
+      "country": "ESP",
+      "cohorts": 7,
+      "observed_rate": 0.0,
+      "avg_roster_size": 10.428571
+    },
+    {
+      "country": "POR",
+      "cohorts": 7,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.142857
+    },
+    {
+      "country": "UKR",
+      "cohorts": 7,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.0
+    },
+    {
+      "country": "MEX",
+      "cohorts": 6,
+      "observed_rate": 0.166667,
+      "avg_roster_size": 8.5
+    },
+    {
+      "country": "AUS",
+      "cohorts": 6,
+      "observed_rate": 0.166667,
+      "avg_roster_size": 11.333333
+    },
+    {
+      "country": "TCH",
+      "cohorts": 6,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.166667
+    },
+    {
+      "country": "VEN",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.6
+    },
+    {
+      "country": "FRG",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 19.2
+    },
+    {
+      "country": "BRA",
+      "cohorts": 5,
+      "observed_rate": 0.2,
+      "avg_roster_size": 8.0
+    },
+    {
+      "country": "HKG",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "FIN",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.5
+    },
+    {
+      "country": "BUL",
+      "cohorts": 4,
+      "observed_rate": 0.5,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "TUN",
+      "cohorts": 3,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "KUW",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.666667
+    },
+    {
+      "country": "LUX",
+      "cohorts": 3,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "COL",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 298,
+      "observed_rate": 0.255034,
+      "theoretical_rate": 0.230133,
+      "avg_roster_size": 13.654362
+    },
+    {
+      "gender": "M",
+      "cohorts": 160,
+      "observed_rate": 0.19375,
+      "theoretical_rate": 0.11483,
+      "avg_roster_size": 9.55625
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "FRA Fencing (1900 Summer)",
+      "season": "1900 Summer",
+      "country": "FRA",
+      "gender": "M",
+      "roster_size": 126,
+      "duplicate_pairs": 16,
+      "has_shared_birthday": true,
+      "theoretical_probability": 1.0
+    },
+    {
+      "team": "FRA Fencing (1924 Summer)",
+      "season": "1924 Summer",
+      "country": "FRA",
+      "gender": "F",
+      "roster_size": 26,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.598241
+    },
+    {
+      "team": "FRA Fencing (1908 Summer)",
+      "season": "1908 Summer",
+      "country": "FRA",
+      "gender": "M",
+      "roster_size": 25,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.5687
+    },
+    {
+      "team": "POL Fencing (1960 Summer)",
+      "season": "1960 Summer",
+      "country": "POL",
+      "gender": "F",
+      "roster_size": 23,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.507297
+    },
+    {
+      "team": "ITA Fencing (2020 Summer)",
+      "season": "2020 Summer",
+      "country": "ITA",
+      "gender": "M",
+      "roster_size": 23,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.507297
+    },
+    {
+      "team": "USA Fencing (1924 Summer)",
+      "season": "1924 Summer",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 22,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.475695
+    },
+    {
+      "team": "GBR Fencing (1908 Summer)",
+      "season": "1908 Summer",
+      "country": "GBR",
+      "gender": "M",
+      "roster_size": 22,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.475695
+    },
+    {
+      "team": "ROC Fencing (2020 Summer)",
+      "season": "2020 Summer",
+      "country": "ROC",
+      "gender": "F",
+      "roster_size": 22,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.475695
+    },
+    {
+      "team": "FRA Fencing (1960 Summer)",
+      "season": "1960 Summer",
+      "country": "FRA",
+      "gender": "F",
+      "roster_size": 21,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.443688
+    },
+    {
+      "team": "FRA Fencing (1948 Summer)",
+      "season": "1948 Summer",
+      "country": "FRA",
+      "gender": "F",
+      "roster_size": 21,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.443688
+    }
+  ]
+}

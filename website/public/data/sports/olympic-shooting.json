@@ -1,0 +1,374 @@
+{
+  "sport": "Olympic Shooting",
+  "slug": "olympic-shooting",
+  "cohorts": 563,
+  "total_players": 5650,
+  "avg_roster_size": 10.035524,
+  "observed_rate": 0.161634,
+  "theoretical_rate": 0.134676,
+  "deviation": 0.026958,
+  "cohort_kind": "delegation",
+  "cohort_kind_breakdown": {
+    "delegation": 563
+  },
+  "by_country": [
+    {
+      "country": "USA",
+      "cohorts": 24,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 17.083333
+    },
+    {
+      "country": "ITA",
+      "cohorts": 23,
+      "observed_rate": 0.217391,
+      "avg_roster_size": 10.391304
+    },
+    {
+      "country": "FRA",
+      "cohorts": 22,
+      "observed_rate": 0.181818,
+      "avg_roster_size": 12.954545
+    },
+    {
+      "country": "GBR",
+      "cohorts": 22,
+      "observed_rate": 0.181818,
+      "avg_roster_size": 12.772727
+    },
+    {
+      "country": "SWE",
+      "cohorts": 19,
+      "observed_rate": 0.315789,
+      "avg_roster_size": 13.684211
+    },
+    {
+      "country": "FIN",
+      "cohorts": 19,
+      "observed_rate": 0.210526,
+      "avg_roster_size": 9.473684
+    },
+    {
+      "country": "NOR",
+      "cohorts": 19,
+      "observed_rate": 0.052632,
+      "avg_roster_size": 8.736842
+    },
+    {
+      "country": "HUN",
+      "cohorts": 18,
+      "observed_rate": 0.055556,
+      "avg_roster_size": 8.888889
+    },
+    {
+      "country": "SUI",
+      "cohorts": 17,
+      "observed_rate": 0.117647,
+      "avg_roster_size": 7.764706
+    },
+    {
+      "country": "POL",
+      "cohorts": 16,
+      "observed_rate": 0.0625,
+      "avg_roster_size": 8.0
+    },
+    {
+      "country": "DEN",
+      "cohorts": 16,
+      "observed_rate": 0.125,
+      "avg_roster_size": 7.4375
+    },
+    {
+      "country": "JPN",
+      "cohorts": 15,
+      "observed_rate": 0.066667,
+      "avg_roster_size": 9.2
+    },
+    {
+      "country": "AUS",
+      "cohorts": 15,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 12.733333
+    },
+    {
+      "country": "ESP",
+      "cohorts": 15,
+      "observed_rate": 0.2,
+      "avg_roster_size": 8.333333
+    },
+    {
+      "country": "CAN",
+      "cohorts": 14,
+      "observed_rate": 0.214286,
+      "avg_roster_size": 10.428571
+    },
+    {
+      "country": "GER",
+      "cohorts": 13,
+      "observed_rate": 0.153846,
+      "avg_roster_size": 14.153846
+    },
+    {
+      "country": "KOR",
+      "cohorts": 13,
+      "observed_rate": 0.384615,
+      "avg_roster_size": 12.846154
+    },
+    {
+      "country": "AUT",
+      "cohorts": 11,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.818182
+    },
+    {
+      "country": "BUL",
+      "cohorts": 10,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.4
+    },
+    {
+      "country": "CHN",
+      "cohorts": 10,
+      "observed_rate": 0.5,
+      "avg_roster_size": 21.9
+    },
+    {
+      "country": "ARG",
+      "cohorts": 10,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.2
+    },
+    {
+      "country": "CUB",
+      "cohorts": 9,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.444444
+    },
+    {
+      "country": "EGY",
+      "cohorts": 9,
+      "observed_rate": 0.222222,
+      "avg_roster_size": 7.888889
+    },
+    {
+      "country": "URS",
+      "cohorts": 9,
+      "observed_rate": 0.222222,
+      "avg_roster_size": 11.888889
+    },
+    {
+      "country": "TCH",
+      "cohorts": 9,
+      "observed_rate": 0.0,
+      "avg_roster_size": 10.0
+    },
+    {
+      "country": "THA",
+      "cohorts": 9,
+      "observed_rate": 0.222222,
+      "avg_roster_size": 9.111111
+    },
+    {
+      "country": "BEL",
+      "cohorts": 8,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.75
+    },
+    {
+      "country": "BRA",
+      "cohorts": 8,
+      "observed_rate": 0.125,
+      "avg_roster_size": 7.25
+    },
+    {
+      "country": "MEX",
+      "cohorts": 8,
+      "observed_rate": 0.375,
+      "avg_roster_size": 7.375
+    },
+    {
+      "country": "ROU",
+      "cohorts": 8,
+      "observed_rate": 0.125,
+      "avg_roster_size": 7.875
+    },
+    {
+      "country": "UKR",
+      "cohorts": 7,
+      "observed_rate": 0.142857,
+      "avg_roster_size": 8.571429
+    },
+    {
+      "country": "PER",
+      "cohorts": 7,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.714286
+    },
+    {
+      "country": "CZE",
+      "cohorts": 7,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.714286
+    },
+    {
+      "country": "RUS",
+      "cohorts": 7,
+      "observed_rate": 0.571429,
+      "avg_roster_size": 21.285714
+    },
+    {
+      "country": "GRE",
+      "cohorts": 6,
+      "observed_rate": 0.166667,
+      "avg_roster_size": 6.5
+    },
+    {
+      "country": "IND",
+      "cohorts": 6,
+      "observed_rate": 0.166667,
+      "avg_roster_size": 10.0
+    },
+    {
+      "country": "POR",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.2
+    },
+    {
+      "country": "YUG",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.8
+    },
+    {
+      "country": "NED",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 11.2
+    },
+    {
+      "country": "VEN",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.2
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 190,
+      "observed_rate": 0.205263,
+      "theoretical_rate": 0.167394,
+      "avg_roster_size": 11.205263
+    },
+    {
+      "gender": "M",
+      "cohorts": 373,
+      "observed_rate": 0.13941,
+      "theoretical_rate": 0.11801,
+      "avg_roster_size": 9.439678
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "SWE Shooting (1912 Summer)",
+      "season": "1912 Summer",
+      "country": "SWE",
+      "gender": "M",
+      "roster_size": 60,
+      "duplicate_pairs": 6,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.994123
+    },
+    {
+      "team": "GBR Shooting (1908 Summer)",
+      "season": "1908 Summer",
+      "country": "GBR",
+      "gender": "M",
+      "roster_size": 55,
+      "duplicate_pairs": 6,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.986262
+    },
+    {
+      "team": "GBR Shooting (1912 Summer)",
+      "season": "1912 Summer",
+      "country": "GBR",
+      "gender": "M",
+      "roster_size": 37,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.848734
+    },
+    {
+      "team": "SWE Shooting (1920 Summer)",
+      "season": "1920 Summer",
+      "country": "SWE",
+      "gender": "M",
+      "roster_size": 29,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.680969
+    },
+    {
+      "team": "USA Shooting (1920 Summer)",
+      "season": "1920 Summer",
+      "country": "USA",
+      "gender": "M",
+      "roster_size": 29,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.680969
+    },
+    {
+      "team": "USA Shooting (2000 Summer)",
+      "season": "2000 Summer",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 28,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.654461
+    },
+    {
+      "team": "CHN Shooting (2004 Summer)",
+      "season": "2004 Summer",
+      "country": "CHN",
+      "gender": "F",
+      "roster_size": 26,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.598241
+    },
+    {
+      "team": "USA Shooting (1912 Summer)",
+      "season": "1912 Summer",
+      "country": "USA",
+      "gender": "M",
+      "roster_size": 26,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.598241
+    },
+    {
+      "team": "USA Shooting (1996 Summer)",
+      "season": "1996 Summer",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 25,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.5687
+    },
+    {
+      "team": "CHN Shooting (2008 Summer)",
+      "season": "2008 Summer",
+      "country": "CHN",
+      "gender": "M",
+      "roster_size": 24,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.538344
+    }
+  ]
+}

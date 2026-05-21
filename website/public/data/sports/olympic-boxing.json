@@ -1,0 +1,374 @@
+{
+  "sport": "Olympic Boxing",
+  "slug": "olympic-boxing",
+  "cohorts": 579,
+  "total_players": 4358,
+  "avg_roster_size": 7.52677,
+  "observed_rate": 0.1019,
+  "theoretical_rate": 0.071382,
+  "deviation": 0.030518,
+  "cohort_kind": "delegation",
+  "cohort_kind_breakdown": {
+    "delegation": 579
+  },
+  "by_country": [
+    {
+      "country": "USA",
+      "cohorts": 25,
+      "observed_rate": 0.16,
+      "avg_roster_size": 10.68
+    },
+    {
+      "country": "ITA",
+      "cohorts": 23,
+      "observed_rate": 0.043478,
+      "avg_roster_size": 7.73913
+    },
+    {
+      "country": "GBR",
+      "cohorts": 22,
+      "observed_rate": 0.363636,
+      "avg_roster_size": 10.363636
+    },
+    {
+      "country": "FRA",
+      "cohorts": 21,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.571429
+    },
+    {
+      "country": "IRL",
+      "cohorts": 18,
+      "observed_rate": 0.111111,
+      "avg_roster_size": 6.666667
+    },
+    {
+      "country": "ARG",
+      "cohorts": 15,
+      "observed_rate": 0.066667,
+      "avg_roster_size": 7.8
+    },
+    {
+      "country": "POL",
+      "cohorts": 15,
+      "observed_rate": 0.2,
+      "avg_roster_size": 8.2
+    },
+    {
+      "country": "CAN",
+      "cohorts": 15,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.666667
+    },
+    {
+      "country": "HUN",
+      "cohorts": 14,
+      "observed_rate": 0.071429,
+      "avg_roster_size": 6.571429
+    },
+    {
+      "country": "CUB",
+      "cohorts": 14,
+      "observed_rate": 0.071429,
+      "avg_roster_size": 9.785714
+    },
+    {
+      "country": "AUS",
+      "cohorts": 13,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.230769
+    },
+    {
+      "country": "KOR",
+      "cohorts": 13,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.692308
+    },
+    {
+      "country": "THA",
+      "cohorts": 12,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.333333
+    },
+    {
+      "country": "ALG",
+      "cohorts": 11,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.909091
+    },
+    {
+      "country": "BUL",
+      "cohorts": 11,
+      "observed_rate": 0.090909,
+      "avg_roster_size": 7.727273
+    },
+    {
+      "country": "GER",
+      "cohorts": 11,
+      "observed_rate": 0.181818,
+      "avg_roster_size": 8.727273
+    },
+    {
+      "country": "TUR",
+      "cohorts": 11,
+      "observed_rate": 0.363636,
+      "avg_roster_size": 6.363636
+    },
+    {
+      "country": "PUR",
+      "cohorts": 11,
+      "observed_rate": 0.181818,
+      "avg_roster_size": 6.909091
+    },
+    {
+      "country": "ROU",
+      "cohorts": 11,
+      "observed_rate": 0.090909,
+      "avg_roster_size": 8.727273
+    },
+    {
+      "country": "BRA",
+      "cohorts": 10,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.9
+    },
+    {
+      "country": "ESP",
+      "cohorts": 9,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.222222
+    },
+    {
+      "country": "URS",
+      "cohorts": 9,
+      "observed_rate": 0.0,
+      "avg_roster_size": 10.777778
+    },
+    {
+      "country": "MAR",
+      "cohorts": 9,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 6.888889
+    },
+    {
+      "country": "MEX",
+      "cohorts": 9,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.666667
+    },
+    {
+      "country": "FIN",
+      "cohorts": 9,
+      "observed_rate": 0.111111,
+      "avg_roster_size": 6.111111
+    },
+    {
+      "country": "VEN",
+      "cohorts": 8,
+      "observed_rate": 0.125,
+      "avg_roster_size": 7.125
+    },
+    {
+      "country": "RSA",
+      "cohorts": 8,
+      "observed_rate": 0.125,
+      "avg_roster_size": 6.5
+    },
+    {
+      "country": "KAZ",
+      "cohorts": 8,
+      "observed_rate": 0.125,
+      "avg_roster_size": 9.0
+    },
+    {
+      "country": "COL",
+      "cohorts": 8,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.375
+    },
+    {
+      "country": "EGY",
+      "cohorts": 8,
+      "observed_rate": 0.125,
+      "avg_roster_size": 6.25
+    },
+    {
+      "country": "NGR",
+      "cohorts": 8,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.375
+    },
+    {
+      "country": "PHI",
+      "cohorts": 8,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.375
+    },
+    {
+      "country": "UZB",
+      "cohorts": 8,
+      "observed_rate": 0.375,
+      "avg_roster_size": 9.0
+    },
+    {
+      "country": "DEN",
+      "cohorts": 8,
+      "observed_rate": 0.125,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "UGA",
+      "cohorts": 7,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.714286
+    },
+    {
+      "country": "SWE",
+      "cohorts": 7,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.142857
+    },
+    {
+      "country": "JPN",
+      "cohorts": 7,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.428571
+    },
+    {
+      "country": "UKR",
+      "cohorts": 7,
+      "observed_rate": 0.285714,
+      "avg_roster_size": 6.857143
+    },
+    {
+      "country": "DOM",
+      "cohorts": 7,
+      "observed_rate": 0.142857,
+      "avg_roster_size": 5.857143
+    },
+    {
+      "country": "NED",
+      "cohorts": 7,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.571429
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 25,
+      "observed_rate": 0.36,
+      "theoretical_rate": 0.071311,
+      "avg_roster_size": 7.48
+    },
+    {
+      "gender": "M",
+      "cohorts": 554,
+      "observed_rate": 0.090253,
+      "theoretical_rate": 0.071385,
+      "avg_roster_size": 7.528881
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "USA Boxing (1904 Summer)",
+      "season": "1904 Summer",
+      "country": "USA",
+      "gender": "M",
+      "roster_size": 17,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.315008
+    },
+    {
+      "team": "GBR Boxing (1920 Summer)",
+      "season": "1920 Summer",
+      "country": "GBR",
+      "gender": "M",
+      "roster_size": 15,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.252901
+    },
+    {
+      "team": "NOR Boxing (1920 Summer)",
+      "season": "1920 Summer",
+      "country": "NOR",
+      "gender": "M",
+      "roster_size": 14,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.223103
+    },
+    {
+      "team": "CUB Boxing (2000 Summer)",
+      "season": "2000 Summer",
+      "country": "CUB",
+      "gender": "M",
+      "roster_size": 12,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.167025
+    },
+    {
+      "team": "EUN Boxing (1992 Summer)",
+      "season": "1992 Summer",
+      "country": "EUN",
+      "gender": "M",
+      "roster_size": 12,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.167025
+    },
+    {
+      "team": "USA Boxing (1984 Summer)",
+      "season": "1984 Summer",
+      "country": "USA",
+      "gender": "M",
+      "roster_size": 12,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.167025
+    },
+    {
+      "team": "GBR Boxing (2016 Summer)",
+      "season": "2016 Summer",
+      "country": "GBR",
+      "gender": "F",
+      "roster_size": 12,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.167025
+    },
+    {
+      "team": "KEN Boxing (1988 Summer)",
+      "season": "1988 Summer",
+      "country": "KEN",
+      "gender": "M",
+      "roster_size": 11,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.141141
+    },
+    {
+      "team": "POL Boxing (1980 Summer)",
+      "season": "1980 Summer",
+      "country": "POL",
+      "gender": "M",
+      "roster_size": 11,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.141141
+    },
+    {
+      "team": "POL Boxing (1976 Summer)",
+      "season": "1976 Summer",
+      "country": "POL",
+      "gender": "M",
+      "roster_size": 11,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.141141
+    }
+  ]
+}

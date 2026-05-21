@@ -1,0 +1,290 @@
+{
+  "sport": "Olympic Speed Skating (Skating)",
+  "slug": "olympic-speed-skating-skating",
+  "cohorts": 219,
+  "total_players": 2327,
+  "avg_roster_size": 10.625571,
+  "observed_rate": 0.196347,
+  "theoretical_rate": 0.147506,
+  "deviation": 0.048841,
+  "cohort_kind": "delegation",
+  "cohort_kind_breakdown": {
+    "delegation": 219
+  },
+  "by_country": [
+    {
+      "country": "NOR",
+      "cohorts": 24,
+      "observed_rate": 0.083333,
+      "avg_roster_size": 9.125
+    },
+    {
+      "country": "USA",
+      "cohorts": 23,
+      "observed_rate": 0.304348,
+      "avg_roster_size": 13.086957
+    },
+    {
+      "country": "JPN",
+      "cohorts": 20,
+      "observed_rate": 0.2,
+      "avg_roster_size": 12.6
+    },
+    {
+      "country": "NED",
+      "cohorts": 20,
+      "observed_rate": 0.25,
+      "avg_roster_size": 12.05
+    },
+    {
+      "country": "CAN",
+      "cohorts": 17,
+      "observed_rate": 0.235294,
+      "avg_roster_size": 12.117647
+    },
+    {
+      "country": "SWE",
+      "cohorts": 13,
+      "observed_rate": 0.153846,
+      "avg_roster_size": 8.307692
+    },
+    {
+      "country": "KOR",
+      "cohorts": 12,
+      "observed_rate": 0.166667,
+      "avg_roster_size": 10.583333
+    },
+    {
+      "country": "GER",
+      "cohorts": 11,
+      "observed_rate": 0.272727,
+      "avg_roster_size": 12.272727
+    },
+    {
+      "country": "CHN",
+      "cohorts": 11,
+      "observed_rate": 0.272727,
+      "avg_roster_size": 11.727273
+    },
+    {
+      "country": "FIN",
+      "cohorts": 9,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.555556
+    },
+    {
+      "country": "URS",
+      "cohorts": 9,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 14.666667
+    },
+    {
+      "country": "ITA",
+      "cohorts": 9,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.222222
+    },
+    {
+      "country": "RUS",
+      "cohorts": 6,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 16.0
+    },
+    {
+      "country": "POL",
+      "cohorts": 5,
+      "observed_rate": 0.2,
+      "avg_roster_size": 9.2
+    },
+    {
+      "country": "KAZ",
+      "cohorts": 5,
+      "observed_rate": 0.4,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "PRK",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.5
+    },
+    {
+      "country": "FRG",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.75
+    },
+    {
+      "country": "GDR",
+      "cohorts": 4,
+      "observed_rate": 0.5,
+      "avg_roster_size": 9.5
+    },
+    {
+      "country": "AUT",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.666667
+    },
+    {
+      "country": "GBR",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.333333
+    },
+    {
+      "country": "BLR",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "EUN",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 18.0
+    },
+    {
+      "country": "FRA",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "HUN",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "ROC",
+      "cohorts": 1,
+      "observed_rate": 1.0,
+      "avg_roster_size": 15.0
+    },
+    {
+      "country": "SUI",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 149,
+      "observed_rate": 0.228188,
+      "theoretical_rate": 0.158995,
+      "avg_roster_size": 11.147651
+    },
+    {
+      "gender": "M",
+      "cohorts": 70,
+      "observed_rate": 0.128571,
+      "theoretical_rate": 0.12305,
+      "avg_roster_size": 9.514286
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "JPN Speed Skating (Skating) (2002 Winter)",
+      "season": "2002 Winter",
+      "country": "JPN",
+      "gender": "F",
+      "roster_size": 20,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.411438
+    },
+    {
+      "team": "NED Speed Skating (Skating) (2006 Winter)",
+      "season": "2006 Winter",
+      "country": "NED",
+      "gender": "M",
+      "roster_size": 20,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.411438
+    },
+    {
+      "team": "NED Speed Skating (Skating) (2014 Winter)",
+      "season": "2014 Winter",
+      "country": "NED",
+      "gender": "M",
+      "roster_size": 20,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.411438
+    },
+    {
+      "team": "NED Speed Skating (Skating) (2018 Winter)",
+      "season": "2018 Winter",
+      "country": "NED",
+      "gender": "M",
+      "roster_size": 20,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.411438
+    },
+    {
+      "team": "USA Speed Skating (Skating) (1992 Winter)",
+      "season": "1992 Winter",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 19,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.379119
+    },
+    {
+      "team": "NED Speed Skating (Skating) (2010 Winter)",
+      "season": "2010 Winter",
+      "country": "NED",
+      "gender": "M",
+      "roster_size": 19,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.379119
+    },
+    {
+      "team": "CAN Speed Skating (Skating) (2006 Winter)",
+      "season": "2006 Winter",
+      "country": "CAN",
+      "gender": "F",
+      "roster_size": 18,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.346911
+    },
+    {
+      "team": "JPN Speed Skating (Skating) (1998 Winter)",
+      "season": "1998 Winter",
+      "country": "JPN",
+      "gender": "F",
+      "roster_size": 18,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.346911
+    },
+    {
+      "team": "USA Speed Skating (Skating) (2010 Winter)",
+      "season": "2010 Winter",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 18,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.346911
+    },
+    {
+      "team": "RUS Speed Skating (Skating) (2014 Winter)",
+      "season": "2014 Winter",
+      "country": "RUS",
+      "gender": "M",
+      "roster_size": 18,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.346911
+    }
+  ]
+}

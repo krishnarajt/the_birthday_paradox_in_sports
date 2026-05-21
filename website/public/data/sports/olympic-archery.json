@@ -1,0 +1,302 @@
+{
+  "sport": "Olympic Archery",
+  "slug": "olympic-archery",
+  "cohorts": 113,
+  "total_players": 711,
+  "avg_roster_size": 6.292035,
+  "observed_rate": 0.079646,
+  "theoretical_rate": 0.050707,
+  "deviation": 0.028939,
+  "cohort_kind": "delegation",
+  "cohort_kind_breakdown": {
+    "delegation": 113
+  },
+  "by_country": [
+    {
+      "country": "CHN",
+      "cohorts": 10,
+      "observed_rate": 0.1,
+      "avg_roster_size": 5.9
+    },
+    {
+      "country": "KOR",
+      "cohorts": 10,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.8
+    },
+    {
+      "country": "USA",
+      "cohorts": 10,
+      "observed_rate": 0.2,
+      "avg_roster_size": 7.9
+    },
+    {
+      "country": "FRA",
+      "cohorts": 9,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.222222
+    },
+    {
+      "country": "JPN",
+      "cohorts": 9,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.444444
+    },
+    {
+      "country": "GBR",
+      "cohorts": 8,
+      "observed_rate": 0.125,
+      "avg_roster_size": 10.0
+    },
+    {
+      "country": "TPE",
+      "cohorts": 7,
+      "observed_rate": 0.142857,
+      "avg_roster_size": 5.857143
+    },
+    {
+      "country": "SWE",
+      "cohorts": 5,
+      "observed_rate": 0.2,
+      "avg_roster_size": 5.6
+    },
+    {
+      "country": "UKR",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.6
+    },
+    {
+      "country": "ITA",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "AUS",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.5
+    },
+    {
+      "country": "NED",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.666667
+    },
+    {
+      "country": "POL",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.666667
+    },
+    {
+      "country": "RUS",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.333333
+    },
+    {
+      "country": "IND",
+      "cohorts": 2,
+      "observed_rate": 0.5,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "MEX",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "FIN",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.5
+    },
+    {
+      "country": "BEL",
+      "cohorts": 2,
+      "observed_rate": 0.5,
+      "avg_roster_size": 5.5
+    },
+    {
+      "country": "BHU",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "FRG",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.5
+    },
+    {
+      "country": "TUR",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "URS",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.5
+    },
+    {
+      "country": "CAN",
+      "cohorts": 1,
+      "observed_rate": 1.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "BRA",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "GRE",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "GER",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "KAZ",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "HKG",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 84,
+      "observed_rate": 0.083333,
+      "theoretical_rate": 0.053903,
+      "avg_roster_size": 6.392857
+    },
+    {
+      "gender": "M",
+      "cohorts": 29,
+      "observed_rate": 0.068966,
+      "theoretical_rate": 0.041449,
+      "avg_roster_size": 6.0
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "GBR Archery (1908 Summer)",
+      "season": "1908 Summer",
+      "country": "GBR",
+      "gender": "F",
+      "roster_size": 39,
+      "duplicate_pairs": 3,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.87822
+    },
+    {
+      "team": "USA Archery (1904 Summer)",
+      "season": "1904 Summer",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 26,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.598241
+    },
+    {
+      "team": "BEL Archery (1920 Summer)",
+      "season": "1920 Summer",
+      "country": "BEL",
+      "gender": "M",
+      "roster_size": 6,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.040462
+    },
+    {
+      "team": "CAN Archery (1972 Summer)",
+      "season": "1972 Summer",
+      "country": "CAN",
+      "gender": "F",
+      "roster_size": 6,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.040462
+    },
+    {
+      "team": "CHN Archery (1992 Summer)",
+      "season": "1992 Summer",
+      "country": "CHN",
+      "gender": "F",
+      "roster_size": 6,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.040462
+    },
+    {
+      "team": "SWE Archery (2000 Summer)",
+      "season": "2000 Summer",
+      "country": "SWE",
+      "gender": "F",
+      "roster_size": 6,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.040462
+    },
+    {
+      "team": "USA Archery (1992 Summer)",
+      "season": "1992 Summer",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 6,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.040462
+    },
+    {
+      "team": "TPE Archery (2008 Summer)",
+      "season": "2008 Summer",
+      "country": "TPE",
+      "gender": "F",
+      "roster_size": 6,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.040462
+    },
+    {
+      "team": "IND Archery (2012 Summer)",
+      "season": "2012 Summer",
+      "country": "IND",
+      "gender": "M",
+      "roster_size": 6,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.040462
+    },
+    {
+      "team": "FRA Archery (1900 Summer)",
+      "season": "1900 Summer",
+      "country": "FRA",
+      "gender": "M",
+      "roster_size": 9,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.094624
+    }
+  ]
+}

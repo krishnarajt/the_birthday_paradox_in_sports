@@ -1,0 +1,362 @@
+{
+  "sport": "Olympic Biathlon",
+  "slug": "olympic-biathlon",
+  "cohorts": 266,
+  "total_players": 1976,
+  "avg_roster_size": 7.428571,
+  "observed_rate": 0.105263,
+  "theoretical_rate": 0.068677,
+  "deviation": 0.036586,
+  "cohort_kind": "delegation",
+  "cohort_kind_breakdown": {
+    "delegation": 266
+  },
+  "by_country": [
+    {
+      "country": "NOR",
+      "cohorts": 15,
+      "observed_rate": 0.133333,
+      "avg_roster_size": 8.333333
+    },
+    {
+      "country": "FRA",
+      "cohorts": 15,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.0
+    },
+    {
+      "country": "USA",
+      "cohorts": 15,
+      "observed_rate": 0.2,
+      "avg_roster_size": 7.333333
+    },
+    {
+      "country": "ITA",
+      "cohorts": 14,
+      "observed_rate": 0.071429,
+      "avg_roster_size": 7.714286
+    },
+    {
+      "country": "FIN",
+      "cohorts": 12,
+      "observed_rate": 0.083333,
+      "avg_roster_size": 6.666667
+    },
+    {
+      "country": "BUL",
+      "cohorts": 11,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.181818
+    },
+    {
+      "country": "AUT",
+      "cohorts": 11,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.090909
+    },
+    {
+      "country": "SWE",
+      "cohorts": 11,
+      "observed_rate": 0.363636,
+      "avg_roster_size": 7.545455
+    },
+    {
+      "country": "POL",
+      "cohorts": 11,
+      "observed_rate": 0.181818,
+      "avg_roster_size": 7.454545
+    },
+    {
+      "country": "CAN",
+      "cohorts": 11,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.181818
+    },
+    {
+      "country": "GER",
+      "cohorts": 10,
+      "observed_rate": 0.4,
+      "avg_roster_size": 10.1
+    },
+    {
+      "country": "SLO",
+      "cohorts": 10,
+      "observed_rate": 0.1,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "UKR",
+      "cohorts": 9,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 9.555556
+    },
+    {
+      "country": "BLR",
+      "cohorts": 9,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.333333
+    },
+    {
+      "country": "CZE",
+      "cohorts": 9,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 8.888889
+    },
+    {
+      "country": "SVK",
+      "cohorts": 9,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.555556
+    },
+    {
+      "country": "EST",
+      "cohorts": 8,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.5
+    },
+    {
+      "country": "JPN",
+      "cohorts": 8,
+      "observed_rate": 0.125,
+      "avg_roster_size": 6.5
+    },
+    {
+      "country": "ROU",
+      "cohorts": 8,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.375
+    },
+    {
+      "country": "CHN",
+      "cohorts": 8,
+      "observed_rate": 0.125,
+      "avg_roster_size": 5.5
+    },
+    {
+      "country": "RUS",
+      "cohorts": 7,
+      "observed_rate": 0.142857,
+      "avg_roster_size": 10.714286
+    },
+    {
+      "country": "LAT",
+      "cohorts": 6,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.333333
+    },
+    {
+      "country": "KAZ",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.2
+    },
+    {
+      "country": "SUI",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.6
+    },
+    {
+      "country": "TCH",
+      "cohorts": 5,
+      "observed_rate": 0.2,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "HUN",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "GDR",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.25
+    },
+    {
+      "country": "FRG",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.666667
+    },
+    {
+      "country": "GBR",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.333333
+    },
+    {
+      "country": "KOR",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.5
+    },
+    {
+      "country": "BEL",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "AUS",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "ARG",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "EUN",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 11.0
+    },
+    {
+      "country": "ROC",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.0
+    },
+    {
+      "country": "LTU",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "URS",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "YUG",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 134,
+      "observed_rate": 0.134328,
+      "theoretical_rate": 0.082081,
+      "avg_roster_size": 8.179104
+    },
+    {
+      "gender": "M",
+      "cohorts": 132,
+      "observed_rate": 0.075758,
+      "theoretical_rate": 0.055071,
+      "avg_roster_size": 6.666667
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "NOR Biathlon (1992 Winter)",
+      "season": "1992 Winter",
+      "country": "NOR",
+      "gender": "F",
+      "roster_size": 12,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.167025
+    },
+    {
+      "team": "USA Biathlon (1992 Winter)",
+      "season": "1992 Winter",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 11,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.141141
+    },
+    {
+      "team": "UKR Biathlon (2014 Winter)",
+      "season": "2014 Winter",
+      "country": "UKR",
+      "gender": "M",
+      "roster_size": 11,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.141141
+    },
+    {
+      "team": "GER Biathlon (2018 Winter)",
+      "season": "2018 Winter",
+      "country": "GER",
+      "gender": "M",
+      "roster_size": 11,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.141141
+    },
+    {
+      "team": "TCH Biathlon (1992 Winter)",
+      "season": "1992 Winter",
+      "country": "TCH",
+      "gender": "F",
+      "roster_size": 10,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.116948
+    },
+    {
+      "team": "RUS Biathlon (1994 Winter)",
+      "season": "1994 Winter",
+      "country": "RUS",
+      "gender": "F",
+      "roster_size": 10,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.116948
+    },
+    {
+      "team": "SWE Biathlon (1992 Winter)",
+      "season": "1992 Winter",
+      "country": "SWE",
+      "gender": "F",
+      "roster_size": 10,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.116948
+    },
+    {
+      "team": "SWE Biathlon (1994 Winter)",
+      "season": "1994 Winter",
+      "country": "SWE",
+      "gender": "F",
+      "roster_size": 10,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.116948
+    },
+    {
+      "team": "GER Biathlon (1992 Winter)",
+      "season": "1992 Winter",
+      "country": "GER",
+      "gender": "F",
+      "roster_size": 10,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.116948
+    },
+    {
+      "team": "GER Biathlon (2006 Winter)",
+      "season": "2006 Winter",
+      "country": "GER",
+      "gender": "F",
+      "roster_size": 10,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.116948
+    }
+  ]
+}

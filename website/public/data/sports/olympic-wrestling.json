@@ -1,0 +1,374 @@
+{
+  "sport": "Olympic Wrestling",
+  "slug": "olympic-wrestling",
+  "cohorts": 564,
+  "total_players": 5759,
+  "avg_roster_size": 10.210993,
+  "observed_rate": 0.18617,
+  "theoretical_rate": 0.136768,
+  "deviation": 0.049402,
+  "cohort_kind": "delegation",
+  "cohort_kind_breakdown": {
+    "delegation": 564
+  },
+  "by_country": [
+    {
+      "country": "USA",
+      "cohorts": 26,
+      "observed_rate": 0.423077,
+      "avg_roster_size": 15.269231
+    },
+    {
+      "country": "HUN",
+      "cohorts": 25,
+      "observed_rate": 0.16,
+      "avg_roster_size": 10.56
+    },
+    {
+      "country": "SWE",
+      "cohorts": 25,
+      "observed_rate": 0.2,
+      "avg_roster_size": 10.52
+    },
+    {
+      "country": "JPN",
+      "cohorts": 19,
+      "observed_rate": 0.157895,
+      "avg_roster_size": 12.947368
+    },
+    {
+      "country": "FIN",
+      "cohorts": 19,
+      "observed_rate": 0.263158,
+      "avg_roster_size": 13.105263
+    },
+    {
+      "country": "TUR",
+      "cohorts": 19,
+      "observed_rate": 0.263158,
+      "avg_roster_size": 10.473684
+    },
+    {
+      "country": "ITA",
+      "cohorts": 18,
+      "observed_rate": 0.111111,
+      "avg_roster_size": 8.0
+    },
+    {
+      "country": "IRI",
+      "cohorts": 17,
+      "observed_rate": 0.235294,
+      "avg_roster_size": 11.764706
+    },
+    {
+      "country": "BUL",
+      "cohorts": 17,
+      "observed_rate": 0.352941,
+      "avg_roster_size": 13.647059
+    },
+    {
+      "country": "FRA",
+      "cohorts": 17,
+      "observed_rate": 0.117647,
+      "avg_roster_size": 8.823529
+    },
+    {
+      "country": "CAN",
+      "cohorts": 17,
+      "observed_rate": 0.117647,
+      "avg_roster_size": 8.764706
+    },
+    {
+      "country": "ROU",
+      "cohorts": 17,
+      "observed_rate": 0.117647,
+      "avg_roster_size": 9.705882
+    },
+    {
+      "country": "POL",
+      "cohorts": 16,
+      "observed_rate": 0.25,
+      "avg_roster_size": 10.75
+    },
+    {
+      "country": "GER",
+      "cohorts": 16,
+      "observed_rate": 0.1875,
+      "avg_roster_size": 9.75
+    },
+    {
+      "country": "GBR",
+      "cohorts": 15,
+      "observed_rate": 0.2,
+      "avg_roster_size": 10.933333
+    },
+    {
+      "country": "MGL",
+      "cohorts": 13,
+      "observed_rate": 0.153846,
+      "avg_roster_size": 9.0
+    },
+    {
+      "country": "IND",
+      "cohorts": 12,
+      "observed_rate": 0.25,
+      "avg_roster_size": 6.666667
+    },
+    {
+      "country": "KOR",
+      "cohorts": 12,
+      "observed_rate": 0.083333,
+      "avg_roster_size": 11.416667
+    },
+    {
+      "country": "CUB",
+      "cohorts": 12,
+      "observed_rate": 0.25,
+      "avg_roster_size": 11.333333
+    },
+    {
+      "country": "CHN",
+      "cohorts": 11,
+      "observed_rate": 0.090909,
+      "avg_roster_size": 9.272727
+    },
+    {
+      "country": "GRE",
+      "cohorts": 10,
+      "observed_rate": 0.3,
+      "avg_roster_size": 8.1
+    },
+    {
+      "country": "TCH",
+      "cohorts": 10,
+      "observed_rate": 0.1,
+      "avg_roster_size": 7.3
+    },
+    {
+      "country": "URS",
+      "cohorts": 9,
+      "observed_rate": 0.666667,
+      "avg_roster_size": 17.666667
+    },
+    {
+      "country": "EGY",
+      "cohorts": 9,
+      "observed_rate": 0.111111,
+      "avg_roster_size": 8.666667
+    },
+    {
+      "country": "NOR",
+      "cohorts": 9,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.444444
+    },
+    {
+      "country": "YUG",
+      "cohorts": 8,
+      "observed_rate": 0.25,
+      "avg_roster_size": 7.625
+    },
+    {
+      "country": "UZB",
+      "cohorts": 8,
+      "observed_rate": 0.25,
+      "avg_roster_size": 8.375
+    },
+    {
+      "country": "AZE",
+      "cohorts": 8,
+      "observed_rate": 0.25,
+      "avg_roster_size": 10.375
+    },
+    {
+      "country": "GEO",
+      "cohorts": 8,
+      "observed_rate": 0.125,
+      "avg_roster_size": 10.0
+    },
+    {
+      "country": "KAZ",
+      "cohorts": 8,
+      "observed_rate": 0.0,
+      "avg_roster_size": 12.0
+    },
+    {
+      "country": "DEN",
+      "cohorts": 8,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.625
+    },
+    {
+      "country": "UKR",
+      "cohorts": 8,
+      "observed_rate": 0.125,
+      "avg_roster_size": 13.125
+    },
+    {
+      "country": "ARM",
+      "cohorts": 8,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.25
+    },
+    {
+      "country": "BEL",
+      "cohorts": 7,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.428571
+    },
+    {
+      "country": "RUS",
+      "cohorts": 7,
+      "observed_rate": 0.285714,
+      "avg_roster_size": 16.285714
+    },
+    {
+      "country": "BLR",
+      "cohorts": 7,
+      "observed_rate": 0.142857,
+      "avg_roster_size": 10.571429
+    },
+    {
+      "country": "AUT",
+      "cohorts": 7,
+      "observed_rate": 0.142857,
+      "avg_roster_size": 6.428571
+    },
+    {
+      "country": "SUI",
+      "cohorts": 6,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.833333
+    },
+    {
+      "country": "KGZ",
+      "cohorts": 6,
+      "observed_rate": 0.166667,
+      "avg_roster_size": 7.5
+    },
+    {
+      "country": "AUS",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 10.2
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 48,
+      "observed_rate": 0.083333,
+      "theoretical_rate": 0.106646,
+      "avg_roster_size": 9.125
+    },
+    {
+      "gender": "M",
+      "cohorts": 516,
+      "observed_rate": 0.195736,
+      "theoretical_rate": 0.13957,
+      "avg_roster_size": 10.312016
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "FIN Wrestling (1912 Summer)",
+      "season": "1912 Summer",
+      "country": "FIN",
+      "gender": "M",
+      "roster_size": 37,
+      "duplicate_pairs": 5,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.848734
+    },
+    {
+      "team": "SWE Wrestling (1912 Summer)",
+      "season": "1912 Summer",
+      "country": "SWE",
+      "gender": "M",
+      "roster_size": 33,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.774972
+    },
+    {
+      "team": "FIN Wrestling (1924 Summer)",
+      "season": "1924 Summer",
+      "country": "FIN",
+      "gender": "M",
+      "roster_size": 24,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.538344
+    },
+    {
+      "team": "BUL Wrestling (1976 Summer)",
+      "season": "1976 Summer",
+      "country": "BUL",
+      "gender": "M",
+      "roster_size": 20,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.411438
+    },
+    {
+      "team": "BUL Wrestling (1980 Summer)",
+      "season": "1980 Summer",
+      "country": "BUL",
+      "gender": "M",
+      "roster_size": 20,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.411438
+    },
+    {
+      "team": "BUL Wrestling (1988 Summer)",
+      "season": "1988 Summer",
+      "country": "BUL",
+      "gender": "M",
+      "roster_size": 20,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.411438
+    },
+    {
+      "team": "BUL Wrestling (1972 Summer)",
+      "season": "1972 Summer",
+      "country": "BUL",
+      "gender": "M",
+      "roster_size": 20,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.411438
+    },
+    {
+      "team": "JPN Wrestling (1984 Summer)",
+      "season": "1984 Summer",
+      "country": "JPN",
+      "gender": "M",
+      "roster_size": 20,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.411438
+    },
+    {
+      "team": "POL Wrestling (1980 Summer)",
+      "season": "1980 Summer",
+      "country": "POL",
+      "gender": "M",
+      "roster_size": 20,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.411438
+    },
+    {
+      "team": "ROU Wrestling (1972 Summer)",
+      "season": "1972 Summer",
+      "country": "ROU",
+      "gender": "M",
+      "roster_size": 20,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.411438
+    }
+  ]
+}

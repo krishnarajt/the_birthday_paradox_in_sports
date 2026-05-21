@@ -1,0 +1,375 @@
+{
+  "sport": "Olympic Athletics",
+  "slug": "olympic-athletics",
+  "cohorts": 1457,
+  "total_players": 29650,
+  "avg_roster_size": 20.350034,
+  "observed_rate": 0.36582,
+  "theoretical_rate": 0.327295,
+  "deviation": 0.038525,
+  "cohort_kind": "delegation",
+  "cohort_kind_breakdown": {
+    "delegation": 1383,
+    "team": 74
+  },
+  "by_country": [
+    {
+      "country": "GBR",
+      "cohorts": 33,
+      "observed_rate": 0.818182,
+      "avg_roster_size": 54.818182
+    },
+    {
+      "country": "USA",
+      "cohorts": 33,
+      "observed_rate": 0.818182,
+      "avg_roster_size": 81.636364
+    },
+    {
+      "country": "FRA",
+      "cohorts": 33,
+      "observed_rate": 0.757576,
+      "avg_roster_size": 38.484848
+    },
+    {
+      "country": "ITA",
+      "cohorts": 31,
+      "observed_rate": 0.580645,
+      "avg_roster_size": 30.354839
+    },
+    {
+      "country": "BEL",
+      "cohorts": 28,
+      "observed_rate": 0.25,
+      "avg_roster_size": 15.0
+    },
+    {
+      "country": "CAN",
+      "cohorts": 28,
+      "observed_rate": 0.464286,
+      "avg_roster_size": 30.892857
+    },
+    {
+      "country": "NED",
+      "cohorts": 28,
+      "observed_rate": 0.178571,
+      "avg_roster_size": 14.928571
+    },
+    {
+      "country": "SWE",
+      "cohorts": 27,
+      "observed_rate": 0.518519,
+      "avg_roster_size": 26.555556
+    },
+    {
+      "country": "SUI",
+      "cohorts": 26,
+      "observed_rate": 0.423077,
+      "avg_roster_size": 14.730769
+    },
+    {
+      "country": "POL",
+      "cohorts": 26,
+      "observed_rate": 0.576923,
+      "avg_roster_size": 30.038462
+    },
+    {
+      "country": "FIN",
+      "cohorts": 26,
+      "observed_rate": 0.653846,
+      "avg_roster_size": 26.884615
+    },
+    {
+      "country": "HUN",
+      "cohorts": 25,
+      "observed_rate": 0.68,
+      "avg_roster_size": 23.8
+    },
+    {
+      "country": "NOR",
+      "cohorts": 25,
+      "observed_rate": 0.2,
+      "avg_roster_size": 11.96
+    },
+    {
+      "country": "AUS",
+      "cohorts": 25,
+      "observed_rate": 0.64,
+      "avg_roster_size": 31.88
+    },
+    {
+      "country": "GRE",
+      "cohorts": 25,
+      "observed_rate": 0.32,
+      "avg_roster_size": 15.68
+    },
+    {
+      "country": "JPN",
+      "cohorts": 24,
+      "observed_rate": 0.5,
+      "avg_roster_size": 28.666667
+    },
+    {
+      "country": "GER",
+      "cohorts": 24,
+      "observed_rate": 0.625,
+      "avg_roster_size": 46.916667
+    },
+    {
+      "country": "ESP",
+      "cohorts": 23,
+      "observed_rate": 0.565217,
+      "avg_roster_size": 27.304348
+    },
+    {
+      "country": "JAM",
+      "cohorts": 22,
+      "observed_rate": 0.590909,
+      "avg_roster_size": 24.318182
+    },
+    {
+      "country": "AUT",
+      "cohorts": 21,
+      "observed_rate": 0.380952,
+      "avg_roster_size": 11.142857
+    },
+    {
+      "country": "BRA",
+      "cohorts": 21,
+      "observed_rate": 0.47619,
+      "avg_roster_size": 21.0
+    },
+    {
+      "country": "NGR",
+      "cohorts": 21,
+      "observed_rate": 0.285714,
+      "avg_roster_size": 15.666667
+    },
+    {
+      "country": "IRL",
+      "cohorts": 21,
+      "observed_rate": 0.142857,
+      "avg_roster_size": 13.619048
+    },
+    {
+      "country": "RSA",
+      "cohorts": 20,
+      "observed_rate": 0.2,
+      "avg_roster_size": 15.5
+    },
+    {
+      "country": "MEX",
+      "cohorts": 20,
+      "observed_rate": 0.4,
+      "avg_roster_size": 15.05
+    },
+    {
+      "country": "ROU",
+      "cohorts": 19,
+      "observed_rate": 0.210526,
+      "avg_roster_size": 14.947368
+    },
+    {
+      "country": "ARG",
+      "cohorts": 17,
+      "observed_rate": 0.176471,
+      "avg_roster_size": 9.647059
+    },
+    {
+      "country": "NZL",
+      "cohorts": 17,
+      "observed_rate": 0.176471,
+      "avg_roster_size": 11.294118
+    },
+    {
+      "country": "DEN",
+      "cohorts": 17,
+      "observed_rate": 0.058824,
+      "avg_roster_size": 10.235294
+    },
+    {
+      "country": "IND",
+      "cohorts": 17,
+      "observed_rate": 0.352941,
+      "avg_roster_size": 12.235294
+    },
+    {
+      "country": "TTO",
+      "cohorts": 16,
+      "observed_rate": 0.1875,
+      "avg_roster_size": 11.8125
+    },
+    {
+      "country": "TCH",
+      "cohorts": 15,
+      "observed_rate": 0.6,
+      "avg_roster_size": 18.8
+    },
+    {
+      "country": "GHA",
+      "cohorts": 15,
+      "observed_rate": 0.133333,
+      "avg_roster_size": 10.333333
+    },
+    {
+      "country": "PUR",
+      "cohorts": 15,
+      "observed_rate": 0.133333,
+      "avg_roster_size": 8.066667
+    },
+    {
+      "country": "POR",
+      "cohorts": 15,
+      "observed_rate": 0.4,
+      "avg_roster_size": 18.666667
+    },
+    {
+      "country": "KOR",
+      "cohorts": 15,
+      "observed_rate": 0.066667,
+      "avg_roster_size": 14.133333
+    },
+    {
+      "country": "BUL",
+      "cohorts": 15,
+      "observed_rate": 0.666667,
+      "avg_roster_size": 16.933333
+    },
+    {
+      "country": "YUG",
+      "cohorts": 14,
+      "observed_rate": 0.071429,
+      "avg_roster_size": 12.428571
+    },
+    {
+      "country": "COL",
+      "cohorts": 14,
+      "observed_rate": 0.285714,
+      "avg_roster_size": 12.571429
+    },
+    {
+      "country": "CUB",
+      "cohorts": 14,
+      "observed_rate": 0.642857,
+      "avg_roster_size": 27.785714
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 899,
+      "observed_rate": 0.440489,
+      "theoretical_rate": 0.389471,
+      "avg_roster_size": 23.588432
+    },
+    {
+      "gender": "M",
+      "cohorts": 558,
+      "observed_rate": 0.24552,
+      "theoretical_rate": 0.227122,
+      "avg_roster_size": 15.132616
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "USA Athletics (2016 Summer)",
+      "season": "2016 Summer",
+      "country": "USA",
+      "gender": "M",
+      "roster_size": 128,
+      "duplicate_pairs": 22,
+      "has_shared_birthday": true,
+      "theoretical_probability": 1.0
+    },
+    {
+      "team": "USA Athletics (2020 Summer)",
+      "season": "2020 Summer",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 124,
+      "duplicate_pairs": 14,
+      "has_shared_birthday": true,
+      "theoretical_probability": 1.0
+    },
+    {
+      "team": "GBR Athletics (1908 Summer)",
+      "season": "1908 Summer",
+      "country": "GBR",
+      "gender": "M",
+      "roster_size": 122,
+      "duplicate_pairs": 18,
+      "has_shared_birthday": true,
+      "theoretical_probability": 1.0
+    },
+    {
+      "team": "USA Athletics (1996 Summer)",
+      "season": "1996 Summer",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 121,
+      "duplicate_pairs": 16,
+      "has_shared_birthday": true,
+      "theoretical_probability": 1.0
+    },
+    {
+      "team": "USA Athletics (2008 Summer)",
+      "season": "2008 Summer",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 121,
+      "duplicate_pairs": 19,
+      "has_shared_birthday": true,
+      "theoretical_probability": 1.0
+    },
+    {
+      "team": "USA Athletics (2012 Summer)",
+      "season": "2012 Summer",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 120,
+      "duplicate_pairs": 16,
+      "has_shared_birthday": true,
+      "theoretical_probability": 1.0
+    },
+    {
+      "team": "USA Athletics (2004 Summer)",
+      "season": "2004 Summer",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 117,
+      "duplicate_pairs": 14,
+      "has_shared_birthday": true,
+      "theoretical_probability": 1.0
+    },
+    {
+      "team": "RUS Athletics (2004 Summer)",
+      "season": "2004 Summer",
+      "country": "RUS",
+      "gender": "F",
+      "roster_size": 116,
+      "duplicate_pairs": 16,
+      "has_shared_birthday": true,
+      "theoretical_probability": 1.0
+    },
+    {
+      "team": "USA Athletics (1992 Summer)",
+      "season": "1992 Summer",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 116,
+      "duplicate_pairs": 19,
+      "has_shared_birthday": true,
+      "theoretical_probability": 1.0
+    },
+    {
+      "team": "USA Athletics (2000 Summer)",
+      "season": "2000 Summer",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 115,
+      "duplicate_pairs": 11,
+      "has_shared_birthday": true,
+      "theoretical_probability": 1.0
+    }
+  ]
+}

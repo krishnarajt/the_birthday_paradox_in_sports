@@ -1,0 +1,284 @@
+{
+  "sport": "Olympic Luge",
+  "slug": "olympic-luge",
+  "cohorts": 144,
+  "total_players": 1153,
+  "avg_roster_size": 8.006944,
+  "observed_rate": 0.111111,
+  "theoretical_rate": 0.077554,
+  "deviation": 0.033557,
+  "cohort_kind": "delegation",
+  "cohort_kind_breakdown": {
+    "delegation": 144
+  },
+  "by_country": [
+    {
+      "country": "AUT",
+      "cohorts": 16,
+      "observed_rate": 0.1875,
+      "avg_roster_size": 8.5625
+    },
+    {
+      "country": "USA",
+      "cohorts": 16,
+      "observed_rate": 0.0625,
+      "avg_roster_size": 9.4375
+    },
+    {
+      "country": "ITA",
+      "cohorts": 16,
+      "observed_rate": 0.0625,
+      "avg_roster_size": 8.6875
+    },
+    {
+      "country": "GER",
+      "cohorts": 11,
+      "observed_rate": 0.181818,
+      "avg_roster_size": 9.636364
+    },
+    {
+      "country": "CAN",
+      "cohorts": 10,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.8
+    },
+    {
+      "country": "LAT",
+      "cohorts": 10,
+      "observed_rate": 0.4,
+      "avg_roster_size": 8.6
+    },
+    {
+      "country": "POL",
+      "cohorts": 7,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.714286
+    },
+    {
+      "country": "RUS",
+      "cohorts": 7,
+      "observed_rate": 0.142857,
+      "avg_roster_size": 8.857143
+    },
+    {
+      "country": "FRG",
+      "cohorts": 6,
+      "observed_rate": 0.166667,
+      "avg_roster_size": 8.0
+    },
+    {
+      "country": "GDR",
+      "cohorts": 6,
+      "observed_rate": 0.166667,
+      "avg_roster_size": 9.166667
+    },
+    {
+      "country": "UKR",
+      "cohorts": 6,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "SVK",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.4
+    },
+    {
+      "country": "JPN",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.6
+    },
+    {
+      "country": "URS",
+      "cohorts": 5,
+      "observed_rate": 0.4,
+      "avg_roster_size": 7.4
+    },
+    {
+      "country": "SWE",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "ROU",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "GBR",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.5
+    },
+    {
+      "country": "TCH",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "ROC",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.0
+    },
+    {
+      "country": "FRA",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "CZE",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "EUN",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.0
+    },
+    {
+      "country": "KOR",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "NOR",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "SUI",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 94,
+      "observed_rate": 0.106383,
+      "theoretical_rate": 0.07742,
+      "avg_roster_size": 8.021277
+    },
+    {
+      "gender": "M",
+      "cohorts": 50,
+      "observed_rate": 0.12,
+      "theoretical_rate": 0.077807,
+      "avg_roster_size": 7.98
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "AUT Luge (1980 Winter)",
+      "season": "1980 Winter",
+      "country": "AUT",
+      "gender": "F",
+      "roster_size": 10,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.116948
+    },
+    {
+      "team": "FRG Luge (1972 Winter)",
+      "season": "1972 Winter",
+      "country": "FRG",
+      "gender": "F",
+      "roster_size": 10,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.116948
+    },
+    {
+      "team": "GDR Luge (1988 Winter)",
+      "season": "1988 Winter",
+      "country": "GDR",
+      "gender": "F",
+      "roster_size": 10,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.116948
+    },
+    {
+      "team": "ITA Luge (2002 Winter)",
+      "season": "2002 Winter",
+      "country": "ITA",
+      "gender": "F",
+      "roster_size": 10,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.116948
+    },
+    {
+      "team": "LAT Luge (2010 Winter)",
+      "season": "2010 Winter",
+      "country": "LAT",
+      "gender": "F",
+      "roster_size": 10,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.116948
+    },
+    {
+      "team": "GER Luge (2018 Winter)",
+      "season": "2018 Winter",
+      "country": "GER",
+      "gender": "F",
+      "roster_size": 10,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.116948
+    },
+    {
+      "team": "LAT Luge (2018 Winter)",
+      "season": "2018 Winter",
+      "country": "LAT",
+      "gender": "M",
+      "roster_size": 10,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.116948
+    },
+    {
+      "team": "LAT Luge (2022 Winter)",
+      "season": "2022 Winter",
+      "country": "LAT",
+      "gender": "M",
+      "roster_size": 10,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.116948
+    },
+    {
+      "team": "GER Luge (2022 Winter)",
+      "season": "2022 Winter",
+      "country": "GER",
+      "gender": "M",
+      "roster_size": 10,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.116948
+    },
+    {
+      "team": "USA Luge (1964 Winter)",
+      "season": "1964 Winter",
+      "country": "USA",
+      "gender": "M",
+      "roster_size": 9,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.094624
+    }
+  ]
+}

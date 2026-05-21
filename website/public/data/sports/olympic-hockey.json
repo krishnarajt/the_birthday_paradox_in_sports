@@ -1,0 +1,374 @@
+{
+  "sport": "Olympic Hockey",
+  "slug": "olympic-hockey",
+  "cohorts": 309,
+  "total_players": 6167,
+  "avg_roster_size": 19.957929,
+  "observed_rate": 0.488673,
+  "theoretical_rate": 0.399376,
+  "deviation": 0.089297,
+  "cohort_kind": "team",
+  "cohort_kind_breakdown": {
+    "team": 309
+  },
+  "by_country": [
+    {
+      "country": "IND",
+      "cohorts": 22,
+      "observed_rate": 0.318182,
+      "avg_roster_size": 17.818182
+    },
+    {
+      "country": "GBR",
+      "cohorts": 21,
+      "observed_rate": 0.52381,
+      "avg_roster_size": 23.666667
+    },
+    {
+      "country": "NED",
+      "cohorts": 21,
+      "observed_rate": 0.761905,
+      "avg_roster_size": 23.52381
+    },
+    {
+      "country": "ESP",
+      "cohorts": 20,
+      "observed_rate": 0.4,
+      "avg_roster_size": 21.55
+    },
+    {
+      "country": "AUS",
+      "cohorts": 18,
+      "observed_rate": 0.5,
+      "avg_roster_size": 25.333333
+    },
+    {
+      "country": "BEL",
+      "cohorts": 17,
+      "observed_rate": 0.176471,
+      "avg_roster_size": 16.882353
+    },
+    {
+      "country": "GER",
+      "cohorts": 17,
+      "observed_rate": 0.647059,
+      "avg_roster_size": 24.176471
+    },
+    {
+      "country": "PAK",
+      "cohorts": 16,
+      "observed_rate": 0.4375,
+      "avg_roster_size": 14.6875
+    },
+    {
+      "country": "NZL",
+      "cohorts": 15,
+      "observed_rate": 0.4,
+      "avg_roster_size": 23.533333
+    },
+    {
+      "country": "ARG",
+      "cohorts": 14,
+      "observed_rate": 0.714286,
+      "avg_roster_size": 24.214286
+    },
+    {
+      "country": "JPN",
+      "cohorts": 11,
+      "observed_rate": 0.363636,
+      "avg_roster_size": 15.0
+    },
+    {
+      "country": "USA",
+      "cohorts": 11,
+      "observed_rate": 0.545455,
+      "avg_roster_size": 18.181818
+    },
+    {
+      "country": "FRA",
+      "cohorts": 9,
+      "observed_rate": 0.555556,
+      "avg_roster_size": 16.444444
+    },
+    {
+      "country": "CAN",
+      "cohorts": 9,
+      "observed_rate": 0.444444,
+      "avg_roster_size": 19.222222
+    },
+    {
+      "country": "MAS",
+      "cohorts": 8,
+      "observed_rate": 0.375,
+      "avg_roster_size": 15.875
+    },
+    {
+      "country": "KOR",
+      "cohorts": 8,
+      "observed_rate": 0.875,
+      "avg_roster_size": 28.0
+    },
+    {
+      "country": "KEN",
+      "cohorts": 8,
+      "observed_rate": 0.25,
+      "avg_roster_size": 14.75
+    },
+    {
+      "country": "RSA",
+      "cohorts": 8,
+      "observed_rate": 0.5,
+      "avg_roster_size": 24.25
+    },
+    {
+      "country": "CHN",
+      "cohorts": 7,
+      "observed_rate": 0.857143,
+      "avg_roster_size": 18.714286
+    },
+    {
+      "country": "FRG",
+      "cohorts": 5,
+      "observed_rate": 0.2,
+      "avg_roster_size": 23.0
+    },
+    {
+      "country": "DEN",
+      "cohorts": 5,
+      "observed_rate": 0.2,
+      "avg_roster_size": 14.4
+    },
+    {
+      "country": "POL",
+      "cohorts": 5,
+      "observed_rate": 0.8,
+      "avg_roster_size": 18.8
+    },
+    {
+      "country": "SUI",
+      "cohorts": 4,
+      "observed_rate": 0.25,
+      "avg_roster_size": 12.0
+    },
+    {
+      "country": "AUT",
+      "cohorts": 4,
+      "observed_rate": 0.25,
+      "avg_roster_size": 12.25
+    },
+    {
+      "country": "IRL",
+      "cohorts": 3,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 16.333333
+    },
+    {
+      "country": "URS",
+      "cohorts": 2,
+      "observed_rate": 1.0,
+      "avg_roster_size": 23.5
+    },
+    {
+      "country": "EGY",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 15.5
+    },
+    {
+      "country": "ZIM",
+      "cohorts": 2,
+      "observed_rate": 0.5,
+      "avg_roster_size": 15.0
+    },
+    {
+      "country": "ITA",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 16.0
+    },
+    {
+      "country": "MEX",
+      "cohorts": 2,
+      "observed_rate": 1.0,
+      "avg_roster_size": 17.5
+    },
+    {
+      "country": "AFG",
+      "cohorts": 1,
+      "observed_rate": 1.0,
+      "avg_roster_size": 12.0
+    },
+    {
+      "country": "CUB",
+      "cohorts": 1,
+      "observed_rate": 1.0,
+      "avg_roster_size": 16.0
+    },
+    {
+      "country": "BRA",
+      "cohorts": 1,
+      "observed_rate": 1.0,
+      "avg_roster_size": 16.0
+    },
+    {
+      "country": "EUN",
+      "cohorts": 1,
+      "observed_rate": 1.0,
+      "avg_roster_size": 15.0
+    },
+    {
+      "country": "GDR",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 15.0
+    },
+    {
+      "country": "HUN",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 16.0
+    },
+    {
+      "country": "HKG",
+      "cohorts": 1,
+      "observed_rate": 1.0,
+      "avg_roster_size": 17.0
+    },
+    {
+      "country": "FIN",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 11.0
+    },
+    {
+      "country": "MAL",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "TCH",
+      "cohorts": 1,
+      "observed_rate": 1.0,
+      "avg_roster_size": 16.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 91,
+      "observed_rate": 0.681319,
+      "theoretical_rate": 0.578467,
+      "avg_roster_size": 26.098901
+    },
+    {
+      "gender": "M",
+      "cohorts": 218,
+      "observed_rate": 0.408257,
+      "theoretical_rate": 0.324618,
+      "avg_roster_size": 17.394495
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "GBR Hockey (1908 Summer)",
+      "season": "1908 Summer",
+      "country": "GBR",
+      "gender": "M",
+      "roster_size": 43,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.923923
+    },
+    {
+      "team": "GER Hockey (2012 Summer)",
+      "season": "2012 Summer",
+      "country": "GER",
+      "gender": "F",
+      "roster_size": 36,
+      "duplicate_pairs": 3,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.832182
+    },
+    {
+      "team": "GER Hockey (2016 Summer)",
+      "season": "2016 Summer",
+      "country": "GER",
+      "gender": "M",
+      "roster_size": 36,
+      "duplicate_pairs": 3,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.832182
+    },
+    {
+      "team": "GER Hockey (2020 Summer)",
+      "season": "2020 Summer",
+      "country": "GER",
+      "gender": "M",
+      "roster_size": 36,
+      "duplicate_pairs": 3,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.832182
+    },
+    {
+      "team": "GBR Hockey (2020 Summer)",
+      "season": "2020 Summer",
+      "country": "GBR",
+      "gender": "M",
+      "roster_size": 36,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.832182
+    },
+    {
+      "team": "GER Hockey (2008 Summer)",
+      "season": "2008 Summer",
+      "country": "GER",
+      "gender": "F",
+      "roster_size": 35,
+      "duplicate_pairs": 3,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.814383
+    },
+    {
+      "team": "NED Hockey (2008 Summer)",
+      "season": "2008 Summer",
+      "country": "NED",
+      "gender": "M",
+      "roster_size": 35,
+      "duplicate_pairs": 3,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.814383
+    },
+    {
+      "team": "GBR Hockey (2008 Summer)",
+      "season": "2008 Summer",
+      "country": "GBR",
+      "gender": "F",
+      "roster_size": 35,
+      "duplicate_pairs": 4,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.814383
+    },
+    {
+      "team": "NZL Hockey (2008 Summer)",
+      "season": "2008 Summer",
+      "country": "NZL",
+      "gender": "F",
+      "roster_size": 35,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.814383
+    },
+    {
+      "team": "NED Hockey (2012 Summer)",
+      "season": "2012 Summer",
+      "country": "NED",
+      "gender": "M",
+      "roster_size": 34,
+      "duplicate_pairs": 3,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.795317
+    }
+  ]
+}

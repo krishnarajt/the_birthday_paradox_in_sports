@@ -1,0 +1,722 @@
+[
+  {
+    "sport": "Football (Soccer)",
+    "slug": "football-soccer",
+    "cohorts": 12103,
+    "avg_roster_size": 29.861274,
+    "observed_rate": 0.714699,
+    "theoretical_rate": 0.685344,
+    "is_olympic": false
+  },
+  {
+    "sport": "Cricket",
+    "slug": "cricket",
+    "cohorts": 6504,
+    "avg_roster_size": 13.734625,
+    "observed_rate": 0.253229,
+    "theoretical_rate": 0.222965,
+    "is_olympic": false
+  },
+  {
+    "sport": "Baseball",
+    "slug": "baseball",
+    "cohorts": 3591,
+    "avg_roster_size": 34.899192,
+    "observed_rate": 0.756057,
+    "theoretical_rate": 0.742966,
+    "is_olympic": false
+  },
+  {
+    "sport": "American Football",
+    "slug": "american-football",
+    "cohorts": 2416,
+    "avg_roster_size": 55.01904,
+    "observed_rate": 0.918046,
+    "theoretical_rate": 0.910424,
+    "is_olympic": false
+  },
+  {
+    "sport": "Olympic Athletics",
+    "slug": "olympic-athletics",
+    "cohorts": 1457,
+    "avg_roster_size": 20.350034,
+    "observed_rate": 0.36582,
+    "theoretical_rate": 0.327295,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Swimming (Aquatics)",
+    "slug": "olympic-swimming-aquatics",
+    "cohorts": 682,
+    "avg_roster_size": 14.639296,
+    "observed_rate": 0.258065,
+    "theoretical_rate": 0.259379,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Rowing",
+    "slug": "olympic-rowing",
+    "cohorts": 585,
+    "avg_roster_size": 16.735043,
+    "observed_rate": 0.319658,
+    "theoretical_rate": 0.305084,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Boxing",
+    "slug": "olympic-boxing",
+    "cohorts": 579,
+    "avg_roster_size": 7.52677,
+    "observed_rate": 0.1019,
+    "theoretical_rate": 0.071382,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Wrestling",
+    "slug": "olympic-wrestling",
+    "cohorts": 564,
+    "avg_roster_size": 10.210993,
+    "observed_rate": 0.18617,
+    "theoretical_rate": 0.136768,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Shooting",
+    "slug": "olympic-shooting",
+    "cohorts": 563,
+    "avg_roster_size": 10.035524,
+    "observed_rate": 0.161634,
+    "theoretical_rate": 0.134676,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Sailing",
+    "slug": "olympic-sailing",
+    "cohorts": 529,
+    "avg_roster_size": 10.332703,
+    "observed_rate": 0.175803,
+    "theoretical_rate": 0.136446,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Fencing",
+    "slug": "olympic-fencing",
+    "cohorts": 458,
+    "avg_roster_size": 12.222707,
+    "observed_rate": 0.233624,
+    "theoretical_rate": 0.189853,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Football (Football)",
+    "slug": "olympic-football-football",
+    "cohorts": 429,
+    "avg_roster_size": 16.689977,
+    "observed_rate": 0.368298,
+    "theoretical_rate": 0.30531,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Artistic Gymnastics (Gymnastics)",
+    "slug": "olympic-artistic-gymnastics-gymnastics",
+    "cohorts": 392,
+    "avg_roster_size": 11.316327,
+    "observed_rate": 0.173469,
+    "theoretical_rate": 0.157916,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Cross Country Skiing (Skiing)",
+    "slug": "olympic-cross-country-skiing-skiing",
+    "cohorts": 359,
+    "avg_roster_size": 9.568245,
+    "observed_rate": 0.133705,
+    "theoretical_rate": 0.118002,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Cycling Road (Cycling)",
+    "slug": "olympic-cycling-road-cycling",
+    "cohorts": 349,
+    "avg_roster_size": 6.702006,
+    "observed_rate": 0.054441,
+    "theoretical_rate": 0.054999,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Alpine Skiing (Skiing)",
+    "slug": "olympic-alpine-skiing-skiing",
+    "cohorts": 341,
+    "avg_roster_size": 10.090909,
+    "observed_rate": 0.143695,
+    "theoretical_rate": 0.136231,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Canoe Sprint (Canoeing)",
+    "slug": "olympic-canoe-sprint-canoeing",
+    "cohorts": 338,
+    "avg_roster_size": 9.713018,
+    "observed_rate": 0.147929,
+    "theoretical_rate": 0.12287,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Judo",
+    "slug": "olympic-judo",
+    "cohorts": 335,
+    "avg_roster_size": 8.379104,
+    "observed_rate": 0.110448,
+    "theoretical_rate": 0.090669,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Basketball (Basketball)",
+    "slug": "olympic-basketball-basketball",
+    "cohorts": 334,
+    "avg_roster_size": 14.01497,
+    "observed_rate": 0.236527,
+    "theoretical_rate": 0.232144,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Weightlifting",
+    "slug": "olympic-weightlifting",
+    "cohorts": 331,
+    "avg_roster_size": 7.154079,
+    "observed_rate": 0.057402,
+    "theoretical_rate": 0.062964,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Water Polo (Aquatics)",
+    "slug": "olympic-water-polo-aquatics",
+    "cohorts": 322,
+    "avg_roster_size": 12.170807,
+    "observed_rate": 0.226708,
+    "theoretical_rate": 0.183703,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Hockey",
+    "slug": "olympic-hockey",
+    "cohorts": 309,
+    "avg_roster_size": 19.957929,
+    "observed_rate": 0.488673,
+    "theoretical_rate": 0.399376,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Ice Hockey (Ice Hockey)",
+    "slug": "olympic-ice-hockey-ice-hockey",
+    "cohorts": 303,
+    "avg_roster_size": 21.90429,
+    "observed_rate": 0.468647,
+    "theoretical_rate": 0.439254,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Cycling Track (Cycling)",
+    "slug": "olympic-cycling-track-cycling",
+    "cohorts": 286,
+    "avg_roster_size": 7.678322,
+    "observed_rate": 0.101399,
+    "theoretical_rate": 0.075343,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Biathlon",
+    "slug": "olympic-biathlon",
+    "cohorts": 266,
+    "avg_roster_size": 7.428571,
+    "observed_rate": 0.105263,
+    "theoretical_rate": 0.068677,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Bobsleigh (Bobsleigh)",
+    "slug": "olympic-bobsleigh-bobsleigh",
+    "cohorts": 264,
+    "avg_roster_size": 8.272727,
+    "observed_rate": 0.098485,
+    "theoretical_rate": 0.087524,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Handball",
+    "slug": "olympic-handball",
+    "cohorts": 242,
+    "avg_roster_size": 18.012397,
+    "observed_rate": 0.421488,
+    "theoretical_rate": 0.345456,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Volleyball (Volleyball)",
+    "slug": "olympic-volleyball-volleyball",
+    "cohorts": 226,
+    "avg_roster_size": 16.327434,
+    "observed_rate": 0.362832,
+    "theoretical_rate": 0.30196,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Speed Skating (Skating)",
+    "slug": "olympic-speed-skating-skating",
+    "cohorts": 219,
+    "avg_roster_size": 10.625571,
+    "observed_rate": 0.196347,
+    "theoretical_rate": 0.147506,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Figure Skating (Skating)",
+    "slug": "olympic-figure-skating-skating",
+    "cohorts": 194,
+    "avg_roster_size": 9.092784,
+    "observed_rate": 0.154639,
+    "theoretical_rate": 0.108092,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Diving (Aquatics)",
+    "slug": "olympic-diving-aquatics",
+    "cohorts": 174,
+    "avg_roster_size": 7.954023,
+    "observed_rate": 0.057471,
+    "theoretical_rate": 0.079849,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Tennis",
+    "slug": "olympic-tennis",
+    "cohorts": 157,
+    "avg_roster_size": 7.267516,
+    "observed_rate": 0.082803,
+    "theoretical_rate": 0.068242,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Luge",
+    "slug": "olympic-luge",
+    "cohorts": 144,
+    "avg_roster_size": 8.006944,
+    "observed_rate": 0.111111,
+    "theoretical_rate": 0.077554,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Freestyle Skiing (Skiing)",
+    "slug": "olympic-freestyle-skiing-skiing",
+    "cohorts": 127,
+    "avg_roster_size": 10.496063,
+    "observed_rate": 0.165354,
+    "theoretical_rate": 0.147834,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Table Tennis",
+    "slug": "olympic-table-tennis",
+    "cohorts": 125,
+    "avg_roster_size": 6.104,
+    "observed_rate": 0.072,
+    "theoretical_rate": 0.04342,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Archery",
+    "slug": "olympic-archery",
+    "cohorts": 113,
+    "avg_roster_size": 6.292035,
+    "observed_rate": 0.079646,
+    "theoretical_rate": 0.050707,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Snowboarding (Skiing)",
+    "slug": "olympic-snowboarding-skiing",
+    "cohorts": 113,
+    "avg_roster_size": 10.973451,
+    "observed_rate": 0.159292,
+    "theoretical_rate": 0.157118,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Badminton",
+    "slug": "olympic-badminton",
+    "cohorts": 110,
+    "avg_roster_size": 8.863636,
+    "observed_rate": 0.2,
+    "theoretical_rate": 0.105409,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Ski Jumping (Skiing)",
+    "slug": "olympic-ski-jumping-skiing",
+    "cohorts": 101,
+    "avg_roster_size": 5.683168,
+    "observed_rate": 0.009901,
+    "theoretical_rate": 0.037635,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Short Track Speed Skating (Skating)",
+    "slug": "olympic-short-track-speed-skating-skating",
+    "cohorts": 100,
+    "avg_roster_size": 7.74,
+    "observed_rate": 0.08,
+    "theoretical_rate": 0.073503,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Curling",
+    "slug": "olympic-curling",
+    "cohorts": 81,
+    "avg_roster_size": 8.135802,
+    "observed_rate": 0.111111,
+    "theoretical_rate": 0.082318,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Rhythmic Gymnastics (Gymnastics)",
+    "slug": "olympic-rhythmic-gymnastics-gymnastics",
+    "cohorts": 79,
+    "avg_roster_size": 6.873418,
+    "observed_rate": 0.113924,
+    "theoretical_rate": 0.055042,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Canoe Slalom (Canoeing)",
+    "slug": "olympic-canoe-slalom-canoeing",
+    "cohorts": 76,
+    "avg_roster_size": 7.25,
+    "observed_rate": 0.092105,
+    "theoretical_rate": 0.070576,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Artistic Swimming (Aquatics)",
+    "slug": "olympic-artistic-swimming-aquatics",
+    "cohorts": 58,
+    "avg_roster_size": 8.568966,
+    "observed_rate": 0.241379,
+    "theoretical_rate": 0.086024,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Equestrian Eventing (Equestrian)",
+    "slug": "olympic-equestrian-eventing-equestrian",
+    "cohorts": 52,
+    "avg_roster_size": 5.269231,
+    "observed_rate": 0.057692,
+    "theoretical_rate": 0.030771,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Triathlon",
+    "slug": "olympic-triathlon",
+    "cohorts": 50,
+    "avg_roster_size": 5.6,
+    "observed_rate": 0.08,
+    "theoretical_rate": 0.035132,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Baseball (Baseball/Softball)",
+    "slug": "olympic-baseball-baseball-softball",
+    "cohorts": 49,
+    "avg_roster_size": 21.571429,
+    "observed_rate": 0.408163,
+    "theoretical_rate": 0.46533,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Beach Volleyball (Volleyball)",
+    "slug": "olympic-beach-volleyball-volleyball",
+    "cohorts": 47,
+    "avg_roster_size": 6.957447,
+    "observed_rate": 0.042553,
+    "theoretical_rate": 0.057283,
+    "is_olympic": true
+  },
+  {
+    "sport": "Basketball",
+    "slug": "basketball",
+    "cohorts": 45,
+    "avg_roster_size": 16.555556,
+    "observed_rate": 0.466667,
+    "theoretical_rate": 0.302335,
+    "is_olympic": false
+  },
+  {
+    "sport": "Olympic Swimming",
+    "slug": "olympic-swimming",
+    "cohorts": 40,
+    "avg_roster_size": 5.95,
+    "observed_rate": 0.075,
+    "theoretical_rate": 0.040885,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Nordic Combined (Skiing)",
+    "slug": "olympic-nordic-combined-skiing",
+    "cohorts": 38,
+    "avg_roster_size": 5.078947,
+    "observed_rate": 0.078947,
+    "theoretical_rate": 0.028188,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Softball (Baseball/Softball)",
+    "slug": "olympic-softball-baseball-softball",
+    "cohorts": 38,
+    "avg_roster_size": 14.947368,
+    "observed_rate": 0.473684,
+    "theoretical_rate": 0.251333,
+    "is_olympic": true
+  },
+  {
+    "sport": "Ice Hockey",
+    "slug": "ice-hockey",
+    "cohorts": 32,
+    "avg_roster_size": 27.28125,
+    "observed_rate": 0.8125,
+    "theoretical_rate": 0.624399,
+    "is_olympic": false
+  },
+  {
+    "sport": "Olympic Rugby Sevens (Rugby)",
+    "slug": "olympic-rugby-sevens-rugby",
+    "cohorts": 30,
+    "avg_roster_size": 19.866667,
+    "observed_rate": 0.433333,
+    "theoretical_rate": 0.410446,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Football",
+    "slug": "olympic-football",
+    "cohorts": 28,
+    "avg_roster_size": 19.642857,
+    "observed_rate": 0.392857,
+    "theoretical_rate": 0.399854,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Basketball",
+    "slug": "olympic-basketball",
+    "cohorts": 24,
+    "avg_roster_size": 11.958333,
+    "observed_rate": 0.333333,
+    "theoretical_rate": 0.165946,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Rugby Sevens",
+    "slug": "olympic-rugby-sevens",
+    "cohorts": 24,
+    "avg_roster_size": 13.208333,
+    "observed_rate": 0.125,
+    "theoretical_rate": 0.20066,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Volleyball",
+    "slug": "olympic-volleyball",
+    "cohorts": 24,
+    "avg_roster_size": 12.916667,
+    "observed_rate": 0.208333,
+    "theoretical_rate": 0.192128,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Artistic Gymnastics",
+    "slug": "olympic-artistic-gymnastics",
+    "cohorts": 23,
+    "avg_roster_size": 5.0,
+    "observed_rate": 0.086957,
+    "theoretical_rate": 0.027136,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Water Polo",
+    "slug": "olympic-water-polo",
+    "cohorts": 22,
+    "avg_roster_size": 13.0,
+    "observed_rate": 0.227273,
+    "theoretical_rate": 0.19441,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic 3-on-3 Ice Hockey (Ice Hockey)",
+    "slug": "olympic-3-on-3-ice-hockey-ice-hockey",
+    "cohorts": 20,
+    "avg_roster_size": 7.05,
+    "observed_rate": 0.1,
+    "theoretical_rate": 0.059573,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Equestrian Jumping (Equestrian)",
+    "slug": "olympic-equestrian-jumping-equestrian",
+    "cohorts": 20,
+    "avg_roster_size": 6.35,
+    "observed_rate": 0.0,
+    "theoretical_rate": 0.049816,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Cycling Track",
+    "slug": "olympic-cycling-track",
+    "cohorts": 17,
+    "avg_roster_size": 5.235294,
+    "observed_rate": 0.0,
+    "theoretical_rate": 0.030271,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Canoe Marathon (Canoeing)",
+    "slug": "olympic-canoe-marathon-canoeing",
+    "cohorts": 15,
+    "avg_roster_size": 5.866667,
+    "observed_rate": 0.0,
+    "theoretical_rate": 0.03933,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Rhythmic Gymnastics",
+    "slug": "olympic-rhythmic-gymnastics",
+    "cohorts": 14,
+    "avg_roster_size": 5.0,
+    "observed_rate": 0.071429,
+    "theoretical_rate": 0.027136,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Cycling Mountain Bike (Cycling)",
+    "slug": "olympic-cycling-mountain-bike-cycling",
+    "cohorts": 13,
+    "avg_roster_size": 5.076923,
+    "observed_rate": 0.0,
+    "theoretical_rate": 0.028161,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Cycling Road",
+    "slug": "olympic-cycling-road",
+    "cohorts": 13,
+    "avg_roster_size": 6.538462,
+    "observed_rate": 0.076923,
+    "theoretical_rate": 0.049878,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Skeleton (Bobsleigh)",
+    "slug": "olympic-skeleton-bobsleigh",
+    "cohorts": 13,
+    "avg_roster_size": 5.384615,
+    "observed_rate": 0.153846,
+    "theoretical_rate": 0.032261,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Artistic Swimming",
+    "slug": "olympic-artistic-swimming",
+    "cohorts": 10,
+    "avg_roster_size": 9.0,
+    "observed_rate": 0.2,
+    "theoretical_rate": 0.094624,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Cycling BMX Racing (Cycling)",
+    "slug": "olympic-cycling-bmx-racing-cycling",
+    "cohorts": 9,
+    "avg_roster_size": 5.111111,
+    "observed_rate": 0.0,
+    "theoretical_rate": 0.028616,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Rugby (Rugby)",
+    "slug": "olympic-rugby-rugby",
+    "cohorts": 9,
+    "avg_roster_size": 13.444444,
+    "observed_rate": 0.222222,
+    "theoretical_rate": 0.217894,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Golf",
+    "slug": "olympic-golf",
+    "cohorts": 8,
+    "avg_roster_size": 14.875,
+    "observed_rate": 0.25,
+    "theoretical_rate": 0.182577,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Polo",
+    "slug": "olympic-polo",
+    "cohorts": 8,
+    "avg_roster_size": 6.75,
+    "observed_rate": 0.125,
+    "theoretical_rate": 0.058361,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Tug-Of-War",
+    "slug": "olympic-tug-of-war",
+    "cohorts": 8,
+    "avg_roster_size": 9.875,
+    "observed_rate": 0.0,
+    "theoretical_rate": 0.12332,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Taekwondo",
+    "slug": "olympic-taekwondo",
+    "cohorts": 7,
+    "avg_roster_size": 5.857143,
+    "observed_rate": 0.0,
+    "theoretical_rate": 0.03959,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Skateboarding",
+    "slug": "olympic-skateboarding",
+    "cohorts": 6,
+    "avg_roster_size": 9.333333,
+    "observed_rate": 0.333333,
+    "theoretical_rate": 0.107053,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Cycling BMX Racing",
+    "slug": "olympic-cycling-bmx-racing",
+    "cohorts": 5,
+    "avg_roster_size": 6.0,
+    "observed_rate": 0.0,
+    "theoretical_rate": 0.040952,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Karate",
+    "slug": "olympic-karate",
+    "cohorts": 5,
+    "avg_roster_size": 6.0,
+    "observed_rate": 0.2,
+    "theoretical_rate": 0.042396,
+    "is_olympic": true
+  },
+  {
+    "sport": "Olympic Skateboarding (Roller Sports)",
+    "slug": "olympic-skateboarding-roller-sports",
+    "cohorts": 5,
+    "avg_roster_size": 8.8,
+    "observed_rate": 0.0,
+    "theoretical_rate": 0.101054,
+    "is_olympic": true
+  }
+]

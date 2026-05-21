@@ -1,0 +1,374 @@
+{
+  "sport": "Olympic Sailing",
+  "slug": "olympic-sailing",
+  "cohorts": 529,
+  "total_players": 5466,
+  "avg_roster_size": 10.332703,
+  "observed_rate": 0.175803,
+  "theoretical_rate": 0.136446,
+  "deviation": 0.039357,
+  "cohort_kind": "delegation",
+  "cohort_kind_breakdown": {
+    "delegation": 529
+  },
+  "by_country": [
+    {
+      "country": "SWE",
+      "cohorts": 25,
+      "observed_rate": 0.24,
+      "avg_roster_size": 13.2
+    },
+    {
+      "country": "NOR",
+      "cohorts": 24,
+      "observed_rate": 0.166667,
+      "avg_roster_size": 11.416667
+    },
+    {
+      "country": "GBR",
+      "cohorts": 23,
+      "observed_rate": 0.304348,
+      "avg_roster_size": 14.043478
+    },
+    {
+      "country": "FRA",
+      "cohorts": 21,
+      "observed_rate": 0.190476,
+      "avg_roster_size": 13.714286
+    },
+    {
+      "country": "NED",
+      "cohorts": 21,
+      "observed_rate": 0.238095,
+      "avg_roster_size": 9.619048
+    },
+    {
+      "country": "ITA",
+      "cohorts": 21,
+      "observed_rate": 0.47619,
+      "avg_roster_size": 12.571429
+    },
+    {
+      "country": "USA",
+      "cohorts": 21,
+      "observed_rate": 0.52381,
+      "avg_roster_size": 14.47619
+    },
+    {
+      "country": "DEN",
+      "cohorts": 20,
+      "observed_rate": 0.0,
+      "avg_roster_size": 10.2
+    },
+    {
+      "country": "SUI",
+      "cohorts": 19,
+      "observed_rate": 0.105263,
+      "avg_roster_size": 8.157895
+    },
+    {
+      "country": "CAN",
+      "cohorts": 19,
+      "observed_rate": 0.157895,
+      "avg_roster_size": 11.473684
+    },
+    {
+      "country": "ARG",
+      "cohorts": 18,
+      "observed_rate": 0.055556,
+      "avg_roster_size": 9.555556
+    },
+    {
+      "country": "FIN",
+      "cohorts": 18,
+      "observed_rate": 0.055556,
+      "avg_roster_size": 9.444444
+    },
+    {
+      "country": "BRA",
+      "cohorts": 18,
+      "observed_rate": 0.222222,
+      "avg_roster_size": 10.555556
+    },
+    {
+      "country": "AUS",
+      "cohorts": 17,
+      "observed_rate": 0.176471,
+      "avg_roster_size": 13.058824
+    },
+    {
+      "country": "ESP",
+      "cohorts": 16,
+      "observed_rate": 0.3125,
+      "avg_roster_size": 12.4375
+    },
+    {
+      "country": "GER",
+      "cohorts": 14,
+      "observed_rate": 0.0,
+      "avg_roster_size": 12.571429
+    },
+    {
+      "country": "POR",
+      "cohorts": 14,
+      "observed_rate": 0.071429,
+      "avg_roster_size": 7.714286
+    },
+    {
+      "country": "AUT",
+      "cohorts": 14,
+      "observed_rate": 0.285714,
+      "avg_roster_size": 8.285714
+    },
+    {
+      "country": "GRE",
+      "cohorts": 14,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.214286
+    },
+    {
+      "country": "JPN",
+      "cohorts": 13,
+      "observed_rate": 0.230769,
+      "avg_roster_size": 9.461538
+    },
+    {
+      "country": "NZL",
+      "cohorts": 13,
+      "observed_rate": 0.153846,
+      "avg_roster_size": 11.615385
+    },
+    {
+      "country": "IRL",
+      "cohorts": 10,
+      "observed_rate": 0.2,
+      "avg_roster_size": 6.9
+    },
+    {
+      "country": "POL",
+      "cohorts": 10,
+      "observed_rate": 0.1,
+      "avg_roster_size": 9.2
+    },
+    {
+      "country": "URS",
+      "cohorts": 9,
+      "observed_rate": 0.222222,
+      "avg_roster_size": 11.666667
+    },
+    {
+      "country": "ISR",
+      "cohorts": 9,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.777778
+    },
+    {
+      "country": "HUN",
+      "cohorts": 9,
+      "observed_rate": 0.222222,
+      "avg_roster_size": 6.777778
+    },
+    {
+      "country": "RUS",
+      "cohorts": 7,
+      "observed_rate": 0.142857,
+      "avg_roster_size": 10.0
+    },
+    {
+      "country": "TUR",
+      "cohorts": 6,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.833333
+    },
+    {
+      "country": "CHN",
+      "cohorts": 6,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.5
+    },
+    {
+      "country": "ISV",
+      "cohorts": 5,
+      "observed_rate": 0.2,
+      "avg_roster_size": 7.2
+    },
+    {
+      "country": "BAH",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.0
+    },
+    {
+      "country": "FRG",
+      "cohorts": 5,
+      "observed_rate": 0.2,
+      "avg_roster_size": 12.6
+    },
+    {
+      "country": "GDR",
+      "cohorts": 5,
+      "observed_rate": 0.2,
+      "avg_roster_size": 9.4
+    },
+    {
+      "country": "BER",
+      "cohorts": 5,
+      "observed_rate": 0.2,
+      "avg_roster_size": 6.8
+    },
+    {
+      "country": "PUR",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.5
+    },
+    {
+      "country": "UKR",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.75
+    },
+    {
+      "country": "SLO",
+      "cohorts": 4,
+      "observed_rate": 0.25,
+      "avg_roster_size": 5.75
+    },
+    {
+      "country": "MEX",
+      "cohorts": 4,
+      "observed_rate": 0.25,
+      "avg_roster_size": 8.75
+    },
+    {
+      "country": "BEL",
+      "cohorts": 4,
+      "observed_rate": 0.25,
+      "avg_roster_size": 8.25
+    },
+    {
+      "country": "CRO",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 10.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 167,
+      "observed_rate": 0.221557,
+      "theoretical_rate": 0.168652,
+      "avg_roster_size": 11.526946
+    },
+    {
+      "gender": "M",
+      "cohorts": 362,
+      "observed_rate": 0.154696,
+      "theoretical_rate": 0.121589,
+      "avg_roster_size": 9.781768
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "NOR Sailing (1920 Summer)",
+      "season": "1920 Summer",
+      "country": "NOR",
+      "gender": "M",
+      "roster_size": 59,
+      "duplicate_pairs": 3,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.992989
+    },
+    {
+      "team": "SWE Sailing (1912 Summer)",
+      "season": "1912 Summer",
+      "country": "SWE",
+      "gender": "M",
+      "roster_size": 41,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.903152
+    },
+    {
+      "team": "GBR Sailing (1908 Summer)",
+      "season": "1908 Summer",
+      "country": "GBR",
+      "gender": "F",
+      "roster_size": 35,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.814383
+    },
+    {
+      "team": "FIN Sailing (1912 Summer)",
+      "season": "1912 Summer",
+      "country": "FIN",
+      "gender": "M",
+      "roster_size": 27,
+      "duplicate_pairs": 3,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.626859
+    },
+    {
+      "team": "USA Sailing (1932 Summer)",
+      "season": "1932 Summer",
+      "country": "USA",
+      "gender": "M",
+      "roster_size": 21,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.443688
+    },
+    {
+      "team": "USA Sailing (2000 Summer)",
+      "season": "2000 Summer",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 18,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.346911
+    },
+    {
+      "team": "USA Sailing (2004 Summer)",
+      "season": "2004 Summer",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 18,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.346911
+    },
+    {
+      "team": "ITA Sailing (2000 Summer)",
+      "season": "2000 Summer",
+      "country": "ITA",
+      "gender": "F",
+      "roster_size": 18,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.346911
+    },
+    {
+      "team": "ITA Sailing (2004 Summer)",
+      "season": "2004 Summer",
+      "country": "ITA",
+      "gender": "F",
+      "roster_size": 18,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.346911
+    },
+    {
+      "team": "ESP Sailing (2004 Summer)",
+      "season": "2004 Summer",
+      "country": "ESP",
+      "gender": "F",
+      "roster_size": 18,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.346911
+    }
+  ]
+}

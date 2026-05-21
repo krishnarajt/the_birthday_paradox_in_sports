@@ -1,0 +1,278 @@
+{
+  "sport": "Olympic Snowboarding (Skiing)",
+  "slug": "olympic-snowboarding-skiing",
+  "cohorts": 113,
+  "total_players": 1240,
+  "avg_roster_size": 10.973451,
+  "observed_rate": 0.159292,
+  "theoretical_rate": 0.157118,
+  "deviation": 0.002174,
+  "cohort_kind": "delegation",
+  "cohort_kind_breakdown": {
+    "delegation": 113
+  },
+  "by_country": [
+    {
+      "country": "CAN",
+      "cohorts": 8,
+      "observed_rate": 0.125,
+      "avg_roster_size": 16.375
+    },
+    {
+      "country": "AUT",
+      "cohorts": 8,
+      "observed_rate": 0.0,
+      "avg_roster_size": 11.875
+    },
+    {
+      "country": "GER",
+      "cohorts": 8,
+      "observed_rate": 0.125,
+      "avg_roster_size": 10.25
+    },
+    {
+      "country": "SUI",
+      "cohorts": 8,
+      "observed_rate": 0.375,
+      "avg_roster_size": 16.375
+    },
+    {
+      "country": "USA",
+      "cohorts": 8,
+      "observed_rate": 0.125,
+      "avg_roster_size": 17.625
+    },
+    {
+      "country": "JPN",
+      "cohorts": 8,
+      "observed_rate": 0.25,
+      "avg_roster_size": 11.5
+    },
+    {
+      "country": "ITA",
+      "cohorts": 8,
+      "observed_rate": 0.125,
+      "avg_roster_size": 11.375
+    },
+    {
+      "country": "FRA",
+      "cohorts": 7,
+      "observed_rate": 0.142857,
+      "avg_roster_size": 13.142857
+    },
+    {
+      "country": "FIN",
+      "cohorts": 6,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "AUS",
+      "cohorts": 6,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 9.333333
+    },
+    {
+      "country": "NOR",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.4
+    },
+    {
+      "country": "CHN",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.4
+    },
+    {
+      "country": "SLO",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.75
+    },
+    {
+      "country": "RUS",
+      "cohorts": 4,
+      "observed_rate": 0.25,
+      "avg_roster_size": 8.75
+    },
+    {
+      "country": "POL",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.75
+    },
+    {
+      "country": "CZE",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.666667
+    },
+    {
+      "country": "SWE",
+      "cohorts": 3,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 11.333333
+    },
+    {
+      "country": "NZL",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "ROC",
+      "cohorts": 2,
+      "observed_rate": 1.0,
+      "avg_roster_size": 14.5
+    },
+    {
+      "country": "GBR",
+      "cohorts": 2,
+      "observed_rate": 1.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "ESP",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "ARG",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "NED",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "KOR",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 10.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 41,
+      "observed_rate": 0.146341,
+      "theoretical_rate": 0.144779,
+      "avg_roster_size": 10.414634
+    },
+    {
+      "gender": "M",
+      "cohorts": 72,
+      "observed_rate": 0.166667,
+      "theoretical_rate": 0.164144,
+      "avg_roster_size": 11.291667
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "CAN Snowboarding (Skiing) (2014 Winter)",
+      "season": "2014 Winter",
+      "country": "CAN",
+      "gender": "M",
+      "roster_size": 24,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.538344
+    },
+    {
+      "team": "SUI Snowboarding (Skiing) (2018 Winter)",
+      "season": "2018 Winter",
+      "country": "SUI",
+      "gender": "M",
+      "roster_size": 24,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.538344
+    },
+    {
+      "team": "SUI Snowboarding (Skiing) (2014 Winter)",
+      "season": "2014 Winter",
+      "country": "SUI",
+      "gender": "M",
+      "roster_size": 23,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.507297
+    },
+    {
+      "team": "JPN Snowboarding (Skiing) (2022 Winter)",
+      "season": "2022 Winter",
+      "country": "JPN",
+      "gender": "F",
+      "roster_size": 18,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.346911
+    },
+    {
+      "team": "FRA Snowboarding (Skiing) (2010 Winter)",
+      "season": "2010 Winter",
+      "country": "FRA",
+      "gender": "M",
+      "roster_size": 17,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.315008
+    },
+    {
+      "team": "ITA Snowboarding (Skiing) (2006 Winter)",
+      "season": "2006 Winter",
+      "country": "ITA",
+      "gender": "F",
+      "roster_size": 16,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.283604
+    },
+    {
+      "team": "ROC Snowboarding (Skiing) (2018 Winter)",
+      "season": "2018 Winter",
+      "country": "ROC",
+      "gender": "F",
+      "roster_size": 16,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.283604
+    },
+    {
+      "team": "SUI Snowboarding (Skiing) (2010 Winter)",
+      "season": "2010 Winter",
+      "country": "SUI",
+      "gender": "M",
+      "roster_size": 15,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.252901
+    },
+    {
+      "team": "USA Snowboarding (Skiing) (2002 Winter)",
+      "season": "2002 Winter",
+      "country": "USA",
+      "gender": "M",
+      "roster_size": 14,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.223103
+    },
+    {
+      "team": "GER Snowboarding (Skiing) (2018 Winter)",
+      "season": "2018 Winter",
+      "country": "GER",
+      "gender": "M",
+      "roster_size": 13,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.19441
+    }
+  ]
+}

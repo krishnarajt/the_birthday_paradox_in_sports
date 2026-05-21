@@ -1,0 +1,374 @@
+{
+  "sport": "Olympic Cycling Road (Cycling)",
+  "slug": "olympic-cycling-road-cycling",
+  "cohorts": 349,
+  "total_players": 2339,
+  "avg_roster_size": 6.702006,
+  "observed_rate": 0.054441,
+  "theoretical_rate": 0.054999,
+  "deviation": -0.000558,
+  "cohort_kind": "delegation",
+  "cohort_kind_breakdown": {
+    "delegation": 349
+  },
+  "by_country": [
+    {
+      "country": "FRA",
+      "cohorts": 16,
+      "observed_rate": 0.125,
+      "avg_roster_size": 8.125
+    },
+    {
+      "country": "NED",
+      "cohorts": 16,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.375
+    },
+    {
+      "country": "ITA",
+      "cohorts": 16,
+      "observed_rate": 0.125,
+      "avg_roster_size": 8.0625
+    },
+    {
+      "country": "USA",
+      "cohorts": 16,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.6875
+    },
+    {
+      "country": "GBR",
+      "cohorts": 15,
+      "observed_rate": 0.133333,
+      "avg_roster_size": 9.066667
+    },
+    {
+      "country": "BEL",
+      "cohorts": 14,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.857143
+    },
+    {
+      "country": "SUI",
+      "cohorts": 14,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.357143
+    },
+    {
+      "country": "AUS",
+      "cohorts": 13,
+      "observed_rate": 0.076923,
+      "avg_roster_size": 7.307692
+    },
+    {
+      "country": "NOR",
+      "cohorts": 13,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.153846
+    },
+    {
+      "country": "ESP",
+      "cohorts": 13,
+      "observed_rate": 0.076923,
+      "avg_roster_size": 6.846154
+    },
+    {
+      "country": "SWE",
+      "cohorts": 12,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.166667
+    },
+    {
+      "country": "POL",
+      "cohorts": 12,
+      "observed_rate": 0.083333,
+      "avg_roster_size": 5.833333
+    },
+    {
+      "country": "GER",
+      "cohorts": 11,
+      "observed_rate": 0.090909,
+      "avg_roster_size": 7.727273
+    },
+    {
+      "country": "CAN",
+      "cohorts": 11,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "DEN",
+      "cohorts": 11,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.818182
+    },
+    {
+      "country": "COL",
+      "cohorts": 9,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.666667
+    },
+    {
+      "country": "AUT",
+      "cohorts": 9,
+      "observed_rate": 0.111111,
+      "avg_roster_size": 5.888889
+    },
+    {
+      "country": "NZL",
+      "cohorts": 8,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.25
+    },
+    {
+      "country": "MEX",
+      "cohorts": 7,
+      "observed_rate": 0.142857,
+      "avg_roster_size": 6.285714
+    },
+    {
+      "country": "URS",
+      "cohorts": 6,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.166667
+    },
+    {
+      "country": "RUS",
+      "cohorts": 6,
+      "observed_rate": 0.166667,
+      "avg_roster_size": 8.0
+    },
+    {
+      "country": "TCH",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.6
+    },
+    {
+      "country": "FIN",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "VEN",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.25
+    },
+    {
+      "country": "UKR",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.5
+    },
+    {
+      "country": "FRG",
+      "cohorts": 4,
+      "observed_rate": 0.25,
+      "avg_roster_size": 8.0
+    },
+    {
+      "country": "ETH",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.75
+    },
+    {
+      "country": "HUN",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "YUG",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.666667
+    },
+    {
+      "country": "SLO",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "EST",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "KAZ",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "IRL",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "GDR",
+      "cohorts": 3,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 6.333333
+    },
+    {
+      "country": "KOR",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.666667
+    },
+    {
+      "country": "LTU",
+      "cohorts": 3,
+      "observed_rate": 0.666667,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "BRA",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.333333
+    },
+    {
+      "country": "CAY",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.666667
+    },
+    {
+      "country": "CHN",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.5
+    },
+    {
+      "country": "BUL",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 114,
+      "observed_rate": 0.052632,
+      "theoretical_rate": 0.07367,
+      "avg_roster_size": 7.815789
+    },
+    {
+      "gender": "M",
+      "cohorts": 235,
+      "observed_rate": 0.055319,
+      "theoretical_rate": 0.045942,
+      "avg_roster_size": 6.161702
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "ITA Cycling Road (Cycling) (1984 Summer)",
+      "season": "1984 Summer",
+      "country": "ITA",
+      "gender": "F",
+      "roster_size": 12,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.167025
+    },
+    {
+      "team": "FRA Cycling Road (Cycling) (1992 Summer)",
+      "season": "1992 Summer",
+      "country": "FRA",
+      "gender": "F",
+      "roster_size": 10,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.116948
+    },
+    {
+      "team": "RUS Cycling Road (Cycling) (1912 Summer)",
+      "season": "1912 Summer",
+      "country": "RUS",
+      "gender": "M",
+      "roster_size": 10,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.116948
+    },
+    {
+      "team": "AUT Cycling Road (Cycling) (1984 Summer)",
+      "season": "1984 Summer",
+      "country": "AUT",
+      "gender": "F",
+      "roster_size": 9,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.094624
+    },
+    {
+      "team": "LTU Cycling Road (Cycling) (1996 Summer)",
+      "season": "1996 Summer",
+      "country": "LTU",
+      "gender": "F",
+      "roster_size": 9,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.094624
+    },
+    {
+      "team": "GBR Cycling Road (Cycling) (2016 Summer)",
+      "season": "2016 Summer",
+      "country": "GBR",
+      "gender": "M",
+      "roster_size": 8,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.074335
+    },
+    {
+      "team": "FRG Cycling Road (Cycling) (1972 Summer)",
+      "season": "1972 Summer",
+      "country": "FRG",
+      "gender": "M",
+      "roster_size": 7,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.056236
+    },
+    {
+      "team": "ESP Cycling Road (Cycling) (1988 Summer)",
+      "season": "1988 Summer",
+      "country": "ESP",
+      "gender": "M",
+      "roster_size": 7,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.056236
+    },
+    {
+      "team": "MEX Cycling Road (Cycling) (1984 Summer)",
+      "season": "1984 Summer",
+      "country": "MEX",
+      "gender": "M",
+      "roster_size": 7,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.056236
+    },
+    {
+      "team": "ITA Cycling Road (Cycling) (1976 Summer)",
+      "season": "1976 Summer",
+      "country": "ITA",
+      "gender": "M",
+      "roster_size": 7,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.056236
+    }
+  ]
+}

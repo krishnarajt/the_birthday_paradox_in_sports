@@ -1,0 +1,148 @@
+{
+  "sport": "Olympic Cycling BMX Racing (Cycling)",
+  "slug": "olympic-cycling-bmx-racing-cycling",
+  "cohorts": 9,
+  "total_players": 46,
+  "avg_roster_size": 5.111111,
+  "observed_rate": 0.0,
+  "theoretical_rate": 0.028616,
+  "deviation": -0.028616,
+  "cohort_kind": "delegation",
+  "cohort_kind_breakdown": {
+    "delegation": 9
+  },
+  "by_country": [
+    {
+      "country": "USA",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "AUS",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "FRA",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "NED",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.5
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "theoretical_rate": 0.027136,
+      "avg_roster_size": 5.0
+    },
+    {
+      "gender": "M",
+      "cohorts": 6,
+      "observed_rate": 0.0,
+      "theoretical_rate": 0.029357,
+      "avg_roster_size": 5.166667
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "NED Cycling BMX Racing (Cycling) (2020 Summer)",
+      "season": "2020 Summer",
+      "country": "NED",
+      "gender": "M",
+      "roster_size": 6,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.040462
+    },
+    {
+      "team": "FRA Cycling BMX Racing (Cycling) (2012 Summer)",
+      "season": "2012 Summer",
+      "country": "FRA",
+      "gender": "F",
+      "roster_size": 5,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.027136
+    },
+    {
+      "team": "AUS Cycling BMX Racing (Cycling) (2008 Summer)",
+      "season": "2008 Summer",
+      "country": "AUS",
+      "gender": "F",
+      "roster_size": 5,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.027136
+    },
+    {
+      "team": "NED Cycling BMX Racing (Cycling) (2016 Summer)",
+      "season": "2016 Summer",
+      "country": "NED",
+      "gender": "M",
+      "roster_size": 5,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.027136
+    },
+    {
+      "team": "AUS Cycling BMX Racing (Cycling) (2016 Summer)",
+      "season": "2016 Summer",
+      "country": "AUS",
+      "gender": "F",
+      "roster_size": 5,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.027136
+    },
+    {
+      "team": "FRA Cycling BMX Racing (Cycling) (2020 Summer)",
+      "season": "2020 Summer",
+      "country": "FRA",
+      "gender": "M",
+      "roster_size": 5,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.027136
+    },
+    {
+      "team": "USA Cycling BMX Racing (Cycling) (2012 Summer)",
+      "season": "2012 Summer",
+      "country": "USA",
+      "gender": "M",
+      "roster_size": 5,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.027136
+    },
+    {
+      "team": "USA Cycling BMX Racing (Cycling) (2016 Summer)",
+      "season": "2016 Summer",
+      "country": "USA",
+      "gender": "M",
+      "roster_size": 5,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.027136
+    },
+    {
+      "team": "USA Cycling BMX Racing (Cycling) (2020 Summer)",
+      "season": "2020 Summer",
+      "country": "USA",
+      "gender": "M",
+      "roster_size": 5,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.027136
+    }
+  ]
+}

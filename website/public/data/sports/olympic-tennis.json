@@ -1,0 +1,374 @@
+{
+  "sport": "Olympic Tennis",
+  "slug": "olympic-tennis",
+  "cohorts": 157,
+  "total_players": 1141,
+  "avg_roster_size": 7.267516,
+  "observed_rate": 0.082803,
+  "theoretical_rate": 0.068242,
+  "deviation": 0.014561,
+  "cohort_kind": "delegation",
+  "cohort_kind_breakdown": {
+    "delegation": 157
+  },
+  "by_country": [
+    {
+      "country": "FRA",
+      "cohorts": 12,
+      "observed_rate": 0.083333,
+      "avg_roster_size": 8.75
+    },
+    {
+      "country": "USA",
+      "cohorts": 11,
+      "observed_rate": 0.363636,
+      "avg_roster_size": 11.181818
+    },
+    {
+      "country": "GBR",
+      "cohorts": 10,
+      "observed_rate": 0.2,
+      "avg_roster_size": 8.9
+    },
+    {
+      "country": "ESP",
+      "cohorts": 9,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 8.444444
+    },
+    {
+      "country": "ARG",
+      "cohorts": 9,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.666667
+    },
+    {
+      "country": "ITA",
+      "cohorts": 9,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.666667
+    },
+    {
+      "country": "AUS",
+      "cohorts": 9,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.888889
+    },
+    {
+      "country": "GER",
+      "cohorts": 6,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "CZE",
+      "cohorts": 6,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.666667
+    },
+    {
+      "country": "JPN",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.8
+    },
+    {
+      "country": "RUS",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.2
+    },
+    {
+      "country": "SWE",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.8
+    },
+    {
+      "country": "RSA",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.5
+    },
+    {
+      "country": "HUN",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "CAN",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.75
+    },
+    {
+      "country": "CRO",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "BEL",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.666667
+    },
+    {
+      "country": "CHN",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "TCH",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "SVK",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.666667
+    },
+    {
+      "country": "SRB",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.666667
+    },
+    {
+      "country": "ROU",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.333333
+    },
+    {
+      "country": "POL",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.666667
+    },
+    {
+      "country": "NED",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "IND",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.5
+    },
+    {
+      "country": "BRA",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "DEN",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.5
+    },
+    {
+      "country": "KOR",
+      "cohorts": 2,
+      "observed_rate": 0.5,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "BOH",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.0
+    },
+    {
+      "country": "AUT",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "BLR",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "EUN",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "INA",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "FRG",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "MEX",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "KAZ",
+      "cohorts": 1,
+      "observed_rate": 1.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "NOR",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "ROC",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "SUI",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "TPE",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 106,
+      "observed_rate": 0.084906,
+      "theoretical_rate": 0.066347,
+      "avg_roster_size": 7.207547
+    },
+    {
+      "gender": "M",
+      "cohorts": 51,
+      "observed_rate": 0.078431,
+      "theoretical_rate": 0.072179,
+      "avg_roster_size": 7.392157
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "USA Tennis (2012 Summer)",
+      "season": "2012 Summer",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 12,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.167025
+    },
+    {
+      "team": "ESP Tennis (2012 Summer)",
+      "season": "2012 Summer",
+      "country": "ESP",
+      "gender": "F",
+      "roster_size": 12,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.167025
+    },
+    {
+      "team": "FRA Tennis (1912 Summer)",
+      "season": "1912 Summer",
+      "country": "FRA",
+      "gender": "M",
+      "roster_size": 10,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.116948
+    },
+    {
+      "team": "USA Tennis (2008 Summer)",
+      "season": "2008 Summer",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 10,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.116948
+    },
+    {
+      "team": "USA Tennis (2004 Summer)",
+      "season": "2004 Summer",
+      "country": "USA",
+      "gender": "M",
+      "roster_size": 10,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.116948
+    },
+    {
+      "team": "ESP Tennis (2016 Summer)",
+      "season": "2016 Summer",
+      "country": "ESP",
+      "gender": "F",
+      "roster_size": 9,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.094624
+    },
+    {
+      "team": "ESP Tennis (2020 Summer)",
+      "season": "2020 Summer",
+      "country": "ESP",
+      "gender": "F",
+      "roster_size": 8,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.074335
+    },
+    {
+      "team": "USA Tennis (1992 Summer)",
+      "season": "1992 Summer",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 7,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.056236
+    },
+    {
+      "team": "GBR Tennis (2000 Summer)",
+      "season": "2000 Summer",
+      "country": "GBR",
+      "gender": "M",
+      "roster_size": 6,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.040462
+    },
+    {
+      "team": "KAZ Tennis (2020 Summer)",
+      "season": "2020 Summer",
+      "country": "KAZ",
+      "gender": "M",
+      "roster_size": 6,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.040462
+    }
+  ]
+}

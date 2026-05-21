@@ -1,0 +1,236 @@
+{
+  "sport": "Olympic Curling",
+  "slug": "olympic-curling",
+  "cohorts": 81,
+  "total_players": 659,
+  "avg_roster_size": 8.135802,
+  "observed_rate": 0.111111,
+  "theoretical_rate": 0.082318,
+  "deviation": 0.028794,
+  "cohort_kind": "team",
+  "cohort_kind_breakdown": {
+    "team": 81
+  },
+  "by_country": [
+    {
+      "country": "DEN",
+      "cohorts": 8,
+      "observed_rate": 0.25,
+      "avg_roster_size": 7.75
+    },
+    {
+      "country": "SWE",
+      "cohorts": 8,
+      "observed_rate": 0.375,
+      "avg_roster_size": 8.875
+    },
+    {
+      "country": "CAN",
+      "cohorts": 7,
+      "observed_rate": 0.285714,
+      "avg_roster_size": 10.0
+    },
+    {
+      "country": "JPN",
+      "cohorts": 7,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.285714
+    },
+    {
+      "country": "GBR",
+      "cohorts": 7,
+      "observed_rate": 0.142857,
+      "avg_roster_size": 9.428571
+    },
+    {
+      "country": "SUI",
+      "cohorts": 7,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.285714
+    },
+    {
+      "country": "USA",
+      "cohorts": 7,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.285714
+    },
+    {
+      "country": "NOR",
+      "cohorts": 6,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.5
+    },
+    {
+      "country": "GER",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.0
+    },
+    {
+      "country": "CHN",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.25
+    },
+    {
+      "country": "KOR",
+      "cohorts": 3,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 7.333333
+    },
+    {
+      "country": "ITA",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.333333
+    },
+    {
+      "country": "RUS",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.666667
+    },
+    {
+      "country": "ROC",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.5
+    },
+    {
+      "country": "FRA",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "FIN",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "NZL",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 53,
+      "observed_rate": 0.075472,
+      "theoretical_rate": 0.087978,
+      "avg_roster_size": 8.433962
+    },
+    {
+      "gender": "M",
+      "cohorts": 28,
+      "observed_rate": 0.178571,
+      "theoretical_rate": 0.071603,
+      "avg_roster_size": 7.571429
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "CAN Curling (2018 Winter)",
+      "season": "2018 Winter",
+      "country": "CAN",
+      "gender": "M",
+      "roster_size": 12,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.167025
+    },
+    {
+      "team": "KOR Curling (2018 Winter)",
+      "season": "2018 Winter",
+      "country": "KOR",
+      "gender": "F",
+      "roster_size": 12,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.167025
+    },
+    {
+      "team": "CAN Curling (2022 Winter)",
+      "season": "2022 Winter",
+      "country": "CAN",
+      "gender": "M",
+      "roster_size": 11,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.141141
+    },
+    {
+      "team": "DEN Curling (2002 Winter)",
+      "season": "2002 Winter",
+      "country": "DEN",
+      "gender": "F",
+      "roster_size": 10,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.116948
+    },
+    {
+      "team": "GBR Curling (2002 Winter)",
+      "season": "2002 Winter",
+      "country": "GBR",
+      "gender": "F",
+      "roster_size": 10,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.116948
+    },
+    {
+      "team": "DEN Curling (2018 Winter)",
+      "season": "2018 Winter",
+      "country": "DEN",
+      "gender": "F",
+      "roster_size": 9,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.094624
+    },
+    {
+      "team": "SWE Curling (2018 Winter)",
+      "season": "2018 Winter",
+      "country": "SWE",
+      "gender": "M",
+      "roster_size": 9,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.094624
+    },
+    {
+      "team": "SWE Curling (1924 Winter)",
+      "season": "1924 Winter",
+      "country": "SWE",
+      "gender": "M",
+      "roster_size": 8,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.074335
+    },
+    {
+      "team": "SWE Curling (2022 Winter)",
+      "season": "2022 Winter",
+      "country": "SWE",
+      "gender": "M",
+      "roster_size": 8,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.074335
+    },
+    {
+      "team": "SUI Curling (2022 Winter)",
+      "season": "2022 Winter",
+      "country": "SUI",
+      "gender": "F",
+      "roster_size": 12,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.167025
+    }
+  ]
+}

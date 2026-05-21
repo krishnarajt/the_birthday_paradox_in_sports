@@ -1,0 +1,48 @@
+{
+  "generated_at": "2026-05-21T19:57:08.023796+00:00",
+  "roster_rows": 971027,
+  "cohorts": 38228,
+  "min_cohort_size": 5,
+  "sources_by_count": [
+    {
+      "source_dataset": "cricket_m",
+      "cohorts": 5213
+    },
+    {
+      "source_dataset": "cricket_w",
+      "cohorts": 1291
+    },
+    {
+      "source_dataset": "espn",
+      "cohorts": 187
+    },
+    {
+      "source_dataset": "footballcsv",
+      "cohorts": 11929
+    },
+    {
+      "source_dataset": "mlb",
+      "cohorts": 3591
+    },
+    {
+      "source_dataset": "nfl",
+      "cohorts": 2416
+    },
+    {
+      "source_dataset": "nhl",
+      "cohorts": 32
+    },
+    {
+      "source_dataset": "olympics",
+      "cohorts": 13067
+    },
+    {
+      "source_dataset": "paris2024",
+      "cohorts": 470
+    },
+    {
+      "source_dataset": "wwc2023",
+      "cohorts": 32
+    }
+  ]
+}

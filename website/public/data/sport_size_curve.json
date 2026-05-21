@@ -1,0 +1,2384 @@
+{
+  "__theory_curve__": [
+    {
+      "n": 2,
+      "p": 0.00274
+    },
+    {
+      "n": 3,
+      "p": 0.008204
+    },
+    {
+      "n": 4,
+      "p": 0.016356
+    },
+    {
+      "n": 5,
+      "p": 0.027136
+    },
+    {
+      "n": 6,
+      "p": 0.040462
+    },
+    {
+      "n": 7,
+      "p": 0.056236
+    },
+    {
+      "n": 8,
+      "p": 0.074335
+    },
+    {
+      "n": 9,
+      "p": 0.094624
+    },
+    {
+      "n": 10,
+      "p": 0.116948
+    },
+    {
+      "n": 11,
+      "p": 0.141141
+    },
+    {
+      "n": 12,
+      "p": 0.167025
+    },
+    {
+      "n": 13,
+      "p": 0.19441
+    },
+    {
+      "n": 14,
+      "p": 0.223103
+    },
+    {
+      "n": 15,
+      "p": 0.252901
+    },
+    {
+      "n": 16,
+      "p": 0.283604
+    },
+    {
+      "n": 17,
+      "p": 0.315008
+    },
+    {
+      "n": 18,
+      "p": 0.346911
+    },
+    {
+      "n": 19,
+      "p": 0.379119
+    },
+    {
+      "n": 20,
+      "p": 0.411438
+    },
+    {
+      "n": 21,
+      "p": 0.443688
+    },
+    {
+      "n": 22,
+      "p": 0.475695
+    },
+    {
+      "n": 23,
+      "p": 0.507297
+    },
+    {
+      "n": 24,
+      "p": 0.538344
+    },
+    {
+      "n": 25,
+      "p": 0.5687
+    },
+    {
+      "n": 26,
+      "p": 0.598241
+    },
+    {
+      "n": 27,
+      "p": 0.626859
+    },
+    {
+      "n": 28,
+      "p": 0.654461
+    },
+    {
+      "n": 29,
+      "p": 0.680969
+    },
+    {
+      "n": 30,
+      "p": 0.706316
+    },
+    {
+      "n": 31,
+      "p": 0.730455
+    },
+    {
+      "n": 32,
+      "p": 0.753348
+    },
+    {
+      "n": 33,
+      "p": 0.774972
+    },
+    {
+      "n": 34,
+      "p": 0.795317
+    },
+    {
+      "n": 35,
+      "p": 0.814383
+    },
+    {
+      "n": 36,
+      "p": 0.832182
+    },
+    {
+      "n": 37,
+      "p": 0.848734
+    },
+    {
+      "n": 38,
+      "p": 0.864068
+    },
+    {
+      "n": 39,
+      "p": 0.87822
+    },
+    {
+      "n": 40,
+      "p": 0.891232
+    },
+    {
+      "n": 41,
+      "p": 0.903152
+    },
+    {
+      "n": 42,
+      "p": 0.91403
+    },
+    {
+      "n": 43,
+      "p": 0.923923
+    },
+    {
+      "n": 44,
+      "p": 0.932885
+    },
+    {
+      "n": 45,
+      "p": 0.940976
+    },
+    {
+      "n": 46,
+      "p": 0.948253
+    },
+    {
+      "n": 47,
+      "p": 0.954774
+    },
+    {
+      "n": 48,
+      "p": 0.960598
+    },
+    {
+      "n": 49,
+      "p": 0.96578
+    },
+    {
+      "n": 50,
+      "p": 0.970374
+    },
+    {
+      "n": 51,
+      "p": 0.974432
+    },
+    {
+      "n": 52,
+      "p": 0.978005
+    },
+    {
+      "n": 53,
+      "p": 0.981138
+    },
+    {
+      "n": 54,
+      "p": 0.983877
+    },
+    {
+      "n": 55,
+      "p": 0.986262
+    },
+    {
+      "n": 56,
+      "p": 0.988332
+    },
+    {
+      "n": 57,
+      "p": 0.990122
+    },
+    {
+      "n": 58,
+      "p": 0.991665
+    },
+    {
+      "n": 59,
+      "p": 0.992989
+    },
+    {
+      "n": 60,
+      "p": 0.994123
+    },
+    {
+      "n": 61,
+      "p": 0.995089
+    },
+    {
+      "n": 62,
+      "p": 0.99591
+    },
+    {
+      "n": 63,
+      "p": 0.996604
+    },
+    {
+      "n": 64,
+      "p": 0.99719
+    },
+    {
+      "n": 65,
+      "p": 0.997683
+    },
+    {
+      "n": 66,
+      "p": 0.998096
+    },
+    {
+      "n": 67,
+      "p": 0.99844
+    },
+    {
+      "n": 68,
+      "p": 0.998726
+    },
+    {
+      "n": 69,
+      "p": 0.998964
+    },
+    {
+      "n": 70,
+      "p": 0.99916
+    }
+  ],
+  "__universal__": [
+    {
+      "n": 5,
+      "cohorts": 2048,
+      "observed_rate": 0.047363,
+      "theoretical_rate": 0.027136
+    },
+    {
+      "n": 6,
+      "cohorts": 1792,
+      "observed_rate": 0.057478,
+      "theoretical_rate": 0.040462
+    },
+    {
+      "n": 7,
+      "cohorts": 1306,
+      "observed_rate": 0.070444,
+      "theoretical_rate": 0.056236
+    },
+    {
+      "n": 8,
+      "cohorts": 1343,
+      "observed_rate": 0.093075,
+      "theoretical_rate": 0.074335
+    },
+    {
+      "n": 9,
+      "cohorts": 1135,
+      "observed_rate": 0.123348,
+      "theoretical_rate": 0.094624
+    },
+    {
+      "n": 10,
+      "cohorts": 1218,
+      "observed_rate": 0.163383,
+      "theoretical_rate": 0.116948
+    },
+    {
+      "n": 11,
+      "cohorts": 1593,
+      "observed_rate": 0.155681,
+      "theoretical_rate": 0.141141
+    },
+    {
+      "n": 12,
+      "cohorts": 1699,
+      "observed_rate": 0.18246,
+      "theoretical_rate": 0.167025
+    },
+    {
+      "n": 13,
+      "cohorts": 1390,
+      "observed_rate": 0.223741,
+      "theoretical_rate": 0.19441
+    },
+    {
+      "n": 14,
+      "cohorts": 1203,
+      "observed_rate": 0.261014,
+      "theoretical_rate": 0.223103
+    },
+    {
+      "n": 15,
+      "cohorts": 996,
+      "observed_rate": 0.296185,
+      "theoretical_rate": 0.252901
+    },
+    {
+      "n": 16,
+      "cohorts": 899,
+      "observed_rate": 0.340378,
+      "theoretical_rate": 0.283604
+    },
+    {
+      "n": 17,
+      "cohorts": 758,
+      "observed_rate": 0.375989,
+      "theoretical_rate": 0.315008
+    },
+    {
+      "n": 18,
+      "cohorts": 608,
+      "observed_rate": 0.412829,
+      "theoretical_rate": 0.346911
+    },
+    {
+      "n": 19,
+      "cohorts": 468,
+      "observed_rate": 0.435897,
+      "theoretical_rate": 0.379119
+    },
+    {
+      "n": 20,
+      "cohorts": 438,
+      "observed_rate": 0.490868,
+      "theoretical_rate": 0.411438
+    },
+    {
+      "n": 21,
+      "cohorts": 390,
+      "observed_rate": 0.494872,
+      "theoretical_rate": 0.443688
+    },
+    {
+      "n": 22,
+      "cohorts": 523,
+      "observed_rate": 0.499044,
+      "theoretical_rate": 0.475695
+    },
+    {
+      "n": 23,
+      "cohorts": 901,
+      "observed_rate": 0.54273,
+      "theoretical_rate": 0.507297
+    },
+    {
+      "n": 24,
+      "cohorts": 833,
+      "observed_rate": 0.584634,
+      "theoretical_rate": 0.538344
+    },
+    {
+      "n": 25,
+      "cohorts": 908,
+      "observed_rate": 0.585903,
+      "theoretical_rate": 0.5687
+    },
+    {
+      "n": 26,
+      "cohorts": 1252,
+      "observed_rate": 0.609425,
+      "theoretical_rate": 0.598241
+    },
+    {
+      "n": 27,
+      "cohorts": 1241,
+      "observed_rate": 0.655117,
+      "theoretical_rate": 0.626859
+    },
+    {
+      "n": 28,
+      "cohorts": 1274,
+      "observed_rate": 0.669545,
+      "theoretical_rate": 0.654461
+    },
+    {
+      "n": 29,
+      "cohorts": 1170,
+      "observed_rate": 0.735897,
+      "theoretical_rate": 0.680969
+    },
+    {
+      "n": 30,
+      "cohorts": 1133,
+      "observed_rate": 0.728155,
+      "theoretical_rate": 0.706316
+    },
+    {
+      "n": 31,
+      "cohorts": 954,
+      "observed_rate": 0.769392,
+      "theoretical_rate": 0.730455
+    },
+    {
+      "n": 32,
+      "cohorts": 917,
+      "observed_rate": 0.780807,
+      "theoretical_rate": 0.753348
+    },
+    {
+      "n": 33,
+      "cohorts": 749,
+      "observed_rate": 0.798398,
+      "theoretical_rate": 0.774972
+    },
+    {
+      "n": 34,
+      "cohorts": 670,
+      "observed_rate": 0.829851,
+      "theoretical_rate": 0.795317
+    },
+    {
+      "n": 35,
+      "cohorts": 602,
+      "observed_rate": 0.833887,
+      "theoretical_rate": 0.814383
+    },
+    {
+      "n": 36,
+      "cohorts": 508,
+      "observed_rate": 0.848425,
+      "theoretical_rate": 0.832182
+    },
+    {
+      "n": 37,
+      "cohorts": 450,
+      "observed_rate": 0.895556,
+      "theoretical_rate": 0.848734
+    },
+    {
+      "n": 38,
+      "cohorts": 392,
+      "observed_rate": 0.880102,
+      "theoretical_rate": 0.864068
+    },
+    {
+      "n": 39,
+      "cohorts": 337,
+      "observed_rate": 0.893175,
+      "theoretical_rate": 0.87822
+    },
+    {
+      "n": 40,
+      "cohorts": 288,
+      "observed_rate": 0.927083,
+      "theoretical_rate": 0.891232
+    },
+    {
+      "n": 41,
+      "cohorts": 235,
+      "observed_rate": 0.876596,
+      "theoretical_rate": 0.903152
+    },
+    {
+      "n": 42,
+      "cohorts": 204,
+      "observed_rate": 0.941176,
+      "theoretical_rate": 0.91403
+    },
+    {
+      "n": 43,
+      "cohorts": 238,
+      "observed_rate": 0.911765,
+      "theoretical_rate": 0.923923
+    },
+    {
+      "n": 44,
+      "cohorts": 208,
+      "observed_rate": 0.918269,
+      "theoretical_rate": 0.932885
+    },
+    {
+      "n": 45,
+      "cohorts": 192,
+      "observed_rate": 0.9375,
+      "theoretical_rate": 0.940976
+    },
+    {
+      "n": 46,
+      "cohorts": 177,
+      "observed_rate": 0.971751,
+      "theoretical_rate": 0.948253
+    },
+    {
+      "n": 47,
+      "cohorts": 171,
+      "observed_rate": 0.964912,
+      "theoretical_rate": 0.954774
+    },
+    {
+      "n": 48,
+      "cohorts": 153,
+      "observed_rate": 0.96732,
+      "theoretical_rate": 0.960598
+    },
+    {
+      "n": 49,
+      "cohorts": 167,
+      "observed_rate": 0.994012,
+      "theoretical_rate": 0.96578
+    },
+    {
+      "n": 50,
+      "cohorts": 121,
+      "observed_rate": 0.975207,
+      "theoretical_rate": 0.970374
+    },
+    {
+      "n": 51,
+      "cohorts": 105,
+      "observed_rate": 0.971429,
+      "theoretical_rate": 0.974432
+    },
+    {
+      "n": 52,
+      "cohorts": 117,
+      "observed_rate": 0.991453,
+      "theoretical_rate": 0.978005
+    },
+    {
+      "n": 53,
+      "cohorts": 105,
+      "observed_rate": 0.980952,
+      "theoretical_rate": 0.981138
+    },
+    {
+      "n": 54,
+      "cohorts": 95,
+      "observed_rate": 0.989474,
+      "theoretical_rate": 0.983877
+    },
+    {
+      "n": 55,
+      "cohorts": 78,
+      "observed_rate": 0.987179,
+      "theoretical_rate": 0.986262
+    },
+    {
+      "n": 56,
+      "cohorts": 93,
+      "observed_rate": 1.0,
+      "theoretical_rate": 0.988332
+    },
+    {
+      "n": 57,
+      "cohorts": 76,
+      "observed_rate": 1.0,
+      "theoretical_rate": 0.990122
+    },
+    {
+      "n": 58,
+      "cohorts": 75,
+      "observed_rate": 0.986667,
+      "theoretical_rate": 0.991665
+    },
+    {
+      "n": 59,
+      "cohorts": 69,
+      "observed_rate": 1.0,
+      "theoretical_rate": 0.992989
+    },
+    {
+      "n": 60,
+      "cohorts": 78,
+      "observed_rate": 1.0,
+      "theoretical_rate": 0.994123
+    },
+    {
+      "n": 61,
+      "cohorts": 81,
+      "observed_rate": 1.0,
+      "theoretical_rate": 0.995089
+    },
+    {
+      "n": 62,
+      "cohorts": 72,
+      "observed_rate": 1.0,
+      "theoretical_rate": 0.99591
+    },
+    {
+      "n": 63,
+      "cohorts": 80,
+      "observed_rate": 1.0,
+      "theoretical_rate": 0.996604
+    },
+    {
+      "n": 64,
+      "cohorts": 91,
+      "observed_rate": 1.0,
+      "theoretical_rate": 0.99719
+    },
+    {
+      "n": 65,
+      "cohorts": 67,
+      "observed_rate": 1.0,
+      "theoretical_rate": 0.997683
+    },
+    {
+      "n": 66,
+      "cohorts": 61,
+      "observed_rate": 1.0,
+      "theoretical_rate": 0.998096
+    },
+    {
+      "n": 67,
+      "cohorts": 42,
+      "observed_rate": 1.0,
+      "theoretical_rate": 0.99844
+    },
+    {
+      "n": 68,
+      "cohorts": 43,
+      "observed_rate": 1.0,
+      "theoretical_rate": 0.998726
+    },
+    {
+      "n": 69,
+      "cohorts": 33,
+      "observed_rate": 1.0,
+      "theoretical_rate": 0.998964
+    },
+    {
+      "n": 70,
+      "cohorts": 21,
+      "observed_rate": 1.0,
+      "theoretical_rate": 0.99916
+    }
+  ],
+  "Football (Soccer)": [
+    {
+      "n": 14,
+      "cohorts": 3,
+      "observed_rate": 0.0
+    },
+    {
+      "n": 18,
+      "cohorts": 4,
+      "observed_rate": 0.5
+    },
+    {
+      "n": 19,
+      "cohorts": 15,
+      "observed_rate": 0.6
+    },
+    {
+      "n": 20,
+      "cohorts": 29,
+      "observed_rate": 0.482759
+    },
+    {
+      "n": 21,
+      "cohorts": 81,
+      "observed_rate": 0.481481
+    },
+    {
+      "n": 22,
+      "cohorts": 234,
+      "observed_rate": 0.474359
+    },
+    {
+      "n": 23,
+      "cohorts": 647,
+      "observed_rate": 0.537867
+    },
+    {
+      "n": 24,
+      "cohorts": 510,
+      "observed_rate": 0.580392
+    },
+    {
+      "n": 25,
+      "cohorts": 742,
+      "observed_rate": 0.576819
+    },
+    {
+      "n": 26,
+      "cohorts": 1061,
+      "observed_rate": 0.607917
+    },
+    {
+      "n": 27,
+      "cohorts": 1102,
+      "observed_rate": 0.654265
+    },
+    {
+      "n": 28,
+      "cohorts": 1139,
+      "observed_rate": 0.673398
+    },
+    {
+      "n": 29,
+      "cohorts": 1057,
+      "observed_rate": 0.741722
+    },
+    {
+      "n": 30,
+      "cohorts": 997,
+      "observed_rate": 0.731194
+    },
+    {
+      "n": 31,
+      "cohorts": 811,
+      "observed_rate": 0.77312
+    },
+    {
+      "n": 32,
+      "cohorts": 729,
+      "observed_rate": 0.791495
+    },
+    {
+      "n": 33,
+      "cohorts": 559,
+      "observed_rate": 0.812165
+    },
+    {
+      "n": 34,
+      "cohorts": 497,
+      "observed_rate": 0.853119
+    },
+    {
+      "n": 35,
+      "cohorts": 389,
+      "observed_rate": 0.830334
+    },
+    {
+      "n": 36,
+      "cohorts": 310,
+      "observed_rate": 0.858065
+    },
+    {
+      "n": 37,
+      "cohorts": 232,
+      "observed_rate": 0.875
+    },
+    {
+      "n": 38,
+      "cohorts": 198,
+      "observed_rate": 0.888889
+    },
+    {
+      "n": 39,
+      "cohorts": 168,
+      "observed_rate": 0.89881
+    },
+    {
+      "n": 40,
+      "cohorts": 98,
+      "observed_rate": 0.928571
+    },
+    {
+      "n": 41,
+      "cohorts": 70,
+      "observed_rate": 0.9
+    },
+    {
+      "n": 42,
+      "cohorts": 60,
+      "observed_rate": 0.966667
+    },
+    {
+      "n": 43,
+      "cohorts": 41,
+      "observed_rate": 0.926829
+    },
+    {
+      "n": 44,
+      "cohorts": 44,
+      "observed_rate": 0.909091
+    },
+    {
+      "n": 45,
+      "cohorts": 30,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 46,
+      "cohorts": 24,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 47,
+      "cohorts": 28,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 48,
+      "cohorts": 29,
+      "observed_rate": 0.965517
+    },
+    {
+      "n": 49,
+      "cohorts": 31,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 50,
+      "cohorts": 22,
+      "observed_rate": 0.909091
+    },
+    {
+      "n": 51,
+      "cohorts": 8,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 52,
+      "cohorts": 16,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 53,
+      "cohorts": 21,
+      "observed_rate": 0.952381
+    },
+    {
+      "n": 54,
+      "cohorts": 13,
+      "observed_rate": 0.923077
+    },
+    {
+      "n": 55,
+      "cohorts": 11,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 56,
+      "cohorts": 3,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 57,
+      "cohorts": 7,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 58,
+      "cohorts": 6,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 60,
+      "cohorts": 3,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 65,
+      "cohorts": 4,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 66,
+      "cohorts": 3,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 68,
+      "cohorts": 3,
+      "observed_rate": 1.0
+    }
+  ],
+  "Cricket": [
+    {
+      "n": 5,
+      "cohorts": 74,
+      "observed_rate": 0.054054
+    },
+    {
+      "n": 6,
+      "cohorts": 104,
+      "observed_rate": 0.048077
+    },
+    {
+      "n": 7,
+      "cohorts": 127,
+      "observed_rate": 0.07874
+    },
+    {
+      "n": 8,
+      "cohorts": 170,
+      "observed_rate": 0.111765
+    },
+    {
+      "n": 9,
+      "cohorts": 173,
+      "observed_rate": 0.109827
+    },
+    {
+      "n": 10,
+      "cohorts": 354,
+      "observed_rate": 0.161017
+    },
+    {
+      "n": 11,
+      "cohorts": 859,
+      "observed_rate": 0.144354
+    },
+    {
+      "n": 12,
+      "cohorts": 750,
+      "observed_rate": 0.164
+    },
+    {
+      "n": 13,
+      "cohorts": 802,
+      "observed_rate": 0.208229
+    },
+    {
+      "n": 14,
+      "cohorts": 755,
+      "observed_rate": 0.242384
+    },
+    {
+      "n": 15,
+      "cohorts": 563,
+      "observed_rate": 0.275311
+    },
+    {
+      "n": 16,
+      "cohorts": 425,
+      "observed_rate": 0.312941
+    },
+    {
+      "n": 17,
+      "cohorts": 333,
+      "observed_rate": 0.393393
+    },
+    {
+      "n": 18,
+      "cohorts": 277,
+      "observed_rate": 0.433213
+    },
+    {
+      "n": 19,
+      "cohorts": 198,
+      "observed_rate": 0.5
+    },
+    {
+      "n": 20,
+      "cohorts": 163,
+      "observed_rate": 0.484663
+    },
+    {
+      "n": 21,
+      "cohorts": 119,
+      "observed_rate": 0.537815
+    },
+    {
+      "n": 22,
+      "cohorts": 90,
+      "observed_rate": 0.555556
+    },
+    {
+      "n": 23,
+      "cohorts": 57,
+      "observed_rate": 0.631579
+    },
+    {
+      "n": 24,
+      "cohorts": 34,
+      "observed_rate": 0.529412
+    },
+    {
+      "n": 25,
+      "cohorts": 28,
+      "observed_rate": 0.642857
+    },
+    {
+      "n": 26,
+      "cohorts": 21,
+      "observed_rate": 0.761905
+    },
+    {
+      "n": 27,
+      "cohorts": 14,
+      "observed_rate": 0.714286
+    },
+    {
+      "n": 28,
+      "cohorts": 7,
+      "observed_rate": 0.142857
+    },
+    {
+      "n": 29,
+      "cohorts": 6,
+      "observed_rate": 0.833333
+    }
+  ],
+  "Baseball": [
+    {
+      "n": 5,
+      "cohorts": 7,
+      "observed_rate": 0.0
+    },
+    {
+      "n": 6,
+      "cohorts": 6,
+      "observed_rate": 0.0
+    },
+    {
+      "n": 7,
+      "cohorts": 14,
+      "observed_rate": 0.0
+    },
+    {
+      "n": 8,
+      "cohorts": 22,
+      "observed_rate": 0.045455
+    },
+    {
+      "n": 9,
+      "cohorts": 21,
+      "observed_rate": 0.095238
+    },
+    {
+      "n": 10,
+      "cohorts": 21,
+      "observed_rate": 0.095238
+    },
+    {
+      "n": 11,
+      "cohorts": 37,
+      "observed_rate": 0.27027
+    },
+    {
+      "n": 12,
+      "cohorts": 31,
+      "observed_rate": 0.225806
+    },
+    {
+      "n": 13,
+      "cohorts": 27,
+      "observed_rate": 0.111111
+    },
+    {
+      "n": 14,
+      "cohorts": 29,
+      "observed_rate": 0.275862
+    },
+    {
+      "n": 15,
+      "cohorts": 32,
+      "observed_rate": 0.21875
+    },
+    {
+      "n": 16,
+      "cohorts": 49,
+      "observed_rate": 0.346939
+    },
+    {
+      "n": 17,
+      "cohorts": 52,
+      "observed_rate": 0.326923
+    },
+    {
+      "n": 18,
+      "cohorts": 52,
+      "observed_rate": 0.403846
+    },
+    {
+      "n": 19,
+      "cohorts": 62,
+      "observed_rate": 0.435484
+    },
+    {
+      "n": 20,
+      "cohorts": 47,
+      "observed_rate": 0.531915
+    },
+    {
+      "n": 21,
+      "cohorts": 70,
+      "observed_rate": 0.442857
+    },
+    {
+      "n": 22,
+      "cohorts": 49,
+      "observed_rate": 0.44898
+    },
+    {
+      "n": 23,
+      "cohorts": 59,
+      "observed_rate": 0.542373
+    },
+    {
+      "n": 24,
+      "cohorts": 64,
+      "observed_rate": 0.578125
+    },
+    {
+      "n": 25,
+      "cohorts": 63,
+      "observed_rate": 0.634921
+    },
+    {
+      "n": 26,
+      "cohorts": 55,
+      "observed_rate": 0.6
+    },
+    {
+      "n": 27,
+      "cohorts": 63,
+      "observed_rate": 0.650794
+    },
+    {
+      "n": 28,
+      "cohorts": 71,
+      "observed_rate": 0.633803
+    },
+    {
+      "n": 29,
+      "cohorts": 52,
+      "observed_rate": 0.615385
+    },
+    {
+      "n": 30,
+      "cohorts": 84,
+      "observed_rate": 0.714286
+    },
+    {
+      "n": 31,
+      "cohorts": 82,
+      "observed_rate": 0.719512
+    },
+    {
+      "n": 32,
+      "cohorts": 96,
+      "observed_rate": 0.729167
+    },
+    {
+      "n": 33,
+      "cohorts": 120,
+      "observed_rate": 0.783333
+    },
+    {
+      "n": 34,
+      "cohorts": 110,
+      "observed_rate": 0.745455
+    },
+    {
+      "n": 35,
+      "cohorts": 133,
+      "observed_rate": 0.879699
+    },
+    {
+      "n": 36,
+      "cohorts": 133,
+      "observed_rate": 0.819549
+    },
+    {
+      "n": 37,
+      "cohorts": 163,
+      "observed_rate": 0.92638
+    },
+    {
+      "n": 38,
+      "cohorts": 137,
+      "observed_rate": 0.868613
+    },
+    {
+      "n": 39,
+      "cohorts": 131,
+      "observed_rate": 0.900763
+    },
+    {
+      "n": 40,
+      "cohorts": 152,
+      "observed_rate": 0.914474
+    },
+    {
+      "n": 41,
+      "cohorts": 128,
+      "observed_rate": 0.867188
+    },
+    {
+      "n": 42,
+      "cohorts": 109,
+      "observed_rate": 0.917431
+    },
+    {
+      "n": 43,
+      "cohorts": 129,
+      "observed_rate": 0.914729
+    },
+    {
+      "n": 44,
+      "cohorts": 99,
+      "observed_rate": 0.969697
+    },
+    {
+      "n": 45,
+      "cohorts": 104,
+      "observed_rate": 0.923077
+    },
+    {
+      "n": 46,
+      "cohorts": 89,
+      "observed_rate": 0.955056
+    },
+    {
+      "n": 47,
+      "cohorts": 69,
+      "observed_rate": 0.971014
+    },
+    {
+      "n": 48,
+      "cohorts": 61,
+      "observed_rate": 0.967213
+    },
+    {
+      "n": 49,
+      "cohorts": 77,
+      "observed_rate": 0.987013
+    },
+    {
+      "n": 50,
+      "cohorts": 45,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 51,
+      "cohorts": 49,
+      "observed_rate": 0.979592
+    },
+    {
+      "n": 52,
+      "cohorts": 39,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 53,
+      "cohorts": 34,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 54,
+      "cohorts": 30,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 55,
+      "cohorts": 22,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 56,
+      "cohorts": 27,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 57,
+      "cohorts": 13,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 58,
+      "cohorts": 14,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 59,
+      "cohorts": 7,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 60,
+      "cohorts": 8,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 61,
+      "cohorts": 11,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 62,
+      "cohorts": 5,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 63,
+      "cohorts": 4,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 64,
+      "cohorts": 10,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 65,
+      "cohorts": 3,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 66,
+      "cohorts": 3,
+      "observed_rate": 1.0
+    }
+  ],
+  "American Football": [
+    {
+      "n": 13,
+      "cohorts": 3,
+      "observed_rate": 0.0
+    },
+    {
+      "n": 14,
+      "cohorts": 5,
+      "observed_rate": 0.0
+    },
+    {
+      "n": 15,
+      "cohorts": 7,
+      "observed_rate": 0.428571
+    },
+    {
+      "n": 16,
+      "cohorts": 14,
+      "observed_rate": 0.142857
+    },
+    {
+      "n": 17,
+      "cohorts": 14,
+      "observed_rate": 0.357143
+    },
+    {
+      "n": 18,
+      "cohorts": 19,
+      "observed_rate": 0.578947
+    },
+    {
+      "n": 19,
+      "cohorts": 17,
+      "observed_rate": 0.352941
+    },
+    {
+      "n": 20,
+      "cohorts": 16,
+      "observed_rate": 0.375
+    },
+    {
+      "n": 21,
+      "cohorts": 13,
+      "observed_rate": 0.538462
+    },
+    {
+      "n": 22,
+      "cohorts": 23,
+      "observed_rate": 0.652174
+    },
+    {
+      "n": 23,
+      "cohorts": 17,
+      "observed_rate": 0.529412
+    },
+    {
+      "n": 24,
+      "cohorts": 14,
+      "observed_rate": 0.785714
+    },
+    {
+      "n": 25,
+      "cohorts": 13,
+      "observed_rate": 0.615385
+    },
+    {
+      "n": 26,
+      "cohorts": 14,
+      "observed_rate": 0.571429
+    },
+    {
+      "n": 27,
+      "cohorts": 15,
+      "observed_rate": 0.8
+    },
+    {
+      "n": 28,
+      "cohorts": 13,
+      "observed_rate": 0.538462
+    },
+    {
+      "n": 29,
+      "cohorts": 9,
+      "observed_rate": 0.666667
+    },
+    {
+      "n": 30,
+      "cohorts": 11,
+      "observed_rate": 0.727273
+    },
+    {
+      "n": 31,
+      "cohorts": 17,
+      "observed_rate": 0.764706
+    },
+    {
+      "n": 32,
+      "cohorts": 20,
+      "observed_rate": 0.7
+    },
+    {
+      "n": 33,
+      "cohorts": 33,
+      "observed_rate": 0.636364
+    },
+    {
+      "n": 34,
+      "cohorts": 34,
+      "observed_rate": 0.735294
+    },
+    {
+      "n": 35,
+      "cohorts": 45,
+      "observed_rate": 0.822222
+    },
+    {
+      "n": 36,
+      "cohorts": 41,
+      "observed_rate": 0.902439
+    },
+    {
+      "n": 37,
+      "cohorts": 37,
+      "observed_rate": 0.891892
+    },
+    {
+      "n": 38,
+      "cohorts": 43,
+      "observed_rate": 0.883721
+    },
+    {
+      "n": 39,
+      "cohorts": 30,
+      "observed_rate": 0.833333
+    },
+    {
+      "n": 40,
+      "cohorts": 25,
+      "observed_rate": 0.96
+    },
+    {
+      "n": 41,
+      "cohorts": 22,
+      "observed_rate": 0.863636
+    },
+    {
+      "n": 42,
+      "cohorts": 23,
+      "observed_rate": 0.956522
+    },
+    {
+      "n": 43,
+      "cohorts": 46,
+      "observed_rate": 0.891304
+    },
+    {
+      "n": 44,
+      "cohorts": 32,
+      "observed_rate": 0.875
+    },
+    {
+      "n": 45,
+      "cohorts": 44,
+      "observed_rate": 0.977273
+    },
+    {
+      "n": 46,
+      "cohorts": 49,
+      "observed_rate": 0.979592
+    },
+    {
+      "n": 47,
+      "cohorts": 57,
+      "observed_rate": 0.947368
+    },
+    {
+      "n": 48,
+      "cohorts": 51,
+      "observed_rate": 0.960784
+    },
+    {
+      "n": 49,
+      "cohorts": 55,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 50,
+      "cohorts": 49,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 51,
+      "cohorts": 40,
+      "observed_rate": 0.975
+    },
+    {
+      "n": 52,
+      "cohorts": 48,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 53,
+      "cohorts": 45,
+      "observed_rate": 0.977778
+    },
+    {
+      "n": 54,
+      "cohorts": 41,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 55,
+      "cohorts": 38,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 56,
+      "cohorts": 60,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 57,
+      "cohorts": 54,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 58,
+      "cohorts": 52,
+      "observed_rate": 0.980769
+    },
+    {
+      "n": 59,
+      "cohorts": 56,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 60,
+      "cohorts": 65,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 61,
+      "cohorts": 63,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 62,
+      "cohorts": 62,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 63,
+      "cohorts": 73,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 64,
+      "cohorts": 73,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 65,
+      "cohorts": 56,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 66,
+      "cohorts": 54,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 67,
+      "cohorts": 40,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 68,
+      "cohorts": 35,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 69,
+      "cohorts": 27,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 70,
+      "cohorts": 15,
+      "observed_rate": 1.0
+    }
+  ],
+  "Olympic Athletics": [
+    {
+      "n": 5,
+      "cohorts": 170,
+      "observed_rate": 0.064706
+    },
+    {
+      "n": 6,
+      "cohorts": 148,
+      "observed_rate": 0.081081
+    },
+    {
+      "n": 7,
+      "cohorts": 118,
+      "observed_rate": 0.042373
+    },
+    {
+      "n": 8,
+      "cohorts": 83,
+      "observed_rate": 0.108434
+    },
+    {
+      "n": 9,
+      "cohorts": 73,
+      "observed_rate": 0.150685
+    },
+    {
+      "n": 10,
+      "cohorts": 64,
+      "observed_rate": 0.1875
+    },
+    {
+      "n": 11,
+      "cohorts": 50,
+      "observed_rate": 0.18
+    },
+    {
+      "n": 12,
+      "cohorts": 53,
+      "observed_rate": 0.188679
+    },
+    {
+      "n": 13,
+      "cohorts": 36,
+      "observed_rate": 0.25
+    },
+    {
+      "n": 14,
+      "cohorts": 42,
+      "observed_rate": 0.404762
+    },
+    {
+      "n": 15,
+      "cohorts": 34,
+      "observed_rate": 0.294118
+    },
+    {
+      "n": 16,
+      "cohorts": 31,
+      "observed_rate": 0.354839
+    },
+    {
+      "n": 17,
+      "cohorts": 32,
+      "observed_rate": 0.34375
+    },
+    {
+      "n": 18,
+      "cohorts": 30,
+      "observed_rate": 0.3
+    },
+    {
+      "n": 19,
+      "cohorts": 26,
+      "observed_rate": 0.307692
+    },
+    {
+      "n": 20,
+      "cohorts": 19,
+      "observed_rate": 0.473684
+    },
+    {
+      "n": 21,
+      "cohorts": 31,
+      "observed_rate": 0.516129
+    },
+    {
+      "n": 22,
+      "cohorts": 21,
+      "observed_rate": 0.666667
+    },
+    {
+      "n": 23,
+      "cohorts": 27,
+      "observed_rate": 0.555556
+    },
+    {
+      "n": 24,
+      "cohorts": 16,
+      "observed_rate": 0.625
+    },
+    {
+      "n": 25,
+      "cohorts": 13,
+      "observed_rate": 0.769231
+    },
+    {
+      "n": 26,
+      "cohorts": 16,
+      "observed_rate": 0.75
+    },
+    {
+      "n": 27,
+      "cohorts": 14,
+      "observed_rate": 0.714286
+    },
+    {
+      "n": 28,
+      "cohorts": 12,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 29,
+      "cohorts": 12,
+      "observed_rate": 0.75
+    },
+    {
+      "n": 30,
+      "cohorts": 7,
+      "observed_rate": 0.714286
+    },
+    {
+      "n": 31,
+      "cohorts": 13,
+      "observed_rate": 0.615385
+    },
+    {
+      "n": 32,
+      "cohorts": 11,
+      "observed_rate": 0.636364
+    },
+    {
+      "n": 33,
+      "cohorts": 10,
+      "observed_rate": 0.7
+    },
+    {
+      "n": 34,
+      "cohorts": 6,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 35,
+      "cohorts": 13,
+      "observed_rate": 0.769231
+    },
+    {
+      "n": 36,
+      "cohorts": 8,
+      "observed_rate": 0.75
+    },
+    {
+      "n": 37,
+      "cohorts": 7,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 38,
+      "cohorts": 6,
+      "observed_rate": 0.833333
+    },
+    {
+      "n": 39,
+      "cohorts": 5,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 40,
+      "cohorts": 7,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 41,
+      "cohorts": 3,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 42,
+      "cohorts": 6,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 43,
+      "cohorts": 3,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 44,
+      "cohorts": 11,
+      "observed_rate": 0.727273
+    },
+    {
+      "n": 46,
+      "cohorts": 6,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 47,
+      "cohorts": 11,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 48,
+      "cohorts": 4,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 49,
+      "cohorts": 4,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 50,
+      "cohorts": 5,
+      "observed_rate": 0.8
+    },
+    {
+      "n": 51,
+      "cohorts": 5,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 52,
+      "cohorts": 9,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 53,
+      "cohorts": 3,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 54,
+      "cohorts": 6,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 55,
+      "cohorts": 4,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 56,
+      "cohorts": 3,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 58,
+      "cohorts": 3,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 59,
+      "cohorts": 3,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 61,
+      "cohorts": 5,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 62,
+      "cohorts": 5,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 63,
+      "cohorts": 3,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 64,
+      "cohorts": 8,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 65,
+      "cohorts": 4,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 68,
+      "cohorts": 3,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 69,
+      "cohorts": 3,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 70,
+      "cohorts": 3,
+      "observed_rate": 1.0
+    }
+  ],
+  "Olympic Swimming (Aquatics)": [
+    {
+      "n": 5,
+      "cohorts": 88,
+      "observed_rate": 0.034091
+    },
+    {
+      "n": 6,
+      "cohorts": 67,
+      "observed_rate": 0.089552
+    },
+    {
+      "n": 7,
+      "cohorts": 57,
+      "observed_rate": 0.017544
+    },
+    {
+      "n": 8,
+      "cohorts": 50,
+      "observed_rate": 0.08
+    },
+    {
+      "n": 9,
+      "cohorts": 43,
+      "observed_rate": 0.186047
+    },
+    {
+      "n": 10,
+      "cohorts": 32,
+      "observed_rate": 0.15625
+    },
+    {
+      "n": 11,
+      "cohorts": 23,
+      "observed_rate": 0.130435
+    },
+    {
+      "n": 12,
+      "cohorts": 23,
+      "observed_rate": 0.173913
+    },
+    {
+      "n": 13,
+      "cohorts": 30,
+      "observed_rate": 0.233333
+    },
+    {
+      "n": 14,
+      "cohorts": 16,
+      "observed_rate": 0.3125
+    },
+    {
+      "n": 15,
+      "cohorts": 19,
+      "observed_rate": 0.263158
+    },
+    {
+      "n": 16,
+      "cohorts": 20,
+      "observed_rate": 0.2
+    },
+    {
+      "n": 17,
+      "cohorts": 12,
+      "observed_rate": 0.416667
+    },
+    {
+      "n": 18,
+      "cohorts": 12,
+      "observed_rate": 0.083333
+    },
+    {
+      "n": 19,
+      "cohorts": 9,
+      "observed_rate": 0.333333
+    },
+    {
+      "n": 20,
+      "cohorts": 8,
+      "observed_rate": 0.375
+    },
+    {
+      "n": 21,
+      "cohorts": 14,
+      "observed_rate": 0.5
+    },
+    {
+      "n": 22,
+      "cohorts": 9,
+      "observed_rate": 0.333333
+    },
+    {
+      "n": 23,
+      "cohorts": 12,
+      "observed_rate": 0.583333
+    },
+    {
+      "n": 24,
+      "cohorts": 18,
+      "observed_rate": 0.666667
+    },
+    {
+      "n": 25,
+      "cohorts": 9,
+      "observed_rate": 0.222222
+    },
+    {
+      "n": 26,
+      "cohorts": 11,
+      "observed_rate": 0.727273
+    },
+    {
+      "n": 27,
+      "cohorts": 12,
+      "observed_rate": 0.416667
+    },
+    {
+      "n": 28,
+      "cohorts": 9,
+      "observed_rate": 0.555556
+    },
+    {
+      "n": 29,
+      "cohorts": 10,
+      "observed_rate": 0.6
+    },
+    {
+      "n": 30,
+      "cohorts": 6,
+      "observed_rate": 0.833333
+    },
+    {
+      "n": 31,
+      "cohorts": 8,
+      "observed_rate": 0.875
+    },
+    {
+      "n": 32,
+      "cohorts": 9,
+      "observed_rate": 0.555556
+    },
+    {
+      "n": 33,
+      "cohorts": 4,
+      "observed_rate": 0.5
+    },
+    {
+      "n": 34,
+      "cohorts": 4,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 36,
+      "cohorts": 4,
+      "observed_rate": 0.5
+    },
+    {
+      "n": 37,
+      "cohorts": 3,
+      "observed_rate": 0.333333
+    },
+    {
+      "n": 38,
+      "cohorts": 5,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 40,
+      "cohorts": 3,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 43,
+      "cohorts": 5,
+      "observed_rate": 0.8
+    },
+    {
+      "n": 44,
+      "cohorts": 4,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 48,
+      "cohorts": 3,
+      "observed_rate": 1.0
+    }
+  ],
+  "Olympic Rowing": [
+    {
+      "n": 5,
+      "cohorts": 43,
+      "observed_rate": 0.046512
+    },
+    {
+      "n": 6,
+      "cohorts": 41,
+      "observed_rate": 0.073171
+    },
+    {
+      "n": 7,
+      "cohorts": 34,
+      "observed_rate": 0.117647
+    },
+    {
+      "n": 8,
+      "cohorts": 29,
+      "observed_rate": 0.068966
+    },
+    {
+      "n": 9,
+      "cohorts": 53,
+      "observed_rate": 0.056604
+    },
+    {
+      "n": 10,
+      "cohorts": 39,
+      "observed_rate": 0.230769
+    },
+    {
+      "n": 11,
+      "cohorts": 23,
+      "observed_rate": 0.217391
+    },
+    {
+      "n": 12,
+      "cohorts": 28,
+      "observed_rate": 0.25
+    },
+    {
+      "n": 13,
+      "cohorts": 21,
+      "observed_rate": 0.142857
+    },
+    {
+      "n": 14,
+      "cohorts": 17,
+      "observed_rate": 0.117647
+    },
+    {
+      "n": 15,
+      "cohorts": 13,
+      "observed_rate": 0.230769
+    },
+    {
+      "n": 16,
+      "cohorts": 21,
+      "observed_rate": 0.285714
+    },
+    {
+      "n": 17,
+      "cohorts": 23,
+      "observed_rate": 0.391304
+    },
+    {
+      "n": 18,
+      "cohorts": 9,
+      "observed_rate": 0.444444
+    },
+    {
+      "n": 19,
+      "cohorts": 5,
+      "observed_rate": 0.2
+    },
+    {
+      "n": 20,
+      "cohorts": 14,
+      "observed_rate": 0.357143
+    },
+    {
+      "n": 21,
+      "cohorts": 11,
+      "observed_rate": 0.363636
+    },
+    {
+      "n": 22,
+      "cohorts": 15,
+      "observed_rate": 0.733333
+    },
+    {
+      "n": 23,
+      "cohorts": 9,
+      "observed_rate": 0.555556
+    },
+    {
+      "n": 24,
+      "cohorts": 5,
+      "observed_rate": 0.4
+    },
+    {
+      "n": 25,
+      "cohorts": 11,
+      "observed_rate": 0.636364
+    },
+    {
+      "n": 26,
+      "cohorts": 29,
+      "observed_rate": 0.586207
+    },
+    {
+      "n": 27,
+      "cohorts": 7,
+      "observed_rate": 0.714286
+    },
+    {
+      "n": 28,
+      "cohorts": 6,
+      "observed_rate": 0.5
+    },
+    {
+      "n": 29,
+      "cohorts": 4,
+      "observed_rate": 0.5
+    },
+    {
+      "n": 30,
+      "cohorts": 6,
+      "observed_rate": 0.666667
+    },
+    {
+      "n": 31,
+      "cohorts": 7,
+      "observed_rate": 0.857143
+    },
+    {
+      "n": 32,
+      "cohorts": 3,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 33,
+      "cohorts": 3,
+      "observed_rate": 0.666667
+    },
+    {
+      "n": 34,
+      "cohorts": 4,
+      "observed_rate": 0.75
+    },
+    {
+      "n": 35,
+      "cohorts": 3,
+      "observed_rate": 0.666667
+    },
+    {
+      "n": 36,
+      "cohorts": 5,
+      "observed_rate": 0.8
+    },
+    {
+      "n": 37,
+      "cohorts": 3,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 43,
+      "cohorts": 4,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 44,
+      "cohorts": 4,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 45,
+      "cohorts": 7,
+      "observed_rate": 0.857143
+    },
+    {
+      "n": 46,
+      "cohorts": 3,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 48,
+      "cohorts": 3,
+      "observed_rate": 1.0
+    },
+    {
+      "n": 52,
+      "cohorts": 3,
+      "observed_rate": 0.666667
+    },
+    {
+      "n": 54,
+      "cohorts": 5,
+      "observed_rate": 1.0
+    }
+  ],
+  "Olympic Boxing": [
+    {
+      "n": 5,
+      "cohorts": 127,
+      "observed_rate": 0.062992
+    },
+    {
+      "n": 6,
+      "cohorts": 121,
+      "observed_rate": 0.057851
+    },
+    {
+      "n": 7,
+      "cohorts": 86,
+      "observed_rate": 0.05814
+    },
+    {
+      "n": 8,
+      "cohorts": 78,
+      "observed_rate": 0.115385
+    },
+    {
+      "n": 9,
+      "cohorts": 44,
+      "observed_rate": 0.136364
+    },
+    {
+      "n": 10,
+      "cohorts": 51,
+      "observed_rate": 0.196078
+    },
+    {
+      "n": 11,
+      "cohorts": 45,
+      "observed_rate": 0.155556
+    },
+    {
+      "n": 12,
+      "cohorts": 18,
+      "observed_rate": 0.222222
+    },
+    {
+      "n": 17,
+      "cohorts": 3,
+      "observed_rate": 0.333333
+    }
+  ]
+}

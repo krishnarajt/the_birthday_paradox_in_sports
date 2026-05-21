@@ -1,0 +1,374 @@
+{
+  "sport": "Cricket",
+  "slug": "cricket",
+  "cohorts": 6504,
+  "total_players": 89330,
+  "avg_roster_size": 13.734625,
+  "observed_rate": 0.253229,
+  "theoretical_rate": 0.222965,
+  "deviation": 0.030264,
+  "cohort_kind": "squad",
+  "cohort_kind_breakdown": {
+    "squad": 6504
+  },
+  "by_country": [
+    {
+      "country": "INDIA",
+      "cohorts": 311,
+      "observed_rate": 0.305466,
+      "avg_roster_size": 14.334405
+    },
+    {
+      "country": "PAKISTAN",
+      "cohorts": 303,
+      "observed_rate": 0.171617,
+      "avg_roster_size": 13.673267
+    },
+    {
+      "country": "AUSTRALI",
+      "cohorts": 301,
+      "observed_rate": 0.179402,
+      "avg_roster_size": 13.704319
+    },
+    {
+      "country": "SRI LANK",
+      "cohorts": 300,
+      "observed_rate": 0.263333,
+      "avg_roster_size": 14.136667
+    },
+    {
+      "country": "ENGLAND",
+      "cohorts": 296,
+      "observed_rate": 0.097973,
+      "avg_roster_size": 13.77027
+    },
+    {
+      "country": "SOUTH AF",
+      "cohorts": 283,
+      "observed_rate": 0.29682,
+      "avg_roster_size": 14.212014
+    },
+    {
+      "country": "NEW ZEAL",
+      "cohorts": 281,
+      "observed_rate": 0.238434,
+      "avg_roster_size": 13.715302
+    },
+    {
+      "country": "WEST IND",
+      "cohorts": 262,
+      "observed_rate": 0.370229,
+      "avg_roster_size": 14.389313
+    },
+    {
+      "country": "BANGLADE",
+      "cohorts": 239,
+      "observed_rate": 0.221757,
+      "avg_roster_size": 13.200837
+    },
+    {
+      "country": "ZIMBABWE",
+      "cohorts": 173,
+      "observed_rate": 0.046243,
+      "avg_roster_size": 12.855491
+    },
+    {
+      "country": "IRELAND",
+      "cohorts": 156,
+      "observed_rate": 0.147436,
+      "avg_roster_size": 11.974359
+    },
+    {
+      "country": "NETHERLA",
+      "cohorts": 101,
+      "observed_rate": 0.217822,
+      "avg_roster_size": 11.376238
+    },
+    {
+      "country": "SCOTLAND",
+      "cohorts": 99,
+      "observed_rate": 0.070707,
+      "avg_roster_size": 11.515152
+    },
+    {
+      "country": "UNITED A",
+      "cohorts": 98,
+      "observed_rate": 0.081633,
+      "avg_roster_size": 10.132653
+    },
+    {
+      "country": "NEPAL",
+      "cohorts": 83,
+      "observed_rate": 0.361446,
+      "avg_roster_size": 10.759036
+    },
+    {
+      "country": "NAMIBIA",
+      "cohorts": 74,
+      "observed_rate": 0.256757,
+      "avg_roster_size": 10.689189
+    },
+    {
+      "country": "MALAYSIA",
+      "cohorts": 70,
+      "observed_rate": 0.171429,
+      "avg_roster_size": 9.014286
+    },
+    {
+      "country": "KENYA",
+      "cohorts": 63,
+      "observed_rate": 0.206349,
+      "avg_roster_size": 11.206349
+    },
+    {
+      "country": "PAPUA NE",
+      "cohorts": 62,
+      "observed_rate": 0.096774,
+      "avg_roster_size": 10.241935
+    },
+    {
+      "country": "CANADA",
+      "cohorts": 55,
+      "observed_rate": 0.309091,
+      "avg_roster_size": 10.690909
+    },
+    {
+      "country": "HONG KON",
+      "cohorts": 54,
+      "observed_rate": 0.277778,
+      "avg_roster_size": 11.074074
+    },
+    {
+      "country": "UNITED S",
+      "cohorts": 52,
+      "observed_rate": 0.115385,
+      "avg_roster_size": 10.769231
+    },
+    {
+      "country": "UGANDA",
+      "cohorts": 50,
+      "observed_rate": 0.3,
+      "avg_roster_size": 8.54
+    },
+    {
+      "country": "OMAN",
+      "cohorts": 49,
+      "observed_rate": 0.020408,
+      "avg_roster_size": 11.408163
+    },
+    {
+      "country": "THAILAND",
+      "cohorts": 34,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.0
+    },
+    {
+      "country": "GERMANY",
+      "cohorts": 28,
+      "observed_rate": 0.142857,
+      "avg_roster_size": 7.75
+    },
+    {
+      "country": "SINGAPOR",
+      "cohorts": 25,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.88
+    },
+    {
+      "country": "BERMUDA",
+      "cohorts": 25,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.92
+    },
+    {
+      "country": "JERSEY",
+      "cohorts": 24,
+      "observed_rate": 0.0,
+      "avg_roster_size": 10.291667
+    },
+    {
+      "country": "DENMARK",
+      "cohorts": 22,
+      "observed_rate": 0.045455,
+      "avg_roster_size": 10.545455
+    },
+    {
+      "country": "KUWAIT",
+      "cohorts": 19,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.789474
+    },
+    {
+      "country": "NIGERIA",
+      "cohorts": 18,
+      "observed_rate": 0.111111,
+      "avg_roster_size": 9.222222
+    },
+    {
+      "country": "GUERNSEY",
+      "cohorts": 17,
+      "observed_rate": 0.294118,
+      "avg_roster_size": 9.411765
+    },
+    {
+      "country": "VANUATU",
+      "cohorts": 16,
+      "observed_rate": 0.0,
+      "avg_roster_size": 10.125
+    },
+    {
+      "country": "QATAR",
+      "cohorts": 16,
+      "observed_rate": 0.9375,
+      "avg_roster_size": 8.6875
+    },
+    {
+      "country": "ITALY",
+      "cohorts": 16,
+      "observed_rate": 0.0625,
+      "avg_roster_size": 10.375
+    },
+    {
+      "country": "GHANA",
+      "cohorts": 13,
+      "observed_rate": 0.307692,
+      "avg_roster_size": 9.384615
+    },
+    {
+      "country": "BOTSWANA",
+      "cohorts": 12,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 8.583333
+    },
+    {
+      "country": "TANZANIA",
+      "cohorts": 12,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.166667
+    },
+    {
+      "country": "CAYMAN I",
+      "cohorts": 10,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 1291,
+      "observed_rate": 0.226956,
+      "theoretical_rate": 0.159705,
+      "avg_roster_size": 11.480248
+    },
+    {
+      "gender": "M",
+      "cohorts": 5213,
+      "observed_rate": 0.259735,
+      "theoretical_rate": 0.238631,
+      "avg_roster_size": 14.292922
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "Pakistan — Australia tour of United Arab Emirates 2018/19",
+      "season": "2018/19",
+      "country": "PAKISTAN",
+      "gender": "M",
+      "roster_size": 31,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.730455
+    },
+    {
+      "team": "Sri Lanka — India tour of Sri Lanka 2017",
+      "season": "2017",
+      "country": "SRI LANK",
+      "gender": "M",
+      "roster_size": 29,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.680969
+    },
+    {
+      "team": "South Africa — Pakistan tour of South Africa 2018/19",
+      "season": "2018/19",
+      "country": "SOUTH AF",
+      "gender": "M",
+      "roster_size": 29,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.680969
+    },
+    {
+      "team": "India — India tour of Australia 2020/21",
+      "season": "2020/21",
+      "country": "INDIA",
+      "gender": "M",
+      "roster_size": 29,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.680969
+    },
+    {
+      "team": "Brisbane Heat — Big Bash League 2021/22",
+      "season": "2021/22",
+      "country": null,
+      "gender": "M",
+      "roster_size": 29,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.680969
+    },
+    {
+      "team": "West Indies — West Indies tour of Australia 2023/24",
+      "season": "2023/24",
+      "country": "WEST IND",
+      "gender": "M",
+      "roster_size": 29,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.680969
+    },
+    {
+      "team": "Sri Lanka — Bangladesh tour of Sri Lanka 2025",
+      "season": "2025",
+      "country": "SRI LANK",
+      "gender": "M",
+      "roster_size": 28,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.654461
+    },
+    {
+      "team": "Sri Lanka — England tour of Sri Lanka 2018/19",
+      "season": "2018/19",
+      "country": "SRI LANK",
+      "gender": "M",
+      "roster_size": 27,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.626859
+    },
+    {
+      "team": "India — India tour of Australia 2018/19",
+      "season": "2018/19",
+      "country": "INDIA",
+      "gender": "M",
+      "roster_size": 27,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.626859
+    },
+    {
+      "team": "Australia — Australia tour of United Arab Emirates 2018/19",
+      "season": "2018/19",
+      "country": "AUSTRALI",
+      "gender": "M",
+      "roster_size": 27,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.626859
+    }
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "sport": "Olympic Rowing",
+  "slug": "olympic-rowing",
+  "cohorts": 585,
+  "total_players": 9790,
+  "avg_roster_size": 16.735043,
+  "observed_rate": 0.319658,
+  "theoretical_rate": 0.305084,
+  "deviation": 0.014574,
+  "cohort_kind": "delegation",
+  "cohort_kind_breakdown": {
+    "delegation": 571,
+    "team": 14
+  },
+  "by_country": [
+    {
+      "country": "GBR",
+      "cohorts": 28,
+      "observed_rate": 0.678571,
+      "avg_roster_size": 26.821429
+    },
+    {
+      "country": "CAN",
+      "cohorts": 27,
+      "observed_rate": 0.37037,
+      "avg_roster_size": 21.296296
+    },
+    {
+      "country": "USA",
+      "cohorts": 27,
+      "observed_rate": 0.592593,
+      "avg_roster_size": 32.37037
+    },
+    {
+      "country": "ITA",
+      "cohorts": 26,
+      "observed_rate": 0.307692,
+      "avg_roster_size": 20.307692
+    },
+    {
+      "country": "FRA",
+      "cohorts": 26,
+      "observed_rate": 0.730769,
+      "avg_roster_size": 17.653846
+    },
+    {
+      "country": "NED",
+      "cohorts": 24,
+      "observed_rate": 0.291667,
+      "avg_roster_size": 20.291667
+    },
+    {
+      "country": "AUS",
+      "cohorts": 23,
+      "observed_rate": 0.434783,
+      "avg_roster_size": 24.086957
+    },
+    {
+      "country": "DEN",
+      "cohorts": 22,
+      "observed_rate": 0.136364,
+      "avg_roster_size": 12.363636
+    },
+    {
+      "country": "SUI",
+      "cohorts": 20,
+      "observed_rate": 0.1,
+      "avg_roster_size": 10.75
+    },
+    {
+      "country": "ROU",
+      "cohorts": 19,
+      "observed_rate": 0.210526,
+      "avg_roster_size": 18.421053
+    },
+    {
+      "country": "POL",
+      "cohorts": 19,
+      "observed_rate": 0.421053,
+      "avg_roster_size": 16.368421
+    },
+    {
+      "country": "GER",
+      "cohorts": 18,
+      "observed_rate": 0.444444,
+      "avg_roster_size": 29.5
+    },
+    {
+      "country": "NZL",
+      "cohorts": 17,
+      "observed_rate": 0.411765,
+      "avg_roster_size": 15.882353
+    },
+    {
+      "country": "BEL",
+      "cohorts": 16,
+      "observed_rate": 0.0625,
+      "avg_roster_size": 8.625
+    },
+    {
+      "country": "NOR",
+      "cohorts": 16,
+      "observed_rate": 0.1875,
+      "avg_roster_size": 10.3125
+    },
+    {
+      "country": "HUN",
+      "cohorts": 15,
+      "observed_rate": 0.2,
+      "avg_roster_size": 10.866667
+    },
+    {
+      "country": "ARG",
+      "cohorts": 15,
+      "observed_rate": 0.266667,
+      "avg_roster_size": 10.6
+    },
+    {
+      "country": "AUT",
+      "cohorts": 13,
+      "observed_rate": 0.153846,
+      "avg_roster_size": 8.538462
+    },
+    {
+      "country": "TCH",
+      "cohorts": 13,
+      "observed_rate": 0.230769,
+      "avg_roster_size": 17.769231
+    },
+    {
+      "country": "JPN",
+      "cohorts": 12,
+      "observed_rate": 0.166667,
+      "avg_roster_size": 11.25
+    },
+    {
+      "country": "CUB",
+      "cohorts": 12,
+      "observed_rate": 0.083333,
+      "avg_roster_size": 9.166667
+    },
+    {
+      "country": "SWE",
+      "cohorts": 11,
+      "observed_rate": 0.0,
+      "avg_roster_size": 10.363636
+    },
+    {
+      "country": "CHN",
+      "cohorts": 10,
+      "observed_rate": 0.2,
+      "avg_roster_size": 17.5
+    },
+    {
+      "country": "ESP",
+      "cohorts": 10,
+      "observed_rate": 0.3,
+      "avg_roster_size": 11.7
+    },
+    {
+      "country": "RSA",
+      "cohorts": 10,
+      "observed_rate": 0.2,
+      "avg_roster_size": 6.9
+    },
+    {
+      "country": "YUG",
+      "cohorts": 10,
+      "observed_rate": 0.2,
+      "avg_roster_size": 11.7
+    },
+    {
+      "country": "BRA",
+      "cohorts": 9,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 10.555556
+    },
+    {
+      "country": "URS",
+      "cohorts": 9,
+      "observed_rate": 0.666667,
+      "avg_roster_size": 33.666667
+    },
+    {
+      "country": "IRL",
+      "cohorts": 8,
+      "observed_rate": 0.25,
+      "avg_roster_size": 8.0
+    },
+    {
+      "country": "BUL",
+      "cohorts": 8,
+      "observed_rate": 0.625,
+      "avg_roster_size": 19.75
+    },
+    {
+      "country": "FIN",
+      "cohorts": 8,
+      "observed_rate": 0.125,
+      "avg_roster_size": 9.0
+    },
+    {
+      "country": "BLR",
+      "cohorts": 6,
+      "observed_rate": 0.0,
+      "avg_roster_size": 11.0
+    },
+    {
+      "country": "UKR",
+      "cohorts": 6,
+      "observed_rate": 0.0,
+      "avg_roster_size": 13.333333
+    },
+    {
+      "country": "GRE",
+      "cohorts": 6,
+      "observed_rate": 0.166667,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "CZE",
+      "cohorts": 6,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 10.666667
+    },
+    {
+      "country": "SLO",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.0
+    },
+    {
+      "country": "CRO",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.8
+    },
+    {
+      "country": "FRG",
+      "cohorts": 5,
+      "observed_rate": 0.8,
+      "avg_roster_size": 33.6
+    },
+    {
+      "country": "RUS",
+      "cohorts": 5,
+      "observed_rate": 0.2,
+      "avg_roster_size": 16.0
+    },
+    {
+      "country": "GDR",
+      "cohorts": 5,
+      "observed_rate": 1.0,
+      "avg_roster_size": 41.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 181,
+      "observed_rate": 0.447514,
+      "theoretical_rate": 0.423579,
+      "avg_roster_size": 21.861878
+    },
+    {
+      "gender": "M",
+      "cohorts": 404,
+      "observed_rate": 0.262376,
+      "theoretical_rate": 0.251995,
+      "avg_roster_size": 14.438119
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "GDR Rowing (1980 Summer)",
+      "season": "1980 Summer",
+      "country": "GDR",
+      "gender": "F",
+      "roster_size": 55,
+      "duplicate_pairs": 6,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.986262
+    },
+    {
+      "team": "GDR Rowing (1976 Summer)",
+      "season": "1976 Summer",
+      "country": "GDR",
+      "gender": "F",
+      "roster_size": 54,
+      "duplicate_pairs": 8,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.983877
+    },
+    {
+      "team": "GER Rowing (1992 Summer)",
+      "season": "1992 Summer",
+      "country": "GER",
+      "gender": "F",
+      "roster_size": 54,
+      "duplicate_pairs": 6,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.983877
+    },
+    {
+      "team": "URS Rowing (1980 Summer)",
+      "season": "1980 Summer",
+      "country": "URS",
+      "gender": "M",
+      "roster_size": 54,
+      "duplicate_pairs": 7,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.983877
+    },
+    {
+      "team": "USA Rowing (1984 Summer)",
+      "season": "1984 Summer",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 54,
+      "duplicate_pairs": 3,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.983877
+    },
+    {
+      "team": "USA Rowing (1976 Summer)",
+      "season": "1976 Summer",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 54,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.983877
+    },
+    {
+      "team": "URS Rowing (1988 Summer)",
+      "season": "1988 Summer",
+      "country": "URS",
+      "gender": "F",
+      "roster_size": 53,
+      "duplicate_pairs": 3,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.981138
+    },
+    {
+      "team": "CAN Rowing (1984 Summer)",
+      "season": "1984 Summer",
+      "country": "CAN",
+      "gender": "F",
+      "roster_size": 53,
+      "duplicate_pairs": 4,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.981138
+    },
+    {
+      "team": "BUL Rowing (1980 Summer)",
+      "season": "1980 Summer",
+      "country": "BUL",
+      "gender": "F",
+      "roster_size": 52,
+      "duplicate_pairs": 4,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.978005
+    },
+    {
+      "team": "USA Rowing (1992 Summer)",
+      "season": "1992 Summer",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 52,
+      "duplicate_pairs": 4,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.978005
+    }
+  ]
+}

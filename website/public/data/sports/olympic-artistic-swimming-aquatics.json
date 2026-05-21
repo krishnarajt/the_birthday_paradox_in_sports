@@ -1,0 +1,223 @@
+{
+  "sport": "Olympic Artistic Swimming (Aquatics)",
+  "slug": "olympic-artistic-swimming-aquatics",
+  "cohorts": 58,
+  "total_players": 497,
+  "avg_roster_size": 8.568966,
+  "observed_rate": 0.241379,
+  "theoretical_rate": 0.086024,
+  "deviation": 0.155355,
+  "cohort_kind": "team",
+  "cohort_kind_breakdown": {
+    "team": 58
+  },
+  "by_country": [
+    {
+      "country": "CHN",
+      "cohorts": 7,
+      "observed_rate": 0.428571,
+      "avg_roster_size": 8.571429
+    },
+    {
+      "country": "JPN",
+      "cohorts": 7,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.714286
+    },
+    {
+      "country": "RUS",
+      "cohorts": 6,
+      "observed_rate": 0.5,
+      "avg_roster_size": 8.833333
+    },
+    {
+      "country": "CAN",
+      "cohorts": 6,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.333333
+    },
+    {
+      "country": "AUS",
+      "cohorts": 5,
+      "observed_rate": 0.2,
+      "avg_roster_size": 8.6
+    },
+    {
+      "country": "ITA",
+      "cohorts": 5,
+      "observed_rate": 0.2,
+      "avg_roster_size": 9.0
+    },
+    {
+      "country": "ESP",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.0
+    },
+    {
+      "country": "EGY",
+      "cohorts": 4,
+      "observed_rate": 0.25,
+      "avg_roster_size": 8.0
+    },
+    {
+      "country": "USA",
+      "cohorts": 4,
+      "observed_rate": 0.25,
+      "avg_roster_size": 9.25
+    },
+    {
+      "country": "UKR",
+      "cohorts": 2,
+      "observed_rate": 0.5,
+      "avg_roster_size": 8.0
+    },
+    {
+      "country": "FRA",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.0
+    },
+    {
+      "country": "GRE",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.5
+    },
+    {
+      "country": "GBR",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.0
+    },
+    {
+      "country": "BRA",
+      "cohorts": 1,
+      "observed_rate": 1.0,
+      "avg_roster_size": 9.0
+    },
+    {
+      "country": "MEX",
+      "cohorts": 1,
+      "observed_rate": 1.0,
+      "avg_roster_size": 9.0
+    },
+    {
+      "country": "ROC",
+      "cohorts": 1,
+      "observed_rate": 1.0,
+      "avg_roster_size": 8.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 58,
+      "observed_rate": 0.241379,
+      "theoretical_rate": 0.086024,
+      "avg_roster_size": 8.568966
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "USA Artistic Swimming (Aquatics) (1996 Summer)",
+      "season": "1996 Summer",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 10,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.116948
+    },
+    {
+      "team": "ITA Artistic Swimming (Aquatics) (2000 Summer)",
+      "season": "2000 Summer",
+      "country": "ITA",
+      "gender": "F",
+      "roster_size": 9,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.094624
+    },
+    {
+      "team": "MEX Artistic Swimming (Aquatics) (1996 Summer)",
+      "season": "1996 Summer",
+      "country": "MEX",
+      "gender": "F",
+      "roster_size": 9,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.094624
+    },
+    {
+      "team": "CHN Artistic Swimming (Aquatics) (2008 Summer)",
+      "season": "2008 Summer",
+      "country": "CHN",
+      "gender": "F",
+      "roster_size": 9,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.094624
+    },
+    {
+      "team": "AUS Artistic Swimming (Aquatics) (2000 Summer)",
+      "season": "2000 Summer",
+      "country": "AUS",
+      "gender": "F",
+      "roster_size": 9,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.094624
+    },
+    {
+      "team": "RUS Artistic Swimming (Aquatics) (2008 Summer)",
+      "season": "2008 Summer",
+      "country": "RUS",
+      "gender": "F",
+      "roster_size": 9,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.094624
+    },
+    {
+      "team": "CHN Artistic Swimming (Aquatics) (2012 Summer)",
+      "season": "2012 Summer",
+      "country": "CHN",
+      "gender": "F",
+      "roster_size": 9,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.094624
+    },
+    {
+      "team": "BRA Artistic Swimming (Aquatics) (2016 Summer)",
+      "season": "2016 Summer",
+      "country": "BRA",
+      "gender": "F",
+      "roster_size": 9,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.094624
+    },
+    {
+      "team": "RUS Artistic Swimming (Aquatics) (2016 Summer)",
+      "season": "2016 Summer",
+      "country": "RUS",
+      "gender": "F",
+      "roster_size": 9,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.094624
+    },
+    {
+      "team": "EGY Artistic Swimming (Aquatics) (2016 Summer)",
+      "season": "2016 Summer",
+      "country": "EGY",
+      "gender": "F",
+      "roster_size": 9,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.094624
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "sport": "Football (Soccer)",
+  "slug": "football-soccer",
+  "cohorts": 12103,
+  "total_players": 361411,
+  "avg_roster_size": 29.861274,
+  "observed_rate": 0.714699,
+  "theoretical_rate": 0.685344,
+  "deviation": 0.029354,
+  "cohort_kind": "team",
+  "cohort_kind_breakdown": {
+    "team": 12103
+  },
+  "by_country": [
+    {
+      "country": "ENG",
+      "cohorts": 1890,
+      "observed_rate": 0.769312,
+      "avg_roster_size": 32.53545
+    },
+    {
+      "country": "SPAIN",
+      "cohorts": 672,
+      "observed_rate": 0.748512,
+      "avg_roster_size": 31.261905
+    },
+    {
+      "country": "ITALY",
+      "cohorts": 659,
+      "observed_rate": 0.795144,
+      "avg_roster_size": 33.559939
+    },
+    {
+      "country": "FRANCE",
+      "cohorts": 636,
+      "observed_rate": 0.669811,
+      "avg_roster_size": 27.319182
+    },
+    {
+      "country": "MEXICO",
+      "cohorts": 577,
+      "observed_rate": 0.655113,
+      "avg_roster_size": 26.953206
+    },
+    {
+      "country": "GER",
+      "cohorts": 577,
+      "observed_rate": 0.764298,
+      "avg_roster_size": 30.121317
+    },
+    {
+      "country": "ARG",
+      "cohorts": 538,
+      "observed_rate": 0.802974,
+      "avg_roster_size": 32.890335
+    },
+    {
+      "country": "NATIONAL",
+      "cohorts": 453,
+      "observed_rate": 0.529801,
+      "avg_roster_size": 23.8234
+    },
+    {
+      "country": "USA",
+      "cohorts": 370,
+      "observed_rate": 0.654054,
+      "avg_roster_size": 28.356757
+    },
+    {
+      "country": "BRAZIL",
+      "cohorts": 340,
+      "observed_rate": 0.861765,
+      "avg_roster_size": 35.838235
+    },
+    {
+      "country": "JAPAN",
+      "cohorts": 310,
+      "observed_rate": 0.745161,
+      "avg_roster_size": 31.632258
+    },
+    {
+      "country": "TURKEY",
+      "cohorts": 296,
+      "observed_rate": 0.665541,
+      "avg_roster_size": 27.743243
+    },
+    {
+      "country": "SCOTS",
+      "cohorts": 292,
+      "observed_rate": 0.743151,
+      "avg_roster_size": 32.438356
+    },
+    {
+      "country": "PORTUGAL",
+      "cohorts": 276,
+      "observed_rate": 0.634058,
+      "avg_roster_size": 28.442029
+    },
+    {
+      "country": "SWEDEN",
+      "cohorts": 272,
+      "observed_rate": 0.639706,
+      "avg_roster_size": 25.3125
+    },
+    {
+      "country": "NORWAY",
+      "cohorts": 270,
+      "observed_rate": 0.62963,
+      "avg_roster_size": 26.307407
+    },
+    {
+      "country": "BELGIUM",
+      "cohorts": 264,
+      "observed_rate": 0.674242,
+      "avg_roster_size": 28.344697
+    },
+    {
+      "country": "POLAND",
+      "cohorts": 262,
+      "observed_rate": 0.660305,
+      "avg_roster_size": 28.534351
+    },
+    {
+      "country": "RUSSIA",
+      "cohorts": 256,
+      "observed_rate": 0.730469,
+      "avg_roster_size": 30.410156
+    },
+    {
+      "country": "GREECE",
+      "cohorts": 249,
+      "observed_rate": 0.666667,
+      "avg_roster_size": 29.698795
+    },
+    {
+      "country": "NETHERL",
+      "cohorts": 234,
+      "observed_rate": 0.662393,
+      "avg_roster_size": 28.816239
+    },
+    {
+      "country": "UKRAINE",
+      "cohorts": 234,
+      "observed_rate": 0.692308,
+      "avg_roster_size": 29.619658
+    },
+    {
+      "country": "CZECH",
+      "cohorts": 226,
+      "observed_rate": 0.619469,
+      "avg_roster_size": 26.079646
+    },
+    {
+      "country": "CHINA",
+      "cohorts": 224,
+      "observed_rate": 0.875,
+      "avg_roster_size": 32.678571
+    },
+    {
+      "country": "HUNGARY",
+      "cohorts": 220,
+      "observed_rate": 0.709091,
+      "avg_roster_size": 29.313636
+    },
+    {
+      "country": "DENMARK",
+      "cohorts": 200,
+      "observed_rate": 0.695,
+      "avg_roster_size": 25.975
+    },
+    {
+      "country": "CHILE",
+      "cohorts": 178,
+      "observed_rate": 0.741573,
+      "avg_roster_size": 29.747191
+    },
+    {
+      "country": "IRELAND",
+      "cohorts": 174,
+      "observed_rate": 0.643678,
+      "avg_roster_size": 26.224138
+    },
+    {
+      "country": "AUSTRIA",
+      "cohorts": 172,
+      "observed_rate": 0.674419,
+      "avg_roster_size": 28.337209
+    },
+    {
+      "country": "AUSTRALIA",
+      "cohorts": 167,
+      "observed_rate": 0.634731,
+      "avg_roster_size": 27.071856
+    },
+    {
+      "country": "SWITZ",
+      "cohorts": 162,
+      "observed_rate": 0.765432,
+      "avg_roster_size": 28.54321
+    },
+    {
+      "country": "URUGUAY",
+      "cohorts": 110,
+      "observed_rate": 0.572727,
+      "avg_roster_size": 27.636364
+    },
+    {
+      "country": "COLOMBIA",
+      "cohorts": 100,
+      "observed_rate": 0.73,
+      "avg_roster_size": 28.64
+    },
+    {
+      "country": "HOLLAND",
+      "cohorts": 54,
+      "observed_rate": 0.759259,
+      "avg_roster_size": 33.37037
+    },
+    {
+      "country": "CROATIA",
+      "cohorts": 20,
+      "observed_rate": 0.8,
+      "avg_roster_size": 29.75
+    },
+    {
+      "country": "SUI",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 23.0
+    },
+    {
+      "country": "BRA",
+      "cohorts": 1,
+      "observed_rate": 1.0,
+      "avg_roster_size": 23.0
+    },
+    {
+      "country": "Australi",
+      "cohorts": 1,
+      "observed_rate": 1.0,
+      "avg_roster_size": 34.0
+    },
+    {
+      "country": "Argentin",
+      "cohorts": 1,
+      "observed_rate": 1.0,
+      "avg_roster_size": 42.0
+    },
+    {
+      "country": "AUS",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 23.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 48,
+      "observed_rate": 0.5,
+      "theoretical_rate": 0.541993,
+      "avg_roster_size": 24.166667
+    },
+    {
+      "gender": "M",
+      "cohorts": 12055,
+      "observed_rate": 0.715554,
+      "theoretical_rate": 0.685915,
+      "avg_roster_size": 29.883949
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "Leicester City - English Premier League 2022/2023",
+      "season": "2022-2023",
+      "country": "ENG",
+      "gender": "M",
+      "roster_size": 74,
+      "duplicate_pairs": 7,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.999649
+    },
+    {
+      "team": "Newcastle United - English Premier League 2023/2024",
+      "season": "2023-2024",
+      "country": "ENG",
+      "gender": "M",
+      "roster_size": 73,
+      "duplicate_pairs": 7,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.999561
+    },
+    {
+      "team": "Newcastle United - English Premier League 2022/2023",
+      "season": "2022-2023",
+      "country": "ENG",
+      "gender": "M",
+      "roster_size": 70,
+      "duplicate_pairs": 4,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.99916
+    },
+    {
+      "team": "Chelsea - English Premier League 2022/2023",
+      "season": "2022-2023",
+      "country": "ENG",
+      "gender": "M",
+      "roster_size": 69,
+      "duplicate_pairs": 3,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.998964
+    },
+    {
+      "team": "Chelsea - English Premier League 2023/2024",
+      "season": "2023-2024",
+      "country": "ENG",
+      "gender": "M",
+      "roster_size": 69,
+      "duplicate_pairs": 6,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.998964
+    },
+    {
+      "team": "Leicester City - English Premier League 2017/2018",
+      "season": "2017-2018",
+      "country": "ENG",
+      "gender": "M",
+      "roster_size": 68,
+      "duplicate_pairs": 4,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.998726
+    },
+    {
+      "team": "Liverpool - English Premier League 2022/2023",
+      "season": "2022-2023",
+      "country": "ENG",
+      "gender": "M",
+      "roster_size": 68,
+      "duplicate_pairs": 4,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.998726
+    },
+    {
+      "team": "Arsenal - English Premier League 2023/2024",
+      "season": "2023-2024",
+      "country": "ENG",
+      "gender": "M",
+      "roster_size": 68,
+      "duplicate_pairs": 7,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.998726
+    },
+    {
+      "team": "Leicester City - English Premier League 2016/17",
+      "season": "2016-2017",
+      "country": "ENG",
+      "gender": "M",
+      "roster_size": 66,
+      "duplicate_pairs": 7,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.998096
+    },
+    {
+      "team": "Chelsea - English Premier League 2021/2022",
+      "season": "2021-2022",
+      "country": "ENG",
+      "gender": "M",
+      "roster_size": 66,
+      "duplicate_pairs": 6,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.998096
+    }
+  ]
+}

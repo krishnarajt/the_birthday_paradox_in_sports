@@ -1,0 +1,212 @@
+{
+  "sport": "Olympic Cycling Road",
+  "slug": "olympic-cycling-road",
+  "cohorts": 13,
+  "total_players": 85,
+  "avg_roster_size": 6.538462,
+  "observed_rate": 0.076923,
+  "theoretical_rate": 0.049878,
+  "deviation": 0.027045,
+  "cohort_kind": "delegation",
+  "cohort_kind_breakdown": {
+    "delegation": 13
+  },
+  "by_country": [
+    {
+      "country": "AUS",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "BEL",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.0
+    },
+    {
+      "country": "DEN",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "ESP",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "FRA",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "GBR",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "GER",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "ITA",
+      "cohorts": 1,
+      "observed_rate": 1.0,
+      "avg_roster_size": 8.0
+    },
+    {
+      "country": "NED",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "POL",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "SLO",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "SUI",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "USA",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 6,
+      "observed_rate": 0.0,
+      "theoretical_rate": 0.051773,
+      "avg_roster_size": 6.666667
+    },
+    {
+      "gender": "M",
+      "cohorts": 7,
+      "observed_rate": 0.142857,
+      "theoretical_rate": 0.048254,
+      "avg_roster_size": 6.428571
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "ITA Cycling Road (2024 Summer)",
+      "season": "2024 Summer",
+      "country": "ITA",
+      "gender": "M",
+      "roster_size": 8,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.074335
+    },
+    {
+      "team": "BEL Cycling Road (2024 Summer)",
+      "season": "2024 Summer",
+      "country": "BEL",
+      "gender": "F",
+      "roster_size": 8,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.074335
+    },
+    {
+      "team": "DEN Cycling Road (2024 Summer)",
+      "season": "2024 Summer",
+      "country": "DEN",
+      "gender": "F",
+      "roster_size": 7,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.056236
+    },
+    {
+      "team": "FRA Cycling Road (2024 Summer)",
+      "season": "2024 Summer",
+      "country": "FRA",
+      "gender": "M",
+      "roster_size": 7,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.056236
+    },
+    {
+      "team": "GBR Cycling Road (2024 Summer)",
+      "season": "2024 Summer",
+      "country": "GBR",
+      "gender": "F",
+      "roster_size": 7,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.056236
+    },
+    {
+      "team": "AUS Cycling Road (2024 Summer)",
+      "season": "2024 Summer",
+      "country": "AUS",
+      "gender": "M",
+      "roster_size": 7,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.056236
+    },
+    {
+      "team": "NED Cycling Road (2024 Summer)",
+      "season": "2024 Summer",
+      "country": "NED",
+      "gender": "F",
+      "roster_size": 7,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.056236
+    },
+    {
+      "team": "SUI Cycling Road (2024 Summer)",
+      "season": "2024 Summer",
+      "country": "SUI",
+      "gender": "M",
+      "roster_size": 7,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.056236
+    },
+    {
+      "team": "GER Cycling Road (2024 Summer)",
+      "season": "2024 Summer",
+      "country": "GER",
+      "gender": "F",
+      "roster_size": 6,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.040462
+    },
+    {
+      "team": "SLO Cycling Road (2024 Summer)",
+      "season": "2024 Summer",
+      "country": "SLO",
+      "gender": "M",
+      "roster_size": 6,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.040462
+    }
+  ]
+}

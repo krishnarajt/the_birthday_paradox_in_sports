@@ -1,0 +1,374 @@
+{
+  "sport": "Olympic Bobsleigh (Bobsleigh)",
+  "slug": "olympic-bobsleigh-bobsleigh",
+  "cohorts": 264,
+  "total_players": 2184,
+  "avg_roster_size": 8.272727,
+  "observed_rate": 0.098485,
+  "theoretical_rate": 0.087524,
+  "deviation": 0.010961,
+  "cohort_kind": "delegation",
+  "cohort_kind_breakdown": {
+    "delegation": 264
+  },
+  "by_country": [
+    {
+      "country": "USA",
+      "cohorts": 21,
+      "observed_rate": 0.142857,
+      "avg_roster_size": 11.190476
+    },
+    {
+      "country": "SUI",
+      "cohorts": 21,
+      "observed_rate": 0.047619,
+      "avg_roster_size": 8.761905
+    },
+    {
+      "country": "GBR",
+      "cohorts": 20,
+      "observed_rate": 0.1,
+      "avg_roster_size": 8.55
+    },
+    {
+      "country": "AUT",
+      "cohorts": 19,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.631579
+    },
+    {
+      "country": "ITA",
+      "cohorts": 18,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.833333
+    },
+    {
+      "country": "ROU",
+      "cohorts": 18,
+      "observed_rate": 0.111111,
+      "avg_roster_size": 6.5
+    },
+    {
+      "country": "FRA",
+      "cohorts": 17,
+      "observed_rate": 0.176471,
+      "avg_roster_size": 6.941176
+    },
+    {
+      "country": "CAN",
+      "cohorts": 15,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 10.4
+    },
+    {
+      "country": "GER",
+      "cohorts": 15,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 11.933333
+    },
+    {
+      "country": "LAT",
+      "cohorts": 9,
+      "observed_rate": 0.111111,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "FRG",
+      "cohorts": 6,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.666667
+    },
+    {
+      "country": "RUS",
+      "cohorts": 6,
+      "observed_rate": 0.166667,
+      "avg_roster_size": 10.5
+    },
+    {
+      "country": "JPN",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.6
+    },
+    {
+      "country": "CZE",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.6
+    },
+    {
+      "country": "NED",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.4
+    },
+    {
+      "country": "BEL",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.25
+    },
+    {
+      "country": "ISV",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.5
+    },
+    {
+      "country": "SWE",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.5
+    },
+    {
+      "country": "GDR",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.5
+    },
+    {
+      "country": "NOR",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.333333
+    },
+    {
+      "country": "KOR",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.0
+    },
+    {
+      "country": "JAM",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.333333
+    },
+    {
+      "country": "AUS",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "YUG",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "PUR",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "CHN",
+      "cohorts": 2,
+      "observed_rate": 0.5,
+      "avg_roster_size": 8.5
+    },
+    {
+      "country": "BUL",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "ARG",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.5
+    },
+    {
+      "country": "BIH",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "CRO",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "TPE",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "URS",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.0
+    },
+    {
+      "country": "ROC",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 10.5
+    },
+    {
+      "country": "MON",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "MEX",
+      "cohorts": 2,
+      "observed_rate": 0.5,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "POL",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "BRA",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "ESP",
+      "cohorts": 1,
+      "observed_rate": 1.0,
+      "avg_roster_size": 9.0
+    },
+    {
+      "country": "EUN",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.0
+    },
+    {
+      "country": "LUX",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 20,
+      "observed_rate": 0.2,
+      "theoretical_rate": 0.135087,
+      "avg_roster_size": 10.25
+    },
+    {
+      "gender": "M",
+      "cohorts": 244,
+      "observed_rate": 0.090164,
+      "theoretical_rate": 0.083625,
+      "avg_roster_size": 8.110656
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "GER Bobsleigh (Bobsleigh) (2010 Winter)",
+      "season": "2010 Winter",
+      "country": "GER",
+      "gender": "F",
+      "roster_size": 18,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.346911
+    },
+    {
+      "team": "GER Bobsleigh (Bobsleigh) (2018 Winter)",
+      "season": "2018 Winter",
+      "country": "GER",
+      "gender": "M",
+      "roster_size": 18,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.346911
+    },
+    {
+      "team": "CAN Bobsleigh (Bobsleigh) (2018 Winter)",
+      "season": "2018 Winter",
+      "country": "CAN",
+      "gender": "M",
+      "roster_size": 18,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.346911
+    },
+    {
+      "team": "GER Bobsleigh (Bobsleigh) (2014 Winter)",
+      "season": "2014 Winter",
+      "country": "GER",
+      "gender": "F",
+      "roster_size": 17,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.315008
+    },
+    {
+      "team": "RUS Bobsleigh (Bobsleigh) (2014 Winter)",
+      "season": "2014 Winter",
+      "country": "RUS",
+      "gender": "M",
+      "roster_size": 16,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.283604
+    },
+    {
+      "team": "USA Bobsleigh (Bobsleigh) (2018 Winter)",
+      "season": "2018 Winter",
+      "country": "USA",
+      "gender": "M",
+      "roster_size": 16,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.283604
+    },
+    {
+      "team": "GBR Bobsleigh (Bobsleigh) (2002 Winter)",
+      "season": "2002 Winter",
+      "country": "GBR",
+      "gender": "M",
+      "roster_size": 14,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.223103
+    },
+    {
+      "team": "GER Bobsleigh (Bobsleigh) (2006 Winter)",
+      "season": "2006 Winter",
+      "country": "GER",
+      "gender": "F",
+      "roster_size": 14,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.223103
+    },
+    {
+      "team": "GER Bobsleigh (Bobsleigh) (2002 Winter)",
+      "season": "2002 Winter",
+      "country": "GER",
+      "gender": "F",
+      "roster_size": 13,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.19441
+    },
+    {
+      "team": "USA Bobsleigh (Bobsleigh) (2002 Winter)",
+      "season": "2002 Winter",
+      "country": "USA",
+      "gender": "M",
+      "roster_size": 13,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.19441
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "sport": "Olympic Freestyle Skiing (Skiing)",
+  "slug": "olympic-freestyle-skiing-skiing",
+  "cohorts": 127,
+  "total_players": 1333,
+  "avg_roster_size": 10.496063,
+  "observed_rate": 0.165354,
+  "theoretical_rate": 0.147834,
+  "deviation": 0.01752,
+  "cohort_kind": "delegation",
+  "cohort_kind_breakdown": {
+    "delegation": 127
+  },
+  "by_country": [
+    {
+      "country": "CAN",
+      "cohorts": 10,
+      "observed_rate": 0.2,
+      "avg_roster_size": 17.5
+    },
+    {
+      "country": "USA",
+      "cohorts": 10,
+      "observed_rate": 0.6,
+      "avg_roster_size": 15.9
+    },
+    {
+      "country": "FRA",
+      "cohorts": 10,
+      "observed_rate": 0.1,
+      "avg_roster_size": 9.8
+    },
+    {
+      "country": "AUS",
+      "cohorts": 9,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 10.222222
+    },
+    {
+      "country": "SUI",
+      "cohorts": 8,
+      "observed_rate": 0.25,
+      "avg_roster_size": 13.5
+    },
+    {
+      "country": "SWE",
+      "cohorts": 8,
+      "observed_rate": 0.25,
+      "avg_roster_size": 9.0
+    },
+    {
+      "country": "CHN",
+      "cohorts": 8,
+      "observed_rate": 0.0,
+      "avg_roster_size": 10.375
+    },
+    {
+      "country": "RUS",
+      "cohorts": 7,
+      "observed_rate": 0.142857,
+      "avg_roster_size": 12.0
+    },
+    {
+      "country": "JPN",
+      "cohorts": 7,
+      "observed_rate": 0.285714,
+      "avg_roster_size": 9.428571
+    },
+    {
+      "country": "BLR",
+      "cohorts": 7,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.857143
+    },
+    {
+      "country": "GER",
+      "cohorts": 6,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "NOR",
+      "cohorts": 4,
+      "observed_rate": 0.25,
+      "avg_roster_size": 7.25
+    },
+    {
+      "country": "UKR",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.5
+    },
+    {
+      "country": "AUT",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 11.25
+    },
+    {
+      "country": "GBR",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.0
+    },
+    {
+      "country": "KAZ",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.0
+    },
+    {
+      "country": "CZE",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.333333
+    },
+    {
+      "country": "NZL",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.0
+    },
+    {
+      "country": "FIN",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.666667
+    },
+    {
+      "country": "ITA",
+      "cohorts": 3,
+      "observed_rate": 0.333333,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "KOR",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "ROC",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 21.5
+    },
+    {
+      "country": "EUN",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 11.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 94,
+      "observed_rate": 0.202128,
+      "theoretical_rate": 0.151064,
+      "avg_roster_size": 10.638298
+    },
+    {
+      "gender": "M",
+      "cohorts": 33,
+      "observed_rate": 0.060606,
+      "theoretical_rate": 0.138635,
+      "avg_roster_size": 10.090909
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "CAN Freestyle Skiing (Skiing) (2022 Winter)",
+      "season": "2022 Winter",
+      "country": "CAN",
+      "gender": "F",
+      "roster_size": 31,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.730455
+    },
+    {
+      "team": "CAN Freestyle Skiing (Skiing) (2018 Winter)",
+      "season": "2018 Winter",
+      "country": "CAN",
+      "gender": "F",
+      "roster_size": 30,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.706316
+    },
+    {
+      "team": "USA Freestyle Skiing (Skiing) (2018 Winter)",
+      "season": "2018 Winter",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 29,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.680969
+    },
+    {
+      "team": "USA Freestyle Skiing (Skiing) (2014 Winter)",
+      "season": "2014 Winter",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 24,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.538344
+    },
+    {
+      "team": "AUS Freestyle Skiing (Skiing) (2014 Winter)",
+      "season": "2014 Winter",
+      "country": "AUS",
+      "gender": "F",
+      "roster_size": 21,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.443688
+    },
+    {
+      "team": "USA Freestyle Skiing (Skiing) (2010 Winter)",
+      "season": "2010 Winter",
+      "country": "USA",
+      "gender": "M",
+      "roster_size": 18,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.346911
+    },
+    {
+      "team": "AUS Freestyle Skiing (Skiing) (2018 Winter)",
+      "season": "2018 Winter",
+      "country": "AUS",
+      "gender": "F",
+      "roster_size": 16,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.283604
+    },
+    {
+      "team": "USA Freestyle Skiing (Skiing) (2022 Winter)",
+      "season": "2022 Winter",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 15,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.252901
+    },
+    {
+      "team": "USA Freestyle Skiing (Skiing) (1998 Winter)",
+      "season": "1998 Winter",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 14,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.223103
+    },
+    {
+      "team": "USA Freestyle Skiing (Skiing) (2002 Winter)",
+      "season": "2002 Winter",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 14,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.223103
+    }
+  ]
+}

@@ -1,0 +1,995 @@
+{
+  "overall": [
+    {
+      "month": 1,
+      "month_name": "Jan",
+      "count": 28530,
+      "share": 0.095556,
+      "expected_share": 0.084932,
+      "deviation": 0.010625,
+      "relative_to_expected": 1.125096
+    },
+    {
+      "month": 2,
+      "month_name": "Feb",
+      "count": 26176,
+      "share": 0.087672,
+      "expected_share": 0.076712,
+      "deviation": 0.010959,
+      "relative_to_expected": 1.142865
+    },
+    {
+      "month": 3,
+      "month_name": "Mar",
+      "count": 27708,
+      "share": 0.092803,
+      "expected_share": 0.084932,
+      "deviation": 0.007871,
+      "relative_to_expected": 1.09268
+    },
+    {
+      "month": 4,
+      "month_name": "Apr",
+      "count": 25625,
+      "share": 0.085826,
+      "expected_share": 0.082192,
+      "deviation": 0.003635,
+      "relative_to_expected": 1.044221
+    },
+    {
+      "month": 5,
+      "month_name": "May",
+      "count": 25489,
+      "share": 0.085371,
+      "expected_share": 0.084932,
+      "deviation": 0.000439,
+      "relative_to_expected": 1.005173
+    },
+    {
+      "month": 6,
+      "month_name": "Jun",
+      "count": 23602,
+      "share": 0.079051,
+      "expected_share": 0.082192,
+      "deviation": -0.003141,
+      "relative_to_expected": 0.961783
+    },
+    {
+      "month": 7,
+      "month_name": "Jul",
+      "count": 24267,
+      "share": 0.081278,
+      "expected_share": 0.084932,
+      "deviation": -0.003654,
+      "relative_to_expected": 0.956983
+    },
+    {
+      "month": 8,
+      "month_name": "Aug",
+      "count": 24195,
+      "share": 0.081037,
+      "expected_share": 0.084932,
+      "deviation": -0.003895,
+      "relative_to_expected": 0.954143
+    },
+    {
+      "month": 9,
+      "month_name": "Sep",
+      "count": 24705,
+      "share": 0.082745,
+      "expected_share": 0.082192,
+      "deviation": 0.000553,
+      "relative_to_expected": 1.00673
+    },
+    {
+      "month": 10,
+      "month_name": "Oct",
+      "count": 23749,
+      "share": 0.079543,
+      "expected_share": 0.084932,
+      "deviation": -0.005388,
+      "relative_to_expected": 0.936555
+    },
+    {
+      "month": 11,
+      "month_name": "Nov",
+      "count": 22266,
+      "share": 0.074576,
+      "expected_share": 0.082192,
+      "deviation": -0.007616,
+      "relative_to_expected": 0.907341
+    },
+    {
+      "month": 12,
+      "month_name": "Dec",
+      "count": 22256,
+      "share": 0.074542,
+      "expected_share": 0.084932,
+      "deviation": -0.010389,
+      "relative_to_expected": 0.877678
+    }
+  ],
+  "by_sport": {
+    "Football (Soccer)": [
+      {
+        "month": 1,
+        "month_name": "Jan",
+        "count": 9953,
+        "share": 0.112647,
+        "expected_share": 0.084932,
+        "deviation": 0.027715,
+        "relative_to_expected": 1.326322
+      },
+      {
+        "month": 2,
+        "month_name": "Feb",
+        "count": 8631,
+        "share": 0.097684,
+        "expected_share": 0.076712,
+        "deviation": 0.020972,
+        "relative_to_expected": 1.273386
+      },
+      {
+        "month": 3,
+        "month_name": "Mar",
+        "count": 8932,
+        "share": 0.101091,
+        "expected_share": 0.084932,
+        "deviation": 0.01616,
+        "relative_to_expected": 1.190265
+      },
+      {
+        "month": 4,
+        "month_name": "Apr",
+        "count": 8177,
+        "share": 0.092546,
+        "expected_share": 0.082192,
+        "deviation": 0.010354,
+        "relative_to_expected": 1.125977
+      },
+      {
+        "month": 5,
+        "month_name": "May",
+        "count": 7873,
+        "share": 0.089105,
+        "expected_share": 0.084932,
+        "deviation": 0.004174,
+        "relative_to_expected": 1.049145
+      },
+      {
+        "month": 6,
+        "month_name": "Jun",
+        "count": 6988,
+        "share": 0.079089,
+        "expected_share": 0.082192,
+        "deviation": -0.003103,
+        "relative_to_expected": 0.962251
+      },
+      {
+        "month": 7,
+        "month_name": "Jul",
+        "count": 6823,
+        "share": 0.077222,
+        "expected_share": 0.084932,
+        "deviation": -0.00771,
+        "relative_to_expected": 0.909223
+      },
+      {
+        "month": 8,
+        "month_name": "Aug",
+        "count": 6714,
+        "share": 0.075988,
+        "expected_share": 0.084932,
+        "deviation": -0.008943,
+        "relative_to_expected": 0.894698
+      },
+      {
+        "month": 9,
+        "month_name": "Sep",
+        "count": 6924,
+        "share": 0.078365,
+        "expected_share": 0.082192,
+        "deviation": -0.003827,
+        "relative_to_expected": 0.953438
+      },
+      {
+        "month": 10,
+        "month_name": "Oct",
+        "count": 6313,
+        "share": 0.07145,
+        "expected_share": 0.084932,
+        "deviation": -0.013482,
+        "relative_to_expected": 0.841261
+      },
+      {
+        "month": 11,
+        "month_name": "Nov",
+        "count": 5739,
+        "share": 0.064953,
+        "expected_share": 0.082192,
+        "deviation": -0.017239,
+        "relative_to_expected": 0.790263
+      },
+      {
+        "month": 12,
+        "month_name": "Dec",
+        "count": 5289,
+        "share": 0.05986,
+        "expected_share": 0.084932,
+        "deviation": -0.025071,
+        "relative_to_expected": 0.704805
+      }
+    ],
+    "American Football": [
+      {
+        "month": 1,
+        "month_name": "Jan",
+        "count": 2685,
+        "share": 0.088614,
+        "expected_share": 0.084932,
+        "deviation": 0.003682,
+        "relative_to_expected": 1.043357
+      },
+      {
+        "month": 2,
+        "month_name": "Feb",
+        "count": 2497,
+        "share": 0.082409,
+        "expected_share": 0.076712,
+        "deviation": 0.005697,
+        "relative_to_expected": 1.074263
+      },
+      {
+        "month": 3,
+        "month_name": "Mar",
+        "count": 2655,
+        "share": 0.087624,
+        "expected_share": 0.084932,
+        "deviation": 0.002692,
+        "relative_to_expected": 1.031699
+      },
+      {
+        "month": 4,
+        "month_name": "Apr",
+        "count": 2393,
+        "share": 0.078977,
+        "expected_share": 0.082192,
+        "deviation": -0.003215,
+        "relative_to_expected": 0.960886
+      },
+      {
+        "month": 5,
+        "month_name": "May",
+        "count": 2366,
+        "share": 0.078086,
+        "expected_share": 0.084932,
+        "deviation": -0.006846,
+        "relative_to_expected": 0.919397
+      },
+      {
+        "month": 6,
+        "month_name": "Jun",
+        "count": 2348,
+        "share": 0.077492,
+        "expected_share": 0.082192,
+        "deviation": -0.0047,
+        "relative_to_expected": 0.942816
+      },
+      {
+        "month": 7,
+        "month_name": "Jul",
+        "count": 2512,
+        "share": 0.082904,
+        "expected_share": 0.084932,
+        "deviation": -0.002027,
+        "relative_to_expected": 0.976131
+      },
+      {
+        "month": 8,
+        "month_name": "Aug",
+        "count": 2521,
+        "share": 0.083201,
+        "expected_share": 0.084932,
+        "deviation": -0.00173,
+        "relative_to_expected": 0.979628
+      },
+      {
+        "month": 9,
+        "month_name": "Sep",
+        "count": 2651,
+        "share": 0.087492,
+        "expected_share": 0.082192,
+        "deviation": 0.0053,
+        "relative_to_expected": 1.064483
+      },
+      {
+        "month": 10,
+        "month_name": "Oct",
+        "count": 2572,
+        "share": 0.084884,
+        "expected_share": 0.084932,
+        "deviation": -4.7e-05,
+        "relative_to_expected": 0.999446
+      },
+      {
+        "month": 11,
+        "month_name": "Nov",
+        "count": 2471,
+        "share": 0.081551,
+        "expected_share": 0.082192,
+        "deviation": -0.000641,
+        "relative_to_expected": 0.992206
+      },
+      {
+        "month": 12,
+        "month_name": "Dec",
+        "count": 2629,
+        "share": 0.086766,
+        "expected_share": 0.084932,
+        "deviation": 0.001834,
+        "relative_to_expected": 1.021596
+      }
+    ],
+    "Olympic Athletics": [
+      {
+        "month": 1,
+        "month_name": "Jan",
+        "count": 2111,
+        "share": 0.09189,
+        "expected_share": 0.084932,
+        "deviation": 0.006959,
+        "relative_to_expected": 1.081936
+      },
+      {
+        "month": 2,
+        "month_name": "Feb",
+        "count": 1945,
+        "share": 0.084665,
+        "expected_share": 0.076712,
+        "deviation": 0.007952,
+        "relative_to_expected": 1.103664
+      },
+      {
+        "month": 3,
+        "month_name": "Mar",
+        "count": 2063,
+        "share": 0.089801,
+        "expected_share": 0.084932,
+        "deviation": 0.00487,
+        "relative_to_expected": 1.057335
+      },
+      {
+        "month": 4,
+        "month_name": "Apr",
+        "count": 1933,
+        "share": 0.084142,
+        "expected_share": 0.082192,
+        "deviation": 0.00195,
+        "relative_to_expected": 1.023731
+      },
+      {
+        "month": 5,
+        "month_name": "May",
+        "count": 1992,
+        "share": 0.08671,
+        "expected_share": 0.084932,
+        "deviation": 0.001779,
+        "relative_to_expected": 1.020946
+      },
+      {
+        "month": 6,
+        "month_name": "Jun",
+        "count": 1854,
+        "share": 0.080703,
+        "expected_share": 0.082192,
+        "deviation": -0.001488,
+        "relative_to_expected": 0.981892
+      },
+      {
+        "month": 7,
+        "month_name": "Jul",
+        "count": 1864,
+        "share": 0.081139,
+        "expected_share": 0.084932,
+        "deviation": -0.003793,
+        "relative_to_expected": 0.955343
+      },
+      {
+        "month": 8,
+        "month_name": "Aug",
+        "count": 1802,
+        "share": 0.07844,
+        "expected_share": 0.084932,
+        "deviation": -0.006492,
+        "relative_to_expected": 0.923567
+      },
+      {
+        "month": 9,
+        "month_name": "Sep",
+        "count": 1872,
+        "share": 0.081487,
+        "expected_share": 0.082192,
+        "deviation": -0.000705,
+        "relative_to_expected": 0.991425
+      },
+      {
+        "month": 10,
+        "month_name": "Oct",
+        "count": 1817,
+        "share": 0.079093,
+        "expected_share": 0.084932,
+        "deviation": -0.005839,
+        "relative_to_expected": 0.931255
+      },
+      {
+        "month": 11,
+        "month_name": "Nov",
+        "count": 1790,
+        "share": 0.077918,
+        "expected_share": 0.082192,
+        "deviation": -0.004274,
+        "relative_to_expected": 0.947997
+      },
+      {
+        "month": 12,
+        "month_name": "Dec",
+        "count": 1930,
+        "share": 0.084012,
+        "expected_share": 0.084932,
+        "deviation": -0.00092,
+        "relative_to_expected": 0.98917
+      }
+    ],
+    "Baseball": [
+      {
+        "month": 1,
+        "month_name": "Jan",
+        "count": 1841,
+        "share": 0.082052,
+        "expected_share": 0.084932,
+        "deviation": -0.00288,
+        "relative_to_expected": 0.966096
+      },
+      {
+        "month": 2,
+        "month_name": "Feb",
+        "count": 1758,
+        "share": 0.078353,
+        "expected_share": 0.076712,
+        "deviation": 0.00164,
+        "relative_to_expected": 1.021384
+      },
+      {
+        "month": 3,
+        "month_name": "Mar",
+        "count": 1859,
+        "share": 0.082854,
+        "expected_share": 0.084932,
+        "deviation": -0.002077,
+        "relative_to_expected": 0.975542
+      },
+      {
+        "month": 4,
+        "month_name": "Apr",
+        "count": 1746,
+        "share": 0.077818,
+        "expected_share": 0.082192,
+        "deviation": -0.004374,
+        "relative_to_expected": 0.946784
+      },
+      {
+        "month": 5,
+        "month_name": "May",
+        "count": 1744,
+        "share": 0.077729,
+        "expected_share": 0.084932,
+        "deviation": -0.007203,
+        "relative_to_expected": 0.915193
+      },
+      {
+        "month": 6,
+        "month_name": "Jun",
+        "count": 1654,
+        "share": 0.073718,
+        "expected_share": 0.082192,
+        "deviation": -0.008474,
+        "relative_to_expected": 0.896896
+      },
+      {
+        "month": 7,
+        "month_name": "Jul",
+        "count": 1828,
+        "share": 0.081473,
+        "expected_share": 0.084932,
+        "deviation": -0.003459,
+        "relative_to_expected": 0.959274
+      },
+      {
+        "month": 8,
+        "month_name": "Aug",
+        "count": 2166,
+        "share": 0.096537,
+        "expected_share": 0.084932,
+        "deviation": 0.011605,
+        "relative_to_expected": 1.136645
+      },
+      {
+        "month": 9,
+        "month_name": "Sep",
+        "count": 2016,
+        "share": 0.089852,
+        "expected_share": 0.082192,
+        "deviation": 0.00766,
+        "relative_to_expected": 1.093194
+      },
+      {
+        "month": 10,
+        "month_name": "Oct",
+        "count": 2052,
+        "share": 0.091456,
+        "expected_share": 0.084932,
+        "deviation": 0.006525,
+        "relative_to_expected": 1.076822
+      },
+      {
+        "month": 11,
+        "month_name": "Nov",
+        "count": 1897,
+        "share": 0.084548,
+        "expected_share": 0.082192,
+        "deviation": 0.002356,
+        "relative_to_expected": 1.028665
+      },
+      {
+        "month": 12,
+        "month_name": "Dec",
+        "count": 1876,
+        "share": 0.083612,
+        "expected_share": 0.084932,
+        "deviation": -0.00132,
+        "relative_to_expected": 0.984463
+      }
+    ],
+    "Olympic Swimming (Aquatics)": [
+      {
+        "month": 1,
+        "month_name": "Jan",
+        "count": 779,
+        "share": 0.087381,
+        "expected_share": 0.084932,
+        "deviation": 0.002449,
+        "relative_to_expected": 1.028839
+      },
+      {
+        "month": 2,
+        "month_name": "Feb",
+        "count": 765,
+        "share": 0.08581,
+        "expected_share": 0.076712,
+        "deviation": 0.009098,
+        "relative_to_expected": 1.1186
+      },
+      {
+        "month": 3,
+        "month_name": "Mar",
+        "count": 888,
+        "share": 0.099607,
+        "expected_share": 0.084932,
+        "deviation": 0.014676,
+        "relative_to_expected": 1.172797
+      },
+      {
+        "month": 4,
+        "month_name": "Apr",
+        "count": 811,
+        "share": 0.09097,
+        "expected_share": 0.082192,
+        "deviation": 0.008778,
+        "relative_to_expected": 1.106805
+      },
+      {
+        "month": 5,
+        "month_name": "May",
+        "count": 806,
+        "share": 0.090409,
+        "expected_share": 0.084932,
+        "deviation": 0.005478,
+        "relative_to_expected": 1.064498
+      },
+      {
+        "month": 6,
+        "month_name": "Jun",
+        "count": 783,
+        "share": 0.08783,
+        "expected_share": 0.082192,
+        "deviation": 0.005638,
+        "relative_to_expected": 1.068592
+      },
+      {
+        "month": 7,
+        "month_name": "Jul",
+        "count": 716,
+        "share": 0.080314,
+        "expected_share": 0.084932,
+        "deviation": -0.004617,
+        "relative_to_expected": 0.945633
+      },
+      {
+        "month": 8,
+        "month_name": "Aug",
+        "count": 746,
+        "share": 0.083679,
+        "expected_share": 0.084932,
+        "deviation": -0.001252,
+        "relative_to_expected": 0.985255
+      },
+      {
+        "month": 9,
+        "month_name": "Sep",
+        "count": 727,
+        "share": 0.081548,
+        "expected_share": 0.082192,
+        "deviation": -0.000644,
+        "relative_to_expected": 0.992167
+      },
+      {
+        "month": 10,
+        "month_name": "Oct",
+        "count": 681,
+        "share": 0.076388,
+        "expected_share": 0.084932,
+        "deviation": -0.008543,
+        "relative_to_expected": 0.899408
+      },
+      {
+        "month": 11,
+        "month_name": "Nov",
+        "count": 615,
+        "share": 0.068985,
+        "expected_share": 0.082192,
+        "deviation": -0.013207,
+        "relative_to_expected": 0.839316
+      },
+      {
+        "month": 12,
+        "month_name": "Dec",
+        "count": 598,
+        "share": 0.067078,
+        "expected_share": 0.084932,
+        "deviation": -0.017854,
+        "relative_to_expected": 0.789789
+      }
+    ],
+    "Olympic Rowing": [
+      {
+        "month": 1,
+        "month_name": "Jan",
+        "count": 669,
+        "share": 0.083075,
+        "expected_share": 0.084932,
+        "deviation": -0.001857,
+        "relative_to_expected": 0.978137
+      },
+      {
+        "month": 2,
+        "month_name": "Feb",
+        "count": 660,
+        "share": 0.081957,
+        "expected_share": 0.076712,
+        "deviation": 0.005245,
+        "relative_to_expected": 1.068368
+      },
+      {
+        "month": 3,
+        "month_name": "Mar",
+        "count": 753,
+        "share": 0.093506,
+        "expected_share": 0.084932,
+        "deviation": 0.008574,
+        "relative_to_expected": 1.100952
+      },
+      {
+        "month": 4,
+        "month_name": "Apr",
+        "count": 691,
+        "share": 0.085807,
+        "expected_share": 0.082192,
+        "deviation": 0.003615,
+        "relative_to_expected": 1.043979
+      },
+      {
+        "month": 5,
+        "month_name": "May",
+        "count": 670,
+        "share": 0.083199,
+        "expected_share": 0.084932,
+        "deviation": -0.001733,
+        "relative_to_expected": 0.979599
+      },
+      {
+        "month": 6,
+        "month_name": "Jun",
+        "count": 647,
+        "share": 0.080343,
+        "expected_share": 0.082192,
+        "deviation": -0.001849,
+        "relative_to_expected": 0.977503
+      },
+      {
+        "month": 7,
+        "month_name": "Jul",
+        "count": 733,
+        "share": 0.091022,
+        "expected_share": 0.084932,
+        "deviation": 0.00609,
+        "relative_to_expected": 1.07171
+      },
+      {
+        "month": 8,
+        "month_name": "Aug",
+        "count": 674,
+        "share": 0.083696,
+        "expected_share": 0.084932,
+        "deviation": -0.001236,
+        "relative_to_expected": 0.985447
+      },
+      {
+        "month": 9,
+        "month_name": "Sep",
+        "count": 678,
+        "share": 0.084192,
+        "expected_share": 0.082192,
+        "deviation": 0.002,
+        "relative_to_expected": 1.024339
+      },
+      {
+        "month": 10,
+        "month_name": "Oct",
+        "count": 662,
+        "share": 0.082205,
+        "expected_share": 0.084932,
+        "deviation": -0.002726,
+        "relative_to_expected": 0.967902
+      },
+      {
+        "month": 11,
+        "month_name": "Nov",
+        "count": 604,
+        "share": 0.075003,
+        "expected_share": 0.082192,
+        "deviation": -0.007189,
+        "relative_to_expected": 0.912538
+      },
+      {
+        "month": 12,
+        "month_name": "Dec",
+        "count": 612,
+        "share": 0.075997,
+        "expected_share": 0.084932,
+        "deviation": -0.008935,
+        "relative_to_expected": 0.894798
+      }
+    ],
+    "Cricket": [
+      {
+        "month": 1,
+        "month_name": "Jan",
+        "count": 485,
+        "share": 0.072987,
+        "expected_share": 0.084932,
+        "deviation": -0.011944,
+        "relative_to_expected": 0.859366
+      },
+      {
+        "month": 2,
+        "month_name": "Feb",
+        "count": 475,
+        "share": 0.071482,
+        "expected_share": 0.076712,
+        "deviation": -0.00523,
+        "relative_to_expected": 0.931823
+      },
+      {
+        "month": 3,
+        "month_name": "Mar",
+        "count": 524,
+        "share": 0.078856,
+        "expected_share": 0.084932,
+        "deviation": -0.006075,
+        "relative_to_expected": 0.928469
+      },
+      {
+        "month": 4,
+        "month_name": "Apr",
+        "count": 488,
+        "share": 0.073439,
+        "expected_share": 0.082192,
+        "deviation": -0.008753,
+        "relative_to_expected": 0.893504
+      },
+      {
+        "month": 5,
+        "month_name": "May",
+        "count": 473,
+        "share": 0.071181,
+        "expected_share": 0.084932,
+        "deviation": -0.01375,
+        "relative_to_expected": 0.838103
+      },
+      {
+        "month": 6,
+        "month_name": "Jun",
+        "count": 464,
+        "share": 0.069827,
+        "expected_share": 0.082192,
+        "deviation": -0.012365,
+        "relative_to_expected": 0.849561
+      },
+      {
+        "month": 7,
+        "month_name": "Jul",
+        "count": 476,
+        "share": 0.071633,
+        "expected_share": 0.084932,
+        "deviation": -0.013299,
+        "relative_to_expected": 0.843419
+      },
+      {
+        "month": 8,
+        "month_name": "Aug",
+        "count": 512,
+        "share": 0.07705,
+        "expected_share": 0.084932,
+        "deviation": -0.007881,
+        "relative_to_expected": 0.907206
+      },
+      {
+        "month": 9,
+        "month_name": "Sep",
+        "count": 689,
+        "share": 0.103687,
+        "expected_share": 0.082192,
+        "deviation": 0.021495,
+        "relative_to_expected": 1.261525
+      },
+      {
+        "month": 10,
+        "month_name": "Oct",
+        "count": 766,
+        "share": 0.115275,
+        "expected_share": 0.084932,
+        "deviation": 0.030343,
+        "relative_to_expected": 1.357266
+      },
+      {
+        "month": 11,
+        "month_name": "Nov",
+        "count": 630,
+        "share": 0.094808,
+        "expected_share": 0.082192,
+        "deviation": 0.012616,
+        "relative_to_expected": 1.153499
+      },
+      {
+        "month": 12,
+        "month_name": "Dec",
+        "count": 663,
+        "share": 0.099774,
+        "expected_share": 0.084932,
+        "deviation": 0.014843,
+        "relative_to_expected": 1.174762
+      }
+    ],
+    "Olympic Football (Football)": [
+      {
+        "month": 1,
+        "month_name": "Jan",
+        "count": 610,
+        "share": 0.095882,
+        "expected_share": 0.084932,
+        "deviation": 0.01095,
+        "relative_to_expected": 1.128931
+      },
+      {
+        "month": 2,
+        "month_name": "Feb",
+        "count": 585,
+        "share": 0.091952,
+        "expected_share": 0.076712,
+        "deviation": 0.01524,
+        "relative_to_expected": 1.198663
+      },
+      {
+        "month": 3,
+        "month_name": "Mar",
+        "count": 534,
+        "share": 0.083936,
+        "expected_share": 0.084932,
+        "deviation": -0.000996,
+        "relative_to_expected": 0.988277
+      },
+      {
+        "month": 4,
+        "month_name": "Apr",
+        "count": 509,
+        "share": 0.080006,
+        "expected_share": 0.082192,
+        "deviation": -0.002185,
+        "relative_to_expected": 0.97341
+      },
+      {
+        "month": 5,
+        "month_name": "May",
+        "count": 526,
+        "share": 0.082678,
+        "expected_share": 0.084932,
+        "deviation": -0.002253,
+        "relative_to_expected": 0.973472
+      },
+      {
+        "month": 6,
+        "month_name": "Jun",
+        "count": 496,
+        "share": 0.077963,
+        "expected_share": 0.082192,
+        "deviation": -0.004229,
+        "relative_to_expected": 0.948549
+      },
+      {
+        "month": 7,
+        "month_name": "Jul",
+        "count": 516,
+        "share": 0.081107,
+        "expected_share": 0.084932,
+        "deviation": -0.003825,
+        "relative_to_expected": 0.954964
+      },
+      {
+        "month": 8,
+        "month_name": "Aug",
+        "count": 544,
+        "share": 0.085508,
+        "expected_share": 0.084932,
+        "deviation": 0.000576,
+        "relative_to_expected": 1.006784
+      },
+      {
+        "month": 9,
+        "month_name": "Sep",
+        "count": 551,
+        "share": 0.086608,
+        "expected_share": 0.082192,
+        "deviation": 0.004416,
+        "relative_to_expected": 1.05373
+      },
+      {
+        "month": 10,
+        "month_name": "Oct",
+        "count": 493,
+        "share": 0.077491,
+        "expected_share": 0.084932,
+        "deviation": -0.00744,
+        "relative_to_expected": 0.912398
+      },
+      {
+        "month": 11,
+        "month_name": "Nov",
+        "count": 513,
+        "share": 0.080635,
+        "expected_share": 0.082192,
+        "deviation": -0.001557,
+        "relative_to_expected": 0.981059
+      },
+      {
+        "month": 12,
+        "month_name": "Dec",
+        "count": 485,
+        "share": 0.076234,
+        "expected_share": 0.084932,
+        "deviation": -0.008698,
+        "relative_to_expected": 0.897593
+      }
+    ]
+  },
+  "total_unique_players": 298568
+}

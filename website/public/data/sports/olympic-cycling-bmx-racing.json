@@ -1,0 +1,114 @@
+{
+  "sport": "Olympic Cycling BMX Racing",
+  "slug": "olympic-cycling-bmx-racing",
+  "cohorts": 5,
+  "total_players": 30,
+  "avg_roster_size": 6.0,
+  "observed_rate": 0.0,
+  "theoretical_rate": 0.040952,
+  "deviation": -0.040952,
+  "cohort_kind": "delegation",
+  "cohort_kind_breakdown": {
+    "delegation": 5
+  },
+  "by_country": [
+    {
+      "country": "COL",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "FRA",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "NED",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "SUI",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "USA",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "theoretical_rate": 0.03602,
+      "avg_roster_size": 5.666667
+    },
+    {
+      "gender": "M",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "theoretical_rate": 0.048349,
+      "avg_roster_size": 6.5
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "USA Cycling BMX Racing (2024 Summer)",
+      "season": "2024 Summer",
+      "country": "USA",
+      "gender": "M",
+      "roster_size": 7,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.056236
+    },
+    {
+      "team": "FRA Cycling BMX Racing (2024 Summer)",
+      "season": "2024 Summer",
+      "country": "FRA",
+      "gender": "M",
+      "roster_size": 6,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.040462
+    },
+    {
+      "team": "NED Cycling BMX Racing (2024 Summer)",
+      "season": "2024 Summer",
+      "country": "NED",
+      "gender": "F",
+      "roster_size": 6,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.040462
+    },
+    {
+      "team": "SUI Cycling BMX Racing (2024 Summer)",
+      "season": "2024 Summer",
+      "country": "SUI",
+      "gender": "F",
+      "roster_size": 6,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.040462
+    },
+    {
+      "team": "COL Cycling BMX Racing (2024 Summer)",
+      "season": "2024 Summer",
+      "country": "COL",
+      "gender": "F",
+      "roster_size": 5,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.027136
+    }
+  ]
+}

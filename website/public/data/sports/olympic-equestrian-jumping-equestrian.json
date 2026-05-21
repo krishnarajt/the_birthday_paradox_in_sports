@@ -1,0 +1,224 @@
+{
+  "sport": "Olympic Equestrian Jumping (Equestrian)",
+  "slug": "olympic-equestrian-jumping-equestrian",
+  "cohorts": 20,
+  "total_players": 127,
+  "avg_roster_size": 6.35,
+  "observed_rate": 0.0,
+  "theoretical_rate": 0.049816,
+  "deviation": -0.049816,
+  "cohort_kind": "delegation",
+  "cohort_kind_breakdown": {
+    "delegation": 20
+  },
+  "by_country": [
+    {
+      "country": "FRA",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "USA",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "MEX",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "SWE",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.5
+    },
+    {
+      "country": "BEL",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.0
+    },
+    {
+      "country": "AUS",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "ARG",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "FRG",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "ESP",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "CAN",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "GER",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "NZL",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "ITA",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 10.0
+    },
+    {
+      "country": "SUI",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "RUS",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "theoretical_rate": 0.027136,
+      "avg_roster_size": 5.0
+    },
+    {
+      "gender": "M",
+      "cohorts": 16,
+      "observed_rate": 0.0,
+      "theoretical_rate": 0.055487,
+      "avg_roster_size": 6.6875
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "ITA Equestrian Jumping (Equestrian) (1920 Summer)",
+      "season": "1920 Summer",
+      "country": "ITA",
+      "gender": "M",
+      "roster_size": 10,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.116948
+    },
+    {
+      "team": "SWE Equestrian Jumping (Equestrian) (1920 Summer)",
+      "season": "1920 Summer",
+      "country": "SWE",
+      "gender": "M",
+      "roster_size": 10,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.116948
+    },
+    {
+      "team": "SWE Equestrian Jumping (Equestrian) (1912 Summer)",
+      "season": "1912 Summer",
+      "country": "SWE",
+      "gender": "M",
+      "roster_size": 9,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.094624
+    },
+    {
+      "team": "BEL Equestrian Jumping (Equestrian) (1920 Summer)",
+      "season": "1920 Summer",
+      "country": "BEL",
+      "gender": "M",
+      "roster_size": 9,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.094624
+    },
+    {
+      "team": "FRA Equestrian Jumping (Equestrian) (1900 Summer)",
+      "season": "1900 Summer",
+      "country": "FRA",
+      "gender": "M",
+      "roster_size": 9,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.094624
+    },
+    {
+      "team": "USA Equestrian Jumping (Equestrian) (1920 Summer)",
+      "season": "1920 Summer",
+      "country": "USA",
+      "gender": "M",
+      "roster_size": 7,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.056236
+    },
+    {
+      "team": "FRA Equestrian Jumping (Equestrian) (1920 Summer)",
+      "season": "1920 Summer",
+      "country": "FRA",
+      "gender": "M",
+      "roster_size": 7,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.056236
+    },
+    {
+      "team": "GER Equestrian Jumping (Equestrian) (1912 Summer)",
+      "season": "1912 Summer",
+      "country": "GER",
+      "gender": "M",
+      "roster_size": 6,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.040462
+    },
+    {
+      "team": "SUI Equestrian Jumping (Equestrian) (1972 Summer)",
+      "season": "1972 Summer",
+      "country": "SUI",
+      "gender": "F",
+      "roster_size": 5,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.027136
+    },
+    {
+      "team": "CAN Equestrian Jumping (Equestrian) (1988 Summer)",
+      "season": "1988 Summer",
+      "country": "CAN",
+      "gender": "F",
+      "roster_size": 5,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.027136
+    }
+  ]
+}

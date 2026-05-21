@@ -1,0 +1,272 @@
+{
+  "sport": "Olympic Badminton",
+  "slug": "olympic-badminton",
+  "cohorts": 110,
+  "total_players": 975,
+  "avg_roster_size": 8.863636,
+  "observed_rate": 0.2,
+  "theoretical_rate": 0.105409,
+  "deviation": 0.094591,
+  "cohort_kind": "delegation",
+  "cohort_kind_breakdown": {
+    "delegation": 110
+  },
+  "by_country": [
+    {
+      "country": "KOR",
+      "cohorts": 9,
+      "observed_rate": 0.444444,
+      "avg_roster_size": 12.0
+    },
+    {
+      "country": "DEN",
+      "cohorts": 8,
+      "observed_rate": 0.375,
+      "avg_roster_size": 11.625
+    },
+    {
+      "country": "CHN",
+      "cohorts": 8,
+      "observed_rate": 0.625,
+      "avg_roster_size": 16.375
+    },
+    {
+      "country": "JPN",
+      "cohorts": 8,
+      "observed_rate": 0.25,
+      "avg_roster_size": 10.0
+    },
+    {
+      "country": "MAS",
+      "cohorts": 8,
+      "observed_rate": 0.25,
+      "avg_roster_size": 7.25
+    },
+    {
+      "country": "INA",
+      "cohorts": 8,
+      "observed_rate": 0.5,
+      "avg_roster_size": 13.25
+    },
+    {
+      "country": "GBR",
+      "cohorts": 7,
+      "observed_rate": 0.142857,
+      "avg_roster_size": 9.571429
+    },
+    {
+      "country": "THA",
+      "cohorts": 7,
+      "observed_rate": 0.142857,
+      "avg_roster_size": 6.857143
+    },
+    {
+      "country": "GER",
+      "cohorts": 7,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.714286
+    },
+    {
+      "country": "AUS",
+      "cohorts": 6,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.166667
+    },
+    {
+      "country": "CAN",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.6
+    },
+    {
+      "country": "TPE",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.8
+    },
+    {
+      "country": "POL",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.5
+    },
+    {
+      "country": "USA",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "HKG",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.666667
+    },
+    {
+      "country": "SWE",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.0
+    },
+    {
+      "country": "RUS",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.5
+    },
+    {
+      "country": "IND",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "NED",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.5
+    },
+    {
+      "country": "RSA",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.5
+    },
+    {
+      "country": "BUL",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "MRI",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "SGP",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 66,
+      "observed_rate": 0.181818,
+      "theoretical_rate": 0.114005,
+      "avg_roster_size": 9.181818
+    },
+    {
+      "gender": "M",
+      "cohorts": 44,
+      "observed_rate": 0.227273,
+      "theoretical_rate": 0.092516,
+      "avg_roster_size": 8.386364
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "INA Badminton (1996 Summer)",
+      "season": "1996 Summer",
+      "country": "INA",
+      "gender": "F",
+      "roster_size": 20,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.411438
+    },
+    {
+      "team": "CHN Badminton (1996 Summer)",
+      "season": "1996 Summer",
+      "country": "CHN",
+      "gender": "F",
+      "roster_size": 20,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.411438
+    },
+    {
+      "team": "INA Badminton (2000 Summer)",
+      "season": "2000 Summer",
+      "country": "INA",
+      "gender": "F",
+      "roster_size": 19,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.379119
+    },
+    {
+      "team": "CHN Badminton (2008 Summer)",
+      "season": "2008 Summer",
+      "country": "CHN",
+      "gender": "F",
+      "roster_size": 19,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.379119
+    },
+    {
+      "team": "CHN Badminton (2004 Summer)",
+      "season": "2004 Summer",
+      "country": "CHN",
+      "gender": "M",
+      "roster_size": 18,
+      "duplicate_pairs": 3,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.346911
+    },
+    {
+      "team": "KOR Badminton (1996 Summer)",
+      "season": "1996 Summer",
+      "country": "KOR",
+      "gender": "F",
+      "roster_size": 17,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.315008
+    },
+    {
+      "team": "CHN Badminton (2012 Summer)",
+      "season": "2012 Summer",
+      "country": "CHN",
+      "gender": "M",
+      "roster_size": 17,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.315008
+    },
+    {
+      "team": "DEN Badminton (1996 Summer)",
+      "season": "1996 Summer",
+      "country": "DEN",
+      "gender": "F",
+      "roster_size": 16,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.283604
+    },
+    {
+      "team": "CHN Badminton (2016 Summer)",
+      "season": "2016 Summer",
+      "country": "CHN",
+      "gender": "M",
+      "roster_size": 15,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.252901
+    },
+    {
+      "team": "INA Badminton (2004 Summer)",
+      "season": "2004 Summer",
+      "country": "INA",
+      "gender": "M",
+      "roster_size": 14,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.223103
+    }
+  ]
+}

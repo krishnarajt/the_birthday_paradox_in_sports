@@ -1,0 +1,224 @@
+{
+  "sport": "Olympic Basketball",
+  "slug": "olympic-basketball",
+  "cohorts": 24,
+  "total_players": 287,
+  "avg_roster_size": 11.958333,
+  "observed_rate": 0.333333,
+  "theoretical_rate": 0.165946,
+  "deviation": 0.167387,
+  "cohort_kind": "team",
+  "cohort_kind_breakdown": {
+    "team": 24
+  },
+  "by_country": [
+    {
+      "country": "AUS",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 12.0
+    },
+    {
+      "country": "ESP",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 12.0
+    },
+    {
+      "country": "CAN",
+      "cohorts": 2,
+      "observed_rate": 1.0,
+      "avg_roster_size": 12.0
+    },
+    {
+      "country": "FRA",
+      "cohorts": 2,
+      "observed_rate": 0.5,
+      "avg_roster_size": 12.0
+    },
+    {
+      "country": "SRB",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 12.0
+    },
+    {
+      "country": "JPN",
+      "cohorts": 2,
+      "observed_rate": 0.5,
+      "avg_roster_size": 12.0
+    },
+    {
+      "country": "GER",
+      "cohorts": 2,
+      "observed_rate": 0.5,
+      "avg_roster_size": 12.0
+    },
+    {
+      "country": "USA",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 12.0
+    },
+    {
+      "country": "PUR",
+      "cohorts": 2,
+      "observed_rate": 0.5,
+      "avg_roster_size": 12.0
+    },
+    {
+      "country": "BEL",
+      "cohorts": 1,
+      "observed_rate": 1.0,
+      "avg_roster_size": 12.0
+    },
+    {
+      "country": "BRA",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 12.0
+    },
+    {
+      "country": "CHN",
+      "cohorts": 1,
+      "observed_rate": 1.0,
+      "avg_roster_size": 12.0
+    },
+    {
+      "country": "GRE",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 12.0
+    },
+    {
+      "country": "NGR",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 12.0
+    },
+    {
+      "country": "SSD",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 11.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 12,
+      "observed_rate": 0.583333,
+      "theoretical_rate": 0.167025,
+      "avg_roster_size": 12.0
+    },
+    {
+      "gender": "M",
+      "cohorts": 12,
+      "observed_rate": 0.083333,
+      "theoretical_rate": 0.164868,
+      "avg_roster_size": 11.916667
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "Canada - Men",
+      "season": "2024 Summer",
+      "country": "CAN",
+      "gender": "M",
+      "roster_size": 12,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.167025
+    },
+    {
+      "team": "Belgium - Women",
+      "season": "2024 Summer",
+      "country": "BEL",
+      "gender": "F",
+      "roster_size": 12,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.167025
+    },
+    {
+      "team": "Canada - Women",
+      "season": "2024 Summer",
+      "country": "CAN",
+      "gender": "F",
+      "roster_size": 12,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.167025
+    },
+    {
+      "team": "People's Republic of China - Women",
+      "season": "2024 Summer",
+      "country": "CHN",
+      "gender": "F",
+      "roster_size": 12,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.167025
+    },
+    {
+      "team": "France - Women",
+      "season": "2024 Summer",
+      "country": "FRA",
+      "gender": "F",
+      "roster_size": 12,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.167025
+    },
+    {
+      "team": "Germany - Women",
+      "season": "2024 Summer",
+      "country": "GER",
+      "gender": "F",
+      "roster_size": 12,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.167025
+    },
+    {
+      "team": "Japan - Women",
+      "season": "2024 Summer",
+      "country": "JPN",
+      "gender": "F",
+      "roster_size": 12,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.167025
+    },
+    {
+      "team": "Puerto Rico - Women",
+      "season": "2024 Summer",
+      "country": "PUR",
+      "gender": "F",
+      "roster_size": 12,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.167025
+    },
+    {
+      "team": "Australia - Men",
+      "season": "2024 Summer",
+      "country": "AUS",
+      "gender": "M",
+      "roster_size": 12,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.167025
+    },
+    {
+      "team": "Brazil - Men",
+      "season": "2024 Summer",
+      "country": "BRA",
+      "gender": "M",
+      "roster_size": 12,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.167025
+    }
+  ]
+}

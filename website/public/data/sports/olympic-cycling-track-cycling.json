@@ -1,0 +1,374 @@
+{
+  "sport": "Olympic Cycling Track (Cycling)",
+  "slug": "olympic-cycling-track-cycling",
+  "cohorts": 286,
+  "total_players": 2196,
+  "avg_roster_size": 7.678322,
+  "observed_rate": 0.101399,
+  "theoretical_rate": 0.075343,
+  "deviation": 0.026055,
+  "cohort_kind": "delegation",
+  "cohort_kind_breakdown": {
+    "delegation": 286
+  },
+  "by_country": [
+    {
+      "country": "GBR",
+      "cohorts": 24,
+      "observed_rate": 0.25,
+      "avg_roster_size": 9.25
+    },
+    {
+      "country": "FRA",
+      "cohorts": 23,
+      "observed_rate": 0.130435,
+      "avg_roster_size": 8.695652
+    },
+    {
+      "country": "USA",
+      "cohorts": 21,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.047619
+    },
+    {
+      "country": "NED",
+      "cohorts": 21,
+      "observed_rate": 0.142857,
+      "avg_roster_size": 7.095238
+    },
+    {
+      "country": "ITA",
+      "cohorts": 20,
+      "observed_rate": 0.05,
+      "avg_roster_size": 7.85
+    },
+    {
+      "country": "DEN",
+      "cohorts": 15,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.6
+    },
+    {
+      "country": "AUS",
+      "cohorts": 15,
+      "observed_rate": 0.2,
+      "avg_roster_size": 9.866667
+    },
+    {
+      "country": "GER",
+      "cohorts": 14,
+      "observed_rate": 0.214286,
+      "avg_roster_size": 8.928571
+    },
+    {
+      "country": "JPN",
+      "cohorts": 10,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.5
+    },
+    {
+      "country": "NZL",
+      "cohorts": 10,
+      "observed_rate": 0.2,
+      "avg_roster_size": 9.3
+    },
+    {
+      "country": "URS",
+      "cohorts": 9,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.444444
+    },
+    {
+      "country": "BEL",
+      "cohorts": 9,
+      "observed_rate": 0.111111,
+      "avg_roster_size": 6.555556
+    },
+    {
+      "country": "ARG",
+      "cohorts": 9,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.777778
+    },
+    {
+      "country": "TCH",
+      "cohorts": 8,
+      "observed_rate": 0.375,
+      "avg_roster_size": 6.25
+    },
+    {
+      "country": "SUI",
+      "cohorts": 8,
+      "observed_rate": 0.125,
+      "avg_roster_size": 6.125
+    },
+    {
+      "country": "ESP",
+      "cohorts": 7,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.428571
+    },
+    {
+      "country": "COL",
+      "cohorts": 7,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.857143
+    },
+    {
+      "country": "CAN",
+      "cohorts": 6,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "POL",
+      "cohorts": 6,
+      "observed_rate": 0.166667,
+      "avg_roster_size": 6.666667
+    },
+    {
+      "country": "GDR",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "FRG",
+      "cohorts": 5,
+      "observed_rate": 0.4,
+      "avg_roster_size": 8.2
+    },
+    {
+      "country": "RUS",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.4
+    },
+    {
+      "country": "UKR",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.5
+    },
+    {
+      "country": "KOR",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.75
+    },
+    {
+      "country": "CHN",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 8.666667
+    },
+    {
+      "country": "CZE",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.5
+    },
+    {
+      "country": "MEX",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "AUT",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "BUL",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "CHI",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "EUN",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 9.0
+    },
+    {
+      "country": "HUN",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "FIN",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "LTU",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 6.0
+    },
+    {
+      "country": "LAT",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "ROC",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "RSA",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "TTO",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 7.0
+    },
+    {
+      "country": "SVK",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "URU",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 53,
+      "observed_rate": 0.09434,
+      "theoretical_rate": 0.090124,
+      "avg_roster_size": 8.490566
+    },
+    {
+      "gender": "M",
+      "cohorts": 233,
+      "observed_rate": 0.103004,
+      "theoretical_rate": 0.071981,
+      "avg_roster_size": 7.493562
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "FRA Cycling Track (Cycling) (1900 Summer)",
+      "season": "1900 Summer",
+      "country": "FRA",
+      "gender": "M",
+      "roster_size": 26,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.598241
+    },
+    {
+      "team": "AUS Cycling Track (Cycling) (2016 Summer)",
+      "season": "2016 Summer",
+      "country": "AUS",
+      "gender": "F",
+      "roster_size": 16,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.283604
+    },
+    {
+      "team": "GER Cycling Track (Cycling) (2020 Summer)",
+      "season": "2020 Summer",
+      "country": "GER",
+      "gender": "M",
+      "roster_size": 15,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.252901
+    },
+    {
+      "team": "GBR Cycling Track (Cycling) (2008 Summer)",
+      "season": "2008 Summer",
+      "country": "GBR",
+      "gender": "M",
+      "roster_size": 14,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.223103
+    },
+    {
+      "team": "GBR Cycling Track (Cycling) (2016 Summer)",
+      "season": "2016 Summer",
+      "country": "GBR",
+      "gender": "M",
+      "roster_size": 14,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.223103
+    },
+    {
+      "team": "GBR Cycling Track (Cycling) (2020 Summer)",
+      "season": "2020 Summer",
+      "country": "GBR",
+      "gender": "M",
+      "roster_size": 14,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.223103
+    },
+    {
+      "team": "FRA Cycling Track (Cycling) (2000 Summer)",
+      "season": "2000 Summer",
+      "country": "FRA",
+      "gender": "F",
+      "roster_size": 13,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.19441
+    },
+    {
+      "team": "AUS Cycling Track (Cycling) (2000 Summer)",
+      "season": "2000 Summer",
+      "country": "AUS",
+      "gender": "F",
+      "roster_size": 13,
+      "duplicate_pairs": 2,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.19441
+    },
+    {
+      "team": "GER Cycling Track (Cycling) (2000 Summer)",
+      "season": "2000 Summer",
+      "country": "GER",
+      "gender": "M",
+      "roster_size": 12,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.167025
+    },
+    {
+      "team": "GBR Cycling Track (Cycling) (2012 Summer)",
+      "season": "2012 Summer",
+      "country": "GBR",
+      "gender": "M",
+      "roster_size": 12,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.167025
+    }
+  ]
+}

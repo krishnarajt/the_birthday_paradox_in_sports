@@ -1,0 +1,236 @@
+{
+  "sport": "Olympic Equestrian Eventing (Equestrian)",
+  "slug": "olympic-equestrian-eventing-equestrian",
+  "cohorts": 52,
+  "total_players": 274,
+  "avg_roster_size": 5.269231,
+  "observed_rate": 0.057692,
+  "theoretical_rate": 0.030771,
+  "deviation": 0.026922,
+  "cohort_kind": "delegation",
+  "cohort_kind_breakdown": {
+    "delegation": 52
+  },
+  "by_country": [
+    {
+      "country": "AUS",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.4
+    },
+    {
+      "country": "GBR",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.6
+    },
+    {
+      "country": "GER",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.4
+    },
+    {
+      "country": "USA",
+      "cohorts": 5,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.4
+    },
+    {
+      "country": "FRA",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.5
+    },
+    {
+      "country": "IRL",
+      "cohorts": 4,
+      "observed_rate": 0.75,
+      "avg_roster_size": 5.25
+    },
+    {
+      "country": "NZL",
+      "cohorts": 4,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "BRA",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.333333
+    },
+    {
+      "country": "BEL",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "CAN",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "SWE",
+      "cohorts": 3,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "ITA",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.5
+    },
+    {
+      "country": "JPN",
+      "cohorts": 2,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "ESP",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "AUT",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "HUN",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    },
+    {
+      "country": "POL",
+      "cohorts": 1,
+      "observed_rate": 0.0,
+      "avg_roster_size": 5.0
+    }
+  ],
+  "by_gender": [
+    {
+      "gender": "F",
+      "cohorts": 27,
+      "observed_rate": 0.074074,
+      "theoretical_rate": 0.032162,
+      "avg_roster_size": 5.37037
+    },
+    {
+      "gender": "M",
+      "cohorts": 25,
+      "observed_rate": 0.04,
+      "theoretical_rate": 0.029268,
+      "avg_roster_size": 5.16
+    }
+  ],
+  "example_cohorts": [
+    {
+      "team": "IRL Equestrian Eventing (Equestrian) (2000 Summer)",
+      "season": "2000 Summer",
+      "country": "IRL",
+      "gender": "F",
+      "roster_size": 6,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.040462
+    },
+    {
+      "team": "IRL Equestrian Eventing (Equestrian) (2008 Summer)",
+      "season": "2008 Summer",
+      "country": "IRL",
+      "gender": "F",
+      "roster_size": 5,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.027136
+    },
+    {
+      "team": "IRL Equestrian Eventing (Equestrian) (2012 Summer)",
+      "season": "2012 Summer",
+      "country": "IRL",
+      "gender": "M",
+      "roster_size": 5,
+      "duplicate_pairs": 1,
+      "has_shared_birthday": true,
+      "theoretical_probability": 0.027136
+    },
+    {
+      "team": "GBR Equestrian Eventing (Equestrian) (1996 Summer)",
+      "season": "1996 Summer",
+      "country": "GBR",
+      "gender": "F",
+      "roster_size": 7,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.056236
+    },
+    {
+      "team": "AUS Equestrian Eventing (Equestrian) (1996 Summer)",
+      "season": "1996 Summer",
+      "country": "AUS",
+      "gender": "F",
+      "roster_size": 6,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.040462
+    },
+    {
+      "team": "USA Equestrian Eventing (Equestrian) (1996 Summer)",
+      "season": "1996 Summer",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 6,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.040462
+    },
+    {
+      "team": "GBR Equestrian Eventing (Equestrian) (2000 Summer)",
+      "season": "2000 Summer",
+      "country": "GBR",
+      "gender": "F",
+      "roster_size": 6,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.040462
+    },
+    {
+      "team": "FRA Equestrian Eventing (Equestrian) (1996 Summer)",
+      "season": "1996 Summer",
+      "country": "FRA",
+      "gender": "F",
+      "roster_size": 6,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.040462
+    },
+    {
+      "team": "ITA Equestrian Eventing (Equestrian) (1996 Summer)",
+      "season": "1996 Summer",
+      "country": "ITA",
+      "gender": "F",
+      "roster_size": 6,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.040462
+    },
+    {
+      "team": "USA Equestrian Eventing (Equestrian) (2000 Summer)",
+      "season": "2000 Summer",
+      "country": "USA",
+      "gender": "F",
+      "roster_size": 6,
+      "duplicate_pairs": 0,
+      "has_shared_birthday": false,
+      "theoretical_probability": 0.040462
+    }
+  ]
+}
