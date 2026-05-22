@@ -1189,7 +1189,7 @@
         "kind": 5,
         "importPath": "analysis.export_web",
         "description": "analysis.export_web",
-        "peekOfCode": "ROOT = Path(__file__).resolve().parent.parent\nOUT = ROOT / \"website\" / \"public\" / \"data\"\ndef _slugify(name: str) -> str:\n    return re.sub(r\"[^a-z0-9]+\", \"-\", name.lower()).strip(\"-\")\ndef _safe(v):\n    \"\"\"Convert numpy/pandas scalars to JSON-friendly Python primitives.\"\"\"\n    if isinstance(v, float):\n        if math.isnan(v) or math.isinf(v):\n            return None\n        return round(v, 6)",
+        "peekOfCode": "ROOT = Path(__file__).resolve().parent.parent\nOUT = ROOT / \"public\" / \"data\"\ndef _slugify(name: str) -> str:\n    return re.sub(r\"[^a-z0-9]+\", \"-\", name.lower()).strip(\"-\")\ndef _safe(v):\n    \"\"\"Convert numpy/pandas scalars to JSON-friendly Python primitives.\"\"\"\n    if isinstance(v, float):\n        if math.isnan(v) or math.isinf(v):\n            return None\n        return round(v, 6)",
         "detail": "analysis.export_web",
         "documentation": {}
     },
@@ -1198,7 +1198,7 @@
         "kind": 5,
         "importPath": "analysis.export_web",
         "description": "analysis.export_web",
-        "peekOfCode": "OUT = ROOT / \"website\" / \"public\" / \"data\"\ndef _slugify(name: str) -> str:\n    return re.sub(r\"[^a-z0-9]+\", \"-\", name.lower()).strip(\"-\")\ndef _safe(v):\n    \"\"\"Convert numpy/pandas scalars to JSON-friendly Python primitives.\"\"\"\n    if isinstance(v, float):\n        if math.isnan(v) or math.isinf(v):\n            return None\n        return round(v, 6)\n    if hasattr(v, \"item\"):",
+        "peekOfCode": "OUT = ROOT / \"public\" / \"data\"\ndef _slugify(name: str) -> str:\n    return re.sub(r\"[^a-z0-9]+\", \"-\", name.lower()).strip(\"-\")\ndef _safe(v):\n    \"\"\"Convert numpy/pandas scalars to JSON-friendly Python primitives.\"\"\"\n    if isinstance(v, float):\n        if math.isnan(v) or math.isinf(v):\n            return None\n        return round(v, 6)\n    if hasattr(v, \"item\"):",
         "detail": "analysis.export_web",
         "documentation": {}
     },

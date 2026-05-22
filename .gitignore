@@ -15,9 +15,9 @@ downloads/
 eggs/
 .eggs/
 lib/
+!lib/
+!lib/**
 lib64/
-!/website/lib/
-!/website/lib/**
 parts/
 sdist/
 var/
@@ -233,6 +233,7 @@ SquadLists-English_tables.csv
 # Node / Next.js
 node_modules/
 .next/
+out/
 website/node_modules/
 website/.next/
 website/out/

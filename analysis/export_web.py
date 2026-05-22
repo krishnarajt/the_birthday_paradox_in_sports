@@ -1,7 +1,7 @@
 """Compute aggregated views from `group_stats` and write JSON files
 that the static Next.js site will consume.
 
-Outputs to: website/public/data/
+Outputs to: public/data/
 
 Files produced:
   kpis.json                    -- top-level dashboard numbers
@@ -32,7 +32,7 @@ from analysis.compute import theoretical_probability
 from analysis.models import get_engine
 
 ROOT = Path(__file__).resolve().parent.parent
-OUT = ROOT / "website" / "public" / "data"
+OUT = ROOT / "public" / "data"
 
 
 def _slugify(name: str) -> str:

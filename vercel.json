@@ -1,5 +1,5 @@
 {
-  "installCommand": "npm --prefix website ci",
-  "buildCommand": "npm --prefix website run build",
-  "outputDirectory": "website/out"
+  "installCommand": "npm ci",
+  "buildCommand": "npm run build",
+  "outputDirectory": "out"
 }

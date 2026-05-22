@@ -3,10 +3,10 @@
   "private": true,
   "packageManager": "npm@10.8.2",
   "scripts": {
-    "dev": "npm --prefix website run dev",
-    "build": "npm --prefix website run build",
+    "dev": "next dev",
+    "build": "next build",
     "vercel-build": "npm run build",
-    "start": "npm --prefix website run start"
+    "start": "next start"
   },
   "engines": {
     "node": ">=18.17.0"
